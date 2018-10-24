@@ -87,7 +87,7 @@ Here are some instructions to use this discussion forum:
 ## Grading  
 The final grade will be based on the total marks earned during the semester. Each homework assignment will be graded on the basis of 100 points and will contribute the final grade with different weights. The evaluation guideline for the project will be provided near future. Note that undergraduate and graduate students are marked using different evaluation metrics.
 
-**Undergraduate student**: assignment (80%) and project (20%)
+**Undergraduate student**: assignment (80%) and project (20%)  
 **Graduate student**: assignment (60%) and project (40%)
 
 ## Homework Assignment 
