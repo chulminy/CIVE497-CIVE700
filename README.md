@@ -87,8 +87,8 @@ Here are some instructions to use this discussion forum:
 ## Grading  
 The final grade will be based on the total marks earned during the semester. Each homework assignment will be graded on the basis of 100 points and will contribute the final grade with different weights. The evaluation guideline for the project will be provided near future. Note that undergraduate and graduate students are marked using different evaluation metrics.
 
-**Undergraduate student**: assignment (80%) and project (20%)  
-**Graduate student**: assignment (60%) and project (40%)
+- **Undergraduate student**: assignment (80%) and project (20%)  
+- **Graduate student**: assignment (60%) and project (40%)
 
 ## Homework Assignment 
 There will be **eight assignments** posted every one or two weeks on this course website. The homework assignments will have programming components or photography components, where students will use their own camera to capture and process their own images and discuss the results. Students are expected to complete all assignments and turn them in before the 1st and 2nd due date. After the 1st due data, some hints and solutions will be posted but, you lose 25% of the total points. After the 2nd due date, the assignments will not be accepted unless accompanied by a valid excuse and some additional points might be deducted depending upon the circumstances. 
