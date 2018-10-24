@@ -107,5 +107,5 @@ The project can be done either individually or in teams of two or three students
 - **1-minute talk (at Class 05)**
 - **Team/individual meeting (4th week)**
 - **Abstract submission (6th week)**
-- ** 3-minute presentation (at Class 18)**
-- ** 10-minute final presentation (at Class 24)**
+- **3-minute presentation (at Class 18)**
+- **10-minute final presentation (at Class 24)**
