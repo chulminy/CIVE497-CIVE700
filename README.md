@@ -1,7 +1,7 @@
 # CIVE497/CIVE700: Smart Structure Technology (Winter, 2018)
 
-**Instructor:** Chul Min Yeum (E2-2313)
-**Class:** Tuesday and Thursday, 8:30 to 10:30 AM at E2-3356   
+**Instructor:** Chul Min Yeum (E2-2313)  
+**Class:** Tuesday and Thursday, 8:30 to 10:30 AM at E2-3356     
 **Email:** cmyeum@uwaterloo.ca  
 **Office Hours:** Tuesdays and Thursday 4:00 to 5:00 PM at E2-2313 (You can also email for an appointment)  
 
@@ -137,7 +137,7 @@ Marked reports will be distributed via email and a possible solution for tasks m
 ### Guideline for the project
 Individuals/teams should clearly identify the challenges of existing applications, procedures, and research in civil engineering and then consider how smart structure technology contributes to addressing them. The project does not have to be big, fancy and innovative if your project outcomes can marginally improve existing problems or advance practices. For example, it could be proposing a modification to existing processes, applying image processing and computer vision technology to streamline analysis and documentation processes, applying a new signal or image processing techniques to improve the accuracy of your technique. The possibilities are very open and diverse. However, the following two examples are not acceptable because they are not attainable: *"we will build a robot to automatically and rapidly construct a building"* or *"we will develop a new vision sensor that can measure 3D volume"*. 
 
-The project can be done either individually or in teams of two or three students. If students choose to work in a team, they need to justify the need for a teamwork and define the scope of works in individual members. For the completion of the project, each group must reach the following **milestones**:
+The project can be done either individually or in teams of two or three students. If students choose to work in a team, they need to justify the need for a teamwork and define the scope of works in individual members. For the completion of the project, each group must reach the following **milestones**:  
 
 - **1-minute talk (at Class 05)**: Individuals or teams will talk about their project idea in-class. This will be an informal talk without a slide. They need to clearly explain "motivation" and "objective" of their project ideas and what technology will be deployed. The instructor and the other students may ask questions regarding their talks.  
 	- 
@@ -145,8 +145,7 @@ The project can be done either individually or in teams of two or three students
 
 - **Abstract submission (7 or 8th week)**: Individuals or teams will submit a 1-page abstract that can summarize your project. The abstract should include (1) project title, (2) motivation, problem or challenge, (3)objective, (4) implemented/developed method(s), and (5) validation/demonstration plan(s). In addition, one representative figure (graphical abstract) must be included. It should have a self-explanatory image to illustrate motivation and expected outcome, summarize a procedure of the methods implemented/developed, or describe updated processes or outcomes that benefit from your technique or algorithm designed in the project. The abstract should not exceed 600 words. **The evaluation of the abstract contributes 30% of the project grade.** 
 
-- ** 3-minute presentation (at Class 20)**: 
-A short presentation will be given during a class scheduled at around Class 18. Each presentation will last only for 3 minutes, followed by questions from the instructor and other students. Time limits will be strictly enforced. You should make sure to prepare and practice your presentations. You need to prepare your slides in such way that the students and instructor can clearly agree on the motivation and objective of your project and understand a general idea of the method that you implement or develop and how to demonstrate or evaluate its feasibility. Please keep in mind that you do not have enough time to explain all the details. **The evaluation of this presentation contributes 20% of the project grade. **
+- **3-minute presentation (at Class 20)**: A short presentation will be given during a class scheduled at around Class 18. Each presentation will last only for 3 minutes, followed by questions from the instructor and other students. Time limits will be strictly enforced. You should make sure to prepare and practice your presentations. You need to prepare your slides in such way that the students and instructor can clearly agree on the motivation and objective of your project and understand a general idea of the method that you implement or develop and how to demonstrate or evaluate its feasibility. Please keep in mind that you do not have enough time to explain all the details. **The evaluation of this presentation contributes 20% of the project grade.**
 
-- ** 10-minute final presentation (at Class 24)**: A 10-minute presentation will be given at the final class. Individuals/teams should strive to give a comprehensive and understandable presentation that the other students recognize the value of your project. Similar to the 3-minute presentation, time limits will be strictly enforced. **The evaluation of the final presentation contributes 50% of the project grade** and the detailed evaluation criteria will be announced after the abstract submission. 
+- **10-minute final presentation (at Class 24)**: A 10-minute presentation will be given at the final class. Individuals/teams should strive to give a comprehensive and understandable presentation that the other students recognize the value of your project. Similar to the 3-minute presentation, time limits will be strictly enforced. **The evaluation of the final presentation contributes 50% of the project grade** and the detailed evaluation criteria will be announced after the abstract submission. 
 
