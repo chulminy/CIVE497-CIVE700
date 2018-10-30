@@ -50,7 +50,7 @@ This course is not based on any particular textbook. The instructor will provide
 |:----|:-----|:----|:-----|:-----|
 |Class 01|**Introduction I**|pptx, pdf|&nbsp;|&nbsp;|
 |Class 02|**Introduction II**|&nbsp;|&nbsp;|&nbsp;|
-|Class 03|**Data Acquisition**|&nbsp;|&nbsp;|**Complete the tutorials**|
+|Class 03|**Data Acquisition**|&nbsp;|&nbsp;|**Complete all tutorials**|
 |Class 04|**Signal Processing I**|&nbsp;|mlx|&nbsp;|
 |Class 05|**Signal Processing II**|&nbsp;|&nbsp;|**Task1:** Signal processing & Modal analysis | 
 |Class 06|**Modal Analysis**|&nbsp;|&nbsp;|&nbsp;| 
@@ -78,7 +78,7 @@ This course is not based on any particular textbook. The instructor will provide
 
 In this course, both the instructor and the students are encouraged to engage in online discussions to create and facilitate a collaborative learning experience. Students are invited to ask questions and answer them and share their knowledge and resources. **Please direct your communication to an *Issues* board (tab) on this website.** However, if there is a good reason not to use the discussion forum (e.g. personal matters, a question that might reveal your solution of your report, etc.), please directly contact the instructor via email (cmyeum@uwaterloo.ca) or use the office hours. 
 
-[**Discussion forum instruction**](###discussion-forum-instruction)
+[**Discussion forum instruction**](#discussion-forum-instruction)
 
 ## Grading  
 The final grade will be based on the total marks earned during the semester. Each tasks will be graded on the basis of 100 points and will contribute the final grade with different weights. The evaluation guideline for the project will be provided near future. Note that undergraduate and graduate students are marked using different evaluation metrics.
@@ -89,12 +89,12 @@ The final grade will be based on the total marks earned during the semester. Eac
 ## Task 
 There will be **eight tasks** posted every one or two weeks on this course website. The task will have programming components or photography components, where students will use their own camera to capture and process their own images and discuss the results. The instructor will provide the first and second due dates. Students are supposed to complete all tasks and turn their works in by the first due date. After the first due data, some hints and solutions will be posted but, there is 25% deduction in the final mark. After the second due date, the submission of the works will not be accepted unless accompanied by a valid excuse and some additional points might be deducted depending upon the circumstances. 
 
-[**Submission instruction of your work**](###submission-instruction-of-your-work)
+[**Submission instruction of your work**](#submission-instruction-of-your-work)
 
 ## Project 
 Students are encouraged to bring their own problems related to their thesis, research projects or potential research in civil engineering that they plan to pursue near future. This course gives special attention to exploring theory and potential techniques in the field of smart structure to address real problems that students are exposed to or involved in. Thus, students need to devise feasible project topics that are achievable within your current or future graduate study. 
 
-[**Guideline for the project**](###Guideline-for-the-project)
+[**Guideline for the project**](#guideline-for-the-project)
 
 ## Note
 
