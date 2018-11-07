@@ -17,7 +17,7 @@ Last updated: 10/30/18
 - [Course Textbook](#course-textbook )
 - [Communication](#communication)
 - [Grading](#grading)
-- [Task](#Task)
+- [Tasks](#tasks)
 - [Note](#note)
 
 ## Course Description
@@ -27,20 +27,19 @@ This course offers an introduction to the emerging smart structure technologies 
 By the end of this course, students should be able to  
   
 * Describe smart structure technology and its application in civil engineering
-* Explain the working principle of an accelerometer and digital camera and data acquisition process
-* Interpret the concept of image processing techniques using signal processing theory 
+* Explain the working principle of an accelerometer and digital camera, and data acquisition process
+* Interpret the concept of image processing techniques through signal processing theory 
 * Develop programs (MATLAB or Python) to process and analyze 2D and 3D optical data for structural assessment
-* Demonstrate how to implement machine learning algorithm in solving real-world problems 
+* Demonstrate how to implement machine learning algorithms in solving real-world problems 
 * Employ deep convolutional neural network for image classification
 * Devise innovative smart structure technology for civil engineering applications and research 
 
 ## Prerequisite
-This course requires basic knowledge about **linear algebra**, **probability**, and **signal processing**, and skills at a sufficient level of a non-trivial **computer programming** (with **MATLAB** or **Python**). Students also need to know how to use **Markdown** and **mathematical equation syntax in LaTeX**. If you are not familiar with or would revisit these topics, students must complete the following tutorials and questions inside:
+This course requires basic knowledge in **linear algebra**, **probability**, and **signal processing**, and skills at a sufficient level of a non-trivial **computer programming** (with **MATLAB** or **Python**). Students may need to know how to use **Markdown**. If you are not familiar with or would revisit these topics, students must complete the following tutorials and questions inside:
 * MATLAB
 * Signal Processing
 * Digital Image Processing
-* Markdown
-* LaTeX Mathmatics
+* [Markdown](doc\Tutorial_MarkdownV2.md)
 
 ## Course Textbook 
 This course is not based on any particular textbook. The instructor will provide relevant keywords (search by yourself), reading materials, and links in each class. 
@@ -76,18 +75,18 @@ This course is not based on any particular textbook. The instructor will provide
 ## Communication  
 **All communication will be made through [this course website](https://github.com/chulminy/CIVE497-CIVE700)**, especially for this web page. The instructor will make a note in the "Announcement" section after updating this web page. Students can configure email notification for [this course website](https://github.com/chulminy/CIVE497-CIVE700) or use a version control system for tracking its changes. Thus, **students are responsible for checking the website regularly** for any relevant course information or announcements. 
 
-In this course, both the instructor and the students are encouraged to engage in online discussions to create and facilitate a collaborative learning experience. Students are invited to ask questions and answer them and share their knowledge and resources. **Please direct your communication to an *Issues* board (tab) on this website.** However, if there is a good reason not to use the discussion forum (e.g. personal matters, a question that might reveal your solution of your report, etc.), please directly contact the instructor via email (cmyeum@uwaterloo.ca) or use the office hours. 
+In this course, both the instructor and the students are encouraged to engage in online discussions to create and facilitate a collaborative learning experience. Students are invited to ask questions and answer them, and share their knowledge and resources. **Please direct your communication to an *Issues* board (tab) on this website.** However, if there is a good reason not to use the discussion forum (e.g. personal matters, a question that might reveal your solution of your report, etc.), please directly contact the instructor via email (cmyeum@uwaterloo.ca) or use the office hours. 
 
 [**Discussion forum instruction**](#discussion-forum-instruction)
 
 ## Grading  
-The final grade will be based on the total marks earned during the semester. Each tasks will be graded on the basis of 100 points and will contribute the final grade with different weights. The evaluation guideline for the project can be seen [here](#guideline-for-the-project). Note that undergraduate and graduate students are marked using different evaluation metrics.
+The final grade will be based on the total marks earned during the semester. Each task will be graded on the basis of 100 points and will contribute the final grade with different weights. The evaluation guideline for the project can be seen [here](#guideline-for-the-project). Note that undergraduate and graduate students are marked using different evaluation metrics.
 
 **Undergraduate student**: Task (80%) and Project (20%)  
 **Graduate student**: Task (70%) and Project (30%)  
 
-## Task 
-There will be **eight tasks** posted every one or two weeks on this course website. The task will have programming components or photography components, where students will use their own camera to capture and process their own images and discuss the results. The instructor will provide the first and second due dates. Students are supposed to complete all tasks and turn their works in by the first due date. After the first due data, some hints and solutions will be posted but, there is 25% deduction in the final mark. After the second due date, the submission of the works will not be accepted unless accompanied by a valid excuse and some additional points might be deducted depending upon the circumstances. 
+## Tasks
+There will be **eight tasks** overall and posted on either weekly or biweekly on this course website. The task will have programming components or photography components, where students will use their own camera to capture and process their own images and discuss the results. The instructor will post two due dates. Students are supposed to complete all tasks and turn their works in by the first due date. After the first due data, some hints and solutions will be posted but, there is 25% deduction in the final mark. After the second due date, the submission of the works will not be accepted unless accompanied by a valid excuse and some additional points might be deducted depending upon the circumstances. 
 
 [**Submission instruction of your work**](#submission-instruction-of-your-work)
 
