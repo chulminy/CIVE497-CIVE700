@@ -39,7 +39,7 @@ This course requires basic knowledge in **linear algebra**, **probability**, and
 * MATLAB
 * Signal Processing
 * Digital Image Processing
-* [Markdown](doc\Tutorial_MarkdownV2.md)
+* [**Markdown**](doc/Tutorial_MarkdownV2.md)
 
 ## Course Textbook 
 This course is not based on any particular textbook. The instructor will provide relevant keywords (search by yourself), reading materials, and links in each class. 
