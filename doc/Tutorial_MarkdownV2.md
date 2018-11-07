@@ -25,12 +25,11 @@ Last updated: 11/06/18
 
 ## Introduction
 ### Description
-[Markdown](https://en.wikipedia.org/wiki/Markdown) is a plain text formatting syntax. It is designed to easily style text and convert it to many other formats (e.g. HTML, PDF). GitHub currently supports [GitHub Flavored Markdown (GFM)](https://github.github.com/gfm/) for user content on GitHub.com, which include extract features on general Markdown syntax. With GFM, you can readily (1) format the word (e.g. bold, italic), (2) highlight a paragraph or code block, (3) link images, equations, or videos, (4) draw tables, and (5) use HTML syntax for additional formatting. This document provides a quick overview of useful GFM syntax and some extract components so that students can write organized and readable questions and answers in GitHub.
+[Markdown](https://en.wikipedia.org/wiki/Markdown) is a plain text formatting syntax. It is designed to easily style text and convert it to many other formats (e.g. HTML, PDF). GitHub currently supports [GitHub Flavored Markdown (GFM)](https://github.github.com/gfm/) for user content on GitHub.com, which include extra features on general Markdown syntax. With GFM, you can readily (1) format the word (e.g. bold, italic), (2) highlight a paragraph or code block, (3) link images, equations, or videos, (4) draw tables, and (5) use HTML syntax for additional formatting. This document provides a quick overview of useful GFM syntax and some extract components so that students can write organized and readable posts and comments in GitHub.
 
 ### Useful links
 - [Markdown syntax in GitHub](https://help.github.com/articles/basic-writing-and-formatting-syntax/): Basic introduction of markdown syntax (also see [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet))
 - [MarkdownPad](http://markdownpad.com): Best editor for markdown scripting (also see [rending GFM script in Markdownpad](http://forums.apricitysoftware.com/t/gfm-online-mode-ssl-tls-secure-channel-aborts/1313/7))
-- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - [Markdown table generator](https://www.tablesgenerator.com/markdown_tables): Useful for generating large tables
 - [EMOJI cheat sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/): Useful for using emoji in Markdown
 
@@ -55,7 +54,7 @@ Last updated: 11/06/18
 
 
 ### Emphasis
-	**bold**, *italic*, ***bold&italtic***, ***bold&italtic***  
+	**bold**, *italic*, ***bold&italtic***, ~~strikethrough~~ 
 
 **bold**, *italic*, ***bold&italtic***, ~~strikethrough~~
 
@@ -86,12 +85,12 @@ Underline Style
     3. Three
    
 
-1. one
-  1.1 one.one
-  1.2 one.two
-  1.3 one.three
-2. Two
-3. Three
+1. one  
+  1.1 one.one  
+  1.2 one.two  
+  1.3 one.three  
+2. Two  
+3. Three  
 
 
 ### Unordered List 
@@ -170,12 +169,14 @@ Underline Style
 
 ### Videos
 
+	FORMAT
 	[![](http://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 
-**ROI Localization Technique**
+**ROI Localization Technique**  
 [![](http://img.youtube.com/vi/6RitH-CY7bk/0.jpg)](https://www.youtube.com/watch?v=6RitH-CY7bk)
 
-**Automatic Reconnaissance Image Organizer (ARIO)**
+
+**Automatic Reconnaissance Image Organizer (ARIO)**  
 [![](ARIO.png)](https://www.youtube.com/watch?v=zNwoogoYQ7o)
 
 
@@ -233,21 +234,24 @@ See this link: https://gist.github.com/rxaviers/7360908
 	a        b
 	a&nbsp;&nbsp;&nbsp;&nbsp;b
 
-a b
-a        b
-a&nbsp;&nbsp;&nbsp;&nbsp;b
+a b  
+a        b  
+a&nbsp;&nbsp;&nbsp;&nbsp;b  
 
     abc1
     
+
     
     abc2
     
     abc3
     <br/>
     <br/>
-    abc4
+    <br/>
+	abc4
     
 abc1
+
 
 
 abc2
@@ -255,10 +259,11 @@ abc2
 abc3
 <br/>
 <br/>
+<br/>
 abc4
 
 ### LaTex Equations
-** Please watch the following video: **
+**Please watch the following video:**
 
 [![](https://img.youtube.com/vi/dpVnmxpVdvg/0.jpg)](https://www.youtube.com/watch?v=dpVnmxpVdvg)
 
