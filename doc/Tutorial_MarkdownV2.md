@@ -173,10 +173,16 @@ Underline Style
 	[![](http://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 
 **ROI Localization Technique**  
+
+    [![](http://img.youtube.com/vi/6RitH-CY7bk/0.jpg)](https://www.youtube.com/watch?v=6RitH-CY7bk)
+
 [![](http://img.youtube.com/vi/6RitH-CY7bk/0.jpg)](https://www.youtube.com/watch?v=6RitH-CY7bk)
 
 
 **Automatic Reconnaissance Image Organizer (ARIO)**  
+    
+	[![](ARIO.png)](https://www.youtube.com/watch?v=zNwoogoYQ7o)
+    
 [![](ARIO.png)](https://www.youtube.com/watch?v=zNwoogoYQ7o)
 
 
