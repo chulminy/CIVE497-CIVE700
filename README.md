@@ -1,9 +1,9 @@
 # CIVE497/CIVE700: Smart Structure Technology (Winter, 2018)
 
-**Instructor:** Chul Min Yeum (E2-2313)  
+**Instructor:** Chul Min Yeum (E2-2313)
 **Class:** Tuesday and Thursday, 8:30 to 10:30 AM at E2-3356     
 **Email:** cmyeum@uwaterloo.ca  
-**Office Hours:** Tuesdays and Thursday 4:00 to 5:00 PM at E2-2313 (You can also email for an appointment)  
+**Office Hours:** Tuesdays and Thursday 3:00 to 4:00 PM at E2-2313 (You can also email for an appointment)  
 
 Last updated: 10/30/18
 
@@ -21,13 +21,13 @@ Last updated: 10/30/18
 - [Note](#note)
 
 ## Course Description
-This course offers an introduction to the emerging smart structure technologies in civil engineering. Smart structures integrate sensing, actuation, data processing and analysis, and control capabilities so that a structure can sense and respond to its changing external conditions in a rapid and automated manner. Among several topics in smart structure, this course focuses on structural assessment using optical sensor data by implementing state-of-art image processing and computer vision techniques. As a special topic, basic concepts in machine learning, neural networks, convolutional neural networks (deep learning) are covered and relevant applications in civil engineering are introduced. An application-based learning approach is emphasized and tasks are designed in such a way that students implement smart structure technology to address contemporary problems in civil engineering.  In addition, one of the deliverables for this course will be a research project, in which student will have an opportunity to design a technique with a potential application to smart structures. This course is specially designed to suit the interest of graduate students and senior undergraduate students who may pursue graduate studies.
+This course offers an introduction to the emerging **smart structure technologies** in civil engineering. Smart structures integrate sensing, actuation, data processing and analysis, and control capabilities so that a structure can sense and respond to its changing external conditions in a rapid and automated manner. Among several topics in smart structure, this course focuses on [**structural assessment**](https://en.wikipedia.org/wiki/Structural_health_monitoring) using optical sensor data by implementing state-of-art image processing and computer vision techniques. As a special topic, basic concepts in machine learning, neural networks, convolutional neural networks (deep learning) are covered and relevant applications in civil engineering are introduced. An application-based learning approach is emphasized and tasks are designed in such a way that students implement smart structure technology to address contemporary problems in civil engineering.  In addition, one of the deliverable for this course will be a research project, in which student will have an opportunity to design a technique with a potential application to smart structures. This course is specially designed to suit the interest of **graduate students** and **senior undergraduate students** who may pursue graduate studies.
 
 ## Course Objectives
 By the end of this course, students should be able to  
   
 * Describe smart structure technology and its application in civil engineering
-* Explain the working principle of an accelerometer and digital camera, and data acquisition process
+* Explain the working principle of an accelerometer and digital camera, and their data acquisition process
 * Interpret the concept of image processing techniques through signal processing theory 
 * Develop programs (MATLAB or Python) to process and analyze 2D and 3D optical data for structural assessment
 * Demonstrate how to implement machine learning algorithms in solving real-world problems 
@@ -35,8 +35,8 @@ By the end of this course, students should be able to
 * Devise innovative smart structure technology for civil engineering applications and research 
 
 ## Prerequisite
-This course requires basic knowledge in **linear algebra**, **probability**, and **signal processing**, and skills at a sufficient level of a non-trivial **computer programming** (with **MATLAB** or **Python**). Students may need to know how to use **Markdown**. If you are not familiar with or would revisit these topics, students must complete the following tutorials and questions inside:
-* MATLAB
+This course requires basic knowledge in **linear algebra**, **probability**, and **signal processing** and skills at ***a sufficient level of a non-trivial computer programming*** (with **MATLAB** or  **Python**). Students also need to know how to use **Markdown**. If you are not familiar with or would revisit these topics, students must complete the following tutorials and questions inside:
+
 * Signal Processing
 * Digital Image Processing
 * [**Markdown**](doc/Tutorial_MarkdownV2.md)
@@ -47,10 +47,10 @@ This course is not based on any particular textbook. The instructor will provide
 ## Course Outline
 |Class|Topics|Slides|Tutorial|Tasks|
 |:----|:-----|:----|:-----|:-----|
-|Class 01|**Introduction I**|pptx, pdf|&nbsp;|&nbsp;|
+|Class 01|**Introduction I**|&nbsp;|&nbsp;|&nbsp;|
 |Class 02|**Introduction II**|&nbsp;|&nbsp;|&nbsp;|
 |Class 03|**Data Acquisition**|&nbsp;|&nbsp;|**Complete all tutorials**|
-|Class 04|**Signal Processing I**|&nbsp;|mlx|&nbsp;|
+|Class 04|**Signal Processing I**|&nbsp;|&nbsp;|&nbsp;|
 |Class 05|**Signal Processing II**|&nbsp;|&nbsp;|**Task1:** Signal processing & Modal analysis | 
 |Class 06|**Modal Analysis**|&nbsp;|&nbsp;|&nbsp;| 
 |Class 07|**Digital Image**|&nbsp; |&nbsp;|**Task2:** Camera sensor| 
@@ -73,14 +73,14 @@ This course is not based on any particular textbook. The instructor will provide
 |Class 24|**Presentation**|&nbsp;|&nbsp;|&nbsp;|
  
 ## Communication  
-**All communication will be made through [this course website](https://github.com/chulminy/CIVE497-CIVE700)**, especially for this web page. The instructor will make a note in the "Announcement" section after updating this web page. Students can configure email notification for [this course website](https://github.com/chulminy/CIVE497-CIVE700) or use a version control system for tracking its changes. Thus, **students are responsible for checking the website regularly** for any relevant course information or announcements. 
+**All communication will be made through [this course website](https://github.com/chulminy/CIVE497-CIVE700)**, especially for this web page. The instructor will make a note in the ["Announcement"](#announcement) section after updating the web page. Students can configure email notification for by ["watch"](https://help.github.com/articles/watching-and-unwatching-repositories/) this course website or use a version control system for tracking its changes. Thus, **students are responsible for checking the website regularly** for any relevant course information or announcements. 
 
 In this course, both the instructor and the students are encouraged to engage in online discussions to create and facilitate a collaborative learning experience. Students are invited to ask questions and answer them, and share their knowledge and resources. **Please direct your communication to an *Issues* board (tab) on this website.** However, if there is a good reason not to use the discussion forum (e.g. personal matters, a question that might reveal your solution of your report, etc.), please directly contact the instructor via email (cmyeum@uwaterloo.ca) or use the office hours. 
 
 [**Discussion forum instruction**](#discussion-forum-instruction)
 
 ## Grading  
-The final grade will be based on the total marks earned during the semester. Each task will be graded on the basis of 100 points and will contribute the final grade with different weights. The evaluation guideline for the project can be seen [here](#guideline-for-the-project). Note that undergraduate and graduate students are marked using different evaluation metrics.
+The final grade will be based on the total marks earned during the semester. Each task will be graded on the basis of 100 points and will contribute the final grade with different weights. The evaluation guideline for the project can be seen [**here**](#guideline-for-the-project). Note that undergraduate and graduate students are marked using different evaluation metrics.
 
 **Undergraduate student**: Task (80%) and Project (20%)  
 **Graduate student**: Task (70%) and Project (30%)  
@@ -124,17 +124,19 @@ Text matching software (Turnitin®) may be used to screen assignments in this co
 - Please be respectful of your peers, instructor, and others in your posts and comments.
 - Asking good questions is another way of learning by summarizing and explaining what you know and do not know. Thoughtful questions and answers will help all students in this class. Before posting a question, please ask yourself whether you are truly stuck (meaning that the answers can be readily found on the web) and your question are complete and legible. 
 - In addition, please check if the same question was asked before.   
-- When students write a post on the *Issues* board, please assign an appropriate label among "Task", "Class", "Project", "Resource", and "Suggestion"). An "Announcement" label is for instructor use only. 
+- When students write a post on the *Issues* board, please assign an appropriate label among "Task", "Class", "Project", "Resource", and "Suggestion". An "Announcement" label is for instructor use only. 
 - Inappropriate posts and comments are immediately deleted and closed without a notice. 
 
 
 ### Submission instruction of your work
-Students must **electronically** turn in both their code and discussion of the results after integrating them in either **Live Script in MATLAB** or **iPhython in a Jupyter Notebook**. All submissions in other formats like pdf, docx, or pptx, or in hardcopy are not permitted. The instructor may run their reports in the instructor's Window computer where MATLAB 2018b and Jupyter Notebook supporting Python above 3.4 are installed. It is recommended to use MATLAB for your work because the instructor does not need to install additional code libraries. However, students can use Python at their own risk that it might not run on the instructor's computer. Pillow and OpenCV for computer vision programming and some basic python packages (e.g. Pandas, NumPy, matplotlib, sklearn, etc) will be installed on the computer. It is recommended that any external code library is not used unless explicitly mentioned in tasks. **The instructor is not able to install every different libraries on the computer.** If there is a convincing reason for the use of specific libraries, please contact the instructor in advance and exceptions will be made on a case-by-case basis. Note that OS(platform)-dependent functions, scripts or libraries are not permitted. The students must check their report in a Windows computer before its submission.   
+Students must **electronically** turn in both their source code (with data) and report. The report must be written with **Markdown script (GFM)** and all other formats like pdf, docx, or pptx, or in hardcopy are not permitted. A submission guideline will be varied depending on the tasks and provided with each task. 
+
+Students choose either a **MATLAB** or **Python** to complete the tasks. The source code needs to be neatly organized and include detailed comments. The instructor may run your codes in the instructor's Window computer where MATLAB 2018b and Python above 3.4 are installed. It is recommended to use MATLAB for your work because the instructor does not need to install additional code libraries. However, students can use Python at their own risk that it might not run on the instructor's computer. Pillow and OpenCV for computer vision programming and some basic python packages (e.g. Pandas, NumPy, matplotlib, sklearn, etc) will be installed on the computer. It is recommended that any external code library should not be used unless explicitly mentioned in tasks. **The instructor is not able to install every different libraries on the computer.** If there is a convincing reason for the use of specific libraries, please contact the instructor in advance and exceptions will be made on a case-by-case basis. Note that OS(platform)-dependent functions, scripts or libraries are not permitted. The students must check their report in a Windows computer before its submission.   
 
 Marked reports will be distributed via email and a possible solution for tasks may be reviewed in class with the instructor. A couple of the best reports in each task will be posted on the class web page with the consent of the corresponding students. 
 
 ### Guideline for the project
-Individuals/teams should clearly identify the challenges of existing applications, procedures, and research in civil engineering and then consider how smart structure technology contributes to addressing them. The project does not have to be big, fancy and innovative if your project outcomes can marginally improve existing problems or advance practices. For example, it could be proposing a modification to existing processes, applying image processing and computer vision technology to streamline analysis and documentation processes, applying a new signal or image processing techniques to improve the accuracy of your technique. The possibilities are very open and diverse. However, for instance, the following two examples are not acceptable because they are not attainable: *"we will build a robot to automatically and rapidly construct a building"* or *"we will develop a new vision sensor that can measure 3D volume"*. 
+Individuals/teams should clearly identify the challenges of existing applications, procedures, and research in civil engineering and then consider how smart structure technology contributes to addressing them. The project does not have to be big, fancy and innovative if your project outcomes can marginally improve existing problems or advance practices. For example, it could be proposing a modification to existing processes, applying image processing and computer vision technology to streamline analysis and documentation processes, applying a new signal or image processing techniques to improve the accuracy of your technique. The possibilities are very open and diverse if they are attainable. However, for instance, the following two examples are not acceptable because they are not attainable: *"we will build a robot to automatically and rapidly construct a building"* or *"we will develop a new vision sensor that can measure 3D volume"*. 
 
 The project can be done either individually or in teams of two or three students. If students choose to work in a team, they need to justify the need for a teamwork and define the scope of works in individual members. For the completion of the project, each group must reach the following **milestones**:  
 

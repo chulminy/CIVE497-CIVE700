@@ -189,6 +189,7 @@ Underline Style
 
 ### Code and Syntax Highlighting
 
+**Python Code Styling**
 ```python
 import numpy as np
 
@@ -201,6 +202,7 @@ print(a)                  # Prints "[5, 2, 3]"
 
 ```
 
+**MATLAB Code Styling**
 ```matlab
 % Array creation, combining, reshaping, rearranging, and indexing
 % https://www.mathworks.com/help/matlab/matrices-and-arrays.html
