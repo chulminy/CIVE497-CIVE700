@@ -5,10 +5,10 @@
 **Email:** cmyeum@uwaterloo.ca  
 **Office Hours:** Tuesdays and Thursday 3:00 to 4:00 PM at E2-2313 (You can also email for an appointment)  
 
-Last updated: 10/30/18
+Last updated: 2018-11-12
 
 ## Announcement
-(10/25/18): A course syllabus is uploaded at the course website.  
+2018-10-25: A course syllabus is uploaded at the course website.  
 
 ## Table of Contents
 - [Course Description](#course-description)
@@ -38,8 +38,8 @@ By the end of this course, students should be able to
 This course requires basic knowledge in **linear algebra**, **probability**, and **signal processing** and skills at ***a sufficient level of a non-trivial computer programming*** (with **MATLAB** or  **Python**). Students also need to know how to use **Markdown**. If you are not familiar with or would revisit these topics, students must complete the following tutorials and questions inside:
 
 * Signal Processing
-* Digital Image Processing
-* [**Markdown**](doc/Tutorial_MarkdownV2.md)
+* [**Digital Image Processing**](tutorial\image_proc): Run Intro_DIP_V5.mlx
+* [**Markdown**](tutorial\markdown\tutorial_md.md)
 
 ## Course Textbook 
 This course is not based on any particular textbook. The instructor will provide relevant keywords (search by yourself), reading materials, and links in each class. 
@@ -75,7 +75,7 @@ This course is not based on any particular textbook. The instructor will provide
 ## Communication  
 **All communication will be made through [this course website](https://github.com/chulminy/CIVE497-CIVE700)**, especially for this web page. The instructor will make a note in the ["Announcement"](#announcement) section after updating the web page. Students can configure email notification for by ["watch"](https://help.github.com/articles/watching-and-unwatching-repositories/) this course website or use a version control system for tracking its changes. Thus, **students are responsible for checking the website regularly** for any relevant course information or announcements. 
 
-In this course, both the instructor and the students are encouraged to engage in online discussions to create and facilitate a collaborative learning experience. Students are invited to ask questions and answer them, and share their knowledge and resources. **Please direct your communication to an *Issues* board (tab) on this website.** However, if there is a good reason not to use the discussion forum (e.g. personal matters, a question that might reveal your solution of your report, etc.), please directly contact the instructor via email (cmyeum@uwaterloo.ca) or use the office hours. 
+In this course, both the instructor and the students are encouraged to engage in online discussions to create and facilitate a collaborative learning experience. Students are invited to ask questions and answer them, and share their knowledge and resources. **Please direct your communication to an** [***Issues***](https://github.com/chulminy/CIVE497-CIVE700/issues) **board (tab) on this website.** However, if there is a good reason not to use the discussion forum (e.g. personal matters, a question that might reveal your solution of your report, etc.), please directly contact the instructor via email (cmyeum@uwaterloo.ca) or use the office hours. 
 
 [**Discussion forum instruction**](#discussion-forum-instruction)
 
