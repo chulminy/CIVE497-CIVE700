@@ -38,8 +38,8 @@ By the end of this course, students should be able to
 This course requires basic knowledge in **linear algebra**, **probability**, and **signal processing** and skills at ***a sufficient level of a non-trivial computer programming*** (with **MATLAB** or  **Python**). Students also need to know how to use **Markdown**. If you are not familiar with or would revisit these topics, students must complete the following tutorials and questions inside:
 
 * Signal Processing
-* [**Digital Image Processing**](tutorial\image_proc): Run Intro_DIP_V5.mlx
-* [**Markdown**](tutorial\markdown\tutorial_md.md)
+* [**Digital Image Processing**](tutorial/image_proc): Run `Intro_DIP_V5.mlx`
+* [**Markdown**](tutorial/markdown/tutorial_md.md)
 
 ## Course Textbook 
 This course is not based on any particular textbook. The instructor will provide relevant keywords (search by yourself), reading materials, and links in each class. 
