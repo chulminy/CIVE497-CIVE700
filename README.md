@@ -1,11 +1,11 @@
 # CIVE497/CIVE700: Smart Structure Technology (Winter, 2018)
 
-**Instructor:** Chul Min Yeum (E2-2313)
-**Class:** Tuesday and Thursday, 8:30 to 10:30 AM at E2-3356     
+**Instructor:** Chul Min Yeum (E2-2313)  
+**Class:** Tuesday and Thursday, 8:30 to 10:00 AM at E2-3356     
 **Email:** cmyeum@uwaterloo.ca  
-**Office Hours:** Tuesdays and Thursday 3:00 to 4:00 PM at E2-2313 (You can also email for an appointment)  
+**Office Hours:** Tuesdays and Thursday 10:00 to 11:00 AM at E2-2313 (You can also email for an appointment)  
 
-Last updated: 2018-11-12
+Last updated: 2018-11-15
 
 ## Announcement
 2018-10-25: A course syllabus is uploaded at the course website.  
@@ -21,7 +21,7 @@ Last updated: 2018-11-12
 - [Note](#note)
 
 ## Course Description
-This course offers an introduction to the emerging **smart structure technologies** in civil engineering. Smart structures integrate sensing, actuation, data processing and analysis, and control capabilities so that a structure can sense and respond to its changing external conditions in a rapid and automated manner. Among several topics in smart structure, this course focuses on [**structural assessment**](https://en.wikipedia.org/wiki/Structural_health_monitoring) using optical sensor data by implementing state-of-art image processing and computer vision techniques. As a special topic, basic concepts in machine learning, neural networks, convolutional neural networks (deep learning) are covered and relevant applications in civil engineering are introduced. An application-based learning approach is emphasized and tasks are designed in such a way that students implement smart structure technology to address contemporary problems in civil engineering.  In addition, one of the deliverable for this course will be a research project, in which student will have an opportunity to design a technique with a potential application to smart structures. This course is specially designed to suit the interest of **graduate students** and **senior undergraduate students** who may pursue graduate studies.
+This course offers an introduction to the emerging **smart structure technologies** in civil engineering. Smart structures integrate sensing, actuation, data processing and analysis, and control capabilities so that a structure can sense and respond to its changing external conditions in a rapid and automated manner. Among several topics in smart structure, this course focuses on [**structural assessment**](https://en.wikipedia.org/wiki/Structural_health_monitoring) using optical sensor data by implementing state-of-art image processing and computer vision techniques. As a special topic, basic concepts in machine learning, neural networks, convolutional neural networks (deep learning) are covered and relevant applications in civil engineering are introduced. An application-based learning approach is emphasized and tasks are designed in such a way that students implement smart structure technology to address contemporary problems in civil engineering. In addition, one of the deliverable for this course will be a research project, in which student will have an opportunity to design a technique with a potential application to smart structures. This course is specially designed to suit the interest of **graduate students** and **senior undergraduate students** who may pursue graduate studies.
 
 ## Course Objectives
 By the end of this course, students should be able to  
@@ -56,13 +56,13 @@ Slides and tutorials are will be updated soon.
 |Class 05|**Signal Processing II**|&nbsp;|&nbsp;|**Task1:** Signal processing & Modal analysis | 
 |Class 06|**Modal Analysis**|&nbsp;|&nbsp;|&nbsp;| 
 |Class 07|**Digital Image**|&nbsp; |&nbsp;|**Task2:** Camera sensor| 
-|Class 08|**Projective Geometry**|&nbsp;|&nbsp;|&nbsp;| 
-|Class 09|**Homography**|&nbsp;|&nbsp;|**Task3:** Homography| 
+|Class 08|**Projective Geometry I**|&nbsp;|&nbsp;|&nbsp;| 
+|Class 09|**Projective Geometry II**|&nbsp;|&nbsp;|**Task3:** Homography| 
 |Class 10|**Linear Filtering**|&nbsp;|&nbsp;|&nbsp;| 
 |Class 11|**Edge Detection**|&nbsp;|&nbsp;|**Task4:** 2D crack detection| 
 |Class 12|**Corner Detection**|&nbsp;|&nbsp;|&nbsp;|  
 |Class 13|**Feature (SIFT)**|&nbsp;|&nbsp;|&nbsp;|
-|Class 14|**RANSAC**|&nbsp;|&nbsp;|**Task5:** Image stitching and blending|
+|Class 14|**RANSAC**|&nbsp;|&nbsp;|**Task5:** Image stitching|
 |Class 15|**Camera Model**|&nbsp;|&nbsp;|&nbsp;|
 |Class 16|**Multiview Geometry**|&nbsp;|&nbsp;|&nbsp;|
 |Class 17|**Structure-from-motion (SfM)**|&nbsp;|&nbsp;|**Task6:** 3D measurement using SfM|
@@ -151,4 +151,3 @@ The project can be done either individually or in teams of two or three students
 - **3-minute presentation (at Class 20)**: A short presentation will be given during a class scheduled at around Class 18. Each presentation will last only for 3 minutes, followed by questions from the instructor and other students. Time limits will be strictly enforced. You should make sure to prepare and practice your presentations. You need to prepare your slides in such way that the students and instructor can clearly agree on the motivation and objective of your project and understand a general idea of the method that you implement or develop and how to demonstrate or evaluate its feasibility. Please keep in mind that you do not have enough time to explain all the details. **The evaluation of this presentation contributes 20% of the project grade.**
 
 - **10-minute final presentation (at Class 24)**: A 10-minute presentation will be given at the final class. Individuals/teams should strive to give a comprehensive and understandable presentation that the other students recognize the value of your project. Similar to the 3-minute presentation, time limits will be strictly enforced. **The evaluation of the final presentation contributes 50% of the project grade** and the detailed evaluation criteria will be announced after the abstract submission. 
-
