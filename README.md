@@ -8,7 +8,7 @@
 Last updated: 2018-11-15
 
 ## Announcement
-:loudspeaker: **2018-11-16: If undergraduate students want to register the course, the instructor should confirm it first. Please send me an email to the instructor (cmyeum@uwaterloo.ca).**  
+:loudspeaker: **2018-11-16: If undergraduate students want to register the course, the instructor should confirm it first. Please send an email to the instructor (cmyeum@uwaterloo.ca).**  
 2018-10-25: A course syllabus is uploaded at the course website.  
 
 ## Table of Contents
