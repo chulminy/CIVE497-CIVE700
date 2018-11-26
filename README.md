@@ -5,7 +5,7 @@
 **Email:** cmyeum@uwaterloo.ca  
 **Office Hours:** Tuesdays and Thursday 10:00 to 11:00 AM at E2-2313 (You can also email for an appointment)  
 
-Last updated: 2018-11-15
+Last updated: 2018-11-26
 
 ## Announcement
 :loudspeaker: :loudspeaker: 2018-11-19: For the students who have a little programming background but are willing to challenge this course, the instructor plans to upload additional tutorials on this course website in a month. If the students feel short of prior knowledge about programming and other relevant topics, please ***complete all tutorials*** during winter break. 
@@ -41,9 +41,16 @@ By the end of this course, students should be able to
 ## Prerequisite
 This course requires basic knowledge in **linear algebra**, **probability**, and **signal processing** and skills at ***a sufficient level of a non-trivial computer programming*** (with **MATLAB** or  **Python**). Students also need to know how to use **Markdown**. If you are not familiar with or would revisit these topics, students must complete the following tutorials and questions inside:
 
+**MATLAB tutorials**
+* [**Matrices & Arrays**](tutorial/matlab): copy this folder in your computer and run `matrices_arrays.mlx` in MATLAB 
+* Operations and Elementary Operations (will be updated)
+* Data Types (Cell, Structures, Type Conversion) (will be updated)
+
+**Topics**
 * Signal Processing (will be updated)  
 * [**Digital Image Processing**](tutorial/image_proc): copy this folder in your computer and run `Intro_DIP_V5.mlx` in MATLAB
 * [**Markdown**](tutorial/markdown/tutorial_md.md)
+
 
 ## Course Textbook 
 This course is not based on any particular textbook. The instructor will provide relevant keywords (search by yourself), reading materials, and links in each class. 
