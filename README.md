@@ -50,7 +50,7 @@ This course requires basic knowledge in **linear algebra**, **probability**, and
 **Topics**
 * Signal Processing (will be updated)  
 * [**Digital Image Processing**](tutorial/image_proc): copy this folder in your computer and run `Intro_DIP_V6.mlx` in MATLAB
-* [**Markdown**](tutorial/markdown/tutorial_md.md)
+* [**Markdown**](tutorial/markdown)
 
 
 ## Course Textbook 
