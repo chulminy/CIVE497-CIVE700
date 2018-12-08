@@ -8,6 +8,8 @@
 Last updated: 2018-11-26
 
 ## Announcement
+:loudspeaker: : **2018-12-08**: I posted two MATLAB tutorials related to matrix operations. Please review tutorials and complete exercise problems. If you have any questions and comments, **please use the *issue* board to post your question.**
+
 :loudspeaker: :loudspeaker: 2018-11-19: For the students who have a little programming background but are willing to challenge this course, the instructor plans to upload additional tutorials on this course website in a month. If the students feel short of prior knowledge about programming and other relevant topics, please ***complete all tutorials*** during winter break. 
  
 :loudspeaker: **2018-11-16: If undergraduate students want to register the course, the instructor should confirm it first. Please send an email to the instructor (cmyeum@uwaterloo.ca).**  
