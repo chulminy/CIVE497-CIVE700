@@ -43,12 +43,11 @@ This course requires basic knowledge in **linear algebra**, **probability**, and
 
 **MATLAB tutorials**
 * [**Matrices & Arrays**](tutorial/matlab): copy this folder in your computer and run `matrices_arrays.mlx` in MATLAB 
-* Operations and Elementary Operations (will be updated)
-* Data Types (Cell, Structures, Type Conversion) (will be updated)
+* [**Operations and Elementary Operations**](tutorial/matlab): copy this folder in your computer and run `operators_elem_operations.mlx` in MATLAB
 
 **Topics**
 * Signal Processing (will be updated)  
-* [**Digital Image Processing**](tutorial/image_proc): copy this folder in your computer and run `Intro_DIP_V5.mlx` in MATLAB
+* [**Digital Image Processing**](tutorial/image_proc): copy this folder in your computer and run `Intro_DIP_V6.mlx` in MATLAB
 * [**Markdown**](tutorial/markdown/tutorial_md.md)
 
 
