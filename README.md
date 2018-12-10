@@ -10,7 +10,7 @@ Last updated: 2018-11-26
 ## Announcement
 :loudspeaker: : **2018-12-08**: I posted two MATLAB tutorials related to matrix operations. Please review tutorials and complete exercise problems. If you have any questions and comments, **please use the *issue* board to post your question.**
 
-:loudspeaker: :loudspeaker: 2018-11-19: For the students who have a little programming background but are willing to challenge this course, the instructor plans to upload additional tutorials on this course website in a month. If the students feel short of prior knowledge about programming and other relevant topics, please ***complete all tutorials*** during winter break. 
+:loudspeaker: :loudspeaker: 2018-11-19: For the students who have a little programming background but are willing to challenge this course, the instructor plans to upload additional tutorials to [Prerequisite](#prerequisite) section. If the students feel short of prior knowledge about programming and other relevant topics, please ***complete all tutorials*** during winter break. 
  
 :loudspeaker: **2018-11-16: If undergraduate students want to register the course, the instructor should confirm it first. Please send an email to the instructor (cmyeum@uwaterloo.ca).**  
 
@@ -68,13 +68,13 @@ Slides and tutorials are will be updated soon.
 |Class 05|**Signal Processing II**|&nbsp;|&nbsp;|**Task1:** Signal processing & Modal analysis | 
 |Class 06|**Modal Analysis**|&nbsp;|&nbsp;|&nbsp;| 
 |Class 07|**Digital Image**|&nbsp; |&nbsp;|**Task2:** Camera sensor| 
-|Class 08|**Projective Geometry I**|&nbsp;|&nbsp;|&nbsp;| 
-|Class 09|**Projective Geometry II**|&nbsp;|&nbsp;|**Task3:** Homography| 
+|Class 08|**Projective Geometry I**|&nbsp;|[link](tutorial/projective_geometry)|&nbsp;| 
+|Class 09|**Projective Geometry II**|&nbsp;|[link](tutorial/projective_geometry)|**Task3:** Homography| 
 |Class 10|**Linear Filtering**|&nbsp;|&nbsp;|&nbsp;| 
 |Class 11|**Edge Detection**|&nbsp;|&nbsp;|**Task4:** 2D crack detection| 
 |Class 12|**Corner Detection**|&nbsp;|&nbsp;|&nbsp;|  
 |Class 13|**Feature (SIFT)**|&nbsp;|&nbsp;|&nbsp;|
-|Class 14|**RANSAC**|&nbsp;|&nbsp;|**Task5:** Image stitching|
+|Class 14|**RANSAC**|&nbsp;|[link](tutorial/ransac)|**Task5:** Image stitching|
 |Class 15|**Camera Model**|&nbsp;|&nbsp;|&nbsp;|
 |Class 16|**Multiview Geometry**|&nbsp;|&nbsp;|&nbsp;|
 |Class 17|**Structure-from-motion (SfM)**|&nbsp;|&nbsp;|**Task6:** 3D measurement using SfM|
