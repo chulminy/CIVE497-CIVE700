@@ -11,7 +11,7 @@ for ii=1:size(pos,1)
         'MarkerEdgeColor', col_dot(ii,:), 'linewidth', 1.5); 
 end; hold off; 
 
-axis equal;grid on;
+axis(ax,'equal'); grid on;
 xlabel(ax, '\bf X-axis'); xlim(xylim(1,:));
 ylabel(ax, '\bf y-axis'); ylim(xylim(2,:));
 set(ax,'fontsize',10,'linewidth',2,'fontweight','bold');
