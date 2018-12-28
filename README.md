@@ -20,7 +20,8 @@ Last updated: 2018-11-26
 - [Course Description](#course-description)
 - [Course Objectives](#course-objectives)
 - [Prerequisite](#prerequisite)
-- [Course Textbook](#course-textbook )
+- [Course Textbook](#course-textbook)
+- [Course Outline](#course-outline)
 - [Communication](#communication)
 - [Grading](#grading)
 - [Tasks](#tasks)
@@ -48,7 +49,7 @@ This course requires basic knowledge in **linear algebra**, **probability**, and
 * [**Operations and Elementary Operations**](tutorial/matlab): copy this folder in your computer and run `operators_elem_operations.mlx` in MATLAB
 
 **Topics**
-* Signal Processing (will be updated)  
+* Signal Processing (will be posted in [Course Outline](#course-outline))    
 * [**Digital Image Processing**](tutorial/image_proc): copy this folder in your computer and run `Intro_DIP_V6.mlx` in MATLAB
 * [**Markdown**](tutorial/markdown)
 
@@ -138,7 +139,7 @@ Text matching software (Turnitin®) may be used to screen assignments in this co
 - Please be respectful of your peers, instructor, and others in your posts and comments.
 - Asking good questions is another way of learning by summarizing and explaining what you know and do not know. Thoughtful questions and answers will help all students in this class. Before posting a question, please ask yourself whether you are truly stuck (meaning that the answers can be readily found on the web) and your question are complete and legible. 
 - In addition, please check if the same question was asked before.   
-- When students write a post on the *Issues* board, please assign an appropriate label among "Task", "Class", "Project", "Resource", and "Suggestion". An "Announcement" label is for instructor use only. 
+- When students write a post on the *Issues* board, the instructor or CA will assign an appropriate label among "Task", "Class", "Project", "Resource", and "Suggestion".  
 - Inappropriate posts and comments are immediately deleted and closed without a notice. 
 
 
