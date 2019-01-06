@@ -8,6 +8,8 @@
 Last updated: 2018-11-26
 
 ## Announcement
+:loudspeaker: : **2019-01-06**: A total of 23 students currently register the course. Since the number of the student is more than 20, we receive one CA student for this course. Our CA is Nicholas Charron. He is a Ph.D candidate in [**SDIC** lab](http://www.civil.uwaterloo.ca/snarasim/). 
+
 :loudspeaker: : **2018-12-08**: I posted two MATLAB tutorials related to matrix operations. Please review tutorials and complete exercise problems. If you have any questions and comments, **please use the *issue* board to post your question.**
 
 :loudspeaker: :loudspeaker: 2018-11-19: For the students who have a little programming background but are willing to challenge this course, the instructor plans to upload additional tutorials to [Prerequisite](#prerequisite) section. If the students feel short of prior knowledge about programming and other relevant topics, please ***complete all tutorials*** during winter break. 
