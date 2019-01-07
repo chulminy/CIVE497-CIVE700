@@ -64,20 +64,20 @@ Slides and tutorials are will be updated soon.
 
 |Class|Topics|Slides|Tutorial|Tasks|
 |:----|:-----|:----|:-----|:-----|
-|Class 01|**Introduction I**|&nbsp;|&nbsp;|&nbsp;|
-|Class 02|**Introduction II**|&nbsp;|&nbsp;|&nbsp;|
+|Class 01|**Introduction I**|[**link**](lecture/introduction)|&nbsp;|&nbsp;|
+|Class 02|**Introduction II**|[**link**](lecture/introduction)|&nbsp;|&nbsp;|
 |Class 03|**Data Acquisition**|&nbsp;|&nbsp;|**Complete all tutorials**|
 |Class 04|**Signal Processing I**|&nbsp;|&nbsp;|&nbsp;|
 |Class 05|**Signal Processing II**|&nbsp;|&nbsp;|**Task1:** Signal processing & Modal analysis | 
 |Class 06|**Modal Analysis**|&nbsp;|&nbsp;|&nbsp;| 
 |Class 07|**Digital Image**|&nbsp; |&nbsp;|**Task2:** Camera sensor| 
-|Class 08|**Projective Geometry I**|&nbsp;|[link](tutorial/projective_geometry)|&nbsp;| 
-|Class 09|**Projective Geometry II**|&nbsp;|[link](tutorial/projective_geometry)|**Task3:** Homography| 
+|Class 08|**Projective Geometry I**|&nbsp;|[**link**](tutorial/projective_geometry)|&nbsp;| 
+|Class 09|**Projective Geometry II**|&nbsp;|[**link**](tutorial/projective_geometry)|**Task3:** Homography| 
 |Class 10|**Linear Filtering**|&nbsp;|&nbsp;|&nbsp;| 
 |Class 11|**Edge Detection**|&nbsp;|&nbsp;|**Task4:** 2D crack detection| 
 |Class 12|**Corner Detection**|&nbsp;|&nbsp;|&nbsp;|  
 |Class 13|**Feature (SIFT)**|&nbsp;|&nbsp;|&nbsp;|
-|Class 14|**RANSAC**|&nbsp;|[link](tutorial/ransac)|**Task5:** Image stitching|
+|Class 14|**RANSAC**|&nbsp;|[**link**](tutorial/ransac)|**Task5:** Image stitching|
 |Class 15|**Camera Model**|&nbsp;|&nbsp;|&nbsp;|
 |Class 16|**Multiview Geometry**|&nbsp;|&nbsp;|&nbsp;|
 |Class 17|**Structure-from-motion (SfM)**|&nbsp;|&nbsp;|**Task6:** 3D measurement using SfM|
