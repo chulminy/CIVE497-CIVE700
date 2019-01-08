@@ -1,4 +1,3 @@
-nd
 # CIVE497/CIVE700: Smart Structure Technology (Winter, 2018)
 
 **Instructor:** Chul Min Yeum (E2-2313)  
