@@ -8,7 +8,7 @@
 Last updated: 2018-11-26
 
 ## Announcement
-:loudspeaker: **2019-01-10**: The first task assignment, [**Task0**](#tasks), is posted. 
+:loudspeaker: **2019-01-10**: The first task assignment, [**Task0**](#tasks), is posted.   
 :loudspeaker::loudspeaker::loudspeaker: **2019-01-08**: I help expedite your decision whether to take this course or not. You are an undergraduate student and do not have a plan for pursuing a graduate study. Please reconsider taking this course. This course is NOT an introductory course and you will go through a heavy course load. For the students who have little coding background, **please complete tutorials (MATLAB and Digital Image Processing)**. If you are willing to spend a great deal of your time on learning and developing these kinds of coding tasks, you are fun with the class. 
 
 I do not recommend auditing this course. Implementing the techniques through task assignments and just listening the lectures have a huge gap. Unless you program them by yourself, you make delude yourself that you understand the course materials. 
