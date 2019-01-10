@@ -1,7 +1,8 @@
 # Task0: MATLAB & Digital Image Processing Tutorial
 
 **Announcement**: January 10, 2019  
-**Due Date**: January 19, 2019 (Saturday) before 11:59 pm
+**1st Due Date**: January 19, 2019 (Saturday) before 11:59 pm  
+**2nd Due Date**: January 26, 2019 (Saturday) before 11:59 pm  
 
 The main goal of this task is to develop your programming skill to solve upcoming task assignments throughout the course. You must complete three tutorials (`matrices_arrays.mlx`, `operators_elem_operations.mlx`, `digital_image_processing.mlx`) to solve corresponding problems. Please write your own code to address the following problems:
 
