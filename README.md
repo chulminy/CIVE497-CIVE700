@@ -14,7 +14,7 @@ I do not recommend auditing this course. Implementing the techniques through tas
 
 But, I accept for auditing this class and there is no specific requirement. 
 
-:loudspeaker: : **2019-01-06**: A total of 23 students currently register the course. Since the number of the student is more than 20, we receive one CA student for this course. Our CA is Nicholas Charron. He is a Ph.D candidate in [**SDIC** lab](http://www.civil.uwaterloo.ca/snarasim/).
+:loudspeaker: : **2019-01-06**: A total of 23 students currently register the course. Since the number of the student is more than 20, we receive one CA student for this course. Our CA is Nicholas Charron. He is a Ph.D candidate in [**SDIC lab** ](http://www.civil.uwaterloo.ca/snarasim/).
    
 :loudspeaker: **2018-11-16: If undergraduate students want to register the course, the instructor should confirm it first. Please send an email to the instructor (cmyeum@uwaterloo.ca).**  
 
