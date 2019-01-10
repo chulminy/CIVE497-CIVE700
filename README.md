@@ -1,4 +1,3 @@
-nd
 # CIVE497/CIVE700: Smart Structure Technology (Winter, 2018)
 
 **Instructor:** Chul Min Yeum (E2-2313)  
@@ -27,9 +26,9 @@ But, I accept for auditing this class and there is no specific requirement.
 - [Prerequisite](#prerequisite)
 - [Course Textbook](#course-textbook)
 - [Course Outline](#course-outline)
+- [Tasks](#tasks)
 - [Communication](#communication)
 - [Grading](#grading)
-- [Tasks](#tasks)
 - [Note](#note)
 
 ## Course Description
@@ -55,7 +54,7 @@ This course requires basic knowledge in **linear algebra**, **probability**, and
 
 **Topics**
 * Signal Processing (will be posted in [Course Outline](#course-outline))    
-* [**Digital Image Processing**](tutorial/image_proc): copy this folder in your computer and run `Intro_DIP_V6.mlx` in MATLAB
+* [**Digital Image Processing**](tutorial/image_proc): copy this folder in your computer and run `digital_image_processing.mlx` in MATLAB
 * [**Markdown**](tutorial/markdown)
 
 
@@ -69,7 +68,7 @@ Slides and tutorials are will be updated soon.
 |:----|:-----|:----|:-----|:-----|
 |Class 01|**Introduction I**|[**link**](lecture/introduction)|&nbsp;|&nbsp;|
 |Class 02|**Introduction II**|[**link**](lecture/introduction)|&nbsp;|&nbsp;|
-|Class 03|**Data Acquisition**|&nbsp;|&nbsp;|**Complete all tutorials**|
+|Class 03|**Data Acquisition**|&nbsp;|&nbsp;|[**Task0: Matlab & DIP Tutorials**](task/Task0_Matlab_ImgProc_Tutorials)|
 |Class 04|**Signal Processing I**|&nbsp;|&nbsp;|&nbsp;|
 |Class 05|**Signal Processing II**|&nbsp;|&nbsp;|**Task1:** Signal processing & Modal analysis | 
 |Class 06|**Modal Analysis**|&nbsp;|&nbsp;|&nbsp;| 
@@ -91,7 +90,12 @@ Slides and tutorials are will be updated soon.
 |Class 22|**Neural Network**|&nbsp;|&nbsp;|**Task8:** 2D crack detection using CNN|
 |Class 23|**Convolutional Neural Network**|&nbsp;|&nbsp;|&nbsp;|
 |Class 24|**Presentation**|&nbsp;|&nbsp;|&nbsp;|
- 
+
+## Tasks
+There will be **eight tasks** overall and posted on either weekly or biweekly on this course website. The task will have programming components or photography components, where students will use their own camera to capture and process their own images and discuss the results. The instructor will post two due dates. Students are supposed to complete all tasks and turn their works in by the first due date. After the first due data, some hints and solutions will be posted but, there is 25% deduction in the final mark. After the second due date, the submission of the works will not be accepted unless accompanied by a valid excuse and some additional points might be deducted depending upon the circumstances.  
+
+[**Submission instruction of your work**](#submission-instruction-of-your-work)
+
 ## Communication  
 **All communication will be made through [this course website](https://github.com/chulminy/CIVE497-CIVE700)**, especially for this web page. The instructor will make a note in the ["Announcement"](#announcement) section after updating the web page. Students can configure email notification for by ["watching"](https://help.github.com/articles/watching-and-unwatching-repositories/) this course website or use a version control system for tracking its changes. Thus, **students are responsible for checking the website regularly** for any relevant course information or announcements. 
 
@@ -104,11 +108,6 @@ The final grade will be based on the total marks earned during the semester. Eac
 
 **Undergraduate student**: Task (80%) and Project (20%)  
 **Graduate student**: Task (70%) and Project (30%)  
-
-## Tasks
-There will be **eight tasks** overall and posted on either weekly or biweekly on this course website. The task will have programming components or photography components, where students will use their own camera to capture and process their own images and discuss the results. The instructor will post two due dates. Students are supposed to complete all tasks and turn their works in by the first due date. After the first due data, some hints and solutions will be posted but, there is 25% deduction in the final mark. After the second due date, the submission of the works will not be accepted unless accompanied by a valid excuse and some additional points might be deducted depending upon the circumstances. 
-
-[**Submission instruction of your work**](#submission-instruction-of-your-work)
 
 ## Project 
 Students are encouraged to bring their own problems related to their thesis, research projects or potential research in civil engineering that they plan to pursue near future. This course gives special attention to exploring theory and potential techniques in the field of smart structure to address real problems that students are exposed to or involved in. Thus, students need to devise feasible project topics that are achievable within your current or future graduate study. 
@@ -149,7 +148,7 @@ Text matching software (Turnitin®) may be used to screen assignments in this co
 
 
 ### Submission instruction of your work
-Students must **electronically** turn in both their source code (with data) and report. The report must be written with **Markdown script (GFM)** and all other formats like pdf, docx, or pptx, or in hardcopy are not permitted. A submission guideline will be varied depending on the tasks and provided with each task. 
+Students must **electronically** turn in both their source code (with data) and report. The report must be written with **Markdown script (GFM)** and all other formats like docx, or pptx, or in hardcopy are not permitted. A submission guideline will be varied depending on the tasks and provided with each task. 
 
 Students choose either a **MATLAB** or **Python** to complete the tasks. The source code needs to be neatly organized and include detailed comments. The instructor may run your codes in the instructor's Window computer where MATLAB 2018b and Python above 3.4 are installed. It is recommended to use MATLAB for your work because the instructor does not need to install additional code libraries. However, students can use Python at their own risk that it might not run on the instructor's computer. Pillow and OpenCV for computer vision programming and some basic python packages (e.g. Pandas, NumPy, matplotlib, sklearn, etc) will be installed on the computer. It is recommended that any external code library should not be used unless explicitly mentioned in tasks. **The instructor is not able to install every different libraries on the computer.** If there is a convincing reason for the use of specific libraries, please contact the instructor in advance and exceptions will be made on a case-by-case basis. Note that OS(platform)-dependent functions, scripts or libraries are not permitted. The students must check their report in a Windows computer before its submission.   
 
