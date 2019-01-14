@@ -9,10 +9,8 @@ Last updated: 2019-01-14
 
 ## Announcement
 :loudspeaker: **2019-01-14**: [Slide and tutorial for Class 3 are updated](#course-outline).  
-:loudspeaker: **2019-01-10**: The first task assignment, [**Task0**](#tasks), is posted.   
+:loudspeaker: **2019-01-10**: The first task assignment, [**Task0**](#tasks), is posted (due date: :heavy_exclamation_mark: **Jan 19, 2019**).   
 :loudspeaker: **2018-11-16: If undergraduate students want to register the course, the instructor should confirm it first. Please send an email to the instructor (cmyeum@uwaterloo.ca).**  
-
-2018-10-25: A course syllabus is uploaded at the course website.  
 
 ## Table of Contents
 - [Course Description](#course-description)
@@ -62,7 +60,7 @@ Slides and tutorials are will be updated soon.
 |:----|:-----|:----|:-----|:-----|
 |Class 01|**Introduction I**|[**link**](lecture/introduction)|&nbsp;|&nbsp;|
 |Class 02|**Introduction II**|[**link**](lecture/introduction)|&nbsp;|[**Task0: Matlab & DIP Tutorials**](task/Task0_Matlab_ImgProc_Tutorials)|
-|Class 03|**Data Acquisition**|[**link**](lecture/data_acquisition)|[**link**](tutorial/data_acquisition)|&nbsp;|
+|Class 03|**Data Acquisition**|[**link**](lecture/data_acquisition)|[**link**](tutorial/data_aquisition)|&nbsp;|
 |Class 04|**Signal Processing I**|&nbsp;|&nbsp;|&nbsp;|
 |Class 05|**Signal Processing II**|&nbsp;|&nbsp;|**Task1:** Signal processing & Modal analysis | 
 |Class 06|**Modal Analysis**|&nbsp;|&nbsp;|&nbsp;| 
