@@ -5,18 +5,11 @@
 **Email:** cmyeum@uwaterloo.ca  
 **Office Hours:** Tuesdays and Thursday 10:00 to 11:00 AM at E2-2313 (You can also email for an appointment)  
 
-Last updated: 2018-11-26
+Last updated: 2019-01-14
 
 ## Announcement
+:loudspeaker: **2019-01-14**: [Slide and tutorial for Class 3 are updated](#course-outline).
 :loudspeaker: **2019-01-10**: The first task assignment, [**Task0**](#tasks), is posted.   
-:loudspeaker::loudspeaker::loudspeaker: **2019-01-08**: I help expedite your decision whether to take this course or not. You are an undergraduate student and do not have a plan for pursuing a graduate study. Please reconsider taking this course. This course is NOT an introductory course and you will go through a heavy course load. For the students who have little coding background, **please complete tutorials (MATLAB and Digital Image Processing)**. If you are willing to spend a great deal of your time on learning and developing these kinds of coding tasks, you are fun with the class. 
-
-I do not recommend auditing this course. Implementing the techniques through task assignments and just listening the lectures have a huge gap. Unless you program them by yourself, you make delude yourself that you understand the course materials. 
-
-But, I accept for auditing this class and there is no specific requirement. 
-
-:loudspeaker: : **2019-01-06**: A total of 23 students currently register the course. Since the number of the student is more than 20, we receive one CA student for this course. Our CA is Nicholas Charron. He is a Ph.D candidate in [**SDIC lab** ](http://www.civil.uwaterloo.ca/snarasim/).
-   
 :loudspeaker: **2018-11-16: If undergraduate students want to register the course, the instructor should confirm it first. Please send an email to the instructor (cmyeum@uwaterloo.ca).**  
 
 2018-10-25: A course syllabus is uploaded at the course website.  
@@ -68,8 +61,8 @@ Slides and tutorials are will be updated soon.
 |Class|Topics|Slides|Tutorial|Tasks|
 |:----|:-----|:----|:-----|:-----|
 |Class 01|**Introduction I**|[**link**](lecture/introduction)|&nbsp;|&nbsp;|
-|Class 02|**Introduction II**|[**link**](lecture/introduction)|&nbsp;|&nbsp;|
-|Class 03|**Data Acquisition**|&nbsp;|&nbsp;|[**Task0: Matlab & DIP Tutorials**](task/Task0_Matlab_ImgProc_Tutorials)|
+|Class 02|**Introduction II**|[**link**](lecture/introduction)|&nbsp;|[**Task0: Matlab & DIP Tutorials**](task/Task0_Matlab_ImgProc_Tutorials)|
+|Class 03|**Data Acquisition**|[**link**](lecture/data_acquisition)|[**link**](lecture/data_acquisition)|&nbsp;|
 |Class 04|**Signal Processing I**|&nbsp;|&nbsp;|&nbsp;|
 |Class 05|**Signal Processing II**|&nbsp;|&nbsp;|**Task1:** Signal processing & Modal analysis | 
 |Class 06|**Modal Analysis**|&nbsp;|&nbsp;|&nbsp;| 
