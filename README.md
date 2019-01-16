@@ -8,8 +8,8 @@
 Last updated: 2019-01-14
 
 ## Announcement
-:loudspeaker: **2019-01-16**: For graduate students, please bring your audit forms next class. 
-:loudspeaker: **2019-01-16**: Please check the *Isuues* board to understand and clarify task problems.  
+:loudspeaker: **2019-01-16**: For graduate students, please bring your audit forms next class.     
+:loudspeaker: **2019-01-16**: Please check the *Isuues* board to understand and clarify task problems.   
 :loudspeaker: **2019-01-14**: [Slide and tutorial for Class 3 are updated](#course-outline).  
 :loudspeaker: **2019-01-10**: The first task assignment, [**Task0**](#tasks), is posted (due date: :heavy_exclamation_mark: **Jan 19, 2019**).   
 :loudspeaker: **2018-11-16: If undergraduate students want to register the course, the instructor should confirm it first. Please send an email to the instructor (cmyeum@uwaterloo.ca).**  
