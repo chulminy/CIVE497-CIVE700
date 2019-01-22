@@ -6,7 +6,7 @@
 
 The main goal of this task is to develop your programming skill to solve upcoming task assignments throughout the course. You must complete three tutorials (`matrices_arrays.mlx`, `operators_elem_operations.mlx`, `digital_image_processing.mlx`) to solve corresponding problems. Please write your own code to address the following problems:
 
-**Problem 1**: Solve *exercise 001~003* in `matrices_arrays.mlx` 
+**Problem 1**: Solve *exercise 001~003* in `matrices_arrays.mlx`  
 **Problem 2**: Solve *exercise 001* in `operators_elem_operations.mlx`   
 **Problem 3**: Solve *exercise 001* in `digital_image_processing.mlx`  
 **Problem 4**: Solve *exercise 002* in `digital_image_processing.mlx`  
