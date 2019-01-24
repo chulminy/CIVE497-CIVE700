@@ -5,10 +5,10 @@
 **Email:** cmyeum@uwaterloo.ca  
 **Office Hours:** Tuesdays and Thursday 10:00 to 11:00 AM at E2-2313 (You can also email for an appointment)  
 
-Last updated: 2019-01-14
+Last updated: 2019-01-24
 
 ## Announcement
-:loudspeaker: **2019-01-17**: [Slide and tutorial for Class 6 are updated](#course-outline).    
+:loudspeaker: **2019-01-24**: [Slide and tutorial for Class 6 are updated](#course-outline).    
 :loudspeaker: **2019-01-17**: [Slide and tutorial for Class 4 and 5 are updated](#course-outline).  
 :loudspeaker: **2019-01-16**: Please check the *Isuues* board to understand and clarify task problems.   
 :loudspeaker: **2019-01-14**: [Slide and tutorial for Class 3 are updated](#course-outline).  
