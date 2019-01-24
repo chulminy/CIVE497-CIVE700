@@ -8,12 +8,11 @@
 Last updated: 2019-01-14
 
 ## Announcement
+:loudspeaker: **2019-01-17**: [Slide and tutorial for Class 6 are updated](#course-outline).    
 :loudspeaker: **2019-01-17**: [Slide and tutorial for Class 4 and 5 are updated](#course-outline).  
-:loudspeaker: **2019-01-16**: For graduate students, please bring your audit forms next class.     
 :loudspeaker: **2019-01-16**: Please check the *Isuues* board to understand and clarify task problems.   
 :loudspeaker: **2019-01-14**: [Slide and tutorial for Class 3 are updated](#course-outline).  
 :loudspeaker: **2019-01-10**: The first task assignment, [**Task0**](#tasks), is posted (due date: :heavy_exclamation_mark: **Jan 19, 2019**).   
-:loudspeaker: **2018-11-16: If undergraduate students want to register the course, the instructor should confirm it first. Please send an email to the instructor (cmyeum@uwaterloo.ca).**  
 
 ## Table of Contents
 - [Course Description](#course-description)
@@ -66,7 +65,7 @@ Slides and tutorials are will be updated soon.
 |Class 03|**Data Acquisition**|[**link**](lecture/data_acquisition)|[**link**](tutorial/data_aquisition)|&nbsp;|
 |Class 04|**Signal Processing I**|[**link**](lecture/signal_processing)|[**link**](tutorial/signal_processing)|&nbsp;|
 |Class 05|**Signal Processing II**|[**link**](lecture/signal_processing)|[**link**](tutorial/signal_processing)|**Task1:** Signal processing & Modal analysis | 
-|Class 06|**Modal Analysis**|&nbsp;|&nbsp;|&nbsp;| 
+|Class 06|**Modal Analysis**|[**link**](tutorial/modal_analysis)|[**link**](tutorial/modal_analysis)|&nbsp;| 
 |Class 07|**Digital Image**|&nbsp; |&nbsp;|**Task2:** Camera sensor| 
 |Class 08|**Projective Geometry I**|&nbsp;|[**link**](tutorial/projective_geometry)|&nbsp;| 
 |Class 09|**Projective Geometry II**|&nbsp;|[**link**](tutorial/projective_geometry)|**Task3:** Homography| 
