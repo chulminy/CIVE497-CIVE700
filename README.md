@@ -88,7 +88,7 @@ There will be **eight tasks** overall and posted on either weekly or biweekly on
 
 |Task|Topics|Announcement|1st Due|2nd Due|
 |:----|:-----|:----|:-----|:-----|
-|Task0|[**MATLAB & Digital Image Processing Tutorial** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](task/Task0_Matlab_ImgProc_Tutorials)[Solution](task/Task0_Matlab_ImgProc_Tutorials/solution)|Jan 10, 2019|Jan 19, 2019|Jan 26, 2019|
+|Task0|[**MATLAB & Digital Image Processing Tutorial**](task/Task0_Matlab_ImgProc_Tutorials) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Solution](task/Task0_Matlab_ImgProc_Tutorials/solution)|Jan 10, 2019|Jan 19, 2019|Jan 26, 2019|
 
 ## Communication  
 **All communication will be made through [this course website](https://github.com/chulminy/CIVE497-CIVE700)**, especially for this web page. The instructor will make a note in the ["Announcement"](#announcement) section after updating the web page. Students can configure email notification for by ["watching"](https://help.github.com/articles/watching-and-unwatching-repositories/) this course website or use a version control system for tracking its changes. Thus, **students are responsible for checking the website regularly** for any relevant course information or announcements. 
