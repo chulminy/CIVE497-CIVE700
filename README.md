@@ -8,11 +8,7 @@
 Last updated: 2019-01-24
 
 ## Announcement
-:loudspeaker: **2019-01-24**: [Slides for Class 6 are updated](#course-outline).    
-:loudspeaker: **2019-01-17**: [Slides and tutorial for Class 4 and 5 are updated](#course-outline).  
-:loudspeaker: **2019-01-16**: Please check the *Isuues* board to understand and clarify task problems.   
-:loudspeaker: **2019-01-14**: [Slides and tutorial for Class 3 are updated](#course-outline).  
-:loudspeaker: **2019-01-10**: The first task assignment, [**Task0**](#tasks), is posted (due date: :heavy_exclamation_mark: **Jan 19, 2019**).   
+:loudspeaker: **2019-01-25**: Marked task 0 reports are distributed. Please let the instructor knows if you do not receive the email. The solution for Task 0 is posted [here](task/Task0_Matlab_ImgProc_Tutorials/solution).  
 
 ## Table of Contents
 - [Course Description](#course-description)
@@ -92,7 +88,7 @@ There will be **eight tasks** overall and posted on either weekly or biweekly on
 
 |Task|Topics|Announcement|1st Due|2nd Due|
 |:----|:-----|:----|:-----|:-----|
-|Task0|[**MATLAB & Digital Image Processing Tutorial**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](task/Task0_Matlab_ImgProc_Tutorials)|Jan 10, 2019|Jan 19, 2019|Jan 26, 2019|
+|Task0|[**MATLAB & Digital Image Processing Tutorial** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](task/Task0_Matlab_ImgProc_Tutorials)[Solution](task/Task0_Matlab_ImgProc_Tutorials/solution)|Jan 10, 2019|Jan 19, 2019|Jan 26, 2019|
 
 ## Communication  
 **All communication will be made through [this course website](https://github.com/chulminy/CIVE497-CIVE700)**, especially for this web page. The instructor will make a note in the ["Announcement"](#announcement) section after updating the web page. Students can configure email notification for by ["watching"](https://help.github.com/articles/watching-and-unwatching-repositories/) this course website or use a version control system for tracking its changes. Thus, **students are responsible for checking the website regularly** for any relevant course information or announcements. 
