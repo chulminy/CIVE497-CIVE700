@@ -12,12 +12,12 @@ The main goal of this task is to understand the fundamental of data acquisition 
 
 **(b)** Plot a 3 Hz cosine wave with high sampling rate (nearly analog signal). Please connect sampled points and plot only four cycles of the wave.     
 
-**(c)** Plot the 3 Hz cosine wave after sampling with 10 Hz. Please do not connect sampled points and plot the sampled data from only four cycles of the wave.
+**(c)** Plot the 3 Hz cosine wave after sampling with 10 Hz. Please do not connect sampled points and plot the sampled data for four cycles of the wave.
 
-**(d)** Plot the 6 Hz sine wave after sampling with 12 Hz. Please do not connect sampled points  and plot only four cycles of the wave. Do you think that you can measure this wave if you add a phase angle (&phi;) on the sine wave? for example, the wave is sin(2&pi;ft + &phi;).
+**(d)** Plot the 6 Hz sine wave after sampling with 12 Hz. Please do not connect sampled points  and plot only four cycles of the wave. Do you think that you can measure this wave if you add a phase angle (&phi;) on this sine wave? for example, the wave is sin(2&pi;ft + &phi;).
 
 ## Problem 2: Aliasing (10 points)
-We learned when aliasing occurs and how it is related to the sampling frequency of the data acquisition system. 
+We learned when aliasing occurs and how it is related to the sampling frequency of the data acquisition system.   
 **(a)** A 10 Hz sine wave is sampled at 12 Hz. Compute the alias frequency that can be represented in the resulting sampled signal. Plot the wave and sampled points.
 
 **(b)** A 12 Hz cosine wave is sampled at 12 Hz. Compute the alias frequency that can be represented in the resulting sampled signal. Plot the wave and sampled points.
@@ -29,9 +29,9 @@ We learned when aliasing occurs and how it is related to the sampling frequency 
 If the signal is sampled at 100 Hz, determine the frequency content of the resulting discrete response signal.
 
 ## Problem 3: Issues in Sampling (20 points)
-**(a)** Please explain an quantization error. When do they occur? How to avoid?
+**(a)** Please explain a quantization error. When do they occur? How to avoid?
 
-**(b)** Please explain an clipping error. When do they occur? How to avoid?  
+**(b)** Please explain a clipping error. When do they occur? How to avoid?  
 
 **(c)** Please explain an oversampling issue. When do they occur? What are the consequence of the oversampling? 
 
@@ -50,11 +50,11 @@ and you measured this vibration using your accelerometer and DAQ system. Please 
 
 where f<sub>0</sub> = 10. Please connect sampled points and plot only ten cycles of the wave.  
 
-**(b)** Derive a Fourier series (general form) for **wave1**. You should find analytic equations for coefficients of a<sub>0</sub>, a<sub>n</sub>, and b<sub>n</sub>. 
+**(b)** Derive a Fourier series (general form) of **wave1**. You should find analytic equations for coefficients of a<sub>0</sub>, a<sub>n</sub>, and b<sub>n</sub>. 
 
-**(c)** Derive a Fourier series (complex form) for **wave1**.You should find  an analytic equations for a coefficient of c<sub>n</sub>. 
+**(c)** Derive a Fourier series (complex form) of **wave1**.You should find  an analytic equations for a coefficient of c<sub>n</sub>. 
 
-**(d)** Derive a Fourier series (general form) for **wave2**: 
+**(d)** Derive a Fourier series (general form) of **wave2**: 
 
 ![](https://latex.codecogs.com/gif.latex?y%20%3D%20sin%20%282%20%5Cpi%20f_0%20t%20%29%20%5Ccdot%20sin%20%282%20%5Cpi%20f_0%20t%20%29%20&plus;%205)
 
@@ -77,7 +77,7 @@ Please check the wikipedia [link](https://en.wikipedia.org/wiki/Sawtooth_wave). 
 
 **(c)** Derive a Fourier series (complex form) for the same sawtooth wave.You should find  an analytic equation for a coefficient of c<sub>n</sub>. 
 
-**(d)** Write a code to create and plot approximated sawtooth waves (# of coeffcients(n) = 8)  using the derived Fourier series in the general and complex forms. You should compare the waves from the general and complex forms.   
+**(d)** Write a code to create and plot approximated sawtooth waves (# of coeffcients (n) = 8)  using the derived Fourier series in the general and complex forms. You should compare the waves from the general and complex forms.   
 
 **(e)** Write a code to find numerical Fourier coefficients in the general and complex forms and compare them with the analytic Fourier coefficients found in (b) and (c).  
 
@@ -117,7 +117,7 @@ Compute the Fourier transformation (integral) of the following functions and sho
 	* Please do not include any other text except this subject line.    
 * For writing equations, I recommend the use of latex equations editors introduced in the Markdown tutorial and inserting equation links. However, I also accept for attaching an image of your handwritten equation (but not recommend). 
 * Your report includes your answers and styled codes for questions in the problems.
-* You also submit a single code file that include the codes for all problems.
+* You also submit a single code file that includes the codes for all problems.
 * Please see the sample report format [**here**](Task1_Juanp_BA_000000). 
 * The formats of the folder and files are 
 	* Folder name: Task1_`Your name` _ `Degree` _ `ID` (same with the subject of your email)  
