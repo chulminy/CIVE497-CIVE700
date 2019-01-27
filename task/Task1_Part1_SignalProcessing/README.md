@@ -1,13 +1,13 @@
-# Task1: Signal Processing
+# Task1: Signal Processing I
 
 **Announcement**: January 27, 2019  
 **1st Due Date**: February 03, 2019 (Wednesday) before 11:59 pm  
 **2nd Due Date**: February 10, 2019 (Wednesday) before 11:59 pm  
 
-The main goal of this task is to understand the fundamental of data acquisition system and signal processing. You must study the following two tutorials (`signal_processing_V4.mlx`, `data_aquisition_V3.mlx`) to solve corresponding problems. Please answer each of sub-question in each problem. You may write your own code to solve these questions. 
+The main goal of this task is to understand the fundamental of data acquisition system and signal processing. You must study the following two tutorials (`signal_processing_V4.mlx`, `data_aquisition_V3.mlx`) to solve corresponding problems. Please answer all sub-questions in each problem. You should write your own code to solve these questions. 
 
 ## Problem 1: Sampling (10 points)
-*See Sampling in `data_cquisition_V3.mlx`*
+*See Sampling in `data_cquisition_V3.mlx`*  
 **(a)** What is the difference between a continuous (or analogue) and discrete (or digital) signals? 
 
 **(b)** Plot a 3 Hz cosine wave with high sampling rate (nearly analog signal). Please connect sampled points and plot only four cycles of the wave.     
@@ -35,7 +35,7 @@ If the signal is sampled at 100 Hz, determine the frequency content of the resul
 
 **(c)** Please explain an oversampling issue. When do they occur? What are the consequence of the oversampling? 
 
-**(d)** :star: Assume that a building vibrates with a 10 Hz sine wave: 
+**(d)** Assume that a building vibrates with a 10 Hz sine wave: 
 
 ![](https://latex.codecogs.com/gif.latex?y%20%3D%20sin%20%282%5Cpi%20f_0%20t%29%20%5C%2C%5C%2C%5C%2C%5C%2C%5C%2C%20f_0%20%3D%202)
 
