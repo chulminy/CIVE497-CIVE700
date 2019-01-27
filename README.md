@@ -8,8 +8,8 @@
 Last updated: 2019-01-24
 
 ## Announcement
-:loudspeaker: **2019-01-27**: The task assignment, [**Task 1-1**](task/Task1_Part1_SignalProcessing), is posted (due data: **Feb 03, 2019**). You have to rush through the assignment now. 
-:loudspeaker: **2019-01-25**: Marked task 0 reports are distributed. Please let the instructor knows if you do not receive the email. The solution for Task 0 is posted [here](task/Task0_Matlab_ImgProc_Tutorials/solution).  
+:loudspeaker: **2019-01-27**: The task assignment, [**Task 1-1**](task/Task1_Part1_SignalProcessing), is posted (due data: **Feb 03, 2019**). You have to rush through the assignment now.   
+:loudspeaker: **2019-01-25**: Marked task 0 reports are distributed. Please let the instructor knows if you do not receive the email. The solution for Task 0 is posted [here](task/Task0_Matlab_ImgProc_Tutorials/solution).   
 
 ## Table of Contents
 - [Course Description](#course-description)
