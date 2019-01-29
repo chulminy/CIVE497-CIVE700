@@ -1,8 +1,8 @@
 # Task1: Signal Processing I
 
 **Announcement**: January 27, 2019  
-**1st Due Date**: February 03, 2019 (Wednesday) before 11:59 pm  
-**2nd Due Date**: February 10, 2019 (Wednesday) before 11:59 pm  
+**1st Due Date**: February 03, 2019 (Sunday) before 11:59 pm  
+**2nd Due Date**: February 10, 2019 (Sunday) before 11:59 pm  
 
 The main goal of this task is to understand the fundamental of data acquisition system and signal processing. You must study the following two tutorials (`signal_processing_V4.mlx`, `data_aquisition_V3.mlx`) to solve corresponding problems. Please answer all sub-questions in each problem. You should write your own code to solve these questions. 
 
@@ -37,7 +37,7 @@ If the signal is sampled at 100 Hz, determine the frequency content of the resul
 
 **(d)** Assume that a building vibrates with a 10 Hz sine wave: 
 
-![](https://latex.codecogs.com/gif.latex?y%20%3D%20sin%20%282%5Cpi%20f_0%20t%29%20%5C%2C%5C%2C%5C%2C%5C%2C%5C%2C%20f_0%20%3D%202)
+![](https://latex.codecogs.com/gif.latex?y%20%3D%20sin%20%282%5Cpi%20f_0%20t%29%20%5C%2C%5C%2C%5C%2C%5C%2C%5C%2C%20f_0%20%3D%310)
 
 and you measured this vibration using your accelerometer and DAQ system. Please write a code to create three different sampled signals that are damaged by aliasing, quantization error and clipping error, respectively. Also, generate a signal having an oversampling issue. You should understand the topics of *Aliasing*, *Quantization*, *Clipping*, and *Oversampling* in `data_cquisition_V3.mlx` to solve this problem. You need to explain why your sampled signals contain each of these errors/issue. You can assume any sampling rate, output range, or ADC resolution to generate these signals. Your code should plot these three signals.     
 
@@ -50,11 +50,11 @@ and you measured this vibration using your accelerometer and DAQ system. Please 
 
 where f<sub>0</sub> = 10. Please connect sampled points and plot only ten cycles of the wave.  
 
-**(b)** Derive a Fourier series (general form) of **wave1**. You should find analytic equations for coefficients of a<sub>0</sub>, a<sub>n</sub>, and b<sub>n</sub>. 
+**(b)** Derive a Fourier series (general form) of analytic **wave1**. You should find analytic equations for coefficients of a<sub>0</sub>, a<sub>n</sub>, and b<sub>n</sub>. 
 
-**(c)** Derive a Fourier series (complex form) of **wave1**.You should find  an analytic equations for a coefficient of c<sub>n</sub>. 
+**(c)** Derive a Fourier series (complex form) of analytic **wave1**.You should find  an analytic equations for a coefficient of c<sub>n</sub>. 
 
-**(d)** Derive a Fourier series (general form) of **wave2**: 
+**(d)** Derive a Fourier series (general form) of analytic **wave2**: 
 
 ![](https://latex.codecogs.com/gif.latex?y%20%3D%20sin%20%282%20%5Cpi%20f_0%20t%20%29%20%5Ccdot%20sin%20%282%20%5Cpi%20f_0%20t%20%29%20&plus;%205)
 
