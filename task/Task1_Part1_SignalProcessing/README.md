@@ -67,7 +67,9 @@ Sawtooth wave: [https://en.wikipedia.org/wiki/Sawtooth_wave](https://en.wikipedi
 
 *See Sampling in `data_cquisition_V3.mlx`*
 
-**(a)** Plot a 50Hz sawtooth wave sampled with a 100 Hz sampling rate. Please connect sampled points and plot only ten cycles of the wave.  
+**(a)** Plot only ten cycles of a sawtooth wave:  
+
+![](https://latex.codecogs.com/gif.latex?x%28t%29%20%3D%20t%20-%20floor%28t%29)  
 
 **(b)** Derive a Fourier series (general form) for a sawtooth wave: 
 
