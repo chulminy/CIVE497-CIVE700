@@ -90,7 +90,7 @@ There will be **eight tasks** overall and posted on either weekly or biweekly on
 
 |Task|Topics|Announcement|1st due|2nd due|
 |:----|:-----|:----|:-----|:-----|
-|Task0|[**MATLAB & Digital Image Processing Tutorial**](task/Task0_Matlab_ImgProc_Tutorials) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Solution](task/Task0_Matlab_ImgProc_Tutorials/solution)|Jan 10, 2019|Jan 19, 2019|Jan 26, 2019|
+|Task0|[**MATLAB and Digital Image Processing Tutorial**](task/Task0_Matlab_ImgProc_Tutorials) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>[Solution](task/Task0_Matlab_ImgProc_Tutorials/solution), [Best report (Kareem Mostafa)](task/Task0_Matlab_ImgProc_Tutorials/solution/Rept_Karee_PH_20767080.pdf)|Jan 10, 2019|Jan 19, 2019|Jan 26, 2019|
 |Task1-1|[**Signal Processing I**](task/Task1_Part1_SignalProcessing) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Jan 27, 2019|Feb 03, 2019|Feb 10, 2019|
 |Task2|**Camera Sensor**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Jan 30, 2019|Feb 10, 2019|Feb 15, 2019|
 |Task1-2|**Signal Processing II**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Feb 03, 2019|Feb 13, 2019|Feb 18, 2019|
