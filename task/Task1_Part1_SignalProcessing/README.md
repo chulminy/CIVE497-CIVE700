@@ -42,7 +42,7 @@ If the signal is sampled at 100 Hz, determine the frequency content of the resul
 and you measured this vibration using your accelerometer and DAQ system. Please write a code to create three different sampled signals that are damaged by aliasing, quantization error and clipping error, respectively. Also, generate a signal having an oversampling issue. You should understand the topics of *Aliasing*, *Quantization*, *Clipping*, and *Oversampling* in `data_cquisition_V3.mlx` to solve this problem. You need to explain why your sampled signals contain each of these errors/issue. You can assume any sampling rate, output range, or ADC resolution to generate these signals. Your code should plot these three signals.     
 
 ## Problem 4: Fourier Series 1 (15 points)
-*See Sampling in `data_cquisition_V3.mlx`*
+*See Sampling in `signal_processing_V4.mlx`*
 
 **(a)** Plot a **wave1** sampled with a 100 Hz sampling rate. The **wave1** is 
 
@@ -65,7 +65,7 @@ You should find analytic equations for coefficients of a<sub>0</sub>, a<sub>n</s
 ## Problem 5: Fourier Series 2 (15 points)
 Sawtooth wave: [https://en.wikipedia.org/wiki/Sawtooth_wave](https://en.wikipedia.org/wiki/Sawtooth_wave) 
 
-*See Sampling in `data_cquisition_V3.mlx`*
+*See Sampling in `signal_processing_V4.mlx`*
 
 **(a)** Plot only ten cycles of a sawtooth wave:  
 

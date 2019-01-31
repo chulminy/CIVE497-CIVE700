@@ -8,8 +8,8 @@
 Last updated: 2019-01-30
 
 ## Announcement
+:loudspeaker::loudspeaker: **2019-01-27**: The task assignment, [**Task 1-1**](task/Task1_Part1_SignalProcessing), is posted (due data: **Feb 06, 2019** (changed)). You have to rush through the assignment now.   
 :loudspeaker: **2019-01-31**: [**Slides**](lecture/project_geomtry) and [**tutorials**](tutorial/projective_geometry) for Class 08 and 09 are uploaded.      
-:loudspeaker::loudspeaker: **2019-01-27**: The task assignment, [**Task 1-1**](task/Task1_Part1_SignalProcessing), is posted (due data: **Feb 03, 2019**). You have to rush through the assignment now.   
 :loudspeaker: **2019-01-29**: Slides for [**Class 07**](lecture/camera_sensor) is uploaded.     
 :loudspeaker: **2019-01-25**: Marked task 0 reports are distributed. Please let the instructor knows if you do not receive the email. The solution for Task 0 is posted [here](task/Task0_Matlab_ImgProc_Tutorials/solution).   
 
@@ -92,7 +92,7 @@ There will be **eight tasks** overall and posted on either weekly or biweekly on
 |Task|Topics|Announcement|1st due|2nd due|
 |:----|:-----|:----|:-----|:-----|
 |Task0|[**MATLAB and Digital Image Processing Tutorial**](task/Task0_Matlab_ImgProc_Tutorials) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>[Solution](task/Task0_Matlab_ImgProc_Tutorials/solution), [Best report (Kareem Mostafa)](task/Task0_Matlab_ImgProc_Tutorials/solution/Rept_Karee_PH_20767080.pdf)|Jan 10, 2019|Jan 19, 2019|Jan 26, 2019|
-|Task1-1|[**Signal Processing I**](task/Task1_Part1_SignalProcessing) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Jan 27, 2019|Feb 03, 2019|Feb 10, 2019|
+|Task1-1|[**Signal Processing I**](task/Task1_Part1_SignalProcessing) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Jan 27, 2019|Feb 06, 2019|Feb 10, 2019|
 |Task2|**Camera Sensor**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Jan 31, 2019|Feb 10, 2019|Feb 15, 2019|
 |Task1-2|**Signal Processing II**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Feb 03, 2019|Feb 13, 2019|Feb 18, 2019|
 |Task3|**Homography**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Feb 08, 2019|Feb 23, 2019|Mar 02, 2019|
