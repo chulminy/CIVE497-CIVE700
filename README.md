@@ -8,7 +8,7 @@
 Last updated: 2019-01-30
 
 ## Announcement
-:loudspeaker: **2019-01-31**: [**Slides**](lecture\project_geomtry) and [**tutorials**](tutorial\projective_geometry) for Class 08 and 09 are uploaded.      
+:loudspeaker: **2019-01-31**: [**Slides**](lecture/project_geomtry) and [**tutorials**](tutorial/projective_geometry) for Class 08 and 09 are uploaded.      
 :loudspeaker::loudspeaker: **2019-01-27**: The task assignment, [**Task 1-1**](task/Task1_Part1_SignalProcessing), is posted (due data: **Feb 03, 2019**). You have to rush through the assignment now.   
 :loudspeaker: **2019-01-29**: Slides for [**Class 07**](lecture/camera_sensor) is uploaded.     
 :loudspeaker: **2019-01-25**: Marked task 0 reports are distributed. Please let the instructor knows if you do not receive the email. The solution for Task 0 is posted [here](task/Task0_Matlab_ImgProc_Tutorials/solution).   
