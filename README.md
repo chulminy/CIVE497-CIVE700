@@ -8,7 +8,7 @@
 Last updated: 2019-01-30
 
 ## Announcement
-:loudspeaker::loudspeaker: **2019-01-30**: The office hour tomorrow is the best time to talk about the Task 1-1 in person. Please bring your questions. 
+:loudspeaker: **2019-01-31**: [**Slides**](lecture\project_geomtry) and [**tutorials**](tutorial\projective_geometry) for Class 08 and 09 are uploaded.      
 :loudspeaker::loudspeaker: **2019-01-27**: The task assignment, [**Task 1-1**](task/Task1_Part1_SignalProcessing), is posted (due data: **Feb 03, 2019**). You have to rush through the assignment now.   
 :loudspeaker: **2019-01-29**: Slides for [**Class 07**](lecture/camera_sensor) is uploaded.     
 :loudspeaker: **2019-01-25**: Marked task 0 reports are distributed. Please let the instructor knows if you do not receive the email. The solution for Task 0 is posted [here](task/Task0_Matlab_ImgProc_Tutorials/solution).   
@@ -66,8 +66,8 @@ Slides and tutorials are will be updated soon.
 |Class 05|**Signal Processing II**|[**link**](lecture/signal_processing)|[**link**](tutorial/signal_processing)|**Task1:** Signal processing & Modal analysis | 
 |Class 06|**Modal Analysis**|[**link**](lecture/modal_analysis)|&nbsp;|&nbsp;| 
 |Class 07|**Digital Image**|[**link**](lecture/camera_sensor)|&nbsp;|**Task2:** Camera sensor| 
-|Class 08|**Projective Geometry I**|&nbsp;|[**link**](tutorial/projective_geometry)|&nbsp;| 
-|Class 09|**Projective Geometry II**|&nbsp;|[**link**](tutorial/projective_geometry)|**Task3:** Homography| 
+|Class 08|**Projective Geometry I**|[**link**](lecture/project_geomtry)|[**link**](tutorial/projective_geometry)|&nbsp;| 
+|Class 09|**Projective Geometry II**|[**link**](lecture/project_geomtry)|[**link**](tutorial/projective_geometry)|**Task3:** Homography| 
 |Class 10|**Linear Filtering**|&nbsp;|&nbsp;|&nbsp;| 
 |Class 11|**Edge Detection**|&nbsp;|&nbsp;|**Task4:** 2D crack detection| 
 |Class 12|**Corner Detection**|&nbsp;|&nbsp;|&nbsp;|  
