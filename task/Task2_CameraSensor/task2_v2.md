@@ -26,11 +26,7 @@ The main goal of this task is to learn a working principle of a digital camera a
 ## Note
 * You are permitted to discuss the task with your colleague. 
 * You must not share your images with your colleague.
-* To read metadata in your photo, you can use 
-
-http://metapicz.com/#landing
-http://exif.regex.info/exif.cgi
-
+* To read metadata in your photo, you can use the following website: [http://metapicz.com/#landing](http://metapicz.com/#landing)  
 * You must include information of each of your own photo regarding a camera model and settings:  
 	* Camera make
 	* Camera model
@@ -49,17 +45,18 @@ Here is the sample of inserting your images in your report:
 
 |Metadata|Image 1|Image 2|Image 2|
 |:----|:-----|:----|:----|
-|Image|<img align="center" width="200" src="http://www.fillmurray.com/100/100">|<img align="center" width="200" src="http://www.fillmurray.com/100/100">|<img align="center" width="200" src="http://www.fillmurray.com/100/100">|
-|Model|Image 1|Image 2|Image 3|
-|Data and time|Image 1|Image 2|Image 3|
-|Image file type|Image 1|Image 2|Image 3|
-|Resolution|Image 1|Image 2|Image 3|
-|Focal length|Image 1|Image 2|Image 3|
-|Shutter speed|Image 1|Image 2|Image 3|
-|ISO|Image 1|Image 2|Image 3|
-|F-number|Image 1|Image 2|Image 3|
-|Mode|Image 1|Image 2|Image 3|
-|GPS|Image 1|Image 2|Image 3|
+|Image|<img align="center" width="200" src="IMG_0003.JPG">|<img align="center" width="200" src="IMG_0004.JPG">|<img align="center" width="200" src="IMG_0007.JPG">|
+|Make|Canon|Canon|Canon|
+|Model|EOS Rebel T6|EOS Rebel T6|EOS Rebel T6|
+|Data and time|2019:01:30 11:10:02|2019:01:30 11:11:24|2019:01:30 11:11:53|
+|Image file type|JPEG|JPEG|JPEG|
+|Resolution|5184x3456|5184x3456|5184x3456|
+|Focal length|18.0 mm|55.0 mm|55.0 mm|
+|Exposure|1/10|1/100|1/800|
+|ISO|320|1600|3200|
+|F-number|5.6|5.6|36|
+|GPS|None|None|None|
+|Flash|Off|Off|Off|
 
 ## Submission of Your Work
 * You should turn in a report with images used to uw.task@gmail.com. When you send your email, please cc your email for future reference.  
