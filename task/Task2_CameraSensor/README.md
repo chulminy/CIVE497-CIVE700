@@ -1,17 +1,17 @@
 # Task2: Camera Sensor and Digital Image
-**Announcement**: January 30, 2019  
-**1st Due Date**: February 10, 2019 (Sunday) before 11:59 pm  
-**2nd Due Date**: February 15, 2019 (Sunday) before 11:59 pm  
+**Announcement**: February 04, 2019  
+**1st due date**: February 10, 2019 (Sunday) before 11:59 pm  
+**2nd due date**: February 15, 2019 (Sunday) before 11:59 pm  
 
 The main goal of this task is to learn a working principle of a digital camera and take quality photos using your camera. Students are encouraged to search for and study relevant information on the web, such as wiki, article, or tutorial videos. Then, please answer the following questions:   
 
-**Q1. What is a good image sensor? Why do the high-end DSLR expensive?**  
+**Q1. What is a good image sensor? Why are the high-end DSLR cameras expensive?**  
 
 **Q2. What is the difference between optical and digital zooms?**
 
-> **(Q3~Q8)** Please explain and demonstrate the following functions/effects using your own images. Also, you can also explain when you change their values on a camera. Your answers are graded based on both the correctness and extensively considering different possible situations. Your answers do not have to be lengthy but should not be short. Note that you are allowed to use the DSLR images provided but you need to provide a suitable reason for why your smartphone camera cannot take the corresponding images. You can download the images from [**here**]().
+> **(Q3~Q8)** Please explain and demonstrate the following functions/effects using your own images. Also, you can also explain when you change their values on a camera. Your answers are graded based on both the correctness and extensively considering various potential situations. Your answers do not have to be lengthy but should not be short. Note that you are allowed to use the DSLR images provided but you need to provide a suitable reason for why your smartphone camera cannot take the corresponding images. You can download the instructor's images from [**here**]().
  
-**Q3. Shutter speed**
+**Q3. Shutter speed (Exposure time)**
 
 **Q4. Aperture**
 
@@ -24,8 +24,8 @@ The main goal of this task is to learn a working principle of a digital camera a
 **Q8. Field of view**
 
 ## Note
-* You are permitted to discuss the task with your colleague. 
-* You must not share your images with your colleague.
+* You are permitted to discuss the task with your colleagues. 
+* You must not share your images with your colleagues.
 * To read metadata in your photo, you can use the following website: [http://metapicz.com/#landing](http://metapicz.com/#landing)  
 * You must include information of each of your own photo regarding a camera model and settings:  
 	* Camera make
@@ -34,14 +34,13 @@ The main goal of this task is to learn a working principle of a digital camera a
 	* Image file type
 	* Image resolution
 	* Focal length
-	* Shutter speed (Exposure time)
+	* Exposure time  
 	* ISO
-	* F-number (Aperture)
-	* Mode
+	* F-number
 	* GPS 
 	* Flash
 
-Here is the sample of inserting your images in your report:  
+Here is the way of inserting your images in your report:  
 
 |Metadata|Image 1|Image 2|Image 2|
 |:----|:-----|:----|:----|
@@ -50,7 +49,7 @@ Here is the sample of inserting your images in your report:
 |Model|EOS Rebel T6|EOS Rebel T6|EOS Rebel T6|
 |Data and time|2019:01:30 11:10:02|2019:01:30 11:11:24|2019:01:30 11:11:53|
 |Image file type|JPEG|JPEG|JPEG|
-|Resolution|5184x3456|5184x3456|5184x3456|
+|Resolution|5184 x 3456|5184 x 3456|5184 x 3456|
 |Focal length|18.0 mm|55.0 mm|55.0 mm|
 |Exposure|1/10|1/100|1/800|
 |ISO|320|1600|3200|
