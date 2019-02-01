@@ -91,7 +91,7 @@ There will be **eight tasks** overall and posted on either weekly or biweekly on
 
 |Task|Topics|Announcement|1st due|2nd due|
 |:----|:-----|:----|:-----|:-----|
-|Task0|[**MATLAB and Digital Image Processing Tutorial**](task/Task0_Matlab_ImgProc_Tutorials) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>[Solution](task/Task0_Matlab_ImgProc_Tutorials/solution), [Best report (Kareem Mostafa)](task/Task0_Matlab_ImgProc_Tutorials/solution/Rept_Karee_PH_20767080.pdf)|Jan 10, 2019|Jan 19, 2019|Jan 26, 2019|
+|Task0|[**MATLAB and Digital Image Processing Tutorial**](task/Task0_Matlab_ImgProc_Tutorials) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> [Best report (Kareem Mostafa)](task/Task0_Matlab_ImgProc_Tutorials/solution/Rept_Karee_PH_20767080.pdf)|Jan 10, 2019|Jan 19, 2019|Jan 26, 2019|
 |Task1-1|[**Signal Processing I**](task/Task1_Part1_SignalProcessing) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Jan 27, 2019|Feb 06, 2019|Feb 10, 2019|
 |Task2|**Camera Sensor**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Jan 31, 2019|Feb 10, 2019|Feb 15, 2019|
 |Task1-2|**Signal Processing II**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Feb 03, 2019|Feb 13, 2019|Feb 18, 2019|
@@ -113,6 +113,14 @@ The final grade will be based on the total marks earned during the semester. Eac
 
 ## Project 
 Students are encouraged to bring their own problems related to their thesis, research projects or potential research in civil engineering that they plan to pursue near future. This course gives special attention to exploring theory and potential techniques in the field of smart structure to address real problems that students are exposed to or involved in. Thus, students need to devise feasible project topics that are achievable within your current or future graduate study. 
+
+|**Member1**|**Member2**|**Topics**|
+|:----|:-----|:-----|
+|Tianyi Yu| Shuai Yuan|**Smart Assistance Platform for Pipe Inspection:** The aim of the project is to build an assistance tool to detect anomalies by processing pipe inspection videos and thus reduce the subjectivity, risk of human error, and amount of uncertainty in the inspection process.|
+|Kareem Mostafa| |**Using captured images to monitor project progress and calculate performance indices:** The project intends to compare captured images/time lapse videos of an ongoing project and compare it to images of what the final project should be (e.g. exported from a BIM model) to calculate activity/project completion percentages.  |
+|Laurent Gerin| |**Using computer vision to analyze pictures of steel beams and identify components** | 
+
+**Students who are looking for a topic**: Steven Cho, Philip Cooper, Hongyi Liu, Kareem Mostafa, Sahil Tadwalkar, Nils Wildt, Linqing Zhang
 
 [**Guideline for the project**](#guideline-for-the-project)
 
