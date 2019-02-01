@@ -120,7 +120,7 @@ Students are encouraged to bring their own problems related to their thesis, res
 |Kareem Mostafa| |**Using captured images to monitor project progress and calculate performance indices:** The project intends to compare captured images/time lapse videos of an ongoing project and compare it to images of what the final project should be (e.g. exported from a BIM model) to calculate activity/project completion percentages.  |
 |Laurent Gerin| |**Using computer vision to analyze pictures of steel beams and identify components** | 
 
-**Students who are looking for a topic**: Steven Cho, Philip Cooper, Hongyi Liu, Kareem Mostafa, Sahil Tadwalkar, Nils Wildt, Linqing Zhang
+**Students who are looking for a topic**: Steven Cho, Philip Cooper, Hongyi Liu, Sahil Tadwalkar, Nils Wildt, Linqing Zhang, Juan Park, Max Midwinter, Zaid Al-Sabbag
 
 [**Guideline for the project**](#guideline-for-the-project)
 
