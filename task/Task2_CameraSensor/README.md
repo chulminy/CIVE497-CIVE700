@@ -1,7 +1,7 @@
 # Task2: Camera Sensor and Digital Image
-**Announcement**: February 04, 2019  
-**1st due date**: February 10, 2019 (Sunday) before 11:59 pm  
-**2nd due date**: February 15, 2019 (Sunday) before 11:59 pm  
+**Announcement**: February 01, 2019   
+**1st due date**: February 09, 2019 (Saturday) before 11:59 pm  
+**2nd due date**: February 16, 2019 (Saturday) before 11:59 pm  
 
 The main goal of this task is to learn a working principle of a digital camera and take quality photos using your camera. Students are encouraged to search for and study relevant information on the web, such as wiki, article, or tutorial videos. Then, please answer the following questions:   
 
@@ -9,7 +9,7 @@ The main goal of this task is to learn a working principle of a digital camera a
 
 **Q2. What is the difference between optical and digital zooms?**
 
-> **(Q3~Q8)** Please explain and demonstrate the following functions/effects using your own images. Also, you can also explain when you change their values on a camera. Your answers are graded based on both the correctness and extensively considering various potential situations. Your answers do not have to be lengthy but should not be short. Note that you are allowed to use the DSLR images provided but you need to provide a suitable reason for why your smartphone camera cannot take the corresponding images. You can download the instructor's images from [**here**]().
+> **(Q3~Q8)** Please explain and demonstrate the following functions/effects using your own images. Also, you can also explain when you change their values on a camera. Your answers are graded based on both the correctness and extensively considering various potential situations. Your answers do not have to be lengthy but should not be short. Note that you are allowed to use the DSLR images provided but you need to provide a suitable reason for why your smartphone camera cannot take the corresponding images. You can download the instructor's images from [**here**]() (**will be updated**).
  
 **Q3. Shutter speed (Exposure time)**
 
