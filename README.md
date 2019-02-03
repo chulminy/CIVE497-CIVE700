@@ -8,7 +8,7 @@
 Last updated: 2019-01-30
 
 ## Announcement
-:loudspeaker::loudspeaker: **2019-02-01**: The task assignment, [**Task 2**](task/Task2_CameraSensor), is posted (due data: **Feb 09, 2019**). The instructor's images will be posted next Monday.  
+:loudspeaker::loudspeaker: **2019-02-01**: The task assignment, [**Task 2**](task/Task2_CameraSensor), is posted (due data: **Feb 09, 2019**). The instructor's images will be posted next Monday.   
 :loudspeaker::loudspeaker: **2019-01-27**: The task assignment, [**Task 1-1**](task/Task1_Part1_SignalProcessing), is posted (due data: **Feb 06, 2019** (changed)). You have to rush through the assignment now.   
 :loudspeaker: **2019-01-31**: [**Slides**](lecture/project_geomtry) and [**tutorials**](tutorial/projective_geometry) for Class 08 and 09 are uploaded.      
 
@@ -112,6 +112,14 @@ The final grade will be based on the total marks earned during the semester. Eac
 
 ## Project 
 Students are encouraged to bring their own problems related to their thesis, research projects or potential research in civil engineering that they plan to pursue near future. This course gives special attention to exploring theory and potential techniques in the field of smart structure to address real problems that students are exposed to or involved in. Thus, students need to devise feasible project topics that are achievable within your current or future graduate study. 
+
+|**Member1**|**Member2**|**Topics**|
+|:----|:-----|:-----|
+|Tianyi Yu| Shuai Yuan|**Smart Assistance Platform for Pipe Inspection:** The aim of the project is to build an assistance tool to detect anomalies by processing pipe inspection videos and thus reduce the subjectivity, risk of human error, and amount of uncertainty in the inspection process.|
+|Kareem Mostafa| |**Using captured images to monitor project progress and calculate performance indices:** The project intends to compare captured images/time lapse videos of an ongoing project and compare it to images of what the final project should be (e.g. exported from a BIM model) to calculate activity/project completion percentages.  |
+|Laurent Gerin| |**Using computer vision to analyze pictures of steel beams and identify components** | 
+
+**Students who are looking for a topic**: Steven Cho, Philip Cooper, Hongyi Liu, Sahil Tadwalkar, Nils Wildt, Linqing Zhang, Juan Park, Max Midwinter, Zaid Al-Sabbag
 
 [**Guideline for the project**](#guideline-for-the-project)
 
