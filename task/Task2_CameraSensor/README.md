@@ -9,7 +9,7 @@ The main goal of this task is to learn a working principle of a digital camera a
 
 **Q2. What is the difference between optical and digital zooms?**
 
-> **(Q3~Q8)** Please explain and demonstrate the following functions/effects using your own images. Also, you can also explain when you change their values on a camera. Your answers are graded based on both the correctness and extensively considering various potential situations. Your answers do not have to be lengthy but should not be short. Note that you are allowed to use the DSLR images provided but you need to provide a suitable reason for why your smartphone camera cannot take the corresponding images. You can download the instructor's images from [**here**]() (**will be updated**).
+> **(Q3~Q8)** Please explain and demonstrate the following functions/effects using your own images. Also, you can also explain when you change their values on a camera. Your answers are graded based on both the correctness and extensively considering various potential situations. Your answers do not have to be lengthy but should not be short. Note that you are allowed to use the DSLR images provided but you need to provide a suitable reason for why your smartphone camera cannot take the corresponding images. You can download the instructor's images from [**here**](https://www.dropbox.com/s/3setnfjjq18ekg1/img_cive497.zip?dl=0).
  
 **Q3. Shutter speed (Exposure time)**
 

@@ -8,7 +8,7 @@
 Last updated: 2019-01-30
 
 ## Announcement
-:loudspeaker::loudspeaker: **2019-02-01**: The task assignment, [**Task 2**](task/Task2_CameraSensor), is posted (due data: **Feb 09, 2019**). The instructor's images will be posted next Monday.  
+:loudspeaker::loudspeaker: **2019-02-01**: The task assignment, [**Task 2**](task/Task2_CameraSensor), is posted (due data: **Feb 09, 2019**). The instructor's images are posted.  
 :loudspeaker::loudspeaker: **2019-01-27**: The task assignment, [**Task 1-1**](task/Task1_Part1_SignalProcessing), is posted (due data: **Feb 06, 2019** (changed)). You have to rush through the assignment now.   
 :loudspeaker: **2019-01-31**: [**Slides**](lecture/project_geomtry) and [**tutorials**](tutorial/projective_geometry) for Class 08 and 09 are uploaded.      
 
