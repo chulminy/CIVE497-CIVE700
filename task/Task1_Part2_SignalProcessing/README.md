@@ -43,10 +43,10 @@ The main goal of this task is to understand the fundamental of data acquisition 
 ![](https://latex.codecogs.com/gif.latex?X_s%28f%29)&nbsp; and &nbsp; ![](https://latex.codecogs.com/gif.latex?X%28k%29),    
 
 ## Problem 4: Discrete Fourier Transform 3 (20 points) - Use FFT
-![](https://latex.codecogs.com/gif.latex?y1(t)%20%3D%20e%5E%7B-a%7Ct%7C%7D%20%28b*cos%7B2%20%5Cpi%20f_1%20t%7D%20&plus;%20c*cos%7B2%20%5Cpi%20f_2%20t%7D%20%29) &nbsp;&nbsp;&nbsp;&nbsp; where a = 2, b = 2, c= 6, f<sub>1</sub> = 3, and f<sub>2</sub> = 6 
+![](https://latex.codecogs.com/gif.latex?y_1%28t%29%20%3D%20e%5E%7B-a%5Cleft%20%7C%20t%20%5Cright%20%7C%7D%28b%5Ccdot%20cos2%5Cpi%20f_1t%20&plus;%20c%5Ccdot%20cos2%5Cpi%20f_2t%29) &nbsp;&nbsp;&nbsp;&nbsp; where a = 2, b = 2, c= 6, f<sub>1</sub> = 3, and f<sub>2</sub> = 6 
 
 
-![](https://latex.codecogs.com/gif.latex?y2(t)%20%3D%20e%5E%7B-a%7Ct%7C%7D%20%28b*cos%7B2%20%5Cpi%20f_1%20t%7D%20&plus;%20c*cos%7B2%20%5Cpi%20f_2%20t%7D%20%29) &nbsp;&nbsp;&nbsp;&nbsp; where a = 0.3, b = 10, c= 3, f<sub>1</sub> = 5, and f<sub>2</sub> = 8 
+![](https://latex.codecogs.com/gif.latex?y_2%28t%29%20%3D%20e%5E%7B-a%5Cleft%20%7C%20t%20%5Cright%20%7C%7D%28b%5Ccdot%20cos2%5Cpi%20f_1t%20&plus;%20c%5Ccdot%20cos2%5Cpi%20f_2t%29) &nbsp;&nbsp;&nbsp;&nbsp; where a = 0.3, b = 10, c= 3, f<sub>1</sub> = 5, and f<sub>2</sub> = 8 
 
 **(a)** z1 and z2 are discrete signals, which are obtained by digitizing y1(t) and y2(t) with a sampling rate of 50 Hz and collecting them for 5 seconds, respectively. Please plot z1 and z2 in the time domain (include a proper time axis).  
 

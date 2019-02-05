@@ -102,7 +102,8 @@ Compute the Fourier transformation (integral) of the following functions and sho
 
 **(a)** Compute the Fourier transformation (integral) of the following function
 
-![](https://latex.codecogs.com/gif.latex?y%20%3D%20e%5E%7B-a%7Ct%7C%7D%20%28b*cos%7B2%20%5Cpi%20f_1%20t%7D%20&plus;%20c*cos%7B2%20%5Cpi%20f_2%20t%7D%20%29)
+![](https://latex.codecogs.com/gif.latex?y%28t%29%20%3D%20e%5E%7B-a%5Cleft%20%7C%20t%20%5Cright%20%7C%7D%28b%5Ccdot%20cos2%5Cpi%20f_1t%20&plus;%20c%5Ccdot%20cos2%5Cpi%20f_2t%29)
+
 
 **(b)** Plot y in time domain and frequency domain, where a = 1, b = 2, c= 6, f<sub>1</sub> = 3, and f<sub>2</sub> = 6 
 
