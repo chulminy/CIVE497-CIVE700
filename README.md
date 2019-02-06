@@ -5,9 +5,10 @@
 **Email:** cmyeum@uwaterloo.ca  
 **Office Hours:** Tuesdays and Thursday 10:00 to 11:00 AM at E2-2313 (You can also email for an appointment)  
 
-Last updated: 2019-01-30
+Last updated: 2019-02-06
 
 ## Announcement
+:loudspeaker::loudspeaker: **2019-02-06**: The task assignment, [**Task 1-2**](task/Task1_Part2_SignalProcessing), is posted (due data: **Feb 16, 2019**).   
 :loudspeaker::loudspeaker: **2019-02-01**: The task assignment, [**Task 2**](task/Task2_CameraSensor), is posted (due data: **Feb 09, 2019**). The instructor's images are posted.  
 :loudspeaker::loudspeaker: **2019-01-27**: The task assignment, [**Task 1-1**](task/Task1_Part1_SignalProcessing), is posted (due data: **Feb 06, 2019** (changed)). You have to rush through the assignment now.   
 :loudspeaker: **2019-01-31**: [**Slides**](lecture/project_geomtry) and [**tutorials**](tutorial/projective_geometry) for Class 08 and 09 are uploaded.      
@@ -93,7 +94,7 @@ There will be **eight tasks** overall and posted on either weekly or biweekly on
 |Task0|[**MATLAB and Digital Image Processing Tutorial**](task/Task0_Matlab_ImgProc_Tutorials) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> [Best report (Kareem Mostafa)](task/Task0_Matlab_ImgProc_Tutorials/solution/Rept_Karee_PH_20767080.pdf)|Jan 10, 2019|Jan 19, 2019|Jan 26, 2019|
 |Task1-1|[**Signal Processing I**](task/Task1_Part1_SignalProcessing) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Jan 27, 2019|Feb 06, 2019|Feb 10, 2019|
 |Task2|[**Camera Sensor**](task/Task2_CameraSensor)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Feb 01, 2019|Feb 09, 2019|Feb 16, 2019|
-|Task1-2|**Signal Processing II**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Feb 06, 2019|Feb 16, 2019|Feb 23, 2019|
+|Task1-2|[**Signal Processing II**](task/Task1_Part2_SignalProcessing)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Feb 06, 2019|Feb 16, 2019|Feb 23, 2019|
 |Task3|**Homography**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Feb 08, 2019|Feb 23, 2019|Mar 02, 2019|
 |Task4|**Crack Detection**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Feb 14, 2019|Feb 27, 2019|Mar 06, 2019|
 
