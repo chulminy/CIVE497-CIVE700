@@ -8,6 +8,7 @@
 Last updated: 2019-02-06
 
 ## Announcement
+:loudspeaker: **2019-02-07**: [**Slides**](lecture/linear_filtering) and [**tutorials**](tutorial/linear_filtering) for Class 10 are uploaded.      
 :loudspeaker::loudspeaker: **2019-02-06**: The task assignment, [**Task 1-2**](task/Task1_Part2_SignalProcessing), is posted (due data: **Feb 16, 2019**).   
 :loudspeaker::loudspeaker: **2019-02-01**: The task assignment, [**Task 2**](task/Task2_CameraSensor), is posted (due data: **Feb 09, 2019**). The instructor's images are posted.  
 :loudspeaker::loudspeaker: **2019-01-27**: The task assignment, [**Task 1-1**](task/Task1_Part1_SignalProcessing), is posted (due data: **Feb 06, 2019** (changed)). You have to rush through the assignment now.   
@@ -68,7 +69,7 @@ Slides and tutorials are will be updated soon.
 |Class 07|**Digital Image**|[**link**](lecture/camera_sensor)|&nbsp;|**Task2:** Camera sensor| 
 |Class 08|**Projective Geometry I**|[**link**](lecture/project_geomtry)|[**link**](tutorial/projective_geometry)|&nbsp;| 
 |Class 09|**Projective Geometry II**|[**link**](lecture/project_geomtry)|[**link**](tutorial/projective_geometry)|**Task3:** Homography| 
-|Class 10|**Linear Filtering**|&nbsp;|&nbsp;|&nbsp;| 
+|Class 10|**Linear Filtering**|[**link**](lecture/linear_filtering)|[**link**](tutorial/linear_filtering)|&nbsp;| 
 |Class 11|**Edge Detection**|&nbsp;|&nbsp;|**Task4:** 2D crack detection| 
 |Class 12|**Corner Detection**|&nbsp;|&nbsp;|&nbsp;|  
 |Class 13|**Feature (SIFT)**|&nbsp;|&nbsp;|&nbsp;|
