@@ -8,11 +8,11 @@
 Last updated: 2019-02-08
 
 ## Announcement
-:loudspeaker: **2019-02-08**: I'm going to schedule individual or team meetings regarding your class project. Please pick a single time slot in the ![**poll**](https://doodle.com/poll/t9s6azr2pvf5tpze). You need to prepare your 20 minute meeting following this guideline:    
+:loudspeaker: **2019-02-08**: I'm going to schedule individual or team meetings regarding your class project. Please pick a single time slot in the [**poll**](https://doodle.com/poll/t9s6azr2pvf5tpze). You need to prepare your 20 minute meeting following this guideline:    
 
 - **Individual/team meeting (4th week)**: Individuals or teams need to schedule a separate meeting with the instructor so that the project ideas are refined together. The instructor encourages the individual/team preparing and bringing relevant slides or reading materials to the meeting. In the case of the team project, all members must agree on the direction and scope of their project before having a meeting with the instructor. They also can take advantage of office hours or separate meetings if further discussion is needed.  
 
-:loudspeaker: **2019-02-08**: Please check a new schedule for task assignments. **The deadline of Task 1-2 and Task 2 are delayed for a few days.**
+:loudspeaker: **2019-02-08**: Please check a new schedule for task assignments. **The deadline of Task 1-2 and Task 2 are delayed for a few days.**  
 :loudspeaker: **2019-02-07**: [**Slides**](lecture/linear_filtering) and [**tutorials**](tutorial/linear_filtering) for Class 10 are uploaded.      
 :loudspeaker::loudspeaker: **2019-02-06**: The task assignment, [**Task 1-2**](task/Task1_Part2_SignalProcessing), is posted (due data: **Feb 16, 2019**).   
 :loudspeaker::loudspeaker: **2019-02-01**: The task assignment, [**Task 2**](task/Task2_CameraSensor), is posted (due data: **Feb 09, 2019**). The instructor's images are posted.  
