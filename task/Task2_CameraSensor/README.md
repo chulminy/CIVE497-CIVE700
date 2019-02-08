@@ -1,6 +1,6 @@
 # Task2: Camera Sensor and Digital Image
 **Announcement**: February 01, 2019   
-**1st due date**: February 09, 2019 (Saturday) before 11:59 pm  
+**1st due date**: February 11, 2019 (Monday) before 11:59 pm  
 **2nd due date**: February 16, 2019 (Saturday) before 11:59 pm  
 
 The main goal of this task is to learn a working principle of a digital camera and take quality photos using your camera. Students are encouraged to search for and study relevant information on the web, such as wiki, article, or tutorial videos. Then, please answer the following questions:   

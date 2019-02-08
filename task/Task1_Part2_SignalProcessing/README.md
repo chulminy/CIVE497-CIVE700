@@ -1,7 +1,7 @@
 # Task1-2: Signal Processing II
 
 **Announcement**: February 06, 2019  
-**1st due date**: February 16, 2019 (Saturday) before 11:59 pm  
+**1st due date**: February 18, 2019 (Monday) before 11:59 pm  
 **2nd due date**: February 23, 2019 (Saturday) before 11:59 pm  
 
 The main goal of this task is to understand the fundamental of data acquisition system and signal processing. You must study the following two tutorials (`signal_processing_V4.mlx`, `data_aquisition_V3.mlx`) to solve the corresponding problems. Please answer all sub-questions in each problem. You should write your own code to solve these questions. 
