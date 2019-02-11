@@ -8,6 +8,8 @@
 Last updated: 2019-02-08
 
 ## Announcement
+:loudspeaker::loudspeaker: **2019-02-11**: **Correction** There are typos. Please check the definition of f(t) and g(t) in Problem 1, and (c) in Problem 4. Thanks, Kareem and Mansour.     
+
 :loudspeaker: **2019-02-08**: I'm going to schedule individual or team meetings regarding your class project. Please pick a single time slot in the [**poll**](https://doodle.com/poll/t9s6azr2pvf5tpze). You need to prepare your 20 minute meeting following this guideline:    
 
 - **Individual/team meeting (4th week)**: Individuals or teams need to schedule a separate meeting with the instructor so that the project ideas are refined together. The instructor encourages the individual/team preparing and bringing relevant slides or reading materials to the meeting. In the case of the team project, all members must agree on the direction and scope of their project before having a meeting with the instructor. They also can take advantage of office hours or separate meetings if further discussion is needed.  

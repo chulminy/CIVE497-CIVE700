@@ -8,7 +8,7 @@ The main goal of this task is to understand the fundamental of data acquisition 
 
 ## Problem 1: Convolution (10 points)
 
-![](https://latex.codecogs.com/gif.latex?f%28t%29%3Dg%28t%29%3D%5Cbegin%7BBmatrix%7D%20A%2C%20%5C%3B%5C%3B%5C%3B%5C%3B%5C%3B%5C%3B%20t%3C%5Cleft%20%7C%20a%20%5Cright%20%7C%20%5C%5C%200%2C%20%5C%3B%5C%3B%20otherwise%20%5Cend%7BBmatrix%7D)
+![](https://latex.codecogs.com/gif.latex?f%28t%29%3Dg%28t%29%3D%5Cbegin%7BBmatrix%7D%20A%2C%20%5C%3B%5C%3B%5C%3B%5C%3B%5C%3B%5C%3B%20a%3E%5Cleft%20%7C%20t%20%5Cright%20%7C%20%5C%5C%200%2C%20%5C%3B%5C%3B%20otherwise%20%5Cend%7BBmatrix%7D)
 
 **(a)** Compute an analytic y(t) which is the convolution of f(t) and g(t):
 
@@ -52,7 +52,7 @@ The main goal of this task is to understand the fundamental of data acquisition 
 
 **(b)** Perform the discrete Fourier transform of z1 and z2, and plot your graphs in the frequency domain (include a proper frequency axis). Plot only positive frequency signals.
 
-**(c)** Please compare the shape of the frequency curves of z1 and z2. Which frequency curve is thinner (more narrow)? For example, compare the frequency curve at 3 Hz in (b) and 5 Hz in (d). Which one is thinner? Please explain your answer. What makes the difference? 
+**(c)** Please compare the shape of the frequency curves of z1 and z2. Which frequency curve is thinner (more narrow)? For example, compare the frequency curve at f<sub>1</sub> in both graphs. Which one is thinner? Please explain your answer. What makes the difference? 
 
 ## Problem 5: Discrete Fourier Transform 2 (30 points) - Use FFT
 
