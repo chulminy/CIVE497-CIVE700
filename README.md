@@ -5,18 +5,18 @@
 **Email:** cmyeum@uwaterloo.ca  
 **Office Hours:** Tuesdays and Thursday 10:00 to 11:00 AM at E2-2313 (You can also email for an appointment)  
 
-Last updated: 2019-02-08
+Last updated: 2019-02-12
 
 ## Announcement
-:loudspeaker::loudspeaker: **2019-02-12**: **Class Donut Day** To refresh and ease your mind while you work at task assignments, I will provide donuts and coffee at the class on Thursday (Feb 14). Have a breakfast at class. 
-
-:loudspeaker::loudspeaker: **2019-02-11**: **Correction** There are typos. Please check the definition of f(t) and g(t) in Problem 1, and (c) in Problem 4. Thanks, Kareem and Mansour.     
+:loudspeaker::loudspeaker: **2019-02-12** **(Class Donut Day)**: To refresh and ease your mind while you work at task assignments, I will provide donuts and coffee at the class on Thursday (Feb 14). Have your breakfast at class. 
 
 :loudspeaker: **2019-02-12**: Due to the university close today, today's meetings are canceled. Please reschedule your meeting. Please pick a single time slot in the [**poll**](https://doodle.com/poll/t9s6azr2pvf5tpze). You need to prepare your 20 minute meeting following this guideline:    
 
 - **Individual/team meeting (4th week)**: Individuals or teams need to schedule a separate meeting with the instructor so that the project ideas are refined together. The instructor encourages the individual/team preparing and bringing relevant slides or reading materials to the meeting. In the case of the team project, all members must agree on the direction and scope of their project before having a meeting with the instructor. They also can take advantage of office hours or separate meetings if further discussion is needed.  
 
 :loudspeaker::loudspeaker::loudspeaker: **2019-02-12**: The task assignment, [**Task 3**](task/Task3_Homography), is posted (due data: **Feb 26, 2019**).    
+
+:loudspeaker::loudspeaker: **2019-02-11** **(Correction)**: There are typos. Please check the definition of f(t) and g(t) in Problem 1, and (c) in Problem 4. Thanks, Kareem and Mansour.     
 
 :loudspeaker: **2019-02-07**: [**Slides**](lecture/linear_filtering) and [**tutorials**](tutorial/linear_filtering) for Class 10 are uploaded.      
 
@@ -105,8 +105,8 @@ There will be **eight tasks** overall and posted on either weekly or biweekly on
 |Task1-1|[**Signal Processing I**](task/Task1_Part1_SignalProcessing) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Jan 27, 2019|Feb 06, 2019|Feb 10, 2019|
 |Task2|[**Camera Sensor**](task/Task2_CameraSensor)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Feb 01, 2019|Feb 11, 2019|Feb 16, 2019|
 |Task1-2|[**Signal Processing II**](task/Task1_Part2_SignalProcessing)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Feb 06, 2019|Feb 18, 2019|Feb 23, 2019|
-|Task3|[**Homography**](task/Task3_Homography)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Feb 12, 2019|Feb 26, 2019|Mar 02, 2019|
-|Task4|**Crack Detection**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Feb 14, 2019|Feb 27, 2019|Mar 06, 2019|
+|Task3|[**Homography**](task/Task3_Homography)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Feb 12, 2019|Feb 26, 2019|Mar 02, 2019|
+|Task4|**Crack Detection**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Feb 19, 2019|Mar 04, 2019|Mar 11, 2019|
 
 ## Communication  
 **All communication will be made through [this course website](https://github.com/chulminy/CIVE497-CIVE700)**, especially for this web page. The instructor will make a note in the ["Announcement"](#announcement) section after updating the web page. Students can configure email notification for by ["watching"](https://help.github.com/articles/watching-and-unwatching-repositories/) this course website or use a version control system for tracking its changes. Thus, **students are responsible for checking the website regularly** for any relevant course information or announcements. 
