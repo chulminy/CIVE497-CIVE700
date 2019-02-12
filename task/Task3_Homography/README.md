@@ -1,12 +1,10 @@
 # Task3: Homography
 
-**Announcement**: February 11, 2019  
-**1st due date**: February 23, 2019 (Saturday) before 11:59 pm  
+**Announcement**: February 12, 2019  
+**1st due date**: February 26, 2019 (Tuesday) before 11:59 pm  
 **2nd due date**: March 02, 2019 (Saturday) before 11:59 pm  
 
-The main goal of this task is to understand the fundamental of the homogeneous coordinate and 
-the homography relationship between points on two images of the same planar surface in space. 
-You must study the following three tutorials (`ProjectiveDistortion.mlx`, `ProjectiveGeometryV2.mlx`, `ProjectiveTransformation.mlx`) to solve the corresponding problems. Please answer all sub-questions in each problem. You should write your own code to solve these questions. 
+The main goal of this task is to understand the fundamental of the homogeneous coordinate and the homography relationship between points on two images of the same planar surface in space. You must study the following three tutorials (`ProjectiveDistortion.mlx`, `ProjectiveGeometryV2.mlx`, `ProjectiveTransformation.mlx`) to solve the corresponding problems. Please answer all sub-questions in each problem. You should write your own code to solve these questions. 
 
 ## Problem 1: Homogeneous Coordinate (Lines and Points) (10 points)
 The intersection of two lines l1 and l2, with l1 passing through the points (0,4) and (3,0), and l2 passing through the points (8,-2) and (10,8). 
