@@ -1,4 +1,4 @@
-# Problem 1
+ Problem 1
 
 (d) Plotting 6 Hz analog signal with 12Hz sampling frequency **(incorrect)**
 
@@ -38,4 +38,4 @@ No :loudspeaker: :loudspeaker: **Sensor**
 ![](7.png)
 
 # Problem 6 and 7 (Steven)
-See the html version
+![](problem6_7.JPG)
