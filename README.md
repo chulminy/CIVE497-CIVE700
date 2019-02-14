@@ -102,7 +102,7 @@ There will be **eight tasks** overall and posted on either weekly or biweekly on
 |Task|Topics|Announcement|1st due|2nd due|
 |:----|:-----|:----|:-----|:-----|
 |Task0|[**MATLAB and Digital Image Processing Tutorial**](task/Task0_Matlab_ImgProc_Tutorials) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> [Best report (Kareem Mostafa)](task/Task0_Matlab_ImgProc_Tutorials/Rept_Karee_PH_20767080.pdf)|Jan 10, 2019|Jan 19, 2019|Jan 26, 2019|
-|Task1-1|[**Signal Processing I**](task/Task1_Part1_SignalProcessing) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> [solution](task/Task1_Part1_SignalProcessing/solution)|Jan 27, 2019|Feb 06, 2019|Feb 10, 2019|
+|Task1-1|[**Signal Processing I**](task/Task1_Part1_SignalProcessing) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> [Solution](task/Task1_Part1_SignalProcessing/solution),[Best report (Laurent)](task/Task1_Part1_SignalProcessing/Rept_Laure_MA_20505439.pdf), [Best report (Wildt)](task/Task1_Part1_SignalProcessing/Rept_Nilsw_MA_20807870.pdf)|Jan 27, 2019|Feb 06, 2019|Feb 10, 2019|
 |Task2|[**Camera Sensor**](task/Task2_CameraSensor)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Feb 01, 2019|Feb 11, 2019|Feb 16, 2019|
 |Task1-2|[**Signal Processing II**](task/Task1_Part2_SignalProcessing)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Feb 06, 2019|Feb 18, 2019|Feb 23, 2019|
 |Task3|[**Homography**](task/Task3_Homography)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Feb 12, 2019|Feb 26, 2019|Mar 02, 2019|
