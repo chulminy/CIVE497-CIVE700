@@ -20,7 +20,7 @@ Last updated: 2019-02-12
 
 :loudspeaker: **2019-02-07**: [**Slides**](lecture/linear_filtering) and [**tutorials**](tutorial/linear_filtering) for Class 10 are uploaded.      
 
-:loudspeaker::loudspeaker: **2019-02-06**: The task assignment, [**Task 1-2**](task/Task1_Part2_SignalProcessing), is posted (due data: **Feb 16, 2019**).   
+:loudspeaker::loudspeaker: **2019-02-06**: The task assignment, [**Task 1-2**](task/Task1_Part2_SignalProcessing), is posted (due data: **Feb 18, 2019**).   
 
 
 ## Table of Contents
