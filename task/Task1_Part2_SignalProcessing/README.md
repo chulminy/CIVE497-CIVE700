@@ -68,11 +68,11 @@ where A1 = 3, A2 = 10, and A3 = 5.
 
 **(d)** Perform the discrete Fourier transform of y2 and plot your graph in the frequency domain (include a proper frequency axis). Plot only a positive frequency signal.
 
-**(e)** If you digitize a longer-duration signal (let's say 20 seconds), can you measure and extract all frequencies contained in the original signal, y(t)? Please explain your answer. 
+**(e)** If you digitize a longer-duration signal (let's say 20 seconds) with a sampling rate of 100 Hz, can you measure and extract all frequencies contained in the original signal, y(t)? Please explain your answer. 
 
-**(f)** If you digitize the signal with a sampling rate of 105 Hz, can you measure and extract all frequencies contained in the original signal, y(t)? please explain your answer.
+**(f)** If you digitize the signal with a sampling rate of 105 Hz for 3 seconds, can you measure and extract all frequencies contained in the original signal, y(t)? please explain your answer.
 
-**(g)** If you digitize the signal with a sampling rate of 251 Hz, can you measure and extract all frequencies contained in the original signal, y(t)? please explain your answer.
+**(g)** If you digitize the signal with a sampling rate of 251 Hz for 3 seconds, can you measure and extract all frequencies contained in the original signal, y(t)? please explain your answer.
 
 ## Problem 6: Frequency Analysis (10 points)
 Two sinusoidal accelerations are measured using an accelerometer in a smartphone. Each of the waves is stored at `vib_data1.mat` and `vib_data2.mat`. 
