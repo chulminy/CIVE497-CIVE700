@@ -5,23 +5,12 @@
 **Email:** cmyeum@uwaterloo.ca  
 **Office Hours:** Tuesdays and Thursday 10:00 to 11:00 AM at E2-2313 (You can also email for an appointment)  
 
-Last updated: 2019-02-12
+Last updated: 2019-02-16
 
 ## Announcement
-:loudspeaker::loudspeaker: **2019-02-12** **(Class Donut Day)**: To refresh and ease your mind while you work at task assignments, I will provide donuts and coffee at the class on Thursday (Feb 14). Have your breakfast at class. 
-
-:loudspeaker: **2019-02-12**: Due to the university close today, today's meetings are canceled. Please reschedule your meeting. Please pick a single time slot in the [**poll**](https://doodle.com/poll/t9s6azr2pvf5tpze). You need to prepare your 20 minute meeting following this guideline:    
-
-- **Individual/team meeting (4th week)**: Individuals or teams need to schedule a separate meeting with the instructor so that the project ideas are refined together. The instructor encourages the individual/team preparing and bringing relevant slides or reading materials to the meeting. In the case of the team project, all members must agree on the direction and scope of their project before having a meeting with the instructor. They also can take advantage of office hours or separate meetings if further discussion is needed.  
+:loudspeaker::loudspeaker: **2019-02-06**: The task assignment, [**Task 1-2**](task/Task1_Part2_SignalProcessing), is posted (due data: **Feb 20, 2019** **(Changed)**).      
 
 :loudspeaker::loudspeaker::loudspeaker: **2019-02-12**: The task assignment, [**Task 3**](task/Task3_Homography), is posted (due data: **Feb 26, 2019**).    
-
-:loudspeaker::loudspeaker: **2019-02-11** **(Correction)**: There are typos. Please check the definition of f(t) and g(t) in Problem 1, and (c) in Problem 4. Thanks, Kareem and Mansour.     
-
-:loudspeaker: **2019-02-07**: [**Slides**](lecture/linear_filtering) and [**tutorials**](tutorial/linear_filtering) for Class 10 are uploaded.      
-
-:loudspeaker::loudspeaker: **2019-02-06**: The task assignment, [**Task 1-2**](task/Task1_Part2_SignalProcessing), is posted (due data: **Feb 18, 2019**).   
-
 
 ## Table of Contents
 - [Course Description](#course-description)
@@ -104,7 +93,7 @@ There will be **eight tasks** overall and posted on either weekly or biweekly on
 |Task0|[**MATLAB and Digital Image Processing Tutorial**](task/Task0_Matlab_ImgProc_Tutorials) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> [Best report (Kareem Mostafa)](task/Task0_Matlab_ImgProc_Tutorials/Rept_Karee_PH_20767080.pdf)|Jan 10, 2019|Jan 19, 2019|Jan 26, 2019|
 |Task1-1|[**Signal Processing I**](task/Task1_Part1_SignalProcessing) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> [Solution](task/Task1_Part1_SignalProcessing/solution),[Best report (Laurent)](task/Task1_Part1_SignalProcessing/solution/Rept_Laure_MA_20505439.pdf), [Best report (Wildt)](task/Task1_Part1_SignalProcessing/solution/Rept_Nilsw_MA_20807870.pdf)|Jan 27, 2019|Feb 06, 2019|Feb 10, 2019|
 |Task2|[**Camera Sensor**](task/Task2_CameraSensor)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Feb 01, 2019|Feb 11, 2019|Feb 16, 2019|
-|Task1-2|[**Signal Processing II**](task/Task1_Part2_SignalProcessing)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Feb 06, 2019|Feb 18, 2019|Feb 23, 2019|
+|Task1-2|[**Signal Processing II**](task/Task1_Part2_SignalProcessing)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Feb 06, 2019|Feb 20, 2019|Feb 23, 2019|
 |Task3|[**Homography**](task/Task3_Homography)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Feb 12, 2019|Feb 26, 2019|Mar 02, 2019|
 |Task4|**Crack Detection**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Feb 19, 2019|Mar 04, 2019|Mar 11, 2019|
 
