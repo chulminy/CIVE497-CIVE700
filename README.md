@@ -5,11 +5,10 @@
 **Email:** cmyeum@uwaterloo.ca  
 **Office Hours:** Tuesdays and Thursday 10:00 to 11:00 AM at E2-2313 (You can also email for an appointment)  
 
-Last updated: 2019-02-16
+Last updated: 2019-02-26
 
 ## Announcement
-:loudspeaker::loudspeaker: **2019-02-06**: The task assignment, [**Task 1-2**](task/Task1_Part2_SignalProcessing), is posted (due data: **Feb 20, 2019** **(Changed)**).      
-
+:loudspeaker: **2019-02-26**: [**Slides**](lecture/edge_detection) and [**tutorials**](tutorial/edge_detection) for Class 11 are posted.  
 :loudspeaker::loudspeaker::loudspeaker: **2019-02-12**: The task assignment, [**Task 3**](task/Task3_Homography), is posted (due data: **Feb 26, 2019**).    
 
 ## Table of Contents
@@ -68,9 +67,9 @@ Slides and tutorials are will be updated soon.
 |Class 08|**Projective Geometry I**|[**link**](lecture/project_geomtry)|[**link**](tutorial/projective_geometry)|&nbsp;| 
 |Class 09|**Projective Geometry II**|[**link**](lecture/project_geomtry)|[**link**](tutorial/projective_geometry)|**Task3:** Homography| 
 |Class 10|**Linear Filtering**|[**link**](lecture/linear_filtering)|[**link**](tutorial/linear_filtering)|&nbsp;| 
-|Class 11|**Edge Detection**|&nbsp;|&nbsp;|**Task4:** 2D crack detection| 
-|Class 12|**Corner Detection**|&nbsp;|&nbsp;|&nbsp;|  
-|Class 13|**Feature (SIFT)**|&nbsp;|&nbsp;|&nbsp;|
+|Class 11|**Edge Detection**|[**link**](lecture/edge_detection)|[**link**](tutorial/edge_detection)|**Task4:** 2D crack detection| 
+|Class 12|**Feature 1**|&nbsp;|&nbsp;|&nbsp;|  
+|Class 13|**Feature 2**|&nbsp;|&nbsp;|&nbsp;|
 |Class 14|**RANSAC**|&nbsp;|[**link**](tutorial/ransac)|**Task5:** Image stitching|
 |Class 15|**Camera Model**|&nbsp;|&nbsp;|&nbsp;|
 |Class 16|**Multiview Geometry**|&nbsp;|&nbsp;|&nbsp;|
@@ -95,7 +94,7 @@ There will be **eight tasks** overall and posted on either weekly or biweekly on
 |Task2|[**Camera Sensor**](task/Task2_CameraSensor)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Feb 01, 2019|Feb 11, 2019|Feb 16, 2019|
 |Task1-2|[**Signal Processing II**](task/Task1_Part2_SignalProcessing)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Feb 06, 2019|Feb 20, 2019|Feb 23, 2019|
 |Task3|[**Homography**](task/Task3_Homography)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Feb 12, 2019|Feb 26, 2019|Mar 02, 2019|
-|Task4|**Crack Detection**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Feb 19, 2019|Mar 04, 2019|Mar 11, 2019|
+|Task4|**Crack Detection**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Feb 28, 2019|Mar 08, 2019|Mar 15, 2019|
 
 ## Communication  
 **All communication will be made through [this course website](https://github.com/chulminy/CIVE497-CIVE700)**, especially for this web page. The instructor will make a note in the ["Announcement"](#announcement) section after updating the web page. Students can configure email notification for by ["watching"](https://help.github.com/articles/watching-and-unwatching-repositories/) this course website or use a version control system for tracking its changes. Thus, **students are responsible for checking the website regularly** for any relevant course information or announcements. 

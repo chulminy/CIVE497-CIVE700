@@ -31,19 +31,20 @@ set(gca,'fontsize',10,'linewidth',2,'fontweight','bold')
 theta_axis = -89:2:89;
 
 h = figure(2);
-set(h, 'Position', [100, 100, 800, 800]);
-axes_h1 = subplot(211);
-axes_h2 = subplot(212);
+set(h, 'Position', [100, 100, 1400, 600]);
+axes_h1 = subplot(121);
+axes_h2 = subplot(122);
 
 hough_pt = [];
+count = 1;
 for ii=1:numel(theta_axis)
     
     cla(axes_h1);
     theta = theta_axis(ii);    
     if sign(theta_axis(ii))==-1
-        slope = tand(-(90+theta));
+        slope = -1/tand(theta);
     else
-        slope = tand((90-theta));
+        slope = -1/tand(theta);
     end
     y_inter = dataPt_y - slope*dataPt_x;
     
@@ -82,4 +83,13 @@ for ii=1:numel(theta_axis)
     xlabel(axes_h2, '\bf \theta', 'fontSize', 15);xlim(axes_h2, [-90 90]);
     ylabel(axes_h2, '\bf \rho', 'fontSize', 15);ylim([-4 4]);
     pause(0.5);
+
+    movie_frame(count) = getframe(h);
+    count = count + 1;
 end
+
+v = VideoWriter('hough_transform','MPEG-4');
+v.FrameRate = 1;
+open(v);
+writeVideo(v,movie_frame);
+close(v);
