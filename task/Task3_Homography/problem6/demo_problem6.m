@@ -24,6 +24,7 @@ imgPic = imread(imgPicFile);
 [imgPicTran, RB] = imwarp(imgPic, projective2d(H));
 BWPic = roipoly(imgPicTran, corner(:,1)-RB.XWorldLimits(1), corner(:,2)-RB.YWorldLimits(1));
 
+
 BWBoard = ~roipoly(imgBoard, corner(:,1), corner(:,2));
 RA = imref2d(size(BWBoard));
 

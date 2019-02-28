@@ -8,8 +8,9 @@
 Last updated: 2019-02-26
 
 ## Announcement
+:loudspeaker: **2019-02-28**: [**Slides**](lecture/feature) and [**tutorials**](tutorial/feature) for Class 12/13 are posted.    
 :loudspeaker: **2019-02-26**: [**Slides**](lecture/edge_detection) and [**tutorials**](tutorial/edge_detection) for Class 11 are posted.  
-:loudspeaker::loudspeaker::loudspeaker: **2019-02-12**: The task assignment, [**Task 3**](task/Task3_Homography), is posted (due data: **Feb 26, 2019**).    
+
 
 ## Table of Contents
 - [Course Description](#course-description)
@@ -68,8 +69,8 @@ Slides and tutorials are will be updated soon.
 |Class 09|**Projective Geometry II**|[**link**](lecture/project_geomtry)|[**link**](tutorial/projective_geometry)|**Task3:** Homography| 
 |Class 10|**Linear Filtering**|[**link**](lecture/linear_filtering)|[**link**](tutorial/linear_filtering)|&nbsp;| 
 |Class 11|**Edge Detection**|[**link**](lecture/edge_detection)|[**link**](tutorial/edge_detection)|**Task4:** 2D crack detection| 
-|Class 12|**Feature 1**|&nbsp;|&nbsp;|&nbsp;|  
-|Class 13|**Feature 2**|&nbsp;|&nbsp;|&nbsp;|
+|Class 12|**Feature 1**|[**link**](lecture/feature)|[**link**](tutorial/feature)|&nbsp;|  
+|Class 13|**Feature 2**|[**link**](lecture/feature)|[**link**](tutorial/feature)|&nbsp;|
 |Class 14|**RANSAC**|&nbsp;|[**link**](tutorial/ransac)|**Task5:** Image stitching|
 |Class 15|**Camera Model**|&nbsp;|&nbsp;|&nbsp;|
 |Class 16|**Multiview Geometry**|&nbsp;|&nbsp;|&nbsp;|
