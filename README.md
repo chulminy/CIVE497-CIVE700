@@ -8,6 +8,7 @@
 Last updated: 2019-02-26
 
 ## Announcement
+:loudspeaker::loudspeaker::loudspeaker: **2019-03-01**: The task assignment, Task 4, is posted (due data: Mar 11, 2019).  
 :loudspeaker: **2019-02-28**: [**Slides**](lecture/feature) and [**tutorials**](tutorial/feature) for Class 12/13 are posted.    
 :loudspeaker: **2019-02-26**: [**Slides**](lecture/edge_detection) and [**tutorials**](tutorial/edge_detection) for Class 11 are posted.  
 
@@ -68,7 +69,7 @@ Slides and tutorials are will be updated soon.
 |Class 08|**Projective Geometry I**|[**link**](lecture/project_geomtry)|[**link**](tutorial/projective_geometry)|&nbsp;| 
 |Class 09|**Projective Geometry II**|[**link**](lecture/project_geomtry)|[**link**](tutorial/projective_geometry)|**Task3:** Homography| 
 |Class 10|**Linear Filtering**|[**link**](lecture/linear_filtering)|[**link**](tutorial/linear_filtering)|&nbsp;| 
-|Class 11|**Edge Detection**|[**link**](lecture/edge_detection)|[**link**](tutorial/edge_detection)|**Task4:** 2D crack detection| 
+|Class 11|**Edge Detection**|[**link**](lecture/edge_detection)|[**link**](tutorial/edge_detection)|**Task4:** Image filter| 
 |Class 12|**Feature 1**|[**link**](lecture/feature)|[**link**](tutorial/feature)|&nbsp;|  
 |Class 13|**Feature 2**|[**link**](lecture/feature)|[**link**](tutorial/feature)|&nbsp;|
 |Class 14|**RANSAC**|&nbsp;|[**link**](tutorial/ransac)|**Task5:** Image stitching|
@@ -95,7 +96,8 @@ There will be **eight tasks** overall and posted on either weekly or biweekly on
 |Task2|[**Camera Sensor**](task/Task2_CameraSensor)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Feb 01, 2019|Feb 11, 2019|Feb 16, 2019|
 |Task1-2|[**Signal Processing II**](task/Task1_Part2_SignalProcessing)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Feb 06, 2019|Feb 20, 2019|Feb 23, 2019|
 |Task3|[**Homography**](task/Task3_Homography)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Feb 12, 2019|Feb 26, 2019|Mar 02, 2019|
-|Task4|**Crack Detection**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Feb 28, 2019|Mar 08, 2019|Mar 15, 2019|
+|Task4|[**Image Filter**](task/Task4_ImageFilter)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Mar 01, 2019|Mar 11, 2019|Mar 18, 2019|
+|Task5|**Image Stitching**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Mar 07, 2019|Mar 17, 2019|Mar 24, 2019|
 
 ## Communication  
 **All communication will be made through [this course website](https://github.com/chulminy/CIVE497-CIVE700)**, especially for this web page. The instructor will make a note in the ["Announcement"](#announcement) section after updating the web page. Students can configure email notification for by ["watching"](https://help.github.com/articles/watching-and-unwatching-repositories/) this course website or use a version control system for tracking its changes. Thus, **students are responsible for checking the website regularly** for any relevant course information or announcements. 
