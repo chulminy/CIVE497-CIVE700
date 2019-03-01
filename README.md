@@ -1,12 +1,13 @@
 # CIVE497/CIVE700: Smart Structure Technology (Winter, 2018)
 
+![](intro_img.png)
+
 **Instructor:** Chul Min Yeum (E2-2313)  
 **Class:** Tuesday and Thursday, 8:30 to 10:00 AM at E2-3356     
 **Email:** cmyeum@uwaterloo.ca  
 **Office Hours:** Tuesdays and Thursday 10:00 to 11:00 AM at E2-2313 (You can also email for an appointment)  
 
 Last updated: 2019-03-01
-
 ## Announcement
 :loudspeaker::loudspeaker::loudspeaker: **2019-03-01**: The task assignment, [**Task 4**](task/Task4_ImageFilter), is posted (due data: Mar 11, 2019).  
 :loudspeaker: **2019-02-28**: [**Slides**](lecture/feature) and [**tutorials**](tutorial/feature) for Class 12/13 are posted.    
