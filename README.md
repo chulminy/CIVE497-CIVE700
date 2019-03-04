@@ -1,4 +1,4 @@
-# CIVE497/CIVE700: Smart Structure Technology (Winter, 2018)
+# CIVE497/CIVE700: Smart Structure Technology (Winter, 2019)
 
 ![](intro_img.png)
 
@@ -96,7 +96,7 @@ There will be **eight tasks** overall and posted on either weekly or biweekly on
 |Task1-1|[**Signal Processing I**](task/Task1_Part1_SignalProcessing) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> [Solution](task/Task1_Part1_SignalProcessing/solution),[Best report (Laurent)](task/Task1_Part1_SignalProcessing/solution/Rept_Laure_MA_20505439.pdf), [Best report (Wildt)](task/Task1_Part1_SignalProcessing/solution/Rept_Nilsw_MA_20807870.pdf)|Jan 27, 2019|Feb 06, 2019|Feb 10, 2019|
 |Task2|[**Camera Sensor**](task/Task2_CameraSensor)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Feb 01, 2019|Feb 11, 2019|Feb 16, 2019|
 |Task1-2|[**Signal Processing II**](task/Task1_Part2_SignalProcessing)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Feb 06, 2019|Feb 20, 2019|Feb 23, 2019|
-|Task3|[**Homography**](task/Task3_Homography)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Feb 12, 2019|Feb 26, 2019|Mar 02, 2019|
+|Task3|[**Homography**](task/Task3_Homography)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</br>[Solution](task/Task3_Homography/solution), [Best report (Hongyi)](task/Task3_Homography/solution/Rept_Hongy_ME_20788389.pdf)|Feb 12, 2019|Feb 26, 2019|Mar 02, 2019|
 |Task4|[**Image Filter**](task/Task4_ImageFilter)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Mar 01, 2019|Mar 11, 2019|Mar 18, 2019|
 |Task5|**Image Stitching**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Mar 07, 2019|Mar 17, 2019|Mar 24, 2019|
 
