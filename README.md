@@ -7,8 +7,10 @@
 **Email:** cmyeum@uwaterloo.ca  
 **Office Hours:** Tuesdays and Thursday 10:00 to 11:00 AM at E2-2313 (You can also email for an appointment)  
 
-Last updated: 2019-03-01
+Last updated: 2019-03-05  
+
 ## Announcement
+:loudspeaker: **2019-03-05**: [**Slides**](lecture/ransac) and [**tutorials**](tutorial/ransac) for Class 14 are posted.      
 :loudspeaker::loudspeaker::loudspeaker: **2019-03-01**: The task assignment, [**Task 4**](task/Task4_ImageFilter), is posted (due data: Mar 11, 2019).  
 :loudspeaker: **2019-02-28**: [**Slides**](lecture/feature) and [**tutorials**](tutorial/feature) for Class 12/13 are posted.    
 :loudspeaker: **2019-02-26**: [**Slides**](lecture/edge_detection) and [**tutorials**](tutorial/edge_detection) for Class 11 are posted.  
