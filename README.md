@@ -75,7 +75,7 @@ Slides and tutorials are will be updated soon.
 |Class 11|**Edge Detection**|[**link**](lecture/edge_detection)|[**link**](tutorial/edge_detection)|**Task4:** Image filter| 
 |Class 12|**Feature 1**|[**link**](lecture/feature)|[**link**](tutorial/feature)|&nbsp;|  
 |Class 13|**Feature 2**|[**link**](lecture/feature)|[**link**](tutorial/feature)|&nbsp;|
-|Class 14|**RANSAC**|&nbsp;|[**link**](tutorial/ransac)|**Task5:** Image stitching|
+|Class 14|**RANSAC**|[**link**](lecture/ransac)|[**link**](tutorial/ransac)|**Task5:** Image stitching|
 |Class 15|**Camera Model**|&nbsp;|&nbsp;|&nbsp;|
 |Class 16|**Multiview Geometry**|&nbsp;|&nbsp;|&nbsp;|
 |Class 17|**Structure-from-motion (SfM)**|&nbsp;|&nbsp;|**Task6:** 3D measurement using SfM|
