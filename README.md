@@ -7,9 +7,10 @@
 **Email:** cmyeum@uwaterloo.ca  
 **Office Hours:** Tuesdays and Thursday 10:00 to 11:00 AM at E2-2313 (You can also email for an appointment)  
 
-Last updated: 2019-03-05  
+Last updated: 2019-03-07  
 
 ## Announcement
+:loudspeaker: **2019-03-07**: [**Slide**](lecture/camera_model) for Class 15 is posted.       
 :loudspeaker: **2019-03-05**: [**Slides**](lecture/ransac) and [**tutorials**](tutorial/ransac) for Class 14 are posted.      
 :loudspeaker::loudspeaker::loudspeaker: **2019-03-01**: The task assignment, [**Task 4**](task/Task4_ImageFilter), is posted (due data: Mar 11, 2019).  
 :loudspeaker: **2019-02-28**: [**Slides**](lecture/feature) and [**tutorials**](tutorial/feature) for Class 12/13 are posted.    
@@ -76,7 +77,7 @@ Slides and tutorials are will be updated soon.
 |Class 12|**Feature 1**|[**link**](lecture/feature)|[**link**](tutorial/feature)|&nbsp;|  
 |Class 13|**Feature 2**|[**link**](lecture/feature)|[**link**](tutorial/feature)|&nbsp;|
 |Class 14|**RANSAC**|[**link**](lecture/ransac)|[**link**](tutorial/ransac)|**Task5:** Image stitching|
-|Class 15|**Camera Model**|&nbsp;|&nbsp;|&nbsp;|
+|Class 15|**Camera Model**|[**link**](lecture/camera_model)|&nbsp;|&nbsp;|
 |Class 16|**Multiview Geometry**|&nbsp;|&nbsp;|&nbsp;|
 |Class 17|**Structure-from-motion (SfM)**|&nbsp;|&nbsp;|**Task6:** 3D measurement using SfM|
 |Class 18|**Introduction of 3D Sensors**|&nbsp;|&nbsp;|&nbsp;|
@@ -100,7 +101,7 @@ There will be **eight tasks** overall and posted on either weekly or biweekly on
 |Task1-2|[**Signal Processing II**](task/Task1_Part2_SignalProcessing)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Feb 06, 2019|Feb 20, 2019|Feb 23, 2019|
 |Task3|[**Homography**](task/Task3_Homography)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</br>[Solution](task/Task3_Homography/solution/solution_task3_CM.pdf), [Best report (Hongyi)](task/Task3_Homography/solution/Rept_Hongy_ME_20788389.pdf)|Feb 12, 2019|Feb 26, 2019|Mar 02, 2019|
 |Task4|[**Image Filter**](task/Task4_ImageFilter)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Mar 01, 2019|Mar 11, 2019|Mar 18, 2019|
-|Task5|**Image Stitching**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Mar 07, 2019|Mar 17, 2019|Mar 24, 2019|
+|Task5|**Image Stitching**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Mar 08, 2019|Mar 17, 2019|Mar 24, 2019|
 
 ## Communication  
 **All communication will be made through [this course website](https://github.com/chulminy/CIVE497-CIVE700)**, especially for this web page. The instructor will make a note in the ["Announcement"](#announcement) section after updating the web page. Students can configure email notification for by ["watching"](https://help.github.com/articles/watching-and-unwatching-repositories/) this course website or use a version control system for tracking its changes. Thus, **students are responsible for checking the website regularly** for any relevant course information or announcements. 
