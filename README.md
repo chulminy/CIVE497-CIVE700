@@ -101,7 +101,8 @@ There will be **eight tasks** overall and posted on either weekly or biweekly on
 |Task1-2|[**Signal Processing II**](task/Task1_Part2_SignalProcessing)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Feb 06, 2019|Feb 20, 2019|Feb 23, 2019|
 |Task3|[**Homography**](task/Task3_Homography)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</br>[Solution](task/Task3_Homography/solution/solution_task3_CM.pdf), [Best report (Hongyi)](task/Task3_Homography/solution/Rept_Hongy_ME_20788389.pdf)|Feb 12, 2019|Feb 26, 2019|Mar 02, 2019|
 |Task4|[**Image Filter**](task/Task4_ImageFilter)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Mar 01, 2019|Mar 11, 2019|Mar 18, 2019|
-|Task5|**Image Stitching**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Mar 08, 2019|Mar 17, 2019|Mar 24, 2019|
+|Task5|**Image Stitching**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Mar 08, 2019|Mar 18, 2019|Mar 24, 2019|  
+|Task6|**3D Measurement using SfM**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Mar 15, 2019|Mar 25, 2019|Mar 24, 2019|  
 
 ## Communication  
 **All communication will be made through [this course website](https://github.com/chulminy/CIVE497-CIVE700)**, especially for this web page. The instructor will make a note in the ["Announcement"](#announcement) section after updating the web page. Students can configure email notification for by ["watching"](https://help.github.com/articles/watching-and-unwatching-repositories/) this course website or use a version control system for tracking its changes. Thus, **students are responsible for checking the website regularly** for any relevant course information or announcements. 

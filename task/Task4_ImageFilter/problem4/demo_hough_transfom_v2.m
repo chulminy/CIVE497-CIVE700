@@ -4,7 +4,7 @@
 clear; close all; clc; format shortG;
 
 %% Parameter
-bookletSize = [23 30]; % cm
+bookletSize = [24 31.5]; % cm
 bookletImgSize = bookletSize*50; % output image size
 dirImg = 'img'; % image folder
 dirOut = 'out'; % output image folder
