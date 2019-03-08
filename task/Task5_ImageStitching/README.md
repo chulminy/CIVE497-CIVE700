@@ -1,7 +1,7 @@
 # Task5: Image Stitching & RANSAC
 
 **Announcement**: March 08, 2019  
-**1st due date**: March 19, 2019 (Tuesday) before 11:59 pm
+**1st due date**: March 19, 2019 (Tuesday) before 11:59 pm  
 **2nd due date**: March 24, 2019 (Sunday) before 11:59 pm  
 
 The main goal of this task is to understand the fundamental of a feature extraction and matching method (Scale-invariant feature transform (SIFT)) and a Random sample consensus (RANSAC) method to estimate model parameters. You must study the relevant tutorials to solve the corresponding problems. Please answer all sub-questions in each problem. You should write your own code to solve these questions *if needed*. 

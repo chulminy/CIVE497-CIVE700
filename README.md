@@ -7,14 +7,12 @@
 **Email:** cmyeum@uwaterloo.ca  
 **Office Hours:** Tuesdays and Thursday 10:00 to 11:00 AM at E2-2313 (You can also email for an appointment)  
 
-Last updated: 2019-03-07  
+Last updated: 2019-03-08  
 
 ## Announcement
-:loudspeaker: **2019-03-07**: [**Slide**](lecture/camera_model) for Class 15 is posted.       
-:loudspeaker: **2019-03-05**: [**Slides**](lecture/ransac) and [**tutorials**](tutorial/ransac) for Class 14 are posted.      
+:loudspeaker::loudspeaker::loudspeaker: **2019-03-08**: The task assignment, [**Task 5**](task/Task5_ImageStitching), is posted (due data: Mar 19, 2019). **PLEASE START THIS TASK AS SOON AS POSSIBLE !!!!!.**  
+:loudspeaker: **2019-03-07**: [**Slide**](lecture/camera_model) for Class 15 is posted.         
 :loudspeaker::loudspeaker::loudspeaker: **2019-03-01**: The task assignment, [**Task 4**](task/Task4_ImageFilter), is posted (due data: Mar 11, 2019).  
-:loudspeaker: **2019-02-28**: [**Slides**](lecture/feature) and [**tutorials**](tutorial/feature) for Class 12/13 are posted.    
-:loudspeaker: **2019-02-26**: [**Slides**](lecture/edge_detection) and [**tutorials**](tutorial/edge_detection) for Class 11 are posted.  
 
 
 ## Table of Contents
@@ -101,7 +99,7 @@ There will be **eight tasks** overall and posted on either weekly or biweekly on
 |Task1-2|[**Signal Processing II**](task/Task1_Part2_SignalProcessing)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Feb 06, 2019|Feb 20, 2019|Feb 23, 2019|
 |Task3|[**Homography**](task/Task3_Homography)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</br>[Solution](task/Task3_Homography/solution/solution_task3_CM.pdf), [Best report (Hongyi)](task/Task3_Homography/solution/Rept_Hongy_ME_20788389.pdf)|Feb 12, 2019|Feb 26, 2019|Mar 02, 2019|
 |Task4|[**Image Filter**](task/Task4_ImageFilter)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Mar 01, 2019|Mar 11, 2019|Mar 18, 2019|
-|Task5|**Image Stitching**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Mar 08, 2019|Mar 18, 2019|Mar 24, 2019|  
+|Task5|[**Image Stitching**](task/Task5_ImageStitching)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Mar 08, 2019|Mar 19, 2019|Mar 24, 2019|  
 |Task6|**3D Measurement using SfM**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Mar 15, 2019|Mar 25, 2019|Mar 24, 2019|  
 
 ## Communication  
