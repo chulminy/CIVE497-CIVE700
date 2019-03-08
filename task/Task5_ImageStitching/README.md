@@ -12,10 +12,10 @@ The main goal of this task is to understand the fundamental of a feature extract
 ## Problem 1: Separable Filter (10 points)
 Please answer these questions **in detail**.
 
-**(a)** What is a separability of the Gaussian kernel? When do we use this separability and why does this characteristic reduce the computing cost?  
-**(b)** What is the Laplacian of Gaussian (LoG)? When do we use LoG? 
-**(c)** Is LoG separable? 
-**(d)** What is a difference of the Guassian (DoG)? When do we use and what is DoG advantageous compared to LoG?
+**(a)** What is a separability of the Gaussian kernel? When do we use this separability and why does this characteristic reduce the computing cost?    
+**(b)** What is the Laplacian of Gaussian (LoG)? When do we use LoG?   
+**(c)** Is LoG separable?  
+**(d)** What is a difference of the Guassian (DoG)? When do we use and what is DoG advantageous compared to LoG?   
 
 Hint: [**Link1**](https://blogs.mathworks.com/steve/2006/10/04/separable-convolution/), [**Link2**](http://songho.ca/dsp/convolution/convolution.html)
 
@@ -70,8 +70,8 @@ You are going to categorize books on images. Here are the input images and expec
 
 |Test image|Result|
 |:----:|:-----:|
-|![](IMG_0219.JPG)|![](IMG_0219_out.jpg)|
-|![](IMG_0223.JPG)|![](IMG_0223_out.jpg)|
+|![](IMG_0219.JPG)|![](IMG_0219_out.JPG)|
+|![](IMG_0223.JPG)|![](IMG_0223_out.JPG)|
 
 Your code needs to automatically compute the outlines (boundary) of each book and its identity (book name). There are 17 images (see the folder of `prob5_img`) and in each image, four books are placed on a desk. Your code should not fail to identify a book or estimate its boundary more than 5 books among all books (85 = 17 images x 5 books). Note that you should not do hard cording as well. 
 
