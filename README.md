@@ -7,11 +7,11 @@
 **Email:** cmyeum@uwaterloo.ca  
 **Office Hours:** Tuesdays and Thursday 10:00 to 11:00 AM at E2-2313 (You can also email for an appointment)  
 
-Last updated: 2019-03-08  
+Last updated: 2019-03-12  
 
 ## Announcement
-:loudspeaker::loudspeaker::loudspeaker: **2019-03-08**: The task assignment, [**Task 5**](task/Task5_ImageStitching), is posted (due data: Mar 19, 2019). **PLEASE START THIS TASK AS SOON AS POSSIBLE !!!!!.**  
-:loudspeaker: **2019-03-07**: [**Slide**](lecture/camera_model) for Class 15 is posted.         
+:loudspeaker: **2019-03-12**: [**Slides**](tutorial/multiview_geometry) and [**Tutorials**](lecture/multiview_geometry) for Class 16 are posted.           
+:loudspeaker::loudspeaker::loudspeaker: **2019-03-08**: The task assignment, [**Task 5**](task/Task5_ImageStitching), is posted (due data: Mar 19, 2019). **PLEASE START THIS TASK AS SOON AS POSSIBLE !!!!!.**    
 :loudspeaker::loudspeaker::loudspeaker: **2019-03-01**: The task assignment, [**Task 4**](task/Task4_ImageFilter), is posted (due data: Mar 11, 2019).  
 
 
@@ -76,7 +76,7 @@ Slides and tutorials are will be updated soon.
 |Class 13|**Feature 2**|[**link**](lecture/feature)|[**link**](tutorial/feature)|&nbsp;|
 |Class 14|**RANSAC**|[**link**](lecture/ransac)|[**link**](tutorial/ransac)|**Task5:** Image stitching|
 |Class 15|**Camera Model**|[**link**](lecture/camera_model)|&nbsp;|&nbsp;|
-|Class 16|**Multiview Geometry**|&nbsp;|&nbsp;|&nbsp;|
+|Class 16|**Multiview Geometry**|[**link**](lecture/multiview_geometry)|[**link**](tutorial/multiview_geometry)|&nbsp;|
 |Class 17|**Structure-from-motion (SfM)**|&nbsp;|&nbsp;|**Task6:** 3D measurement using SfM|
 |Class 18|**Introduction of 3D Sensors**|&nbsp;|&nbsp;|&nbsp;|
 |Class 19|**Iterative Closest Point Algorithm**|&nbsp;|&nbsp;|**Task7:** Image registration in 3D|
