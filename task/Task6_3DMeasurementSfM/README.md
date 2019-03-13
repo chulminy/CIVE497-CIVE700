@@ -4,7 +4,7 @@
 **1st due date**: March 24, 2019 (Sunday) before 11:59 pm    
 **2nd due date**: March 31, 2019 (Sunday) before 11:59 pm    
 
-The main goal of this task is to understand the fundamental of structure from motion by developing your own measurement program. A draft of a code (`demo_code_v8_base.m`) is provided and you need to write your own codes in `YOUR CODE HERE` to complete your software. Problems (11) and relevant guidelines are posted in the code.  
+The main goal of this task is to understand the fundamental of structure from motion through developing your own measurement tool. A draft of a code (`demo_code_v8_base.m`) is provided and you need to write your own codes in `YOUR CODE HERE` to complete your tool. 11 Problems  and relevant guidelines are included in the code.   
 
 ## Submission of Your Work
 * **YOU MUST INCLUDE YOUR RESULTING GRAPHS OR IMAGES INTO YOUR REPORT**
