@@ -1,4 +1,4 @@
-# Task6: Development of a 3D measurement tool using Structure from Motion
+# Task6: Development of a 3D measurement tool using structure from motion
 
 **Announcement**: March 14, 2019   
 **1st due date**: March 24, 2019 (Sunday) before 11:59 pm    
