@@ -10,7 +10,7 @@
 Last updated: 2019-03-19  
 
 ## Announcement
-:loudspeaker: **2019-03-19**: [**Slides**](lecture/intro_3D_sensor) for Class 18 (guest speaker: Nicholas Charron) posted.             
+:loudspeaker: **2019-03-19**: [**Slides**](lecture/intro_3D_sensor) for Class 18 (guest speaker: Nicholas Charron) are posted.             
 :loudspeaker::loudspeaker::loudspeaker: **2019-03-14**: The task assignment, [**Task 6**](task/Task6_3DMeasurementSfM), is posted (due data: Mar 24, 2019). **THIS TASK IS VERY CHALLENGING.**    
 :loudspeaker: **2019-03-14**: [**Slides**](lecture/sfm) for Class 17 are posted.            
 :loudspeaker::loudspeaker::loudspeaker: **2019-03-08**: The task assignment, [**Task 5**](task/Task5_ImageStitching), is posted (due data: Mar 19, 2019). **PLEASE START THIS TASK AS SOON AS POSSIBLE !!!!!.**    
