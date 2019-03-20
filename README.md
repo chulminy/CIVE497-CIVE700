@@ -9,7 +9,8 @@
 
 Last updated: 2019-03-19  
 
-## Announcement
+## Announcement  
+:loudspeaker: **2019-03-19**: You can submit your Task5 until March 21. Again, you need to start Task 6 as early as possible.                
 :loudspeaker: **2019-03-19**: [**Slides**](lecture/intro_3D_sensor) for Class 18 (guest speaker: Nicholas Charron) are posted.             
 :loudspeaker::loudspeaker::loudspeaker: **2019-03-14**: The task assignment, [**Task 6**](task/Task6_3DMeasurementSfM), is posted (due data: Mar 24, 2019). **THIS TASK IS VERY CHALLENGING.**    
 :loudspeaker: **2019-03-14**: [**Slides**](lecture/sfm) for Class 17 are posted.            
