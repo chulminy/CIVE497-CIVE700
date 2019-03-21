@@ -7,9 +7,10 @@
 **Email:** cmyeum@uwaterloo.ca  
 **Office Hours:** Tuesdays and Thursday 10:00 to 11:00 AM at E2-2313 (You can also email for an appointment)  
 
-Last updated: 2019-03-19  
+Last updated: 2019-03-21
 
 ## Announcement  
+:loudspeaker::loudspeaker::loudspeaker: **2019-03-21** Please check out the important announcement in *Issues*.   
 :loudspeaker: **2019-03-19**: [**Slides**](lecture/intro_3D_sensor) for Class 18 (guest speaker: Nicholas Charron) are posted.             
 :loudspeaker: **2019-03-19**: You can submit your Task5 until March 21. Again, you need to start Task 6 as early as possible.                
 :loudspeaker: **2019-03-19**: [**Slides**](lecture/icp) for Class 19 (guest speaker: Nicholas Charron) are posted.             
