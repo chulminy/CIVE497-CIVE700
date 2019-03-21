@@ -10,8 +10,9 @@
 Last updated: 2019-03-19  
 
 ## Announcement  
-:loudspeaker: **2019-03-19**: You can submit your Task5 until March 21. Again, you need to start Task 6 as early as possible.                
 :loudspeaker: **2019-03-19**: [**Slides**](lecture/intro_3D_sensor) for Class 18 (guest speaker: Nicholas Charron) are posted.             
+:loudspeaker: **2019-03-19**: You can submit your Task5 until March 21. Again, you need to start Task 6 as early as possible.                
+:loudspeaker: **2019-03-19**: [**Slides**](lecture/icp) for Class 19 (guest speaker: Nicholas Charron) are posted.             
 :loudspeaker::loudspeaker::loudspeaker: **2019-03-14**: The task assignment, [**Task 6**](task/Task6_3DMeasurementSfM), is posted (due data: Mar 24, 2019). **THIS TASK IS VERY CHALLENGING.**    
 :loudspeaker: **2019-03-14**: [**Slides**](lecture/sfm) for Class 17 are posted.            
 :loudspeaker::loudspeaker::loudspeaker: **2019-03-08**: The task assignment, [**Task 5**](task/Task5_ImageStitching), is posted (due data: Mar 19, 2019). **PLEASE START THIS TASK AS SOON AS POSSIBLE !!!!!.**    
@@ -81,7 +82,7 @@ Slides and tutorials are will be updated soon.
 |Class 16|**Multiview Geometry**|[**link**](lecture/multiview_geometry)|[**link**](tutorial/multiview_geometry)|&nbsp;|
 |Class 17|**Structure-from-motion (SfM)**|[**link**](lecture/sfm)|&nbsp;|**Task6:** 3D measurement using SfM|
 |Class 18|**Introduction of 3D Sensors**|[**link**](lecture/intro_3D_sensor)|&nbsp;|&nbsp;|
-|Class 19|**Iterative Closest Point Algorithm**|&nbsp;|&nbsp;|**Task7:** Image registration in 3D|
+|Class 19|**Iterative Closest Point Algorithm**|[**link**](lecture/icp)|&nbsp;|**Task7:** Image registration in 3D|
 |Class 20|**Machine Learning I**|&nbsp;|&nbsp;|&nbsp;|
 |Class 21|**Machine Learning II**|&nbsp;|&nbsp;|&nbsp;|
 |Class 22|**Neural Network**|&nbsp;|&nbsp;|**Task8:** 2D crack detection using CNN|
