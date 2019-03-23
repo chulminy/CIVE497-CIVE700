@@ -7,16 +7,11 @@
 **Email:** cmyeum@uwaterloo.ca  
 **Office Hours:** Tuesdays and Thursday 10:00 to 11:00 AM at E2-2313 (You can also email for an appointment)  
 
-Last updated: 2019-03-21
+Last updated: 2019-03-23
 
 ## Announcement  
-:loudspeaker::loudspeaker::loudspeaker: **2019-03-21** Please check out the important announcement in *Issues*.   
-:loudspeaker: **2019-03-19**: [**Slides**](lecture/intro_3D_sensor) for Class 18 (guest speaker: Nicholas Charron) are posted.             
-:loudspeaker: **2019-03-19**: You can submit your Task5 until March 21. Again, you need to start Task 6 as early as possible.                
-:loudspeaker: **2019-03-19**: [**Slides**](lecture/icp) for Class 19 (guest speaker: Nicholas Charron) are posted.             
-:loudspeaker::loudspeaker::loudspeaker: **2019-03-14**: The task assignment, [**Task 6**](task/Task6_3DMeasurementSfM), is posted (due data: Mar 24, 2019). **THIS TASK IS VERY CHALLENGING.**    
-:loudspeaker: **2019-03-14**: [**Slides**](lecture/sfm) for Class 17 are posted.            
-:loudspeaker::loudspeaker::loudspeaker: **2019-03-08**: The task assignment, [**Task 5**](task/Task5_ImageStitching), is posted (due data: Mar 19, 2019). **PLEASE START THIS TASK AS SOON AS POSSIBLE !!!!!.**    
+:loudspeaker::loudspeaker::loudspeaker: **2019-03-23** Please check out the important **announcement** in *Issues*. Please think of what options you are going to choose.      
+:loudspeaker::loudspeaker::loudspeaker: **2019-03-23** The due dates for Task 6, 7 and 8 will be set to April 9. I will update the status of your submission every week. There is no more delay after then so please submit your reports earlier.      
 
 
 ## Table of Contents

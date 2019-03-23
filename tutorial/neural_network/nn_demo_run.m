@@ -13,7 +13,6 @@ function nn_demo_run
 dataset = nn_generate_dataset('circle');
 test_nn(dataset);
 
-
 % % demonstration using gaussian dataset
 % dataset = nn_generate_dataset('gaussian');
 % test_nn(dataset);
