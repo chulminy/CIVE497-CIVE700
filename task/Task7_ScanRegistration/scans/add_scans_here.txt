@@ -1,0 +1,7 @@
+this folder should have the following scans:
+- scanC.pcd
+- scanC.ply
+- scanD.pcd
+- scanD.ply
+
+Please find the scans here: https://drive.google.com/open?id=1arQKEaDZ2MzgPpIuPIah7e9ru6ViMHcG
