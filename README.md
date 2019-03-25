@@ -80,10 +80,10 @@ Slides and tutorials are will be updated soon.
 |Class 16|**Multiview Geometry**|[**link**](lecture/multiview_geometry)|[**link**](tutorial/multiview_geometry)|&nbsp;|
 |Class 17|**Structure-from-motion (SfM)**|[**link**](lecture/sfm)|&nbsp;|**Task6:** 3D measurement using SfM|
 |Class 18|**Introduction of 3D Sensors**|[**link**](lecture/intro_3D_sensor)|&nbsp;|&nbsp;|
-|Class 19|**Iterative Closest Point Algorithm**|[**link**](lecture/icp)|&nbsp;|**Task7:**Scan registration in 3D|
+|Class 19|**Iterative Closest Point Algorithm**|[**link**](lecture/icp)|&nbsp;|**Task7:** Scan registration in 3D|
 |Class 20|**Machine Learning I**|&nbsp;|&nbsp;|&nbsp;|
 |Class 21|**Machine Learning II**|&nbsp;|&nbsp;|&nbsp;|
-|Class 22|**Neural Network**|&nbsp;|&nbsp;|**Task8:** 2D crack detection using CNN|
+|Class 22|**Neural Network**|&nbsp;|&nbsp;|**Task8:** Neural Network|
 |Class 23|**Convolutional Neural Network**|&nbsp;|&nbsp;|&nbsp;|
 |Class 24|**Presentation**|&nbsp;|&nbsp;|&nbsp;|
 
