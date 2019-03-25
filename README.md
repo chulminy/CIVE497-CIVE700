@@ -7,9 +7,11 @@
 **Email:** cmyeum@uwaterloo.ca  
 **Office Hours:** Tuesdays and Thursday 10:00 to 11:00 AM at E2-2313 (You can also email for an appointment)  
 
-Last updated: 2019-03-23
+Last updated: 2019-03-25
 
 ## Announcement  
+:loudspeaker:: **2019-03-25** Please bring your laptop or tablet on March 26 for course evaluation.   
+:loudspeaker: **2019-03-25** [**Task 7**](task/Task7_ScanRegistration) is posted.   
 :loudspeaker::loudspeaker::loudspeaker: **2019-03-23** Please check out the important **announcement** in *Issues*. Please think of what options you are going to choose.      
 :loudspeaker::loudspeaker::loudspeaker: **2019-03-23** The due dates for Task 6, 7 and 8 will be set to April 9. I will update the status of your submission every week. There is no more delay after then so please submit your reports earlier.      
 
@@ -78,7 +80,7 @@ Slides and tutorials are will be updated soon.
 |Class 16|**Multiview Geometry**|[**link**](lecture/multiview_geometry)|[**link**](tutorial/multiview_geometry)|&nbsp;|
 |Class 17|**Structure-from-motion (SfM)**|[**link**](lecture/sfm)|&nbsp;|**Task6:** 3D measurement using SfM|
 |Class 18|**Introduction of 3D Sensors**|[**link**](lecture/intro_3D_sensor)|&nbsp;|&nbsp;|
-|Class 19|**Iterative Closest Point Algorithm**|[**link**](lecture/icp)|&nbsp;|**Task7:** Image registration in 3D|
+|Class 19|**Iterative Closest Point Algorithm**|[**link**](lecture/icp)|&nbsp;|**Task7:**Scan registration in 3D|
 |Class 20|**Machine Learning I**|&nbsp;|&nbsp;|&nbsp;|
 |Class 21|**Machine Learning II**|&nbsp;|&nbsp;|&nbsp;|
 |Class 22|**Neural Network**|&nbsp;|&nbsp;|**Task8:** 2D crack detection using CNN|
@@ -99,7 +101,9 @@ There will be **eight tasks** overall and posted on either weekly or biweekly on
 |Task3|[**Homography**](task/Task3_Homography)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</br>[Solution](task/Task3_Homography/solution/solution_task3_CM.pdf), [Best report (Hongyi)](task/Task3_Homography/solution/Rept_Hongy_ME_20788389.pdf)|Feb 12, 2019|Feb 26, 2019|Mar 02, 2019|
 |Task4|[**Image Filter**](task/Task4_ImageFilter)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Mar 01, 2019|Mar 11, 2019|Mar 18, 2019|
 |Task5|[**Image Stitching**](task/Task5_ImageStitching)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Mar 08, 2019|Mar 19, 2019|Mar 24, 2019|  
-|Task6|[**3D Measurement using SfM**](task/Task6_3DMeasurementSfM)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Mar 15, 2019|Mar 25, 2019|Mar 24, 2019|  
+|Task6|[**3D Measurement using SfM**](task/Task6_3DMeasurementSfM)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Mar 15, 2019|Apr 10, 2019|Apr 10, 2019|  
+|Task7|[**Scan Registration**](task/Task7_ScanRegistration)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Mar 25, 2019|Apr 10, 2019|Apr 10, 2019|  
+|Task8|**Neural Network**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Mar 28, 2019|Apr 10, 2019|Apr 10, 2019|    
 
 ## Communication  
 **All communication will be made through [this course website](https://github.com/chulminy/CIVE497-CIVE700)**, especially for this web page. The instructor will make a note in the ["Announcement"](#announcement) section after updating the web page. Students can configure email notification for by ["watching"](https://help.github.com/articles/watching-and-unwatching-repositories/) this course website or use a version control system for tracking its changes. Thus, **students are responsible for checking the website regularly** for any relevant course information or announcements. 
