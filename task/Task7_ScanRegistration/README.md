@@ -1,7 +1,7 @@
 # CIVE 497/700 Task 7 - Scan Registration
-**Announcement:** March 21, 2019
-**1st due date:** April 1, 2019
-**2nd due date:** April 8, 2019
+**Announcement:** March 24, 2019
+**1st due date:** April 8, 2019
+**2nd due date:** April 15, 2019
 
 The goal of this task is to get familiar with scan registration. You will get to use the tools available in matlab to perform ICP on real point cloud data from one of the robots in the SDIC lab (http://www.civil.uwaterloo.ca/snarasim/). You are also allowed to solve this using Python, however, no code has been written in Python to help. The assignment has been structured to require minimal programming experience. The outline of the code has been included in main.m, you simply need to go through and add all the correct inputs to all the functions (you will need to refer to Matlab's docs to understand what the inputs mean).
 
