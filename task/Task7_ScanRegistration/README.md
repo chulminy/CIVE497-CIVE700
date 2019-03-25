@@ -1,6 +1,8 @@
 # CIVE 497/700 Task 7 - Scan Registration
 **Announcement:** March 24, 2019
+
 **1st due date:** April 8, 2019
+
 **2nd due date:** April 15, 2019
 
 The goal of this task is to get familiar with scan registration. You will get to use the tools available in matlab to perform ICP on real point cloud data from one of the robots in the SDIC lab (http://www.civil.uwaterloo.ca/snarasim/). You are also allowed to solve this using Python, however, no code has been written in Python to help. The assignment has been structured to require minimal programming experience. The outline of the code has been included in main.m, you simply need to go through and add all the correct inputs to all the functions (you will need to refer to Matlab's docs to understand what the inputs mean).
@@ -21,16 +23,17 @@ The code to complete this assignment is on the course github. You will also need
 ## Questions:
 
 1. As discussed in the lectures, the most important part of scan registration is having some initial estimation of the transformation between the two scans you are registering. Luckily, the robot has wheel encoders and an IMU and ran an extended kalman filter (EKF) to estimate its motion between the two scans. This EKF outputted a displacement from location C to location D of -3.76m in the x direction, -0.5m in the y direction, and 135 degrees about the z-axis. Use this for your initial guess, and refine it using ICP. Add the following plots to your report:
-	i) scanC and scanD after all your pre-processing (cropping, denoising, downsampling) - use 2 subfigures
-	ii) scanD + your esimated transform applied to scan C (use downsampled cloud) - subfigure 1,  
-	    scanD + your final transform from ICP applied to scan C (use downsampled cloud) - subfigure 2
-	iii) same as ii but with only the whiteboard area showing - similar to the figure below (crop out the surroundings) 		 
+
+	* i) scanC and scanD after all your pre-processing (cropping, denoising, downsampling) - use 2 subfigures
+	* ii) scanD + your esimated transform applied to scan C (use downsampled cloud) - subfigure 1,  scanD + your final transform from ICP applied to scan C (use downsampled cloud) - subfigure 2
+	* iii) same as ii but with only the whiteboard area showing - similar to the figure below (crop out the surroundings) 		 
 
 2. Now assume your research supervisor "cheaped out" and didn't buy you an IMU for your robot. This means your robot could only estimate its change in position using the wheel encoders. Unfortunately, wheel encoders are not good for tracking rotation due to the wheel slippage that can't be accounted for. Change your initial estimate to 110 degree rotation about the z-axis. Provide the same plots as in Q1. Did ICP converge this time? If, not why? Can you tune your parameters and pre-processing to get this to converge? If so, what did you do and why do you think that work?
 
 3. Let's assume we need to use your code to perform robot localization online (while the robot is moving). To complete this, we need to get these scan registration measurements at 1Hz meaning your ICP code has to run in under one second (ignore the time to load and pre-process the scans, let's assume you can parallelize your code to perform that in the background). What parameters can you tune to help increase computation time? Are you able to achieve this rate? If so, what parameters did you use? (I understand that this is depended on your computer, so if you can't achieve this then just explain what you tried). Use the initial estimate from Q1.
 
 4. Based on your best registration results, measure the following in your combined point cloud: (use the cropped version that only shows the white board area)
+
 		* i) whiteboard width
 		* ii) whiteboard height
 		* iii) length of the blue arrow on the whiteboard
