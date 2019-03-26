@@ -9,21 +9,21 @@ function nn_demo_run
 % Author: Chul Min Yeum (cmyeum@uwaterloo.ca)
 % Last update: 11/28/2018
 
-% demonstration using circle dataset
-dataset = nn_generate_dataset('circle');
+% % dataset 1: demonstration using gaussian dataset
+dataset = nn_generate_dataset('gaussian');
 test_nn(dataset);
 
-% % demonstration using gaussian dataset
-% dataset = nn_generate_dataset('gaussian');
+% dataset 2: demonstration using circle dataset
+% dataset = nn_generate_dataset('circle');
 % test_nn(dataset);
 
-% % demonstration using xor dataset
+% % dataset 3: demonstration using xor dataset
 % dataset = nn_generate_dataset('xor');
 % test_nn(dataset);
 
 end
 function net = set_nn
-net.param.numepoch = 100;
+net.param.numepoch = 10;
 net.param.train_test_ratio = [0.85 0.15];
 
 net.param.learningrate = 0.01;

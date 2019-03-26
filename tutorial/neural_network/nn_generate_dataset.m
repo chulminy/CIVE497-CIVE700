@@ -9,7 +9,7 @@ switch set_name
     case 'gaussian'
         set1Loc = [2 2];
         set2Loc = [-2 -2];
-        sigma = 1;
+        sigma = 1.5;
         numPt = 500;
         dataset  = GenerateGaussianData(set1Loc, set2Loc, sigma, numPt);
     case 'xor'
