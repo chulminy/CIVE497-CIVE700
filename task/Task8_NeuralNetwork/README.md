@@ -1,18 +1,16 @@
 # Task8: Neural Network
 
-**Announcement**: March 26, 2019    
-**Due date**: April 9, 2019 (Tuesday) before 11:59 pm      
+**Announcement**: March 28, 2019    
+**Due date**: April 10, 2019 (Wednesday) before 11:59 pm      
 
-**NO MORE DELAY: I recommend submitting your report earlier**   
+**NO MORE DELAY: Please submit your report earlier**   
 
-In this task, I am giving you two problems that can be easily solved by tuning the parameters. To better understanding the neural network, I recommend reviewing the codes in the folder and try to learn how the codes work.  
+In this task, I am giving you two problems that can be easily solved by tuning the parameters. However, to better understanding the neural network, I recommend reviewing all codes in the folder and making an effort to learn how the codes work.  
     
-## Problem 1 (50 points)
-See a folder of `problem1`
+## Problem 1 (60 points)
+**(a)** Try out a neural network playground in this link: [http://playground.tensorflow.org](http://playground.tensorflow.org). Run all four examples by changing features, # of hidden layers, # of neurons, activation function, and/or learning rate (You do not need to include your results in your report). 
 
-**(a)** Try out a neural network playground in this link: [http://playground.tensorflow.org](http://playground.tensorflow.org). Try all four examples by changing features, # of hidden layers, # of neurons, activation function, and/or learning rate (You do not need to include your results). 
-
-**(b)** Build a classifier using each of three datasets ('circle', 'gaussian', 'xor') in `nn_demo_run.m`. The accuracy of the classifier is sufficiently high. You will need to finally obtain the figures like below: 
+**(b)** Build a classifier using each of three datasets ('circle', 'gaussian', 'xor') in `nn_demo_run.m`. The accuracy of the classifier should be sufficiently high. You will finally obtain the figures like below: 
 
 |Gaussian|Circle|Xor|
 |:----:|:-----:|:----:|
@@ -20,13 +18,15 @@ See a folder of `problem1`
 
 Note that you may need to change the parameters to obtain these results, such as learning rate, number of epoch, number of nodes in the hidden layer. 
 
-**(c)** Create your own dataset and build a corresponding classifier. Please do not make the dataset similar to the above example and be creative. 
+**(c)** Create your own dataset and build a classifier. Please do not make the dataset similar to the above examples. Please be creative. 
 
-## Problem 2 (50 points)
-Please load `task8_problem2_data.mat`. There is two sets of data `(x_set1, y_set1)` and `(x_set2, y_set2)`. This problem is to build a classification model that can classify your new points into set1 or set2. You must use the code provided and should not use internal library. You will need to obtain the figure like below:
-
+## Problem 2 (40 points)
+Please load `task8_problem2_data.mat`. There is two sets of data `(x_set1, y_set1)` and `(x_set2, y_set2)`. This problem is to build a classification model that can classify your new points into set1 and set2. Please use the code provided. You will need to obtain the figure like below:
 
 ![](sample/problem2.jpg)
+
+(Extra) Solve (a) using different methods that you are aware of. You can use internal functions in Matlab or Python.     
+
 
 ## Submission of Your Work
 * **YOU MUST INCLUDE YOUR RESULTING GRAPHS OR IMAGES INTO YOUR REPORT**
