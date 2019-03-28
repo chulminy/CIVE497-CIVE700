@@ -16,7 +16,7 @@ See a folder of `problem1`
 
 |Gaussian|Circle|Xor|
 |:----:|:-----:|:----:|
-|![](gaussian.jpg)|![](circle.jpg)|![](xor.jpg)|
+|![](sample/gaussian.jpg)|![](sample/circle.jpg)|![](sample/xor.jpg)|
 
 Note that you may need to change the parameters to obtain these results, such as learning rate, number of epoch, number of nodes in the hidden layer. 
 
@@ -26,7 +26,7 @@ Note that you may need to change the parameters to obtain these results, such as
 Please load `task8_problem2_data.mat`. There is two sets of data `(x_set1, y_set1)` and `(x_set2, y_set2)`. This problem is to build a classification model that can classify your new points into set1 or set2. You must use the code provided and should not use internal library. You will need to obtain the figure like below:
 
 
-![](problem2.jpg)
+![](sample/problem2.jpg)
 
 ## Submission of Your Work
 * **YOU MUST INCLUDE YOUR RESULTING GRAPHS OR IMAGES INTO YOUR REPORT**
