@@ -4,6 +4,8 @@
 **Due date**: April 9, 2019 (Tuesday) before 11:59 pm      
 
 **NO MORE DELAY: I recommend submitting your report earlier**   
+
+In this task, I am giving you two problems that can be easily solved by tuning the parameters. To better understanding the neural network, I recommend reviewing the codes in the folder and try to learn how the codes work.  
     
 ## Problem 1 (50 points)
 See a folder of `problem1`
@@ -16,15 +18,13 @@ See a folder of `problem1`
 |:----:|:-----:|:----:|
 |![](gaussian.jpg)|![](circle.jpg)|![](xor.jpg)|
 
-Note that you may need to change the `net.param` to obtain these results, such as learning rate, number of epoch, number of nodes in the hidden layer. 
+Note that you may need to change the parameters to obtain these results, such as learning rate, number of epoch, number of nodes in the hidden layer. 
 
 **(c)** Create your own dataset and build a corresponding classifier. Please do not make the dataset similar to the above example and be creative. 
 
 ## Problem 2 (50 points)
 Please load `task8_problem2_data.mat`. There is two sets of data `(x_set1, y_set1)` and `(x_set2, y_set2)`. This problem is to build a classification model that can classify your new points into set1 or set2. You must use the code provided and should not use internal library. You will need to obtain the figure like below:
 
-
-**I encourage you to review all codes in a folder and try to understand how the codes work.**
 
 ![](problem2.jpg)
 
