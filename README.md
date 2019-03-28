@@ -7,10 +7,10 @@
 **Email:** cmyeum@uwaterloo.ca  
 **Office Hours:** Tuesdays and Thursday 10:00 to 11:00 AM at E2-2313 (You can also email for an appointment)  
 
-Last updated: 2019-03-25
+Last updated: 2019-03-28
 
 ## Announcement  
-:loudspeaker:: **2019-03-26** [**Slides**](lecture/machine_learning) for Class 20 and Class 21 are posted.       
+:loudspeaker:: **2019-03-28** [**Slides**](lecture/neural_network) and [**Tutorials**](tutorial/neural_network) for Class 22 are posted.         
 :loudspeaker:: **2019-03-25** Please bring your laptop or tablet on March 26 for course evaluation.   
 :loudspeaker: **2019-03-25** [**Task 7**](task/Task7_ScanRegistration) is posted.   
 :loudspeaker::loudspeaker::loudspeaker: **2019-03-23** Please check out the important **announcement** in *Issues*. Please think of what options you are going to choose.      
@@ -84,7 +84,7 @@ Slides and tutorials are will be updated soon.
 |Class 19|**Iterative Closest Point Algorithm**|[**link**](lecture/icp)|&nbsp;|**Task7:** Scan registration in 3D|
 |Class 20|**Machine Learning I**|[**link**](lecture/machine_learning)|&nbsp;|&nbsp;|
 |Class 21|**Machine Learning II**|[**link**](lecture/machine_learning)|&nbsp;|&nbsp;|
-|Class 22|**Neural Network**|&nbsp;|&nbsp;|**Task8:** Neural Network|
+|Class 22|**Neural Network**|[**link**](lecture/neural_network)|[**link**](tutorial/neural_network)|**Task8:** Neural Network|
 |Class 23|**Convolutional Neural Network**|&nbsp;|&nbsp;|&nbsp;|
 |Class 24|**Presentation**|&nbsp;|&nbsp;|&nbsp;|
 

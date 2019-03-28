@@ -1,35 +1,36 @@
 function nn_demo_run
 % Simple neural network demonstration
 % This code shows how to implement a multi-layer neural network (having a
-% single hidden layer). User can change some basic parameters including
-% learning rate, number of neurons, number of epoch, etc. User also see the
-% following web-based implementation from here:
+% single hidden layer). You can change some basic parameters including
+% learning rate, number of neurons, number of epoch, etc. You can also see
+% similar demo from here: 
 % https://github.com/tensorflow/playground
 
 % Author: Chul Min Yeum (cmyeum@uwaterloo.ca)
-% Last update: 11/28/2018
+% Last update: 03/25/2019
 
 % % dataset 1: demonstration using gaussian dataset
-dataset = nn_generate_dataset('gaussian');
-test_nn(dataset);
+% dataset = nn_generate_dataset('gaussian');
+% test_nn(dataset);
 
 % dataset 2: demonstration using circle dataset
-% dataset = nn_generate_dataset('circle');
-% test_nn(dataset);
+dataset = nn_generate_dataset('circle');
+test_nn(dataset);
 
 % % dataset 3: demonstration using xor dataset
 % dataset = nn_generate_dataset('xor');
 % test_nn(dataset);
 
 end
+
 function net = set_nn
-net.param.numepoch = 10;
+net.param.numepoch = 20;
 net.param.train_test_ratio = [0.85 0.15];
 
-net.param.learningrate = 0.01;
+net.param.learningrate = 0.03;
 
 net.input.node = 2;
-net.layer.node = 15;
+net.layer.node = 10;
 net.output.node = 2;
 
 net.layer.activation = 'sigmoid';

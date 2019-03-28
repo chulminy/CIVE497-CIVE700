@@ -4,12 +4,12 @@ switch set_name
     case 'circle'
         inRadius = 2;
         outRadius = [3 6];
-        numPt = 100;
+        numPt = 200;
         dataset = GenerateCircleData(inRadius, outRadius, numPt);
     case 'gaussian'
         set1Loc = [2 2];
         set2Loc = [-2 -2];
-        sigma = 1.5;
+        sigma = 1.1;
         numPt = 500;
         dataset  = GenerateGaussianData(set1Loc, set2Loc, sigma, numPt);
     case 'xor'
