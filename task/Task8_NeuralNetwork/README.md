@@ -5,7 +5,7 @@
 
 **NO MORE DELAY: Please submit your report earlier**   
 
-In this task, I am giving you two problems that can be easily solved by tuning the parameters. However, to better understanding the neural network, I recommend reviewing all codes in the folder and making an effort to learn how the codes work.  
+In this task, I am giving you two problems that can be easily solved by only tuning the parameters (except Problem 1(a)). However, to better understanding the neural network, I recommend reviewing all codes in the folder and making an effort to learn how the codes work.  
     
 ## Problem 1 (60 points)
 **(a)** Try out a neural network playground in this link: [http://playground.tensorflow.org](http://playground.tensorflow.org). Run all four examples by changing features, # of hidden layers, # of neurons, activation function, and/or learning rate (You do not need to include your results in your report). 
