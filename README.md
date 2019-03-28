@@ -84,7 +84,7 @@ Slides and tutorials are will be updated soon.
 |Class 19|**Iterative Closest Point Algorithm**|[**link**](lecture/icp)|&nbsp;|**Task7:** Scan registration in 3D|
 |Class 20|**Machine Learning I**|[**link**](lecture/machine_learning)|&nbsp;|&nbsp;|
 |Class 21|**Machine Learning II**|[**link**](lecture/machine_learning)|&nbsp;|&nbsp;|
-|Class 22|**Neural Network**|[**link**](lecture/neural_network)|[**link**](tutorial/neural_network)|**Task8:** Neural Network|
+|Class 22|**Neural Network**|[**link**](lecture/neural_network)|[**link**](tutorial/neural_network)|**Task8:** Neural network|
 |Class 23|**Convolutional Neural Network**|&nbsp;|&nbsp;|&nbsp;|
 |Class 24|**Presentation**|&nbsp;|&nbsp;|&nbsp;|
 
