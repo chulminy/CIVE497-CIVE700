@@ -101,8 +101,8 @@ There will be **eight tasks** overall and posted on either weekly or biweekly on
 |Task2|[**Camera Sensor**](task/Task2_CameraSensor)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br>[Best report (Tianyi)](task/Task2_CameraSensor/solution/Rept_Tiany_BA_20550150_reduced.pdf), [Best report (Juan)](task/Task2_CameraSensor/solution/Rept_Juanp_BA_20577312_reduced.pdf)|Feb 01, 2019|Feb 11, 2019|Feb 16, 2019|
 |Task1-2|[**Signal Processing II**](task/Task1_Part2_SignalProcessing)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</br> [Best report (Steven)](task/Task1_Part2_SignalProcessing/solution/Rept_Steve_MA_20522068.pdf)|Feb 06, 2019|Feb 20, 2019|Feb 23, 2019|
 |Task3|[**Homography**](task/Task3_Homography)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</br> [Best report (Hongyi)](task/Task3_Homography/solution/Rept_Hongy_ME_20788389.pdf)|Feb 12, 2019|Feb 26, 2019|Mar 02, 2019|
-|Task4|[**Image Filter**](task/Task4_ImageFilter)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Mar 01, 2019|Mar 11, 2019|Mar 18, 2019|
-|Task5|[**Image Stitching**](task/Task5_ImageStitching)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Mar 08, 2019|Mar 19, 2019|Mar 24, 2019|  
+|Task4|[**Image Filter**](task/Task4_ImageFilter)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(**No best report**)|Mar 01, 2019|Mar 11, 2019|Mar 18, 2019|
+|Task5|[**Image Stitching**](task/Task5_ImageStitching)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</br> [Best report (Laurent)](task/Task5_ImageStitching/solution/Rept_Laure_MA_20505439.pdf)|Mar 08, 2019|Mar 19, 2019|Mar 24, 2019|  
 |Task6|[**3D Measurement using SfM**](task/Task6_3DMeasurementSfM)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Mar 15, 2019|Apr 10, 2019|Apr 10, 2019|  
 |Task7|[**Scan Registration**](task/Task7_ScanRegistration)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Mar 25, 2019|Apr 10, 2019|Apr 10, 2019|  
 |Task8|[**Neural Network**](task/Task8_NeuralNetwork) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Mar 28, 2019|Apr 10, 2019|Apr 10, 2019|    
