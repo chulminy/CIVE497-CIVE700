@@ -10,11 +10,11 @@
 Last updated: 2019-03-28
 
 ## Announcement  
-:loudspeaker: **2019-03-28** [**Task 8**](task/Task8_NeuralNetwork) is posted.   
-:loudspeaker:: **2019-03-28** [**Slides**](lecture/neural_network) and [**Tutorials**](tutorial/neural_network) for Class 22 are posted.         
-:loudspeaker:: **2019-03-25** Please bring your laptop or tablet on March 26 for course evaluation.   
-:loudspeaker: **2019-03-25** [**Task 7**](task/Task7_ScanRegistration) is posted.   
-:loudspeaker::loudspeaker::loudspeaker: **2019-03-23** Please check out the important **announcement** in *Issues*. Please think of what options you are going to choose.      
+
+:loudspeaker::loudspeaker::loudspeaker: **2019-04-09** :loudspeaker::loudspeaker::loudspeaker: 
+
+# PLEASE SUBMIT YOUR REPORT!!! ALL DEADLINE IS TOMORROW. 
+
 :loudspeaker::loudspeaker::loudspeaker: **2019-03-23** The due dates for Task 6, 7 and 8 will be set to April 9. I will update the status of your submission every week. There is no more delay after then so please submit your reports earlier.      
 
 
