@@ -13,7 +13,7 @@ Last updated: 2019-03-28
 
 :loudspeaker::loudspeaker::loudspeaker: **2019-04-09** :loudspeaker::loudspeaker::loudspeaker: 
 
-# PLEASE SUBMIT YOUR REPORT!!! ALL DEADLINE IS TOMORROW. 
+# SUBMIT YOUR REPORT!!! ALL DEADLINES ARE TOMORROW!!!
 
 :loudspeaker::loudspeaker::loudspeaker: **2019-03-23** The due dates for Task 6, 7 and 8 will be set to April 9. I will update the status of your submission every week. There is no more delay after then so please submit your reports earlier.      
 
