@@ -7,16 +7,7 @@
 **Email:** cmyeum@uwaterloo.ca  
 **Office Hours:** Tuesdays and Thursday 10:00 to 11:00 AM at E2-2313 (You can also email for an appointment)  
 
-Last updated: 2019-03-28
-
-## Announcement  
-
-:loudspeaker::loudspeaker::loudspeaker: **2019-04-09** :loudspeaker::loudspeaker::loudspeaker: 
-
-# SUBMIT YOUR REPORT!!! ALL DEADLINES ARE TOMORROW!!!
-
-:loudspeaker::loudspeaker::loudspeaker: **2019-03-23** The due dates for Task 6, 7 and 8 will be set to April 9. I will update the status of your submission every week. There is no more delay after then so please submit your reports earlier.      
-
+Last updated: 2019-04-26
 
 ## Table of Contents
 - [Course Description](#course-description)
