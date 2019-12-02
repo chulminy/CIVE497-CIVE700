@@ -1,12 +1,11 @@
-# CIVE497/CIVE700: Smart Structure Technology (Winter, 2020)
+# CIVE497/CIVE700: Smart Structure Technology (Winter, 202)
 
 ![](intro_img.png)
 
 **Instructor:** Chul Min Yeum (E2-2313)  
-**Class:**  To be determined     
+**Class:**  *To be determined*     
 **Email:** cmyeum@uwaterloo.ca  
-**Office Hours** (Instructor): To be determined 
-**Office Hours** (TA): To be determined   
+**Office Hours:** *To be determined* (You can also email for an appointment)  
 
 Last updated: 2019-12-01
 
@@ -22,10 +21,7 @@ Last updated: 2019-12-01
 - [Note](#note)
 
 ## Course Description
-This course offers an introduction to the emerging **smart structure technologies** in civil engineering. Smart structures integrate sensing, actuation, data processing and analysis, and control capabilities so that a structure can sense and respond to its changing external conditions in a rapid and automated manner. Among several topics in smart structure, this course focuses on [**structural assessment**](https://en.wikipedia.org/wiki/Structural_health_monitoring) using optical sensor data by implementing state-of-art image processing and computer vision techniques. As a special topic, basic concepts in machine learning, neural networks, convolutional neural networks (deep learning) are covered and relevant applications in civil engineering are introduced. An application-based learning approach is emphasized and tasks are designed in such a way that students implement smart structure technology to address contemporary problems in civil engineering. In addition, one of the deliverable for this course will be a research project, in which student will have an opportunity to design a technique with a potential application to smart structures. 
-
-This course is specially designed to suit the interest of **graduate students** and **senior undergraduate students** who may pursue graduate studies. Based on the feedback received from the course in 2019, you are expected to spend extra 12 hours or more  week studying class materials as well as working on task assignments and 
-
+This course offers an introduction to the emerging **smart structure technologies** in civil engineering. Smart structures integrate sensing, actuation, data processing and analysis, and control capabilities so that a structure can sense and respond to its changing external conditions in a rapid and automated manner. Among several topics in smart structure, this course focuses on [**structural assessment**](https://en.wikipedia.org/wiki/Structural_health_monitoring) using optical sensor data by implementing state-of-art image processing and computer vision techniques. As a special topic, basic concepts in machine learning, neural networks, convolutional neural networks (deep learning) are covered and relevant applications in civil engineering are introduced. An application-based learning approach is emphasized and tasks are designed in such a way that students implement smart structure technology to address contemporary problems in civil engineering. In addition, one of the deliverable for this course will be a research project, in which student will have an opportunity to design a technique with a potential application to smart structures. This course is specially designed to suit the interest of **graduate students** and **senior undergraduate students** who may pursue graduate studies.
 
 ## Intended Learning Outcomes
 By the end of this course, students should be able to  
@@ -39,7 +35,7 @@ By the end of this course, students should be able to
 * Devise innovative smart structure technology for civil engineering applications and research 
 
 ## Prerequisite
-This course requires basic knowledge in **linear algebra** and **probability** and skills at ***a sufficient level of a non-trivial computer programming*** (with **MATLAB** or  **Python**). Students also need to know how to use **Markdown**. If you are not familiar with or would revisit these topics, students must complete the following tutorials and questions inside:
+This course requires basic knowledge in **linear algebra**, **probability**, and **signal processing** and skills at ***a sufficient level of a non-trivial computer programming*** (with **MATLAB** or  **Python**). Students also need to know how to use **Markdown**. If you are not familiar with or would revisit these topics, students must complete the following tutorials and questions inside:
 
 **MATLAB tutorials**
 * [**Matrices & Arrays**](tutorial/matlab): copy this folder in your computer and run `matrices_arrays.mlx` in MATLAB 
@@ -49,6 +45,7 @@ This course requires basic knowledge in **linear algebra** and **probability** a
 * [**Digital Image Processing**](tutorial/image_proc): copy this folder in your computer and run `digital_image_processing.mlx` in MATLAB
 * [**Markdown**](tutorial/markdown)
 
+
 ## Course Textbook 
 This course is not based on any particular textbook. The instructor will provide relevant keywords (search by yourself), reading materials, and links in each class. 
 
@@ -57,26 +54,48 @@ Slides and tutorials are will be updated soon.
 
 |Class|Topics|Slides|Tutorial|Tasks|
 |:----|:-----|:----|:-----|:-----|
-|Class 01|**Introduction I**|&nbsp;|&nbsp;|&nbsp;|
-|Class 02|**MATLAB Tutorial**|&nbsp;|&nbsp;|&nbsp;|
-|Class 03|**Data Acquisition**|&nbsp;|&nbsp;|&nbsp;|
-|Class 04|**Signal Processing I**|&nbsp;|&nbsp;|&nbsp;|
-|Class 05|**Signal Processing II**|&nbsp;|&nbsp;|&nbsp;| 
-
+|Class 01|**Introduction I**|[**link**](lecture/introduction)|&nbsp;|&nbsp;|
+|Class 02|**Introduction II**|[**link**](lecture/introduction)|&nbsp;|**Task0:** Matlab & DIP Tutorials|
+|Class 03|**Data Acquisition**|[**link**](lecture/data_acquisition)|[**link**](tutorial/data_aquisition)|&nbsp;|
+|Class 04|**Signal Processing I**|[**link**](lecture/signal_processing)|[**link**](tutorial/signal_processing)|&nbsp;|
+|Class 05|**Signal Processing II**|[**link**](lecture/signal_processing)|[**link**](tutorial/signal_processing)|**Task1:** Signal processing & Modal analysis| 
+|Class 06|**Modal Analysis**|[**link**](lecture/modal_analysis)|&nbsp;|&nbsp;| 
+|Class 07|**Digital Image**|[**link**](lecture/camera_sensor)|&nbsp;|**Task2:** Camera sensor| 
+|Class 08|**Projective Geometry I**|[**link**](lecture/project_geomtry)|[**link**](tutorial/projective_geometry)|&nbsp;| 
+|Class 09|**Projective Geometry II**|[**link**](lecture/project_geomtry)|[**link**](tutorial/projective_geometry)|**Task3:** Homography| 
+|Class 10|**Linear Filtering**|[**link**](lecture/linear_filtering)|[**link**](tutorial/linear_filtering)|&nbsp;| 
+|Class 11|**Edge Detection**|[**link**](lecture/edge_detection)|[**link**](tutorial/edge_detection)|**Task4:** Image filter| 
+|Class 12|**Feature 1**|[**link**](lecture/feature)|[**link**](tutorial/feature)|&nbsp;|  
+|Class 13|**Feature 2**|[**link**](lecture/feature)|[**link**](tutorial/feature)|&nbsp;|
+|Class 14|**RANSAC**|[**link**](lecture/ransac)|[**link**](tutorial/ransac)|**Task5:** Image stitching|
+|Class 15|**Camera Model**|[**link**](lecture/camera_model)|&nbsp;|&nbsp;|
+|Class 16|**Multiview Geometry**|[**link**](lecture/multiview_geometry)|[**link**](tutorial/multiview_geometry)|&nbsp;|
+|Class 17|**Structure-from-motion (SfM)**|[**link**](lecture/sfm)|&nbsp;|**Task6:** 3D measurement using SfM|
+|Class 18|**Introduction of 3D Sensors**|[**link**](lecture/intro_3D_sensor)|&nbsp;|&nbsp;|
+|Class 19|**Iterative Closest Point Algorithm**|[**link**](lecture/icp)|&nbsp;|**Task7:** Scan registration in 3D|
+|Class 20|**Machine Learning I**|[**link**](lecture/machine_learning)|&nbsp;|&nbsp;|
+|Class 21|**Machine Learning II**|[**link**](lecture/machine_learning)|&nbsp;|&nbsp;|
+|Class 22|**Neural Network**|[**link**](lecture/neural_network)|[**link**](tutorial/neural_network)|**Task8:** Neural network|
+|Class 23|**Convolutional Neural Network**|&nbsp;|&nbsp;|&nbsp;|
+|Class 24|**Presentation**|&nbsp;|&nbsp;|&nbsp;|
 
 ## Tasks
-There will be **7~9 tasks** and posted on either weekly or biweekly on this course website. The task will have programming components or photography components, where students will use their own camera to capture and process their own images and discuss the results. 
-
-The instructor will post two due dates. Students are supposed to complete all tasks and turn their works in by the first due date. After the first due data, there is 25% deduction in the final mark and 
-
-
-. After the second due date, the submission of the works will not be accepted unless accompanied by a valid excuse and some additional points might be deducted depending upon the circumstances.  
+There will be **eight tasks** overall and posted on either weekly or biweekly on this course website. The task will have programming components or photography components, where students will use their own camera to capture and process their own images and discuss the results. The instructor will post two due dates. Students are supposed to complete all tasks and turn their works in by the first due date. After the first due data, some hints and solutions will be posted but, there is 25% deduction in the final mark. After the second due date, the submission of the works will not be accepted unless accompanied by a valid excuse and some additional points might be deducted depending upon the circumstances.  
 
 [**Submission instruction of your work**](#submission-instruction-of-your-work)
 
-|Task|Topics|Announcement|Due Date|
-|:----|:-----|:----|:-----|
-|Task1|**MATLAB and Digital Image Processing Tutorial** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |||   
+|Task|Topics|Announcement|1st due|2nd due|
+|:----|:-----|:----|:-----|:-----|
+|Task0|[**MATLAB and Digital Image Processing Tutorial**](task/Task0_Matlab_ImgProc_Tutorials) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> [Best report (Kareem Mostafa)](task/Task0_Matlab_ImgProc_Tutorials/Rept_Karee_PH_20767080.pdf)|Jan 10, 2019|Jan 19, 2019|Jan 26, 2019|
+|Task1-1|[**Signal Processing I**](task/Task1_Part1_SignalProcessing) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> [Best report (Laurent)](task/Task1_Part1_SignalProcessing/solution/Rept_Laure_MA_20505439.pdf), [Best report (Wildt)](task/Task1_Part1_SignalProcessing/solution/Rept_Nilsw_MA_20807870.pdf)|Jan 27, 2019|Feb 06, 2019|Feb 10, 2019|
+|Task2|[**Camera Sensor**](task/Task2_CameraSensor)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br>[Best report (Tianyi)](task/Task2_CameraSensor/solution/Rept_Tiany_BA_20550150_reduced.pdf), [Best report (Juan)](task/Task2_CameraSensor/solution/Rept_Juanp_BA_20577312_reduced.pdf)|Feb 01, 2019|Feb 11, 2019|Feb 16, 2019|
+|Task1-2|[**Signal Processing II**](task/Task1_Part2_SignalProcessing)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</br> [Best report (Steven)](task/Task1_Part2_SignalProcessing/solution/Rept_Steve_MA_20522068.pdf)|Feb 06, 2019|Feb 20, 2019|Feb 23, 2019|
+|Task3|[**Homography**](task/Task3_Homography)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</br> [Best report (Hongyi)](task/Task3_Homography/solution/Rept_Hongy_ME_20788389.pdf)|Feb 12, 2019|Feb 26, 2019|Mar 02, 2019|
+|Task4|[**Image Filter**](task/Task4_ImageFilter)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(**No best report**)|Mar 01, 2019|Mar 11, 2019|Mar 18, 2019|
+|Task5|[**Image Stitching**](task/Task5_ImageStitching)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</br> [Best report (Laurent)](task/Task5_ImageStitching/solution/Rept_Laure_MA_20505439.pdf)|Mar 08, 2019|Mar 19, 2019|Mar 24, 2019|  
+|Task6|[**3D Measurement using SfM**](task/Task6_3DMeasurementSfM)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Mar 15, 2019|Apr 10, 2019|Apr 10, 2019|  
+|Task7|[**Scan Registration**](task/Task7_ScanRegistration)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Mar 25, 2019|Apr 10, 2019|Apr 10, 2019|  
+|Task8|[**Neural Network**](task/Task8_NeuralNetwork) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Mar 28, 2019|Apr 10, 2019|Apr 10, 2019|    
 
 ## Communication  
 **All communication will be made through [this course website](https://github.com/chulminy/CIVE497-CIVE700)**, especially for this web page. The instructor will make a note in the ["Announcement"](#announcement) section after updating the web page. Students can configure email notification for by ["watching"](https://help.github.com/articles/watching-and-unwatching-repositories/) this course website or use a version control system for tracking its changes. Thus, **students are responsible for checking the website regularly** for any relevant course information or announcements. 
@@ -88,7 +107,7 @@ In this course, both the instructor and the students are encouraged to engage in
 ## Grading  
 The final grade will be based on the total marks earned during the semester. Each task will be graded on the basis of 100 points and will contribute the final grade with different weights. The evaluation guideline for the project can be seen [**here**](#guideline-for-the-project). Note that undergraduate and graduate students are marked using different evaluation metrics.
 
-**Undergraduate student**: Task (100%)   
+**Undergraduate student**: Task (80%) and Project (20%)  
 **Graduate student**: Task (70%) and Project (30%)  
 
 ## Project 
