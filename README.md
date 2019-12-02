@@ -1,4 +1,4 @@
-# CIVE497/CIVE700: Smart Structure Technology (Winter, 2020)
+# CIVE497/700: Smart Structure Technology (Winter, 2020)
 
 ![](intro_img.png)
 
@@ -8,7 +8,7 @@
 **Office Hours** (Instructor): To be determined 
 **Office Hours** (TA): To be determined   
 
-Last updated: 2019-12-01
+Last updated: 2019-12-01 (still updating!)
 
 ## Table of Contents
 - [Course Description](#course-description)

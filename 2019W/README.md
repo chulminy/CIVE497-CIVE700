@@ -1,17 +1,17 @@
-# CIVE497/CIVE700: Smart Structure Technology (Winter, 202)
+# CIVE497/CIVE700: Smart Structure Technology (Winter, 2019)
 
 ![](intro_img.png)
 
 **Instructor:** Chul Min Yeum (E2-2313)  
-**Class:**  *To be determined*     
+**Class:** Tuesday and Thursday, 8:30 to 10:00 AM at E2-3356     
 **Email:** cmyeum@uwaterloo.ca  
-**Office Hours:** *To be determined* (You can also email for an appointment)  
+**Office Hours:** Tuesdays and Thursday 10:00 to 11:00 AM at E2-2313 (You can also email for an appointment)  
 
-Last updated: 2019-12-01
+Last updated: 2019-04-26
 
 ## Table of Contents
 - [Course Description](#course-description)
-- [Intended Learning Outcomes](#intended-learning-outcomes)
+- [Course Objectives](#course-objectives)
 - [Prerequisite](#prerequisite)
 - [Course Textbook](#course-textbook)
 - [Course Outline](#course-outline)
@@ -23,7 +23,7 @@ Last updated: 2019-12-01
 ## Course Description
 This course offers an introduction to the emerging **smart structure technologies** in civil engineering. Smart structures integrate sensing, actuation, data processing and analysis, and control capabilities so that a structure can sense and respond to its changing external conditions in a rapid and automated manner. Among several topics in smart structure, this course focuses on [**structural assessment**](https://en.wikipedia.org/wiki/Structural_health_monitoring) using optical sensor data by implementing state-of-art image processing and computer vision techniques. As a special topic, basic concepts in machine learning, neural networks, convolutional neural networks (deep learning) are covered and relevant applications in civil engineering are introduced. An application-based learning approach is emphasized and tasks are designed in such a way that students implement smart structure technology to address contemporary problems in civil engineering. In addition, one of the deliverable for this course will be a research project, in which student will have an opportunity to design a technique with a potential application to smart structures. This course is specially designed to suit the interest of **graduate students** and **senior undergraduate students** who may pursue graduate studies.
 
-## Intended Learning Outcomes
+## Course Objectives
 By the end of this course, students should be able to  
   
 * Describe smart structure technology and its application in civil engineering
@@ -42,6 +42,7 @@ This course requires basic knowledge in **linear algebra**, **probability**, and
 * [**Operations and Elementary Operations**](tutorial/matlab): copy this folder in your computer and run `operators_elem_operations.mlx` in MATLAB
 
 **Topics**
+* Signal Processing (will be posted in [Course Outline](#course-outline))    
 * [**Digital Image Processing**](tutorial/image_proc): copy this folder in your computer and run `digital_image_processing.mlx` in MATLAB
 * [**Markdown**](tutorial/markdown)
 
