@@ -57,12 +57,30 @@ Slides and tutorials are will be updated soon.
 
 |Class|Topics|Slides|Tutorial|Tasks|
 |:----|:-----|:----|:-----|:-----|
-|Class 01|**Introduction I**|&nbsp;|&nbsp;|&nbsp;|
+|Class 01|**Introduction**|&nbsp;|&nbsp;|&nbsp;|
 |Class 02|**MATLAB Tutorial**|&nbsp;|&nbsp;|&nbsp;|
 |Class 03|**Data Acquisition**|&nbsp;|&nbsp;|&nbsp;|
 |Class 04|**Signal Processing I**|&nbsp;|&nbsp;|&nbsp;|
 |Class 05|**Signal Processing II**|&nbsp;|&nbsp;|&nbsp;| 
-
+|Class 06|**Modal Analysis**|&nbsp;|&nbsp;|&nbsp;| 
+|Class 07|**Digital Image**|&nbsp;|&nbsp;|&nbsp;|
+|Class 08|**Projective Geometry**|&nbsp;|&nbsp;|&nbsp;|
+|Class 09|**Review**|&nbsp;|&nbsp;|&nbsp;| 
+|Class 10|**Linear Filtering**|&nbsp;|&nbsp;|&nbsp;|
+|Class 11|**Edge Detection**|&nbsp;|&nbsp;|&nbsp;|
+|Class 12|**Feature 1**|&nbsp;|&nbsp;|&nbsp;|  
+|Class 13|**Feature 2**|&nbsp;|&nbsp;|&nbsp;|
+|Class 14|**RANSAC**|&nbsp;|&nbsp;|&nbsp;|
+|Class 15|**Camera Model**|&nbsp;|&nbsp;|&nbsp;|
+|Class 16|**Multiview Geometry**|&nbsp;|&nbsp;|&nbsp;|
+|Class 17|**Structure-from-motion (SfM)**|&nbsp;|&nbsp;|&nbsp;|
+|Class 18|**Review**|&nbsp;|&nbsp;|&nbsp;|
+|Class 19|**Microsoft Azure Tutorial**|&nbsp;|&nbsp;|&nbsp;|
+|Class 20|**Machine Learning I**|&nbsp;|&nbsp;|&nbsp;|
+|Class 21|**Machine Learning II**|&nbsp;|&nbsp;|&nbsp;|
+|Class 22|**Neural Network**|&nbsp;|&nbsp;|&nbsp;|
+|Class 23|**Convolutional Neural Network**|&nbsp;|&nbsp;|&nbsp;|
+|Class 24|**Presentation**|&nbsp;|&nbsp;|&nbsp;|
 
 ## Tasks
 There will be **7~9 tasks** and posted on either weekly or biweekly on this course website. **The instructor encourage students to work in groups through collaborative learning, but to submit their assignments individually.** The task will have programming components or photography components, where students will use their own camera to capture and process their own images and discuss the results. Students are supposed to complete all tasks and turn their works in by the due date. After the due data, there is 25% deduction in the final mark and students must submit their works within a week after the due data. After then, the submission of the works will not be accepted unless accompanied by a valid excuse and some additional points might be deducted depending upon the circumstances.  
