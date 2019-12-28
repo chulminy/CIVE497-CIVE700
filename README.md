@@ -8,7 +8,7 @@
 **TA:** Juan Park (park.juan@gmail.com)     
 **Office Hours** Monday and Wednesday, 1:00PM to 2:00PM at E2-2313 (You can also email for an appointment)   
 
-Last updated: 2019-12-02  
+Last updated: 2019-12-24  
 
 ## Table of Contents
 - [Course Description](#course-description)
@@ -24,7 +24,7 @@ Last updated: 2019-12-02
 ## Course Description
 This course offers an introduction to the emerging **smart structure technologies** in civil engineering. Smart structures integrate sensing, actuation, data processing and analysis, and control capabilities so that a structure can sense and respond to its changing external conditions in a rapid and automated manner. Among several topics in smart structure, this course focuses on [**structural assessment**](https://en.wikipedia.org/wiki/Structural_health_monitoring) using optical sensor data by implementing state-of-art image processing and computer vision techniques. As a special topic, basic concepts in machine learning, neural networks, convolutional neural networks (deep learning) are covered and relevant applications in civil engineering are introduced. An application-based learning approach is emphasized and tasks are designed in such a way that students implement smart structure technology to address contemporary problems in civil engineering. In addition, for graduate students, students should perform a research project, in which student will have an opportunity to design a technique with a potential application to smart structures. 
 
-This course is specially designed to suit the interest of **graduate students** and **senior undergraduate students who may pursue graduate studies**. Based on the feedback received from the course in 2019 (six undergraduate and seven graduate students registered the course), you are expected to spend extra 12 hours or more week studying class materials as well as working on task assignments and research project. You will see the course outline and task assignments in the previous year from [**here**](2019W). 
+This course is specially designed to suit the interest of **graduate students** and **senior undergraduate students who may pursue graduate studies**. Based on the feedback received from the course in 2019 (six undergraduate and seven graduate students registered the course), you are expected to spend extra 12 hours or more week studying class materials as well as working on task assignments and research project. You will see the course outline and task assignments in the previous year from [**here**](w2019). 
 
 
 ## Intended Learning Outcomes
@@ -62,7 +62,7 @@ Slides and tutorials are will be updated soon.
 |Class 03|**Data Acquisition**|&nbsp;|&nbsp;|&nbsp;|
 |Class 04|**Signal Processing I**|&nbsp;|&nbsp;|&nbsp;|
 |Class 05|**Signal Processing II**|&nbsp;|&nbsp;|&nbsp;| 
-|Class 06|**Modal Analysis**|&nbsp;|&nbsp;|&nbsp;| 
+|Class 06|**Signal Processing III**|&nbsp;|&nbsp;|&nbsp;| 
 |Class 07|**Digital Image**|&nbsp;|&nbsp;|&nbsp;|
 |Class 08|**Projective Geometry**|&nbsp;|&nbsp;|&nbsp;|
 |Class 09|**Review**|&nbsp;|&nbsp;|&nbsp;| 
