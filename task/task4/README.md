@@ -1,26 +1,30 @@
 # Task4: Camera Sensor and Digital Image
-**Announcement**: February 01, 2019   
-**Due date**: February 16, 2019 (Saturday) before 11:59 pm  
+**Announcement**: ND     
+**Due date**: ND    
 
-The main goal of this task is to learn a working principle of a digital camera and take quality photos using your camera. Students are encouraged to actively search for relevant information on the web, such as wiki, article, or tutorial videos. Then, please answer the following questions:   
+## Problem Description
+The main goal of this task is to learn a working principle of a digital camera and how to take quality photos using your camera. Students are encouraged to actively search for relevant information on the web, such as wiki, article, or tutorial videos. Then, please answer the following questions:   
 
 **Q1. What is a good image sensor? Why are the high-end DSLR cameras expensive?**  
 
 **Q2. What is the difference between optical and digital zooms?**
 
-> **(Q3~Q8)** Please explain and demonstrate the following functions/effects using your own images. Also, you can also explain when you change their values on a camera. Your answers are graded based on both the correctness and extensively considering various potential situations. Your answers do not have to be lengthy but should not be short. Note that you are allowed to use the DSLR images provided but you need to provide a suitable reason for why your smartphone camera cannot take the corresponding images. You can download the instructor's images from [**here**](https://www.dropbox.com/s/3setnfjjq18ekg1/img_cive497.zip?dl=0).
+**Q3. Why did the apple make "stove-top" iPhone 11?**  
+<img align="center" width="200" src="iphone11.jpg">
+
+> **(Q4~Q9)** Please explain and demonstrate the following functions/effects using your own images. Also, you can also explain when you change their values on a camera. Your answers are graded based on both the correctness and extensively considering various potential situations. Your answers do not have to be lengthy but should not be short. Note that you are allowed to use the DSLR images provided but you need to provide a suitable reason for why your smart phone camera cannot take the corresponding images. You can download the instructor's images from [**here**](https://www.dropbox.com/s/3setnfjjq18ekg1/img_cive497.zip?dl=0).
  
-**Q3. Shutter speed (Exposure time)**
+**Q4. Shutter speed (Exposure time)**
 
-**Q4. Aperture**
+**Q5. Aperture**
 
-**Q5. ISO**
+**Q6. ISO**
 
-**Q6. Flash**
+**Q7. Flash**
 
-**Q7. Focal length**
+**Q8. Focal length**
 
-**Q8. Field of view**
+**Q9. Field of view**
 
 ## Note
 * You are permitted to discuss the task with your colleagues. 
@@ -65,7 +69,7 @@ Here is the way of inserting your images in your report:
 	* Please do not include any other text except this subject line.    
 * Your images are properly linked to your markdown report using **relative paths**. Please do not use absolute paths.  
 * The formats of the folder and files are 
-	* Folder name: Task2_`Your name` _ `Degree` _ `ID` (same with the subject of your email)  
+	* Folder name: Task4_`Your name` _ `Degree` _ `ID` (same with the subject of your email)  
 	* File names: "Rept_`Your name` _ `Degree` _ `ID`.md and .pdf".
 	* All images (you do not have to format their file names)   
 * The report must be written with Markdown script (GFM) and all other formats like docx or pptx are not permitted. 
