@@ -9,13 +9,16 @@ The main goal of this task is to understand the fundamental of data acquisition 
 
 ![](https://latex.codecogs.com/gif.latex?f%28t%29%3D%5Cbegin%7BBmatrix%7D%20A%2C%20%5Chspace%7B1cm%7D%20a%3E%20%5Cleft%20%7Ct%20%7C%5C%5C%200%2C%20%5C%2C%5C%2C%5C%3B%5C%3B%20otherwise%5C%5C%20%5Cend%7BBmatrix%7D%20%5C%2C%5C%2C%5C%2C%5C%2C%5C%2C%20g%28t%29%3D%5Cbegin%7BBmatrix%7D%20B%2C%20%5Chspace%7B1cm%7D%20a%3E%20%5Cleft%20%7Ct%20%7C%5C%5C%200%2C%20%5C%2C%5C%2C%5C%3B%5C%3B%20otherwise%5C%5C%20%5Cend%7BBmatrix%7D)
 
+where A = 5, a= 3, and B = 2
+
 **(a)** Compute an analytic y(t) which is the convolution of f(t) and g(t):
 
 ![](https://latex.codecogs.com/gif.latex?y%28t%29%20%3D%20f%28t%29*g%28t%29)
 
-**(b)** Write a code to numerically compute y(t) and plot y(t). Please use for-loop and do not use `conv`. You can randomly assign the values of A, B, and a.   
+**(b)** Write a code to numerically compute y(t) and plot y(t). Please use for-loop and do not use `conv`. 
 
-**(c)** Write a code to numerically compute y(t) and plot y(t). Please use `conv`. You can randomly assign the values of A, B, and a. 
+**(c)** Write a code to numerically compute y(t) and plot y(t). Please use `conv`. 
+
 
 ## Problem 2: Convolution Theorem (10 points)
 **(a)** Proof the convolution theorem and explain the meaning of these relationships in your words. 
@@ -37,9 +40,8 @@ The main goal of this task is to understand the fundamental of data acquisition 
 
 ![](FTDiscreteSequence.jpg)
 
-**(c)** What is the difference between these two functions in the lecture slide? :
-
-![](https://latex.codecogs.com/gif.latex?X_s%28f%29)&nbsp; and &nbsp; ![](https://latex.codecogs.com/gif.latex?X%28k%29),    
+**(c)** What is the difference between these two functions? 
+![](https://latex.codecogs.com/gif.latex?X_s%28f%29)&nbsp; and &nbsp; ![](https://latex.codecogs.com/gif.latex?X%28k%29)   
 
 ## Problem 4: Discrete Fourier Transform 3 (20 points) - Use FFT
 ![](https://latex.codecogs.com/gif.latex?y_1%28t%29%20%3D%20e%5E%7B-a%5Cleft%20%7C%20t%20%5Cright%20%7C%7D%28b%5Ccdot%20cos2%5Cpi%20f_1t%20&plus;%20c%5Ccdot%20cos2%5Cpi%20f_2t%29) &nbsp;&nbsp;&nbsp;&nbsp; where a = 2, b = 2, c= 6, f<sub>1</sub> = 3, and f<sub>2</sub> = 6 
@@ -73,14 +75,12 @@ where A1 = 3, A2 = 10, and A3 = 5.
 
 **(g)** If you digitize the signal with a sampling rate of 251 Hz for 3 seconds, can you measure and extract all frequencies contained in the original signal, y(t)? please explain your answer.
 
-## Problem 6: Frequency Analysis (10 points)
-Two sinusoidal accelerations are measured using an accelerometer in a smartphone. Each of the waves is stored at `vib_data1.mat` and `vib_data2.mat`. 
- 
-Do not give time information
+## Problem 6: Frequency Analysis (20 points)
+Two sinusoidal accelerations are measured using an accelerometer in a smartphone. Each of the waves is stored at `data1.mat` and `data2.mat`. 
 
-**(a)** Load `vib_data1.mat` and plot the acceleration signal in a z direction (`zvib`) using the corresponding time info (`time`). What is the frequency of this wave? 
+**(a)** Load `data1.mat` and plot the acceleration signal in a z direction (`zvib`). What is the main frequency of this wave? The sampling frequency is 10.1355 Hz. 
 
-**(b)** Load `vib_data2.mat` and plot the acceleration signal in a z direction (`zvib`) using the corresponding time info (`time`). What is the frequency of this wave? 
+**(b)** Load `data2.mat` and plot the acceleration signal in a z direction (`zvib`). What is the main frequency of this wave? The sampling frequency is 10.1192 Hz. 
 
 ## Submission of Your Work
 * You should turn in a report and codes to uw.task@gmail.com. When you send your email, please cc your email for future reference.  
