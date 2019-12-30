@@ -14,8 +14,9 @@ The main goal of this task is to understand the fundamental of data acquisition 
 
 **(d)** Plot the 6 Hz sine wave after sampling with 12 Hz. Please do not connect sampled points  and plot only four cycles of the wave. Do you think that you can measure this wave if you add a phase angle (&phi;) on this sine wave? for example, the wave is sin(2&pi;ft + &phi;).
 
-## Problem 2: Aliasing (10 points)
-We learned when aliasing occurs and how it is related to the sampling frequency of the data acquisition system.   
+**(e)** Do you think that you can measure this wave if you add a dc signal on this sine wave? for example, the wave is sin(2&pi;ft) + d.
+
+## Problem 2: Aliasing (15 points)
 **(a)** A 6 Hz sine wave is sampled at 8 Hz. Compute the alias frequency that can be represented in the resulting sampled signal. Plot the wave and sampled points.
 
 **(b)** A 15 Hz sine wave is sampled at 15 Hz. Compute the alias frequency that can be represented in the resulting sampled signal. Plot the wave and sampled points.
@@ -32,8 +33,8 @@ If the signal is sampled at 100 Hz, determine the frequency content of the resul
 
 If the signal is sampled at 150 Hz, determine the frequency content of the resulting discrete response signal.
 
-## Problem 3: Issues in Sampling (20 points)
-**(a)** Please explain a quantization error. When do they occur? How to avoid?
+## Problem 3: Issues in Sampling (15 points)
+**(a)** Please explain a quantification error. When do they occur? How to avoid?
 
 **(b)** Please explain a clipping error. When do they occur? How to avoid?  
 
@@ -50,7 +51,7 @@ and you measured this vibration using your accelerometer and DAQ system. Please 
 
 ![](https://latex.codecogs.com/gif.latex?y%20%3D%20sin%20%282%20%5Cpi%20f_0%20t%20%29%20%5Ccdot%20sin%20%282%20%5Cpi%20f_0%20t%20%29)
 
-where f<sub>0</sub> = 10. Please connect sampled points and plot only ten cycles of the wave.  
+where f<sub>0</sub> = 15. Please connect sampled points and plot only ten cycles of the wave.  
 
 **(b)** Derive a Fourier series (general form) of analytic **wave1**. You should find analytic equations for coefficients of a<sub>0</sub>, a<sub>n</sub>, and b<sub>n</sub>. 
 
@@ -66,8 +67,6 @@ You should find analytic equations for coefficients of a<sub>0</sub>, a<sub>n</s
 
 ## Problem 5: Fourier Series 2 (15 points)
 Sawtooth wave: [https://en.wikipedia.org/wiki/Sawtooth_wave](https://en.wikipedia.org/wiki/Sawtooth_wave) 
-
-*See Sampling in `signal_processing_V4.mlx`*
 
 **(a)** Plot only ten cycles of a sawtooth wave:  
 
@@ -86,13 +85,13 @@ Please check the wikipedia [link](https://en.wikipedia.org/wiki/Sawtooth_wave). 
 **(e)** Write a code to find numerical Fourier coefficients in the general and complex forms and compare them with the analytic Fourier coefficients found in (b) and (c).  
 
 ## Problem 6: Fourier Transformation 1 (15 points)
-Compute the Fourier transformation (integral) of the following functions and show the derivation process in detail. 
+Compute the Fourier transformation (integral) of the following functions and show the derivation process in detail:  
 
-**(a)** sine wave
+**(a)** cosine wave
 
 ![](https://latex.codecogs.com/gif.latex?y%20%3D%20cos%282%20%5Cpi%20p_0%20t%29)
 
-**(b)** sine wave + dc (direct current) wave
+**(b)** cosine wave + dc (direct current) wave
 
 ![](https://latex.codecogs.com/gif.latex?y%20%3D%20cos%282%20%5Cpi%20p_0%20t%29%20&plus;%20d)
 
@@ -102,13 +101,11 @@ Compute the Fourier transformation (integral) of the following functions and sho
 
 ## Problem 7: Fourier Transformation 2 (15 points)
 
-**(a)** Compute the Fourier transformation (integral) of the following function
-
 ![](https://latex.codecogs.com/gif.latex?y%28t%29%20%3D%20e%5E%7B-a%5Cleft%20%7C%20t%20%5Cright%20%7C%7D%28b%5Ccdot%20cos2%5Cpi%20f_1t%20&plus;%20c%5Ccdot%20cos2%5Cpi%20f_2t%29)
 
+**(a)** Compute the Fourier transformation (integral) of the above function
 
 **(b)** Plot y in time domain and frequency domain, where a = 1, b = 2, c= 6, f<sub>1</sub> = 3, and f<sub>2</sub> = 6 
-
 
 **(c)** Plot y in time domain and frequency domain, where a = 0.5, b = 2, c= 6, f<sub>1</sub> = 3, and f<sub>2</sub> = 6 
 
@@ -135,6 +132,7 @@ Compute the Fourier transformation (integral) of the following functions and sho
 > * Code_Juanp_BA_000000.m
 > * Rept_Juanp_BA_000000.md
 > * Rept_Juanp_BA_000000.pdf
+
 
 ## Note
 * Please post a question if you need to help understand the problem and/or tutorials. 

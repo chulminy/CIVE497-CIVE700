@@ -8,7 +8,7 @@
 **TA:** Juan Park (park.juan@gmail.com)     
 **Office Hours** Monday and Wednesday, 1:00PM to 2:00PM at E2-2313 (You can also email for an appointment)   
 
-Last updated: 2019-12-24  
+Last updated: 2019-12-28  
 
 ## Table of Contents
 - [Course Description](#course-description)
@@ -55,32 +55,32 @@ This course is not based on any particular textbook. The instructor will provide
 ## Course Outline
 Slides and tutorials are will be updated soon.   
 
-|Class|Topics|Slides|Tutorial|Tasks|
-|:----|:-----|:----|:-----|:-----|
-|Class 01|**Introduction**|&nbsp;|&nbsp;|&nbsp;|
-|Class 02|**MATLAB Tutorial**|&nbsp;|&nbsp;|&nbsp;|
-|Class 03|**Data Acquisition**|&nbsp;|&nbsp;|&nbsp;|
-|Class 04|**Signal Processing I**|&nbsp;|&nbsp;|&nbsp;|
-|Class 05|**Signal Processing II**|&nbsp;|&nbsp;|&nbsp;| 
-|Class 06|**Signal Processing III**|&nbsp;|&nbsp;|&nbsp;| 
-|Class 07|**Digital Image**|&nbsp;|&nbsp;|&nbsp;|
-|Class 08|**Projective Geometry**|&nbsp;|&nbsp;|&nbsp;|
-|Class 09|**Review**|&nbsp;|&nbsp;|&nbsp;| 
-|Class 10|**Linear Filtering**|&nbsp;|&nbsp;|&nbsp;|
-|Class 11|**Edge Detection**|&nbsp;|&nbsp;|&nbsp;|
-|Class 12|**Feature 1**|&nbsp;|&nbsp;|&nbsp;|  
-|Class 13|**Feature 2**|&nbsp;|&nbsp;|&nbsp;|
-|Class 14|**RANSAC**|&nbsp;|&nbsp;|&nbsp;|
-|Class 15|**Camera Model**|&nbsp;|&nbsp;|&nbsp;|
-|Class 16|**Multiview Geometry**|&nbsp;|&nbsp;|&nbsp;|
-|Class 17|**Structure-from-motion (SfM)**|&nbsp;|&nbsp;|&nbsp;|
-|Class 18|**Review**|&nbsp;|&nbsp;|&nbsp;|
-|Class 19|**Microsoft Azure Tutorial**|&nbsp;|&nbsp;|&nbsp;|
-|Class 20|**Machine Learning I**|&nbsp;|&nbsp;|&nbsp;|
-|Class 21|**Machine Learning II**|&nbsp;|&nbsp;|&nbsp;|
-|Class 22|**Neural Network**|&nbsp;|&nbsp;|&nbsp;|
-|Class 23|**Convolutional Neural Network**|&nbsp;|&nbsp;|&nbsp;|
-|Class 24|**Presentation**|&nbsp;|&nbsp;|&nbsp;|
+|Class|Topics|Slides|Tutorial|
+|:----|:-----|:----|:-----|
+|Class 01|**Introduction**|<!--[**link**](lecture/introduction)-->|&nbsp;|
+|Class 02|**MATLAB Tutorial**|<!--[**link**](lecture/matlab)-->|&nbsp;|
+|Class 03|**Data Acquisition**|<!--[**link**](lecture/data_aquisition)-->|<!--[**link**](tutorial/data_aquisition)-->|
+|Class 04|**Signal Processing I**|<!--[**link**](lecture/signal_processing)-->|<!--[**link**](tutorial/signal_processing)-->|
+|Class 05|**Signal Processing II**|<!--[**link**](lecture/signal_processing)-->|<!--[**link**](tutorial/signal_processing)-->| 
+|Class 06|**Modal Analysis**|<!--[**link**](lecture/modal_analysis)-->|&nbsp;| 
+|Class 07|**Digital Image**|<!--[**link**](lecture/camera_sensor)-->|&nbsp;|
+|Class 08|**Projective Geometry**|<!--[**link**](lecture/project_geometry)-->|<!--[**link**](tutorial/project_geometry)-->|
+|Class 09|**Review**|&nbsp;|&nbsp;| 
+|Class 10|**Linear Filtering**|&nbsp;|&nbsp;|
+|Class 11|**Edge Detection**|&nbsp;|&nbsp;|
+|Class 12|**Feature 1**|&nbsp;|&nbsp;|  
+|Class 13|**Feature 2**|&nbsp;|&nbsp;|
+|Class 14|**RANSAC**|&nbsp;|&nbsp;|
+|Class 15|**Camera Model**|&nbsp;|&nbsp;|
+|Class 16|**Multiview Geometry**|&nbsp;|&nbsp;|
+|Class 17|**Structure-from-motion (SfM)**|&nbsp;|&nbsp;|
+|Class 18|**Review**|&nbsp;|&nbsp;|
+|Class 19|**Microsoft Azure Tutorial**|&nbsp;|&nbsp;|
+|Class 20|**Machine Learning I**|&nbsp;|&nbsp;|
+|Class 21|**Machine Learning II**|&nbsp;|&nbsp;|
+|Class 22|**Neural Network**|&nbsp;|&nbsp;|
+|Class 23|**Convolutional Neural Network**|&nbsp;|&nbsp;|
+|Class 24|**Presentation**|&nbsp;|&nbsp;|
 
 ## Tasks
 There will be **7~9 tasks** and posted on either weekly or biweekly on this course website. **The instructor encourage students to work in groups through collaborative learning, but to submit their assignments individually.** The task will have programming components or photography components, where students will use their own camera to capture and process their own images and discuss the results. Students are supposed to complete all tasks and turn their works in by the due date. After the due data, there is 25% deduction in the final mark and students must submit their works within a week after the due data. After then, the submission of the works will not be accepted unless accompanied by a valid excuse and some additional points might be deducted depending upon the circumstances.  
@@ -89,7 +89,11 @@ There will be **7~9 tasks** and posted on either weekly or biweekly on this cour
 
 |Task|Topics|Announcement|Due Date|
 |:----|:-----|:----|:-----|
-|Task1|**MATLAB and Digital Image Processing Tutorial** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |||   
+|Task1|**Programming Practice** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |||
+|Task2|**Signal Processing I** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |||   
+|Task3|**Signal Processing II** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |||   
+|Task4|**Camera Sensor and Digital Image** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |||
+|Task5|**Homography** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |||      
 
 ## Communication  
 **All communication will be made through [this course website](https://github.com/chulminy/CIVE497-CIVE700)**, especially for this web page. The instructor will make a note in the ["Announcement"](#announcement) section after updating the web page. Students can configure email notification for by ["watching"](https://help.github.com/articles/watching-and-unwatching-repositories/) this course website or use a version control system for tracking its changes. Thus, **students are responsible for checking the website regularly** for any relevant course information or announcements. 

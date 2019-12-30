@@ -76,6 +76,8 @@ where A1 = 3, A2 = 10, and A3 = 5.
 ## Problem 6: Frequency Analysis (10 points)
 Two sinusoidal accelerations are measured using an accelerometer in a smartphone. Each of the waves is stored at `vib_data1.mat` and `vib_data2.mat`. 
  
+Do not give time information
+
 **(a)** Load `vib_data1.mat` and plot the acceleration signal in a z direction (`zvib`) using the corresponding time info (`time`). What is the frequency of this wave? 
 
 **(b)** Load `vib_data2.mat` and plot the acceleration signal in a z direction (`zvib`) using the corresponding time info (`time`). What is the frequency of this wave? 
