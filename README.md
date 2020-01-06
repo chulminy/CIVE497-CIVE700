@@ -8,8 +8,13 @@
 **TA:** Juan Park (park.juan@gmail.com)     
 **Office Hours** Monday and Wednesday, 1:00PM to 2:00PM at E2-2313 (You can also email for an appointment)   
 
-Last updated: 2019-12-28  
+Last updated: 2020-01-06  
 
+## Announcement
+:loudspeaker: **2020-01-06** [**Slides**](lecture/introduction) for Class 1 are posted.     
+:loudspeaker: **2020-01-06** The task assignment, [**Task1**](task/task1), is posted (due date: January 17, 2020).      
+
+  
 ## Table of Contents
 - [Course Description](#course-description)
 - [Intended Learning Outcomes](#intended-learning-outcomes)
@@ -57,7 +62,7 @@ Slides and tutorials are will be updated soon.
 
 |Class|Topics|Slides|Tutorial|
 |:----|:-----|:----|:-----|
-|Class 01|**Introduction**|<!--[**link**](lecture/introduction)-->|&nbsp;|
+|Class 01|**Introduction**|[**link**](lecture/introduction)|&nbsp;|
 |Class 02|**MATLAB Tutorial**|<!--[**link**](lecture/matlab)-->|&nbsp;|
 |Class 03|**Data Acquisition**|<!--[**link**](lecture/data_aquisition)-->|<!--[**link**](tutorial/data_aquisition)-->|
 |Class 04|**Signal Processing I**|<!--[**link**](lecture/signal_processing)-->|<!--[**link**](tutorial/signal_processing)-->|
@@ -83,13 +88,13 @@ Slides and tutorials are will be updated soon.
 |Class 24|**Presentation**|&nbsp;|&nbsp;|
 
 ## Tasks
-There will be **7~9 tasks** and posted on either weekly or biweekly on this course website. **The instructor encourage students to work in groups through collaborative learning, but to submit their assignments individually.** The task will have programming components or photography components, where students will use their own camera to capture and process their own images and discuss the results. Students are supposed to complete all tasks and turn their works in by the due date. After the due data, there is 25% deduction in the final mark and students must submit their works within a week after the due data. After then, the submission of the works will not be accepted unless accompanied by a valid excuse and some additional points might be deducted depending upon the circumstances.  
+There will be **10 tasks** and posted on either weekly or biweekly on this course website. **The instructor encourage students to work in groups through collaborative learning, but to submit their assignments individually.** The task will have programming components or photography components, where students will use their own camera to capture and process their own images and discuss the results. Students are supposed to complete all tasks and turn their works in by the due date. After the due data, there is 25% deduction in the final mark and students must submit their works within a week after the due data. After then, the submission of the works will not be accepted unless accompanied by a valid excuse and some additional points might be deducted depending upon the circumstances.  
 
 [**Submission instruction of your work**](#submission-instruction-of-your-work)
 
 |Task|Topics|Announcement|Due Date|
 |:----|:-----|:----|:-----|
-|Task1|**Programming Practice** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |||
+|Task1|[**Programming Practice**](task/task1) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |January 06, 2020|January 17, 2020|
 |Task2|**Signal Processing I** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |||   
 |Task3|**Signal Processing II** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |||   
 |Task4|**Camera Sensor and Digital Image** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |||
