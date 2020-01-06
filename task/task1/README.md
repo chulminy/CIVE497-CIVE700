@@ -6,6 +6,8 @@
 **Problem Description**  
 The main goal of this task is to practice programming to solve upcoming task assignments throughout the course. It is a good opportunity for reviewing the programming course that you took in your undergraduate. You should write your program in MATLAB. Three problems have been posted in MATLAB grader. This tool gives you instant feedback on the correctness of your solution through the pre-designed testers. You can solve the problems until you pass all the testers in each problem. 
 
+Before solving the problem, please complete the "Tutorial" in MATLAB Grader.   
+
 **Submission of Your Work**
 * You should turn in a report to uw.task@gmail.com. When you send your email, please cc your email for future reference.  
 * A subject of your email must be the format of "Task1_`Your name` _ `Degree` _ `ID`"

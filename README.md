@@ -12,7 +12,7 @@ Last updated: 2020-01-06
 
 ## Announcement
 :loudspeaker: **2020-01-06** [**Slides**](lecture/introduction) for Class 1 are posted.     
-:loudspeaker: **2020-01-06** The task assignment, [**Task1**](task/task1), is posted (due date: January 17, 2020).      
+:loudspeaker: **2020-01-06** The task assignment, [**Task1**](task/task1), is posted (due date: January 17, 2020). I just sent an invitation email for MATLAB Grader. Please inform me if you are not able to access problems in MATLAB Grader.     
 
   
 ## Table of Contents
