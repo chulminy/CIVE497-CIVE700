@@ -10,7 +10,8 @@
 
 Last updated: 2020-01-06  
 
-## Announcement
+## Announcement  
+:loudspeaker: **2020-01-07** [**Slides**](lecture/matlab) for Class 2 are posted.
 :loudspeaker: **2020-01-06** [**Slides**](lecture/introduction) for Class 1 are posted.     
 :loudspeaker: **2020-01-06** The task assignment, [**Task1**](task/task1), is posted (due date: January 17, 2020). I just sent an invitation email for MATLAB Grader. Please inform me if you are not able to access problems in MATLAB Grader.     
 
@@ -63,7 +64,7 @@ Slides and tutorials are will be updated soon.
 |Class|Topics|Slides|Tutorial|
 |:----|:-----|:----|:-----|
 |Class 01|**Introduction**|[**link**](lecture/introduction)|&nbsp;|
-|Class 02|**MATLAB Tutorial**|<!--[**link**](lecture/matlab)-->|&nbsp;|
+|Class 02|**MATLAB Tutorial**|[**link**](lecture/matlab)|&nbsp;|
 |Class 03|**Data Acquisition**|<!--[**link**](lecture/data_aquisition)-->|<!--[**link**](tutorial/data_aquisition)-->|
 |Class 04|**Signal Processing I**|<!--[**link**](lecture/signal_processing)-->|<!--[**link**](tutorial/signal_processing)-->|
 |Class 05|**Signal Processing II**|<!--[**link**](lecture/signal_processing)-->|<!--[**link**](tutorial/signal_processing)-->| 
