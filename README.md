@@ -8,12 +8,13 @@
 **TA:** Juan Park (park.juan@gmail.com)     
 **Office Hours** Monday and Wednesday, 1:00PM to 2:00PM at E2-2313 (You can also email for an appointment)   
 
-Last updated: 2020-01-06  
+Last updated: 2020-01-13  
 
 ## Announcement  
-:loudspeaker: **2020-01-07** [**Slides**](lecture/matlab) for Class 2 are posted.  
-:loudspeaker: **2020-01-06** [**Slides**](lecture/introduction) for Class 1 are posted.     
-:loudspeaker: **2020-01-06** The task assignment, [**Task1**](task/task1), is posted (due date: January 17, 2020). I just sent an invitation email for MATLAB Grader. Please inform me if you are not able to access problems in MATLAB Grader.     
+:loudspeaker: **2020-01-13** [**Slides**](lecture/data_aquisition) and [**tutorial**](tutorial/data_aquisition) for Class 3 are posted.  
+:loudspeaker: **2020-01-13** [**Slides**](lecture/matlab) for Class 2 are updated.     
+:loudspeaker: **2020-01-13** [**Slides**](lecture/introduction) for instructor's research background is added.     
+:loudspeaker: **2020-01-06** The task assignment, [**Task1**](task/task1), is posted (due date: January 17, 2020). I just sent an invitation email for MATLAB Grader. **Please inform me if you are not able to access problems in MATLAB Grader.**   
 
   
 ## Table of Contents
@@ -65,7 +66,7 @@ Slides and tutorials are will be updated soon.
 |:----|:-----|:----|:-----|
 |Class 01|**Introduction**|[**link**](lecture/introduction)|&nbsp;|
 |Class 02|**MATLAB Tutorial**|[**link**](lecture/matlab)|&nbsp;|
-|Class 03|**Data Acquisition**|<!--[**link**](lecture/data_aquisition)-->|<!--[**link**](tutorial/data_aquisition)-->|
+|Class 03|**Data Acquisition**|[**link**](lecture/data_aquisition)|[**link**](tutorial/data_aquisition)|
 |Class 04|**Signal Processing I**|<!--[**link**](lecture/signal_processing)-->|<!--[**link**](tutorial/signal_processing)-->|
 |Class 05|**Signal Processing II**|<!--[**link**](lecture/signal_processing)-->|<!--[**link**](tutorial/signal_processing)-->| 
 |Class 06|**Modal Analysis**|<!--[**link**](lecture/modal_analysis)-->|&nbsp;| 
