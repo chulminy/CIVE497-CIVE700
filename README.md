@@ -5,7 +5,7 @@
 **Instructor:** Chul Min Yeum (E2-2313)  
 **Class:** Monday and Wednesday, 11:30AM to 12:50PM at E2-3356     
 **Email:** cmyeum@uwaterloo.ca  
-**TA:** Juan Park (park.juan@gmail.com)     
+**TA:** Juan Park (j246park@uwaterloo.ca)     
 **Office Hours** Monday and Wednesday, 1:00PM to 2:00PM at E2-2313 (You can also email for an appointment)   
 
 Last updated: 2020-01-13  
