@@ -1,7 +1,7 @@
-# Task1: Signal Processing I
+# Task2: Signal Processing I
 
-**Announcement**: ND  
-**Due Date**: ND    
+**Announcement**: January 20, 2019 (Monday)    
+**Due Date**: January 29, 2019 (Wednesday) before 11:59pm  
 
 The main goal of this task is to understand the fundamental of data acquisition system and signal processing. You must study the tutorial to solve corresponding problems. Please answer all sub-questions in each problem. You should write your own code to solve these questions. 
 
@@ -12,9 +12,11 @@ The main goal of this task is to understand the fundamental of data acquisition 
 
 **(c)** Plot the 3 Hz sine wave after sampling with 10 Hz. Please do not connect sampled points and plot the sampled data for four cycles of the wave.
 
-**(d)** Plot the 6 Hz sine wave after sampling with 12 Hz. Please do not connect sampled points  and plot only four cycles of the wave. Do you think that you can measure this wave if you add a phase angle (&phi;) on this sine wave? for example, the wave is sin(2&pi;ft + &phi;).
+**(d)** Plot the 6 Hz sine wave after sampling with 11 Hz. Please do not connect sampled points  and plot only four cycles of the wave. Do you think that you can measure this wave?
 
-**(e)** Do you think that you can measure this wave if you add a dc signal on this sine wave? for example, the wave is sin(2&pi;ft) + d.
+**(e)** Plot the 6 Hz sine wave after sampling with 12 Hz. Please do not connect sampled points  and plot only four cycles of the wave. Do you think that you can measure this wave if you add a phase angle (&phi;) on this sine wave? for example, the wave is sin(2&pi;ft + &phi;).
+
+**(f)** Do you think that you can measure this wave if you add a dc signal on this sine wave? for example, the wave is sin(2&pi;ft) + d.
 
 ## Problem 2: Aliasing (15 points)
 **(a)** A 6 Hz sine wave is sampled at 8 Hz. Compute the alias frequency that can be represented in the resulting sampled signal. Plot the wave and sampled points.
@@ -112,7 +114,7 @@ Compute the Fourier transformation (integral) of the following functions and sho
 
 ## Submission of Your Work
 * You should turn in a report and codes to uw.task@gmail.com. When you send your email, please cc your email for future reference.  
-* A subject of your email must be the format of "Task1_`Your name` _ `Degree` _ `ID`"
+* A subject of your email must be the format of "Task2_`Your name` _ `Degree` _ `ID`"
 	* `Your name`: first five letter your first + last name. The first letter is uppercase and the rest of them are lowercase (i.g Chul Min Yeum -> Chulmi, Juan Park -> Juanp)   
 	* `Degree`: pick your degree among BA, ME, MA, and PH (BA=Undergraduate, ME=MEng, MA=MASc, and PH=PhD)  
 	* `ID`: your school ID
@@ -120,15 +122,15 @@ Compute the Fourier transformation (integral) of the following functions and sho
 * For writing equations, I recommend the use of latex equations editors introduced in the Markdown tutorial and inserting equation links. However, I also accept for attaching an image of your handwritten equation (but not recommend). 
 * Your report includes your answers and styled codes for questions in the problems.
 * **You also submit a single code file that includes the codes for all problems.**
-* Please see the sample report format [**here**](Task1_Juanp_BA_000000). 
+* Please see the sample report format [**here**](Task2_Juanp_BA_000000). 
 * The formats of the folder and files are 
-	* Folder name: Task1_`Your name` _ `Degree` _ `ID` (same with the subject of your email)  
+	* Folder name: Task2_`Your name` _ `Degree` _ `ID` (same with the subject of your email)  
 	* File names: "Code_`Your name` _ `Degree` _ `ID`.m or .py" for codes and "Rept_`Your name` _ `Degree` _ `ID`.md and .pdf".   
 * The report must be written with Markdown script (GFM) and all other formats like docx or pptx are not permitted. 
 * You should also include a report in pdf that must be converted from your report in Markdown.
 * Please review the general submission instruction in the course syllabus. 
 * When you violate these submission guideline, your report will be returned and must be resubmitted. 
-> For example, Juan Park is using MATLAB to complete the Task1. Juan need to submit his report and codes to **uw.task@gmail.com** with an attachment of **Task1_Juanp_BA_000000.zip**. In the folder, there are at least three files: 
+> For example, Juan Park is using MATLAB to complete the Task2. Juan need to submit his report and codes to **uw.task@gmail.com** with an attachment of **Task2_Juanp_BA_000000.zip**. In the folder, there are at least three files: 
 > * Code_Juanp_BA_000000.m
 > * Rept_Juanp_BA_000000.md
 > * Rept_Juanp_BA_000000.pdf
