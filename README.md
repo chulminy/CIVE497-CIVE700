@@ -8,9 +8,10 @@
 **TA:** Juan Park (j246park@uwaterloo.ca)     
 **Office Hours** Monday and Wednesday, 1:00PM to 2:00PM at E2-2313 (You can also email for an appointment)   
 
-Last updated: 2020-01-15  
+Last updated: 2020-01-16  
 
 ## Announcement  
+:loudspeaker: **2020-01-16** The task assignment, [**Task2**](task/task2), is available (due date: January 29, 2020). The topics in Task 2 have not been fully covered yet. However, I encourage you to start solving the first half of the problems that you learned in the class.     
 :loudspeaker: **2020-01-15** [**Slides**](lecture/signal_processing) and [**tutorial**](tutorial/signal_processing) for Class 4 are posted (signal_processing_1).     
 :loudspeaker: **2020-01-15** [**Slides**](lecture/data_aquisition) and [**tutorial**](tutorial/data_aquisition) for Class 3 are updated.   
 :loudspeaker: **2020-01-06** The task assignment, [**Task1**](task/task1), is posted (due date: January 17, 2020). I just sent an invitation email for MATLAB Grader. **Please inform me if you are not able to access problems in MATLAB Grader.**   

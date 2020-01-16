@@ -1,7 +1,7 @@
 # Task2: Signal Processing I
 
-**Announcement**: January 20, 2019 (Monday)    
-**Due Date**: January 29, 2019 (Wednesday) before 11:59pm  
+**Announcement**: January 16, 2020 (Monday)    
+**Due Date**: January 29, 2020 (Wednesday) before 11:59pm  
 
 The main goal of this task is to understand the fundamental of data acquisition system and signal processing. You must study the tutorial to solve corresponding problems. Please answer all sub-questions in each problem. You should write your own code to solve these questions. 
 
@@ -46,7 +46,7 @@ If the signal is sampled at 150 Hz, determine the frequency content of the resul
 
 ![](https://latex.codecogs.com/gif.latex?y%3Dsin%282%5Cpi%20f_0%20t%29%20%5Chspace%7B1cm%7D%20f_0%3D5)
 
-and you measured this vibration using your accelerometer and DAQ system. Please write a code to create three different sampled signals that are damaged by aliasing, quantization error and clipping error, respectively. Also, generate a signal having an oversampling issue. You should understand the topics of *Aliasing*, *Quantization*, *Clipping*, and *Oversampling* in `data_aquisition_W20_v3.mlx` to solve this problem. You need to explain why your sampled signals contain each of these errors/issue. You can assume any sampling rate, output range, or ADC resolution to generate these signals. Your code should plot these three signals.     
+and you measured this vibration using your accelerometer and DAQ system. Please write a code to create three different sampled signals that are damaged by aliasing, quantization error and clipping error, respectively. Also, generate a signal having an oversampling issue. You should understand the topics of *Aliasing*, *Quantization*, *Clipping*, and *Oversampling* in `data_aquisition_W20_v4.mlx` to solve this problem. You need to explain why your sampled signals contain each of these errors/issue. You can assume any sampling rate, output range, or ADC resolution to generate these signals. Your code should plot these three signals.     
 
 ## Problem 4: Fourier Series 1 (15 points)
 **(a)** Plot a **wave1** sampled with a 50 Hz sampling rate. The **wave1** is 
