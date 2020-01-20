@@ -8,13 +8,11 @@
 **TA:** Juan Park (j246park@uwaterloo.ca)     
 **Office Hours** Monday and Wednesday, 1:00PM to 2:00PM at E2-2313 (You can also email for an appointment)   
 
-Last updated: 2020-01-16  
+Last updated: 2020-01-20  
 
 ## Announcement  
-:loudspeaker: **2020-01-16** The task assignment, [**Task2**](task/task2), is available (due date: January 29, 2020). The topics in Task 2 have not been fully covered yet. However, I encourage you to start solving the first half of the problems that you learned in the class.     
-:loudspeaker: **2020-01-15** [**Slides**](lecture/signal_processing) and [**tutorial**](tutorial/signal_processing) for Class 4 are posted (signal_processing_1).     
-:loudspeaker: **2020-01-15** [**Slides**](lecture/data_aquisition) and [**tutorial**](tutorial/data_aquisition) for Class 3 are updated.   
-:loudspeaker: **2020-01-06** The task assignment, [**Task1**](task/task1), is posted (due date: January 17, 2020). I just sent an invitation email for MATLAB Grader. **Please inform me if you are not able to access problems in MATLAB Grader.**   
+:loudspeaker: **2020-01-20** [**Slides**](lecture/signal_processing) and [**tutorial**](tutorial/signal_processing) for Class 5 are posted (signal_processing_2).        
+:loudspeaker::loudspeaker: **2020-01-16** The task assignment, [**Task2**](task/task2), is available (due date: January 29, 2020). The topics in Task 2 have not been fully covered yet. However, I encourage you to start solving the first half of the problems that you learned in the class.        
 
   
 ## Table of Contents
@@ -68,7 +66,7 @@ Slides and tutorials are will be updated soon.
 |Class 02|**MATLAB Tutorial**|[**link**](lecture/matlab)|&nbsp;|
 |Class 03|**Data Acquisition**|[**link**](lecture/data_aquisition)|[**link**](tutorial/data_aquisition)|
 |Class 04|**Signal Processing I**|[**link**](lecture/signal_processing)|[**link**](tutorial/signal_processing)|
-|Class 05|**Signal Processing II**|<!--[**link**](lecture/signal_processing)-->|<!--[**link**](tutorial/signal_processing)-->| 
+|Class 05|**Signal Processing II**|[**link**](lecture/signal_processing)|[**link**](tutorial/signal_processing)| 
 |Class 06|**Modal Analysis**|<!--[**link**](lecture/modal_analysis)-->|&nbsp;| 
 |Class 07|**Digital Image**|<!--[**link**](lecture/camera_sensor)-->|&nbsp;|
 |Class 08|**Projective Geometry**|<!--[**link**](lecture/project_geometry)-->|<!--[**link**](tutorial/project_geometry)-->|
