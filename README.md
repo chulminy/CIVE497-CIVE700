@@ -96,7 +96,7 @@ There will be **10 tasks** and posted on either weekly or biweekly on this cours
 |Task|Topics|Announcement|Due Date|
 |:----|:-----|:----|:-----|
 |Task1|[**Programming Practice**](task/task1) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |January 06, 2020|January 17, 2020|
-|Task2|**Signal Processing I** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |January 16, 2020|January 29, 2020|   
+|Task2|[**Signal Processing I**](task/task2) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |January 16, 2020|January 29, 2020|   
 |Task3|**Signal Processing II** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |||   
 |Task4|**Camera Sensor and Digital Image** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |||
 |Task5|**Homography** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |||      
