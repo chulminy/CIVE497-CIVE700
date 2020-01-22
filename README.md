@@ -8,10 +8,11 @@
 **TA:** Juan Park (j246park@uwaterloo.ca)     
 **Office Hours** Monday and Wednesday, 1:00PM to 2:00PM at E2-2313 (You can also email for an appointment)   
 
-Last updated: 2020-01-20  
+Last updated: 2020-01-22  
 
 ## Announcement  
-:loudspeaker: **2020-01-20** [**Slides**](lecture/signal_processing) and [**tutorial**](tutorial/signal_processing) for Class 5 are posted (signal_processing_2).        
+:loudspeaker: **2020-01-22** [**Slides**](lecture/signal_processing) and [**tutorial**](tutorial/signal_processing) for Class 5-6 are posted (signal_processing_3).          
+:loudspeaker: **2020-01-20** [**Slides**](lecture/signal_processing) and [**tutorial**](tutorial/signal_processing) for Class 5 are posted (signal_processing_2).          
 :loudspeaker::loudspeaker: **2020-01-16** The task assignment, [**Task2**](task/task2), is available (due date: January 29, 2020). The topics in Task 2 have not been fully covered yet. However, I encourage you to start solving the first half of the problems that you learned in the class.        
 
   
@@ -95,7 +96,7 @@ There will be **10 tasks** and posted on either weekly or biweekly on this cours
 |Task|Topics|Announcement|Due Date|
 |:----|:-----|:----|:-----|
 |Task1|[**Programming Practice**](task/task1) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |January 06, 2020|January 17, 2020|
-|Task2|**Signal Processing I** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |||   
+|Task2|**Signal Processing I** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |January 16, 2020|January 29, 2020|   
 |Task3|**Signal Processing II** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |||   
 |Task4|**Camera Sensor and Digital Image** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |||
 |Task5|**Homography** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |||      
