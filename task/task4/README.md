@@ -1,8 +1,13 @@
-# Task4: Camera Sensor and Digital Image
+# Task4: Digital Image Processing & Camera Sensor and Digital Image
 **Announcement**: ND     
 **Due date**: ND    
 
-## Problem Description
+## Problem Description 1
+
+
+
+
+## Problem Description 2
 The main goal of this task is to learn a working principle of a digital camera and how to take quality photos using your camera. Students are encouraged to actively search for relevant information on the web, such as wiki, article, or tutorial videos. Then, please answer the following questions:   
 
 **Q1. What is a good image sensor? Why are the high-end DSLR cameras expensive?**  

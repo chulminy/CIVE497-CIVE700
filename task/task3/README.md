@@ -1,7 +1,7 @@
 # Task3: Signal Processing II
 
-**Announcement**: ND  
-**Due date**: ND  
+**Announcement**: January 27, 2020 (Monday)  
+**Due date**: February 07, 2020 (Friday) before 11:59pm  
 
 The main goal of this task is to understand the fundamental of data acquisition system and signal processing. You must study the tutorial to solve corresponding problems. Please answer all sub-questions in each problem. You should write your own code to solve these questions. 
 
@@ -36,14 +36,14 @@ where A = 5, a= 3, and B = 2
 
 ![](impulseTrain.jpg)
 
-**(b)** What is the meaning of the following relationship in the lecture slide? Please explain it.  
+**(b)** What is the meaning of the following relationship in the lecture slide? What issues  are introduced by fourier transform a discrete sequence? Please answer this question using this graph.  
 
 ![](FTDiscreteSequence.jpg)
 
 **(c)** What is the difference between these two functions? 
 ![](https://latex.codecogs.com/gif.latex?X_s%28f%29)&nbsp; and &nbsp; ![](https://latex.codecogs.com/gif.latex?X%28k%29)   
 
-## Problem 4: Discrete Fourier Transform 3 (20 points) - Use FFT
+## Problem 4: Discrete Fourier Transform 2 (20 points) - Use FFT
 ![](https://latex.codecogs.com/gif.latex?y_1%28t%29%20%3D%20e%5E%7B-a%5Cleft%20%7C%20t%20%5Cright%20%7C%7D%28b%5Ccdot%20cos2%5Cpi%20f_1t%20&plus;%20c%5Ccdot%20cos2%5Cpi%20f_2t%29) &nbsp;&nbsp;&nbsp;&nbsp; where a = 2, b = 2, c= 6, f<sub>1</sub> = 3, and f<sub>2</sub> = 6 
 
 
@@ -55,7 +55,7 @@ where A = 5, a= 3, and B = 2
 
 **(c)** Please compare the shape of the frequency curves of z1 and z2. Which frequency curve is thinner (more narrow)? For example, compare the frequency curve at f<sub>1</sub> in both graphs. Which one is thinner? Please explain your answer. What makes the difference? 
 
-## Problem 5: Discrete Fourier Transform 2 (30 points) - Use FFT
+## Problem 5: Discrete Fourier Transform 3 (30 points) - Use FFT
 
 ![](https://latex.codecogs.com/gif.latex?y%28t%29%20%3D%20A1%20sin%202%5Cpi%20%2825%29t%20&plus;%20A2%20sin%202%5Cpi%20%2875%29t%20&plus;%20A3%20sin%202%5Cpi%20%28125%29t)
 
