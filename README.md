@@ -8,9 +8,10 @@
 **TA:** Juan Park (j246park@uwaterloo.ca)     
 **Office Hours** Monday and Wednesday, 1:00PM to 2:00PM at E2-2313 (You can also email for an appointment)   
 
-Last updated: 2020-01-26  
+Last updated: 2020-01-28  
 
 ## Announcement  
+:loudspeaker::loudspeaker: **2020-01-28** If you are a Python user, you can use a Jupyter notebook instead of a Markdown. When you submit your homework, you should submit both .IPyhone and .pdf.   
 :loudspeaker::loudspeaker: **2020-01-27** When you submit your task assignment, make sure that all graphs and output results are included.  
 :loudspeaker::loudspeaker: **2020-01-27** The due date of Task 2 is approaching! (January 29, 2020).   
 :loudspeaker::loudspeaker::loudspeaker: **2020-01-27** As requested, I postpone the due data of your task assignments. But, **only one task** between Task 2 or Task 3 is allowed to delay for its submission. The second due dates of Task 2 and Task 3 are Feb 1 and Feb 10, respectively. For example, if you pass the due date for Task 2, you must submit Task 3 on time. No more additional delay will be given for Task 2 and Task 3.    
@@ -91,6 +92,8 @@ Slides and tutorials are will be updated soon.
 
 ## Tasks
 There will be **10 tasks** and posted on either weekly or biweekly on this course website. **The instructor encourage students to work in groups through collaborative learning, but to submit their assignments individually.** The task will have programming components or photography components, where students will use their own camera to capture and process their own images and discuss the results. Students are supposed to complete all tasks and turn their works in by the due date. After the due data, there is 25% deduction in the final mark and students must submit their works within a week after the due data. After then, the submission of the works will not be accepted unless accompanied by a valid excuse and some additional points might be deducted depending upon the circumstances.  
+
+**If you are a Python user, you can use a Jupyter notebook instead of a Markdown. When you submit your homework, you should submit both .IPyhone and .pdf.**
 
 [**Submission instruction of your work**](#submission-instruction-of-your-work)
 
