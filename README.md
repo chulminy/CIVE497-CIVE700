@@ -8,15 +8,13 @@
 **TA:** Juan Park (j246park@uwaterloo.ca)     
 **Office Hours** Monday and Wednesday, 1:00PM to 2:00PM at E2-2313 (You can also email for an appointment)   
 
-Last updated: 2020-01-28  
+Last updated: 2020-02-02  
 
 ## Announcement  
-:loudspeaker::loudspeaker: **2020-01-28** If you are a Python user, you can use a Jupyter notebook instead of a Markdown. When you submit your homework, you should submit both .IPyhone and .pdf.   
-:loudspeaker::loudspeaker: **2020-01-27** When you submit your task assignment, make sure that all graphs and output results are included.  
-:loudspeaker::loudspeaker: **2020-01-27** The due date of Task 2 is approaching! (January 29, 2020).   
-:loudspeaker::loudspeaker::loudspeaker: **2020-01-27** As requested, I postpone the due data of your task assignments. But, **only one task** between Task 2 or Task 3 is allowed to delay for its submission. The second due dates of Task 2 and Task 3 are Feb 1 and Feb 10, respectively. For example, if you pass the due date for Task 2, you must submit Task 3 on time. No more additional delay will be given for Task 2 and Task 3.    
-:loudspeaker::loudspeaker: **2020-01-27** The task assignment, [**Task3**](task/task3), is posted (due date: February 07, 2020).    
-:loudspeaker: **2020-01-27** [**Slides**](lecture/digital_image) for Class 7 are posted: Digital Image.            
+:loudspeaker: **2020-02-02** [**Slides**](lecture/project_geometry) and [**tutorial**](tutorial/project_geometry) for Class 8 are posted: Projective geometry     
+:loudspeaker::loudspeaker: **2020-02-02** [**Digital Image Processing**](tutorial/image_proc) is a prerequisite of this class but most students haven't been reviewed it yet. This tutorial requires understanding Class 10. Please study the tutorial before then. The due date for Task 3 is set to Feb 09 and the second due date is Feb 11.   
+:loudspeaker::loudspeaker: **2020-02-02** The task assignment, [**Task3**](task/task3), is posted (due date: February 09, 2020).        
+
   
 ## Table of Contents
 - [Course Description](#course-description)
@@ -54,7 +52,7 @@ This course requires basic knowledge in **linear algebra** and **probability** a
 * [**Operations and Elementary Operations**](tutorial/matlab): copy this folder in your computer and run `operators_elem_operations.mlx` in MATLAB
 
 **Topics**
-* [**Digital Image Processing**](tutorial/image_proc): copy this folder in your computer and run `digital_image_processing.mlx` in MATLAB
+* [**Digital Image Processing**](tutorial/image_proc): copy this folder in your computer and run `digital_image_processing.mlx` in MATLAB (Note: If you do not find the sample images, you can download them from [**here**](https://www.dropbox.com/s/xgznul2u1l16iaw/sample_images.zip?dl=0))   
 * [**Markdown**](tutorial/markdown)
 
 ## Course Textbook 
@@ -72,7 +70,7 @@ Slides and tutorials are will be updated soon.
 |Class 05|**Signal Processing II**|[**link**](lecture/signal_processing)|[**link**](tutorial/signal_processing)| 
 |Class 06|**Signal Processing III**|[**link**](lecture/signal_processing)|[**link**](tutorial/signal_processing)| 
 |Class 07|**Digital Image**|[**link**](lecture/digital_image)|&nbsp;|
-|Class 08|**Projective Geometry**|<!--[**link**](lecture/project_geometry)-->|<!--[**link**](tutorial/project_geometry)-->|
+|Class 08|**Projective Geometry**|[**link**](lecture/project_geometry)|[**link**](tutorial/project_geometry)|
 |Class 09|**Review**|&nbsp;|&nbsp;| 
 |Class 10|**Linear Filtering**|&nbsp;|&nbsp;|
 |Class 11|**Edge Detection**|&nbsp;|&nbsp;|
@@ -101,7 +99,7 @@ There will be **10 tasks** and posted on either weekly or biweekly on this cours
 |:----|:-----|:----|:-----|
 |Task1|[**Programming Practice**](task/task1) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |January 06, 2020|January 17, 2020|
 |Task2|[**Signal Processing I**](task/task2) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |January 16, 2020|January 29, 2020|   
-|Task3|[**Signal Processing II**](task/task3) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br>|January 27, 2020|February 07, 2020|   
+|Task3|[**Signal Processing II**](task/task3) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br>|January 27, 2020|February 09, 2020|   
 |Task4|**Camera Sensor and Digital Image** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |||
 |Task5|**Homography** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |||      
 

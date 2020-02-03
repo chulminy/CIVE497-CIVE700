@@ -1,7 +1,7 @@
 # Task3: Signal Processing II
 
 **Announcement**: January 27, 2020 (Monday)  
-**Due date**: February 07, 2020 (Friday) before 11:59pm  
+**Due date**: February 09, 2020 (Sunday) before 11:59pm  
 
 The main goal of this task is to understand the fundamental of data acquisition system and signal processing. You must study the tutorial to solve corresponding problems. Please answer all sub-questions in each problem. You should write your own code to solve these questions. 
 

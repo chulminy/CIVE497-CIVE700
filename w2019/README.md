@@ -43,7 +43,7 @@ This course requires basic knowledge in **linear algebra**, **probability**, and
 
 **Topics**
 * Signal Processing (will be posted in [Course Outline](#course-outline))    
-* [**Digital Image Processing**](tutorial/image_proc): copy this folder in your computer and run `digital_image_processing.mlx` in MATLAB
+* [**Digital Image Processing**](tutorial/image_proc): copy this folder in your computer and run `digital_image_processing.mlx` in MATLAB  
 * [**Markdown**](tutorial/markdown)
 
 
