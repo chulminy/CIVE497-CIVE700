@@ -8,9 +8,10 @@
 **TA:** Juan Park (j246park@uwaterloo.ca)     
 **Office Hours** Monday and Wednesday, 1:00PM to 2:00PM at E2-2313 (You can also email for an appointment)   
 
-Last updated: 2020-02-02  
+Last updated: 2020-02-04  
 
 ## Announcement  
+:loudspeaker: **2020-02-04** [**Slides**](lecture/linear_filter) and [**tutorial**](tutorial/linear_filter) for Class 10 are posted: Linear filter        
 :loudspeaker: **2020-02-02** [**Slides**](lecture/project_geometry) and [**tutorial**](tutorial/project_geometry) for Class 8 are posted: Projective geometry     
 :loudspeaker::loudspeaker: **2020-02-02** [**Digital Image Processing**](tutorial/image_proc) is a prerequisite of this class but most students haven't been reviewed it yet. This tutorial requires understanding Class 10. Please study the tutorial before then. The due date for Task 3 is set to Feb 09 and the second due date is Feb 11.   
 :loudspeaker::loudspeaker: **2020-02-02** The task assignment, [**Task3**](task/task3), is posted (due date: February 09, 2020).        
@@ -72,7 +73,7 @@ Slides and tutorials are will be updated soon.
 |Class 07|**Digital Image**|[**link**](lecture/digital_image)|&nbsp;|
 |Class 08|**Projective Geometry**|[**link**](lecture/project_geometry)|[**link**](tutorial/project_geometry)|
 |Class 09|**Review**|&nbsp;|&nbsp;| 
-|Class 10|**Linear Filtering**|&nbsp;|&nbsp;|
+|Class 10|**Linear Filtering**|[**link**](lecture/linear_filter)|[**link**](tutorial/linear_filter)|   
 |Class 11|**Edge Detection**|&nbsp;|&nbsp;|
 |Class 12|**Feature 1**|&nbsp;|&nbsp;|  
 |Class 13|**Feature 2**|&nbsp;|&nbsp;|
