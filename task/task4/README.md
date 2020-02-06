@@ -2,12 +2,12 @@
 **Announcement**: February  07, 2020    
 **Due date**: February 23, 2020   
 
-## Problem Description 1
-The main goal of this problem is to review a tutorial for [**Digital Image Processing**](tutorial/image_proc). Copy this folder in your computer and run `digital_image_processing.mlx` in MATLAB (Note: If you do not find the sample images, you can download them from [**here**](https://www.dropbox.com/s/xgznul2u1l16iaw/sample_images.zip?dl=0)). Please answer the following questions in 'digital_image_processing.mlx': 
+## Problem 1
+The main goal of this problem is to review a tutorial for [**Digital Image Processing**](../../tutorial/image_proc). Copy this folder in your computer and run `digital_image_processing.mlx` in MATLAB (Note: If you do not find the sample images, you can download them from [**here**](https://www.dropbox.com/s/xgznul2u1l16iaw/sample_images.zip?dl=0)). Please answer the following questions in 'digital_image_processing.mlx': 
 Q.001, Q.002, Q.005, Q.008, Q.009, Q.010, Q.013, Q.016   
         
 
-## Problem Description 2
+## Problem 2
 The main goal of this problem is to learn a working principle of a digital camera and how to take quality photos using your camera. Students are encouraged to actively search for relevant information on the web, such as wiki, article, or tutorial videos. Please answer the following questions:   
 
 **Q1. What is a good image sensor? Why are the high-end DSLR cameras expensive?**  
