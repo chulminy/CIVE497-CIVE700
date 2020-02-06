@@ -1,14 +1,14 @@
 # Task4: Digital Image Processing & Camera Sensor and Digital Image
-**Announcement**: ND     
-**Due date**: ND    
+**Announcement**: February  07, 2020    
+**Due date**: February 23, 2020   
 
 ## Problem Description 1
-
-
-
+The main goal of this problem is to review a tutorial for [**Digital Image Processing**](tutorial/image_proc). Copy this folder in your computer and run `digital_image_processing.mlx` in MATLAB (Note: If you do not find the sample images, you can download them from [**here**](https://www.dropbox.com/s/xgznul2u1l16iaw/sample_images.zip?dl=0)). Please answer the following questions in 'digital_image_processing.mlx': 
+Q.001, Q.002, Q.005, Q.008, Q.009, Q.010, Q.013, Q.016   
+        
 
 ## Problem Description 2
-The main goal of this task is to learn a working principle of a digital camera and how to take quality photos using your camera. Students are encouraged to actively search for relevant information on the web, such as wiki, article, or tutorial videos. Then, please answer the following questions:   
+The main goal of this problem is to learn a working principle of a digital camera and how to take quality photos using your camera. Students are encouraged to actively search for relevant information on the web, such as wiki, article, or tutorial videos. Please answer the following questions:   
 
 **Q1. What is a good image sensor? Why are the high-end DSLR cameras expensive?**  
 
@@ -68,7 +68,7 @@ Here is the way of inserting your images in your report:
 ## Submission of Your Work
 * You should turn in a report with images used to uw.task@gmail.com. When you send your email, please cc your email for future reference.  
 * A subject of your email must be the format of "Task4_`Your name` _ `Degree` _ `ID`"
-	* `Your name`: first five letter your first + last name. The first letter is uppercase and the rest of them are lowercase (i.g Chul Min Yeum -> Chulmi, Juan Park -> Juanp)   
+	* `Your name`: first five letter your first + last name. The first letter is uppercase and the rest of them are lowercase (i.g Chul Min Yeum -> chulmi, Juan Park -> juanp)   
 	* `Degree`: pick your degree among BA, ME, MA, and PH (BA=Undergraduate, ME=MEng, MA=MASc, and PH=PhD)  
 	* `ID`: your school ID
 	* Please do not include any other text except this subject line.    
