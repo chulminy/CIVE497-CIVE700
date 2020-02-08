@@ -1,7 +1,7 @@
 # Task5: Homography
 
-**Announcement**: ND      
-**Due date**: ND    
+**Announcement**: February 12, 2020        
+**Due date**: February 23, 2020      
 
 The main goal of this task is to understand the fundamental of the homogeneous coordinate and the homography relationship between points on two images of the same planar surface in space. Please answer all sub-questions in each problem. You should write your own code to solve these questions *if needed*. 
 
@@ -50,18 +50,20 @@ The four lines (**l_1**, **l_2**, **l_3**, and **l_4**) are intersected at six p
 
 ## Problem 5: Image Overlay (20 points)
 
-|(a): Img_0067.JPG|(b): Img_0069.JPG|
+|(a): 20200206_163653.jpg|(b): pic_outstanding_grad.jpg|
 |:-----:|:----:|
-|![](IMG_0067.JPG)|![](IMG_0069.JPG)|
+|![](20200206_163653.JPG)|![](pic_outstanding_grad.jpg)|
 
 You are going to put up a famous painting: *"Paris Street: Rainy Day"* on a white board in my office. You need to download the painting on the web. Then, the image is projected to the white board area in (a) and (b). Write your own code to project your image. You need to find homography between the white board frame in (a) and (b) and your image. 
 
-Here is a sample demo (`demo_problem6.m` in [**problem6**](problem6)).
+Here is a sample demo for one image (`demo_problem6.m` in [**problem6**](problem6)).
 
 [![](http://img.youtube.com/vi/5jer5NoX7cs/0.jpg)](https://www.youtube.com/watch?v=5jer5NoX7cs)
 
 You can make your tool using the code provided or from the scratch. Note that you **should not** use `fitgeotrans` in MATLAB and `findhomography`, `getPerspectiveTransform` in Python. You need to write your own code to find homography (perspective transformation), meaning that you need to write your own `ComputeH`.  
 
+
+Also, you need to manually provide four corners of each region on the image where a new image overaly. Please do not make an interactive code for picking the corner like the one in the demo. 
 
 ## Problem 6: Build your 3D Planar Measurement Software (30 points)
 
@@ -75,13 +77,12 @@ A sample code is not provided in this problem because you will implement a "very
 
 You need to demonstrate the functionality of your tool using your own image as well as physical measurements. Any size of a calibration paper can be used. Please provide at least two measurements on the plane that the calibration paper is placed. Note that you should not use `fitgeotrans` in MATLAB and `getPerspectiveTransform`in Python. You need to write your own code to find homography (perspective transformation).  
 
-This problem is **NOT** related to two metric rectification methods in class slides.
 
 ## Submission of Your Work
 * **YOU MUST INCLUDE YOUR RESULTING GRAPHS OR IMAGES INTO YOUR REPORT**
 * You should turn in a report and codes to uw.task@gmail.com. When you send your email, please cc your email for future reference.  
 * A subject of your email must be the format of "Task5_`Your name` _ `Degree` _ `ID`"
-	* `Your name`: first five letter your first + last name. The first letter is uppercase and the rest of them are lowercase (i.g Chul Min Yeum -> Chulmi, Juan Park -> Juanp)   
+	* `Your name`: first five letter your first + last name. The first letter is uppercase and the rest of them are lowercase (i.g Chul Min Yeum -> chulmi, Juan Park -> juanp)   
 	* `Degree`: pick your degree among BA, ME, MA, and PH (BA=Undergraduate, ME=MEng, MA=MASc, and PH=PhD)  
 	* `ID`: your school ID
 	* Please do not include any other text except this subject line.    
@@ -94,10 +95,10 @@ This problem is **NOT** related to two metric rectification methods in class sli
 * You should also include a report in pdf that must be converted from your report in Markdown.
 * Please review the general submission instruction in the course syllabus. 
 * When you violate these submission guideline, your report will be returned and must be resubmitted. 
-> For example, Juan Park is using MATLAB to complete the Task5. Juan needs to submit his report and codes to **uw.task@gmail.com** with an attachment of **Task5_Juanp_BA_000000.zip**. In the folder, there are at least three files: 
-> * Code_Juanp_BA_000000.m
-> * Rept_Juanp_BA_000000.md
-> * Rept_Juanp_BA_000000.pdf
+> For example, Juan Park is using MATLAB to complete the Task5. Juan needs to submit his report and codes to **uw.task@gmail.com** with an attachment of **Task5_juanp_BA_000000.zip**. In the folder, there are at least three files: 
+> * Code_juanp_BA_000000.m
+> * Rept_juanp_BA_000000.md
+> * Rept_juanp_BA_000000.pdf
 * You may need to include all figures used for writing your report. 
 
 ## Note

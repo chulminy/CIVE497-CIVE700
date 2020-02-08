@@ -8,13 +8,12 @@
 **TA:** Juan Park (j246park@uwaterloo.ca)     
 **Office Hours** Monday and Wednesday, 1:00PM to 2:00PM at E2-2313 (You can also email for an appointment)   
 
-Last updated: 2020-02-04  
+Last updated: 2020-02-07  
 
 ## Announcement  
-:loudspeaker: **2020-02-04** [**Slides**](lecture/linear_filter) and [**tutorial**](tutorial/linear_filter) for Class 10 are posted: Linear filter        
-:loudspeaker: **2020-02-02** [**Slides**](lecture/project_geometry) and [**tutorial**](tutorial/project_geometry) for Class 8 are posted: Projective geometry     
+:loudspeaker::loudspeaker: **2020-02-07** The task assignment, [**Task4**](task/task4), is posted (due date: February 23, 2020).        
+:loudspeaker::loudspeaker: **2020-02-07** The task assignment, [**Task3**](task/task3), is posted (due date: February 16, 2020).        
 :loudspeaker::loudspeaker: **2020-02-02** [**Digital Image Processing**](tutorial/image_proc) is a prerequisite of this class but most students haven't been reviewed it yet. This tutorial requires understanding Class 10. Please study the tutorial before then. The due date for Task 3 is set to Feb 09 and the second due date is Feb 11.   
-:loudspeaker::loudspeaker: **2020-02-02** The task assignment, [**Task3**](task/task3), is posted (due date: February 09, 2020).        
 
   
 ## Table of Contents
@@ -100,8 +99,8 @@ There will be **10 tasks** and posted on either weekly or biweekly on this cours
 |:----|:-----|:----|:-----|
 |Task1|[**Programming Practice**](task/task1) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |January 06, 2020|January 17, 2020|
 |Task2|[**Signal Processing I**](task/task2) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |January 16, 2020|January 29, 2020|   
-|Task3|[**Signal Processing II**](task/task3) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br>|January 27, 2020|February 09, 2020|   
-|Task4|**Camera Sensor and Digital Image** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |||
+|Task3|[**Signal Processing II**](task/task3) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br>|January 27, 2020|February 16, 2020|   
+|Task4|[**Digital Image Processing & Camera Sensor and Digital Image**](task/task4) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |February 07, 2020|February 23, 2020|  
 |Task5|**Homography** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |||      
 
 ## Communication  

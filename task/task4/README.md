@@ -1,6 +1,7 @@
 # Task4: Digital Image Processing & Camera Sensor and Digital Image
-**Announcement**: February  07, 2020    
-**Due date**: February 23, 2020   
+
+**Announcement**: February 07, 2020 (Friday)  
+**Due date**: February 23, 2020 (Sunday) before 11:59pm  
 
 ## Problem 1
 The main goal of this problem is to review a tutorial for [**Digital Image Processing**](../../tutorial/image_proc). Copy this folder in your computer and run `digital_image_processing.mlx` in MATLAB (Note: If you do not find the sample images, you can download them from [**here**](https://www.dropbox.com/s/xgznul2u1l16iaw/sample_images.zip?dl=0)). Please answer the following questions in 'digital_image_processing.mlx': 

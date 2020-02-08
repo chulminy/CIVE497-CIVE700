@@ -13,7 +13,7 @@ sizePic = [info.Width info.Height];
 %% Step1: Pick four corners of your white board in (a)
 imgBoard = imread(imgBoardFile);
 figure(1); imshow(imgBoard);
-p = drawpolygon('LineWidth',7,'Color','black');
+p = drawpolygon('LineWidth',5,'Color','black');
 corner = p.Position;
 
 %% Step2: Compute H (Your Section)
