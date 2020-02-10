@@ -1,12 +1,12 @@
 # Task5: Homography
 
 **Announcement**: February 12, 2020        
-**Due date**: February 23, 2020      
+**Due date**: March 01, 2020 (Sunday) before 11:59pm        
 
 The main goal of this task is to understand the fundamental of the homogeneous coordinate and the homography relationship between points on two images of the same planar surface in space. Please answer all sub-questions in each problem. You should write your own code to solve these questions *if needed*. 
 
 ## Problem 1: Homogeneous Coordinate (Lines and Points) (10 points)
-The intersection of two lines **l1** and **l2**, with **l1** passing through the points (1,4) and (5,2), and **l2** passing through the points (2,-2) and (6,8). 
+The intersection of two lines **l1** and **l2**, with **l1** passing through the points (3,6) and (5,1), and **l2** passing through the points (3,-2) and (6,8). 
 
 **(a)** Compute the intersection without using homogeneous coordinates 
 
@@ -17,16 +17,16 @@ The intersection of two lines **l1** and **l2**, with **l1** passing through the
 
 Given a conic 
 
-![](https://latex.codecogs.com/gif.latex?%5Cfrac%7B%28x&plus;3%29%5E%7B2%7D%7D%7B2%5E%7B2%7D%7D%20&plus;%20%5Cfrac%7B%28y-2%29%5E%7B2%7D%7D%7B3%5E%7B2%7D%7D%3D1)
+![](https://latex.codecogs.com/gif.latex?%5Cfrac%7B%28x-3%29%5E%7B2%7D%7D%7B2%5E%7B2%7D%7D%20&plus;%20%5Cfrac%7B%28y-2%29%5E%7B2%7D%7D%7B3%5E%7B2%7D%7D%3D2)
 
-**(a)** Compute the intersection of a tangential line to this conic at (-1, 2) with the x-axis
+**(a)** Compute the intersection of a tangential line to this conic at (1, 5) with the x-axis
 
-**(b)** Compute the coordinates of the intersection of the tangents to this conic at points (-1,2) and (-3, 5)
+**(b)** Compute the coordinates of the intersection of the tangential lines to this conic at points (1,5) and (1, -1)
 
 
 ## Problem 3: Homogeneous Coordinate (Lines) (10 points)
 
-![](https://latex.codecogs.com/gif.latex?%5C%5C%20l_1%3A%20y_1%20%3D%200.75x_1%20&plus;%203%20%5C%5C%20l_2%3A%20y_2%20%3D%200.4x_2%20-%205%5C%5C%20l_3%3A%20y_3%20%3D%20-1.25x_3%20&plus;%205%20%5C%5C%20l_4%3A%20y_4%20%3D%20-x_4%20-%208)
+![](https://latex.codecogs.com/gif.latex?%5C%5C%20l_1%3A%20y_1%20%3D%201.25x_1%20&plus;%203%20%5C%5C%20l_2%3A%20y_2%20%3D%200.4x_2%20-%205%5C%5C%20l_3%3A%20y_3%20%3D%20-2.25x_3%20&plus;%205%20%5C%5C%20l_4%3A%20y_4%20%3D%20-x_4%20-%208)
 
 The four lines (**l_1**, **l_2**, **l_3**, and **l_4**) are intersected at six points. Among the six points, please find four points that form a quadrangle. Please explain how to find four points with your script, not manually. 
  
@@ -50,20 +50,20 @@ The four lines (**l_1**, **l_2**, **l_3**, and **l_4**) are intersected at six p
 
 ## Problem 5: Image Overlay (20 points)
 
-|(a): 20200206_163653.jpg|(b): pic_outstanding_grad.jpg|
+|![](doc/my_office.png)|![](doc/award.png)|
 |:-----:|:----:|
-|![](20200206_163653.JPG)|![](pic_outstanding_grad.jpg)|
+|(a) original image: *prob5_1.jpg*|(b) original image: *prob5_2.jpg*|
 
-You are going to put up a famous painting: *"Paris Street: Rainy Day"* on a white board in my office. You need to download the painting on the web. Then, the image is projected to the white board area in (a) and (b). Write your own code to project your image. You need to find homography between the white board frame in (a) and (b) and your image. 
+You are going to hang a good painting or image. Please find an image putting on the white board and award frame, and a digital clock (see *clock_wall.png*) is placed on the one of the blocks (*marked as 'clock'*). Your images and the clock image are projected to the marked regions in (a) and (b). Write your own code to project your image. You need to find homography between the white board frame in (a) and (b) and your image. 
 
-Here is a sample demo for one image (`demo_problem6.m` in [**problem6**](problem6)).
+Here is a sample demo for one image (`demo_problem5.m` in [**problem5**](problem5)).
 
 [![](http://img.youtube.com/vi/5jer5NoX7cs/0.jpg)](https://www.youtube.com/watch?v=5jer5NoX7cs)
 
 You can make your tool using the code provided or from the scratch. Note that you **should not** use `fitgeotrans` in MATLAB and `findhomography`, `getPerspectiveTransform` in Python. You need to write your own code to find homography (perspective transformation), meaning that you need to write your own `ComputeH`.  
 
 
-Also, you need to manually provide four corners of each region on the image where a new image overaly. Please do not make an interactive code for picking the corner like the one in the demo. 
+You need to manually provide the coordinates of four corners of each region on the image where your images overaly. Please do not make an interactive code for picking the corner like the one in the demo. 
 
 ## Problem 6: Build your 3D Planar Measurement Software (30 points)
 
