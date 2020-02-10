@@ -8,13 +8,11 @@
 **TA:** Juan Park (j246park@uwaterloo.ca)     
 **Office Hours** Monday and Wednesday, 1:00PM to 2:00PM at E2-2313 (You can also email for an appointment)   
 
-Last updated: 2020-02-07  
+Last updated: 2020-02-10  
 
 ## Announcement  
 :loudspeaker::loudspeaker: **2020-02-07** The task assignment, [**Task4**](task/task4), is posted (due date: February 23, 2020).        
-:loudspeaker::loudspeaker: **2020-02-07** The task assignment, [**Task3**](task/task3), is posted (due date: February 16, 2020).        
-:loudspeaker::loudspeaker: **2020-02-02** [**Digital Image Processing**](tutorial/image_proc) is a prerequisite of this class but most students haven't been reviewed it yet. This tutorial requires understanding Class 10. Please study the tutorial before then. The due date for Task 3 is set to Feb 09 and the second due date is Feb 11.   
-
+:loudspeaker::loudspeaker: **2020-02-07** The task assignment, [**Task3**](task/task3), is posted (due date: February 16, 2020).           
   
 ## Table of Contents
 - [Course Description](#course-description)
