@@ -28,7 +28,7 @@ Given a conic
 
 ![](https://latex.codecogs.com/gif.latex?%5C%5C%20l_1%3A%20y_1%20%3D%201.25x_1%20&plus;%203%20%5C%5C%20l_2%3A%20y_2%20%3D%200.4x_2%20-%205%5C%5C%20l_3%3A%20y_3%20%3D%20-2.25x_3%20&plus;%205%20%5C%5C%20l_4%3A%20y_4%20%3D%20-x_4%20-%208)
 
-The four lines (**l_1**, **l_2**, **l_3**, and **l_4**) are intersected at six points. Among the six points, please find four points that form a quadrangle. Please explain how to find four points with your script, not manually. 
+The four lines (**l1**, **l2**, **l3**, and **l4**) are intersected at six points. **Among the six points, please find four points that form a quadrangle with your code, not manually**. 
  
 
 ## Problem 4: Linear Algebra (20 points)
@@ -54,14 +54,13 @@ The four lines (**l_1**, **l_2**, **l_3**, and **l_4**) are intersected at six p
 |:-----:|:----:|
 |(a) original image: *prob5_1.jpg*|(b) original image: *prob5_2.jpg*|
 
-You are going to hang a good painting or image. Please find an image putting on the white board and award frame, and a digital clock (see *clock_wall.png*) is placed on the one of the blocks (*marked as 'clock'*). Your images and the clock image are projected to the marked regions in (a) and (b). Write your own code to project your image. You need to find homography between the white board frame in (a) and (b) and your image. 
+You are going to hang a good painting or image. Please find an image putting on the white board and award frame, and a digital clock (see *clock_wall.png*) is placed on the designated block (*marked as 'clock'*). Your images and the clock image are projected to the marked regions in (a) and (b). Write your own code to project your image. You need to find homography. 
 
 Here is a sample demo for one image (`demo_problem5.m` in [**problem5**](problem5)).
 
 [![](http://img.youtube.com/vi/5jer5NoX7cs/0.jpg)](https://www.youtube.com/watch?v=5jer5NoX7cs)
 
 You can make your tool using the code provided or from the scratch. Note that you **should not** use `fitgeotrans` in MATLAB and `findhomography`, `getPerspectiveTransform` in Python. You need to write your own code to find homography (perspective transformation), meaning that you need to write your own `ComputeH`.  
-
 
 You need to manually provide the coordinates of four corners of each region on the image where your images overaly. Please do not make an interactive code for picking the corner like the one in the demo. 
 
