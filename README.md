@@ -8,12 +8,11 @@
 **TA:** Juan Park (j246park@uwaterloo.ca)     
 **Office Hours** Monday and Wednesday, 1:00PM to 2:00PM at E2-2313 (You can also email for an appointment)   
 
-Last updated: 2020-02-18  
+Last updated: 2020-02-24  
 
 ## Announcement  
 :loudspeaker::loudspeaker: **2020-02-16** The task assignment, [**Task5**](task/task5), is posted (due date: March 01, 2020).          
-:loudspeaker::loudspeaker: **2020-02-16** [**Slides**](lecture/edge_detection) and [**tutorial**](tutorial/edge_detection) for Class 11 are posted: Edge detection       
-:loudspeaker::loudspeaker: **2020-02-07** The task assignment, [**Task4**](task/task4), is posted (due date: February 23, 2020).        
+:loudspeaker::loudspeaker: **2020-02-24** [**Slides**](lecture/edge_detection) and [**tutorial**](tutorial/edge_detection) for Class 11 are updated: Edge detection       
 
   
 ## Table of Contents
