@@ -1,13 +1,13 @@
 # Task6: Image Filter & Edge Detection
 
-**Announcement**: February 16, 2020  
+**Announcement**: February 27, 2020  
 **Due date**: March 08, 2020 (Sunday) before 11:59 pm  
 
-The main goal of this task is to understand the fundamental of the linear filter, edge detection, and Hough transform. You must study the following three tutorials (`linear_filtering.mlx`, `edge_detection_V2.mlx`, `hough_transformation.mlx`) to solve the corresponding problems. Please answer all sub-questions in each problem. You should write your own code to solve these questions *if needed*. 
+The main goal of this task is to understand the fundamental of the linear filter, edge detection, and Hough transform. You must study the tutorials at [edge detection](../../tutorial/edge_detection) and [linear filter](../../tutorial/linear_filter). Please answer all sub-questions in each problem. You should write your own code to solve these questions *if needed*. 
 
-**PLEASE INCLUDE YOUR RESULTING IMAGES OR GRAPHS IN THE REPORT**
+:loudspeaker::loudspeaker: **PLEASE INCLUDE YOUR RESULTING IMAGES OR GRAPHS IN THE REPORT**
 
-## Problem 1: 2D Convolution (25 points)
+## Problem 1: 2D Convolution (10 points)
 
 The general expression of a 2D convolution is
  
@@ -15,9 +15,9 @@ The general expression of a 2D convolution is
 
 where G is the filtered image, F is the original image, and H is the kernel.  
 
-You first take a color picture or download any color image on the web. The image is resized to have 200 pixel in the shortest side. For example, if your image 5000 x 4000 pixel, it becomes 250x200 pixel. Then, please do the convolution of the resized image and the kernel H:
+You first take a color picture or download any color image on the web and resize the image to have 200 pixel in the shortest side. For example, if your image 5000 x 4000 pixel, it becomes 250x200 pixel. Then, please do the convolution of the resized image and the kernel H:
 
-![](https://latex.codecogs.com/gif.latex?h%20%3D%20%5Cbegin%7Bbmatrix%7D%200%20%261%20%260%20%5C%5C%201%20%26%20-4%20%26%201%5C%5C%200%26%201%26%200%20%5Cend%7Bbmatrix%7D)
+![](https://latex.codecogs.com/gif.latex?h%20%3D%20%5Cbegin%7Bbmatrix%7D%200%20%26-1%20%260%20%5C%5C%20-1%20%26%204%20%26%20-1%5C%5C%200%26%20-1%26%200%20%5Cend%7Bbmatrix%7D)
 
 (a) Please compute G using `conv2`. In the shape option, you set `same`. 
 
@@ -28,14 +28,15 @@ Note that answers for (a) and (b) must be the same.
 
 ## Problem 2: Different Kernels (20 points)
 
-You are going to filter your image using the following kernels. Please conduct convolution of your image (used in Problem 1) and the kernel H1, H2, H3, H4 respectively. Then, you need to explain the effect of filtering with the each kernel. 
+You are going to filter your image using the following kernels. Please conduct convolution of your image (used in Problem 1) with the kernel H1, H2, H3, and H4 respectively. Then, you need to explain the effect of filtering with the each kernel. 
 
 ![](https://latex.codecogs.com/gif.latex?H_1%20%3D%20%5Cfrac%7B1%7D%7B9%7D%5Cbegin%7Bbmatrix%7D%201%20%26%201%20%26%201%5C%5C%201%20%26%201%20%26%201%5C%5C%201%20%26%201%20%26%201%20%5Cend%7Bbmatrix%7D%2C%5C%2C%5C%2C%20H_2%20%3D%20%5Cbegin%7Bbmatrix%7D%200%20%26%201%20%26%200%5C%5C%201%20%26%20-4%20%26%201%5C%5C%200%20%26%201%20%26%200%20%5Cend%7Bbmatrix%7D%20%2C%20%5C%2C%5C%2C%20H_3%20%3D%20%5Cbegin%7Bbmatrix%7D%20-0.55%20%26%20-0.55%20%26%20-0.55%5C%5C%20-0.55%20%26%205.40%20%26%20-0.55%5C%5C%20-0.55%20%26%20-0.55%20%26%20-0.55%20%5Cend%7Bbmatrix%7D%20%2C)
 </br>
 ![](https://latex.codecogs.com/gif.latex?H_4%20%3D%20%5Cbegin%7Bbmatrix%7D%200.0030%20%26%200.0133%20%26%200.0219%20%26%200.0133%20%26%200.0030%20%5C%5C%200.0133%20%26%200.0596%20%26%200.0983%20%26%200.0596%20%26%200.0133%20%5C%5C%200.0219%20%26%200.0983%20%26%200.1621%20%26%200.0983%20%26%200.0219%20%5C%5C%200.0133%20%26%200.0596%20%26%200.0983%20%26%200.0596%20%26%200.0133%20%5C%5C%200.0030%20%26%200.0133%20%26%200.0219%20%26%200.0133%20%26%200.0030%20%5Cend%7Bbmatrix%7D)
 
-## Problem 3: Gaussian Kernel (25 points)
-See `linear_filtering.mlx`  
+## Problem 3: Gaussian Kernel (20 points)
+**See tutorials!!**
+
 (a) Write a code to create the following Gaussian kernel h without using `fspecial`. 
 
 ```matlab
@@ -43,21 +44,21 @@ h = fspecial('gaussian', 5, 2);
 ```
 You need to use theoretical Gaussian curve to get the value of each element in h. Your code produces the kernel close to h obtained from the `fspecial` function.   
 
-(b) What is the difference between the kernel h1 and h2 in terms of the effect on the filtered images with these kernels?  
+(b) What is the difference between the kernel h1 and h2 in terms of the effect on the filtered images with these kernels? You can explain it with sample results.    
 
 ```matlab    
 h1 = fspecial('gaussian', 20, 2);
 h2 = fspecial('gaussian', 20, 3);
 ```
 
-(c) What is the difference between the kernel h2 and h3 in terms of filtered images with these kernels? Are they different? 
+(c) What is the difference between the kernel h2 and h3 in terms of filtered images with these kernels? Are they different? You can explain it with sample results.   
 
 ```matlab   
 h2 = fspecial('gaussian', 20, 3);
 h3 = fspecial('gaussian', 50, 3);
 ```
 
-(d) What is the difference between the kernel h2 and h4 in terms of filtered images with these kernels? Are they different? 
+(d) What is the difference between the kernel h2 and h4 in terms of filtered images with these kernels? Are they different? You can explain it with sample results.   
 
 ```matlab   
 h2 = fspecial('gaussian', 20, 3);
@@ -66,17 +67,26 @@ h4 = fspecial('gaussian', 20, 20);
 
 Please **ignore** the boundary effect. You can do either zero-padding (`same` option in `conv2` in MATLAB) or get the valid area (`valid` option in `conv2` in MATLAB).  
 
-## Problem 4: Hough Transform (30 points)
+## Problem 4: Hough Transform (25 points)
 This problem is to write your own program that extracts a booklet image from each image provided and remove its projective distortion in an automated way.  
 
 Here is a sample demo.  
 
 [![](http://img.youtube.com/vi/wi4LXCr3xfs/0.jpg)](https://youtu.be/wi4LXCr3xfs)
 
-A sample code is provided. You need to write your own code for extracting four corners of the booklet using edge detection and hough transform. In other word, you need to write your own `FindCorner` function. In addition, you need to reuse your `ComputeH`, which was used in Task 3.  
+A sample code is provided. You need to write your own code for extracting four corners of the booklet using edge detection and hough transform. In other word, you need to write your own `FindCorner` function. In addition, you need to reuse your `ComputeH`, which was used in Task 3. You only remove perspective distortion, meaning that resulting images may be holizontally or vertically flipped.  
 
 Hint: I used functions of `edge`, `imgaussfilt`, `houghpeaks`, `hough`, `cross`, `norm` in MATLAB to write the `FindCorner`.  However, you can use any functions in OpenCV or MATLAB.  You can use `fitgeotrans` in MATLAB and `getPerspectiveTransform` in Python. 
 
+## Problem 5 (Challenging): Hough Transform & Image Overlay (25 points) 
+
+This problem is to write your own program that extracts a booklet image from an image provided and overlay the image into the white board. The height of the image should be placed at the width of the board. 
+
+Here is a sample demo.  
+
+[![](http://img.youtube.com/vi/JVAoPLohA-8/0.jpg)](https://youtu.be/JVAoPLohA-8)
+
+A sample code is provided. You can reuse any code that you wrote for solving Problem 4 in Task 6 or Problem 5 or 6 in Task 5. 
 
 ## Submission of Your Work
 * **YOU MUST INCLUDE YOUR RESULTING GRAPHS OR IMAGES INTO YOUR REPORT**
