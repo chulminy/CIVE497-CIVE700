@@ -21,7 +21,7 @@ H = ComputeH(corner, sizePic);
 
 %% Step3: Overlay your picture (I think there is a better way to do this)
 imgPic = imread(imgPicFile);
-[imgPicTran, RB] = imwarp(imgPic, projective2d(H));
+[imgPicTran, RB] = imwarp(imgPic, projective2d(H'));
 BWPic = roipoly(imgPicTran, corner(:,1)-RB.XWorldLimits(1), corner(:,2)-RB.YWorldLimits(1));
 
 
