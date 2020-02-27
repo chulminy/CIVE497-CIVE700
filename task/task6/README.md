@@ -68,6 +68,7 @@ h4 = fspecial('gaussian', 20, 20);
 Please **ignore** the boundary effect. You can do either zero-padding (`same` option in `conv2` in MATLAB) or get the valid area (`valid` option in `conv2` in MATLAB).  
 
 ## Problem 4: Hough Transform (25 points)
+
 This problem is to write your own program that extracts a booklet image from each image provided and remove its projective distortion in an automated way.  
 
 Here is a sample demo.  
@@ -80,13 +81,14 @@ Hint: I used functions of `edge`, `imgaussfilt`, `houghpeaks`, `hough`, `cross`,
 
 ## Problem 5 (Challenging): Hough Transform & Image Overlay (25 points) 
 
-This problem is to write your own program that extracts a booklet image from an image provided and overlay the image into the white board. The height of the image should be placed at the width of the board. 
+This problem is to write your own program that extracts a booklet image from an image provided and overlay the extracted image into the white board. Note the height of the booklet image should be placed at the width of the board. 
 
 Here is a sample demo.  
 
 [![](http://img.youtube.com/vi/JVAoPLohA-8/0.jpg)](https://youtu.be/JVAoPLohA-8)
 
-A sample code is provided. You can reuse any code that you wrote for solving Problem 4 in Task 6 or Problem 5 or 6 in Task 5. 
+Your goal is to write your own `fun_prob5` function. A sample code is provided in [**problem5**](problem5). You can reuse any code that you wrote for solving Problem 4 in Task 6 or Problem 5 or 6 in Task 5. 
+
 
 ## Submission of Your Work
 * **YOU MUST INCLUDE YOUR RESULTING GRAPHS OR IMAGES INTO YOUR REPORT**
