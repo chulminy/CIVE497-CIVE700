@@ -8,7 +8,7 @@
 **TA:** Juan Park (j246park@uwaterloo.ca)     
 **Office Hours** Monday and Wednesday, 1:00PM to 2:00PM at E2-2313 (You can also email for an appointment)   
 
-Last updated: 2020-02-27  
+Last updated: 2020-02-28     
 
 ## Announcement  
 :loudspeaker::loudspeaker: **2020-02-27** The task assignment, [**Task6**](task/task6), is posted (due date: March 08, 2020).           
@@ -99,7 +99,7 @@ There will be **10 tasks** and posted on either weekly or biweekly on this cours
 |:----|:-----|:----|:-----|
 |Task1|[**Programming Practice**](task/task1) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |January 06, 2020|January 17, 2020|
 |Task2|[**Signal Processing I**](task/task2)  </br> [Best report (Saeed Ardakani)](task/task2/solution/Rept_saeed_PH_20793159.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |January 16, 2020|January 29, 2020|   
-|Task3|[**Signal Processing II**](task/task3) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br>|January 27, 2020|February 16, 2020|   
+|Task3|[**Signal Processing II**](task/task3)  </br> [Best report (Charlotte Mei)](task/task3/solution/Rept_charl_BA_20620597.pdf), [Best report (Aleksandar Jakovljevic)](task/task3/solution/Rept_aleksj_BA_20613063.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |January 27, 2020|February 16, 2020|   
 |Task4|[**Digital Image Processing & Camera Sensor and Digital Image**](task/task4) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |February 07, 2020|February 23, 2020|  
 |Task5|[**Homography**](task/task5) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |February 12, 2020|March 01, 2020|          
 
