@@ -8,7 +8,7 @@
 **TA:** Juan Park (j246park@uwaterloo.ca)     
 **Office Hours** Monday and Wednesday, 1:00PM to 2:00PM at E2-2313 (You can also email for an appointment)   
 
-Last updated: 2020-02-28     
+Last updated: 2020-03-01     
 
 ## Announcement  
 :loudspeaker::loudspeaker: **2020-02-27** The task assignment, [**Task6**](task/task6), is posted (due date: March 08, 2020).           
@@ -74,9 +74,9 @@ Slides and tutorials are will be updated soon.
 |Class 09|**Review**|&nbsp;|&nbsp;| 
 |Class 10|**Linear Filtering**|[**link**](lecture/linear_filter)|[**link**](tutorial/linear_filter)|   
 |Class 11|**Edge Detection**|[**link**](lecture/edge_detection)|[**link**](tutorial/edge_detection)|
-|Class 12|**Feature 1**|&nbsp;|&nbsp;|  
-|Class 13|**Feature 2**|&nbsp;|&nbsp;|
-|Class 14|**RANSAC**|&nbsp;|&nbsp;|
+|Class 12|**Feature 1**|[**link**](lecture/feature)|[**link**](tutorial/feature)|  
+|Class 13|**Feature 2**|[**link**](lecture/feature)|[**link**](tutorial/feature)|
+|Class 14|**RANSAC**|[**link**](lecture/ransac)|[**link**](lecture/edge_detection)|[**link**](lecture/ransac)|[**link**](tutorial/edge_detection)|
 |Class 15|**Camera Model**|&nbsp;|&nbsp;|
 |Class 16|**Multiview Geometry**|&nbsp;|&nbsp;|
 |Class 17|**Structure-from-motion (SfM)**|&nbsp;|&nbsp;|
@@ -102,6 +102,9 @@ There will be **10 tasks** and posted on either weekly or biweekly on this cours
 |Task3|[**Signal Processing II**](task/task3)  </br> [Best report (Charlotte Mei)](task/task3/solution/Rept_charl_BA_20620597.pdf), [Best report (Aleksandar Jakovljevic)](task/task3/solution/Rept_aleksj_BA_20613063.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |January 27, 2020|February 16, 2020|   
 |Task4|[**Digital Image Processing & Camera Sensor and Digital Image**](task/task4) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |February 07, 2020|February 23, 2020|  
 |Task5|[**Homography**](task/task5) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |February 12, 2020|March 01, 2020|          
+|Task6|[**Image Filter & Edge Detection**](task/task6) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |February 27, 2020|March 08, 2020|    
+|Task7| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |March 00, 2020|March 00, 2020|
+|Task8| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |March 00, 2020|March 00, 2020|    
 
 ## Communication  
 **All communication will be made through [this course website](https://github.com/chulminy/CIVE497-CIVE700)**, especially for this web page. The instructor will make a note in the ["Announcement"](#announcement) section after updating the web page. Students can configure email notification for by ["watching"](https://help.github.com/articles/watching-and-unwatching-repositories/) this course website or use a version control system for tracking its changes. Thus, **students are responsible for checking the website regularly** for any relevant course information or announcements. 
