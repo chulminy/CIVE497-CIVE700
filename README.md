@@ -8,12 +8,12 @@
 **TA:** Juan Park (j246park@uwaterloo.ca)     
 **Office Hours** Monday and Wednesday, 1:00PM to 2:00PM at E2-2313 (You can also email for an appointment)   
 
-Last updated: 2020-03-02     
+Last updated: 2020-03-04     
 
 ## Announcement  
+:loudspeaker::loudspeaker: **2020-03-04** [**Slides**](lecture/ransac) and [**tutorial**](tutorial/ransac) for Class 14 are posted: ransac         
 :loudspeaker::loudspeaker: **2020-03-02** [**Slides**](lecture/feature) and [**tutorial**](tutorial/feature) for Class 13 are updated: Feature         
 :loudspeaker::loudspeaker: **2020-02-27** The task assignment, [**Task6**](task/task6), is posted (due date: March 08, 2020).           
-:loudspeaker::loudspeaker: **2020-02-16** The task assignment, [**Task5**](task/task5), is posted (due date: March 01, 2020).            
 
   
 ## Table of Contents
