@@ -1,7 +1,7 @@
 # Task7: Image Stitching & RANSAC
 
-**Announcement**: February 00, 2020  
-**Due date**: March 00, 2020 (Sunday) before 11:59 pm  
+**Announcement**: March 09, 2020  
+**Due date**: March 18, 2020 (Sunday) before 11:59 pm  
 
 The main goal of this task is to understand the fundamental of a feature extraction and matching method (Scale-invariant feature transform (SIFT)) and a Random sample consensus (RANSAC) method to estimate model parameters. You must study the relevant tutorials to solve the corresponding problems. Please answer all sub-questions in each problem. You should write your own code to solve these questions *if needed*. 
 
@@ -12,9 +12,7 @@ The main goal of this task is to understand the fundamental of a feature extract
 Please answer these questions **in detail**.
 
 **(a)** What is the Laplacian of Gaussian (LoG)? When do we use LoG?   
-**(b)** Is LoG separable?  
-**(c)** What is a difference of the Guassian (DoG)? When do we use and what is DoG advantageous compared to LoG?   
-
+**(b)** What is a difference of the Guassian (DoG)? When do we use and what is DoG advantageous compared to LoG?   
 
 ## Problem 2: Least Squares (20 points)
 **(a)** Explain the approach 1 and approach 2 for least squares line fitting in your words. Please refer the course slide and tutorials. 
@@ -39,7 +37,9 @@ Here is another measurement data (`prob2_data2.mat`). Please find m and b using 
 
 **(b)** Fit a fourth degree polynomials to the given data (`prob3_polynomial.mat`) using RANSAC 
 
-Note that you need to write your own code for implementing RANSAC similar to Problem 2.
+**(c)** Find a 3D plane equation from the given data(`prob3_plane.mat`) using RANSAC
+
+Note that you need to write your own code for implementing RANSAC like Problem 2.
 
 </br>
 
@@ -76,7 +76,7 @@ Your code needs to automatically compute the outlines (boundary) of each book an
 
 Hint: You can reuse the code that you are developing in Problem 4. Like `cover.jpg`, you need to prepare cover images and name them. Note this problem **cannot** be solved using Hough transform. 
 
-Hint: The book cover can be obtained from web. 
+Hint: You should download the book covers from web. 
 
 ## Problem 6: Image Stitching (30 points)
 

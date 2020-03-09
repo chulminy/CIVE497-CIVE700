@@ -8,12 +8,11 @@
 **TA:** Juan Park (j246park@uwaterloo.ca)     
 **Office Hours** Monday and Wednesday, 1:00PM to 2:00PM at E2-2313 (You can also email for an appointment)   
 
-Last updated: 2020-03-04     
+Last updated: 2020-03-09     
 
 ## Announcement  
-:loudspeaker::loudspeaker: **2020-03-04** [**Slides**](lecture/ransac) and [**tutorial**](tutorial/ransac) for Class 14 are posted: ransac         
-:loudspeaker::loudspeaker: **2020-03-02** [**Slides**](lecture/feature) and [**tutorial**](tutorial/feature) for Class 13 are updated: Feature         
-:loudspeaker::loudspeaker: **2020-02-27** The task assignment, [**Task6**](task/task6), is posted (due date: March 08, 2020).           
+:loudspeaker::loudspeaker: **2020-03-09** [**Slides**](lecture/ransac) and [**tutorial**](tutorial/ransac) for Class 14 are updated: ransac         
+:loudspeaker::loudspeaker: **2020-03-09** The task assignment, [**Task7**](task/task7), is posted (due date: March 18, 2020).           
 
   
 ## Table of Contents
@@ -103,7 +102,7 @@ There will be **10 tasks** and posted on either weekly or biweekly on this cours
 |Task4|[**Digital Image Processing & Camera Sensor and Digital Image**](task/task4) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |February 07, 2020|February 23, 2020|  
 |Task5|[**Homography**](task/task5) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |February 12, 2020|March 01, 2020|          
 |Task6|[**Image Filter & Edge Detection**](task/task6) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |February 27, 2020|March 08, 2020|    
-|Task7| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |March 00, 2020|March 00, 2020|
+|Task7|[**Image Stitching & RANSAC**](task/task7) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |March 09, 2020|March 18, 2020|
 |Task8| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |March 00, 2020|March 00, 2020|    
 
 ## Communication  
