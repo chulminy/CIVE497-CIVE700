@@ -8,10 +8,11 @@
 **TA:** Juan Park (j246park@uwaterloo.ca)     
 **Office Hours** Monday and Wednesday, 1:00PM to 2:00PM at E2-2313 (You can also email for an appointment)   
 
-Last updated: 2020-03-09     
+Last updated: 2020-03-11     
 
 ## Announcement  
-:loudspeaker::loudspeaker: **2020-03-09** [**Slides**](lecture/ransac) and [**tutorial**](tutorial/ransac) for Class 14 are updated: ransac         
+:loudspeaker::loudspeaker: **2020-03-11** [**Slides**](lecture/camera_model) for Class 15 are posted: Camera Model         
+:loudspeaker::loudspeaker: **2020-03-11** [**Slides**](lecture/multiview_geometry) and [**tutorial**](tutorial/multiview_geometry) for Class 16 are updated: Multiview Geometry           
 :loudspeaker::loudspeaker: **2020-03-09** The task assignment, [**Task7**](task/task7), is posted (due date: March 18, 2020).           
 
   
@@ -75,9 +76,9 @@ Slides and tutorials are will be updated soon.
 |Class 11|**Edge Detection**|[**link**](lecture/edge_detection)|[**link**](tutorial/edge_detection)|
 |Class 12|**Feature 1**|[**link**](lecture/feature)|[**link**](tutorial/feature)|  
 |Class 13|**Feature 2**|[**link**](lecture/feature)|[**link**](tutorial/feature)|
-|Class 14|**RANSAC**|[**link**](lecture/ransac)|[**link**](lecture/edge_detection)|[**link**](lecture/ransac)|[**link**](tutorial/edge_detection)|
-|Class 15|**Camera Model**|&nbsp;|&nbsp;|
-|Class 16|**Multiview Geometry**|&nbsp;|&nbsp;|
+|Class 14|**RANSAC**|[**link**](lecture/ransac)||[**link**](tutorial/ransac)|
+|Class 15|**Camera Model**|[**link**](lecture/camera_model)|[**link**](tutorial/camera_model)|
+|Class 16|**Multiview Geometry**|[**link**](lecture/multiview_geometry)|[**link**](tutorial/multiview_geometry)|
 |Class 17|**Structure-from-motion (SfM)**|&nbsp;|&nbsp;|
 |Class 18|**Review**|&nbsp;|&nbsp;|
 |Class 19|**Microsoft Azure Tutorial**|&nbsp;|&nbsp;|

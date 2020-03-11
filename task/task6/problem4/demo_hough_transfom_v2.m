@@ -16,7 +16,10 @@ for ii=1:nImg
     img = imread(fullfile(dirImg, imgList(ii).name));
     corner = FindCorner(img); % find ordered four corners
    
+    
+    
     H = ComputeH(corner, bookletImgSize); % compute a homography
+        
     
     [imgTran, RA] = imwarp(img, projective2d(inv(H)));
     bookletImg = imcrop(imgTran, [-RA.XWorldLimits(1), -RA.YWorldLimits(1) bookletImgSize]);

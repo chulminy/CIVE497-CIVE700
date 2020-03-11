@@ -45,7 +45,7 @@ Note that you need to write your own code for implementing RANSAC like Problem 2
 
 :star::star: **You need to install** [**vl_feat**](https://www.vlfeat.org/) **to solve the following problems 4, 5, and 6 for MATLAB users**  
 
-:star::star: **For Python users, please install OpenCV to solve the following problems 4, 5, and 6 for MATLAB users**  
+:star::star: **For Python users, please install OpenCV to solve the following problems 4, 5, and 6**  
 
 
 ## Problem 4: Improved 3D Planar Measurement Tool (30 points)
