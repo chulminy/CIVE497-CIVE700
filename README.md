@@ -17,7 +17,19 @@ The instructor will make a contingency plan to mitigate an impact of COVID-2019 
 |:---------|:----|
 |**03/16/20 09:32**|A message from Engineering Dean indicates that *"March 14-22 is to be treated as a “scheduled pause” which means there are no academic activities and no assignments due during that week. The purpose of the pause is to allow the instructors to prepare and set up their contingency plans."* **The due date of the task assignment,** [**Task 7**](https://github.com/chulminy/CIVE497-CIVE700/tree/master/task/task7), **is delayed to March 23, 2020.**|
 |**03/16/20 10:00**|CEE meeting to discuss contingency plans for Winter 2020
+|**03/16/20 03:00**|Summary of the CEE meeting (only list the items applicable to this class) <ul><li>The last days of lectures is still April 3. </li><li>The university has made it possible for students who are demonstrating symptoms consistent with COVID-19 to self-declare that they are unwell. No Verification of Illness form is required for flu symptoms (:loudspeaker: **Instructor's note**: If you are the case, please send the instructor an email to provide accommodation). </li><li>All on-campus computer rooms are now closed.  Faculty engterm remote desktop access will likely be limited due to high demand (:loudspeaker: **Instructor's note**: Students may not access MATLAB using a remote desktop because there is a concurrent license limit).<li> Online office hours (:loudspeaker: **Instructor's note**: We will use the issue board in this website or Skype chat for online communication).</li></ul>
 |<img width=450/>||
+
+<!---
+## New Course Outline
+|Class|Date Posted|Topics|Slide|Tutorial|
+|:----|:-----|:----|:-----|:-----|
+|Class 20|TBD|**Introduction of Machine Learning**|&nbsp;|&nbsp;|&nbsp;|
+|Class 21|TBD|**Neural Network I**|&nbsp;|&nbsp;|&nbsp;|
+|Class 22|TBD|**Neural Network II**|&nbsp;|&nbsp;|&nbsp;|
+|Class 23|TBD|**Azure Machine Learning: Designer**|&nbsp;|&nbsp;|&nbsp;|
+|Class 24|TBD|**Azure Machine Learning: Python SDK**|&nbsp;|&nbsp;|&nbsp;|
+--->
 
 ## Table of Contents
 - [Course Description](#course-description)
