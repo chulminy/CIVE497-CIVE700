@@ -17,7 +17,7 @@ The instructor will make a contingency plan to mitigate an impact of COVID-2019 
 |:---------|:----|
 |**03/16/20 09:32**|A message from Engineering Dean indicates that *"March 14-22 is to be treated as a “scheduled pause” which means there are no academic activities and no assignments due during that week. The purpose of the pause is to allow the instructors to prepare and set up their contingency plans."* **The due date of the task assignment,** [**Task 7**](https://github.com/chulminy/CIVE497-CIVE700/tree/master/task/task7), **is delayed to March 23, 2020.**|
 |**03/16/20 10:00**|CEE meeting to discuss contingency plans for Winter 2020
-|<img width=430/>||
+|<img width=450/>||
 
 ## Table of Contents
 - [Course Description](#course-description)
