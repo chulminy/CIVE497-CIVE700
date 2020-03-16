@@ -1,21 +1,24 @@
 # CIVE497/700: Smart Structure Technology (Winter, 2020)
 
-![](intro_img.png)
+![](intro_corona.png)
 
 **Instructor:** Chul Min Yeum (E2-2313)  
-**Class:** Monday and Wednesday, 11:30AM to 12:50PM at E2-3356     
+**Class:** Monday and Wednesday, 11:30AM to 12:50PM at E2-3356      
 **Email:** cmyeum@uwaterloo.ca  
 **TA:** Juan Park (j246park@uwaterloo.ca)     
-**Office Hours** Monday and Wednesday, 1:00PM to 2:00PM at E2-2313 (You can also email for an appointment)   
+**Office Hours** Please send me an email or send me a Skype message anytime. We can call with Skype (with an appointment). An instructor's Skype id: chulminy@hotmail.com.    
 
-Last updated: 2020-03-11     
+Last updated: 2020-03-16     
 
-## Announcement  
-:loudspeaker::loudspeaker: **2020-03-11** [**Slides**](lecture/camera_model) for Class 15 are posted: Camera Model         
-:loudspeaker::loudspeaker: **2020-03-11** [**Slides**](lecture/multiview_geometry) and [**tutorial**](tutorial/multiview_geometry) for Class 16 are updated: Multiview Geometry           
-:loudspeaker::loudspeaker: **2020-03-09** The task assignment, [**Task7**](task/task7), is posted (due date: March 18, 2020).           
+## Announcement 
+The instructor will make a contingency plan to mitigate an impact of COVID-2019 on the rest of the lectures. The plan will be posted by Wed March 18, including new course outline, task assignments, or a plan for online lectures. Please keep watching this course website and follow to the instruction. We will do online discussion through this website, email, or Skype. If possible, please send me a message to Skype so that we are connected online. 
 
-  
+|Date and time|Announcement|
+|:---------|:----|
+|**03/16/20 09:32**|A message from Engineering Dean indicates that *"March 14-22 is to be treated as a “scheduled pause” which means there are no academic activities and no assignments due during that week. The purpose of the pause is to allow the instructors to prepare and set up their contingency plans."* **The due date of the task assignment,** [**Task 7**](https://github.com/chulminy/CIVE497-CIVE700/tree/master/task/task7), **is delayed to March 23, 2020.**|
+|**03/16/20 10:00**|CEE meeting to discuss contingency plans for Winter 2020
+|<img width=430/>||
+
 ## Table of Contents
 - [Course Description](#course-description)
 - [Intended Learning Outcomes](#intended-learning-outcomes)
@@ -77,8 +80,14 @@ Slides and tutorials are will be updated soon.
 |Class 12|**Feature 1**|[**link**](lecture/feature)|[**link**](tutorial/feature)|  
 |Class 13|**Feature 2**|[**link**](lecture/feature)|[**link**](tutorial/feature)|
 |Class 14|**RANSAC**|[**link**](lecture/ransac)||[**link**](tutorial/ransac)|
-|Class 15|**Camera Model**|[**link**](lecture/camera_model)|[**link**](tutorial/camera_model)|
+|Class 15|**Camera Model**|[**link**](lecture/camera_model)|&nbsp;|
 |Class 16|**Multiview Geometry**|[**link**](lecture/multiview_geometry)|[**link**](tutorial/multiview_geometry)|
+
+ 
+**Updated course outline will be posted !!!**  
+
+
+<!---
 |Class 17|**Structure-from-motion (SfM)**|&nbsp;|&nbsp;|
 |Class 18|**Review**|&nbsp;|&nbsp;|
 |Class 19|**Microsoft Azure Tutorial**|&nbsp;|&nbsp;|
@@ -87,6 +96,8 @@ Slides and tutorials are will be updated soon.
 |Class 22|**Neural Network**|&nbsp;|&nbsp;|
 |Class 23|**Convolutional Neural Network**|&nbsp;|&nbsp;|
 |Class 24|**Presentation**|&nbsp;|&nbsp;|
+--->
+
 
 ## Tasks
 There will be **10 tasks** and posted on either weekly or biweekly on this course website. **The instructor encourage students to work in groups through collaborative learning, but to submit their assignments individually.** The task will have programming components or photography components, where students will use their own camera to capture and process their own images and discuss the results. Students are supposed to complete all tasks and turn their works in by the due date. After the due data, there is 25% deduction in the final mark and students must submit their works within a week after the due data. After then, the submission of the works will not be accepted unless accompanied by a valid excuse and some additional points might be deducted depending upon the circumstances.  
@@ -103,7 +114,7 @@ There will be **10 tasks** and posted on either weekly or biweekly on this cours
 |Task4|[**Digital Image Processing & Camera Sensor and Digital Image**](task/task4) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |February 07, 2020|February 23, 2020|  
 |Task5|[**Homography**](task/task5) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |February 12, 2020|March 01, 2020|          
 |Task6|[**Image Filter & Edge Detection**](task/task6) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |February 27, 2020|March 08, 2020|    
-|Task7|[**Image Stitching & RANSAC**](task/task7) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |March 09, 2020|March 18, 2020|
+|Task7|[**Image Stitching & RANSAC**](task/task7) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |March 09, 2020|March 23, 2020|
 |Task8| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |March 00, 2020|March 00, 2020|    
 
 ## Communication  
