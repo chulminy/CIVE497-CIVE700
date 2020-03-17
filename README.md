@@ -8,7 +8,7 @@
 **TA:** Juan Park (j246park@uwaterloo.ca)     
 **Office Hours** Please send me an email or send me a Skype message anytime. We can call with Skype (with an appointment). An instructor's Skype id: chulminy@hotmail.com.    
 
-Last updated: 2020-03-16     
+Last updated: 2020-03-17     
 
 ## Announcement 
 The instructor will make a contingency plan to mitigate an impact of COVID-2019 on the rest of the lectures. The plan will be posted by Wed March 18, including new course outline, task assignments, or a plan for online lectures. Please keep watching this course website and follow to the instruction. We will do online discussion through this website, email, or Skype. If possible, please send me a message to Skype so that we are connected online. 
@@ -18,9 +18,12 @@ The instructor will make a contingency plan to mitigate an impact of COVID-2019 
 |**03/16/20 09:32**|A message from Engineering Dean indicates that *"March 14-22 is to be treated as a “scheduled pause” which means there are no academic activities and no assignments due during that week. The purpose of the pause is to allow the instructors to prepare and set up their contingency plans."* **The due date of the task assignment,** [**Task 7**](https://github.com/chulminy/CIVE497-CIVE700/tree/master/task/task7), **is delayed to March 23, 2020.**|
 |**03/16/20 10:00**|CEE meeting to discuss contingency plans for Winter 2020
 |**03/16/20 03:00**|Summary of the CEE meeting (only list the items applicable to this class) <ul><li>The last days of lectures is still April 3. </li><li>The university has made it possible for students who are demonstrating symptoms consistent with COVID-19 to self-declare that they are unwell. No Verification of Illness form is required for flu symptoms (:loudspeaker: **Instructor's note**: If you are the case, please send the instructor an email to provide accommodation). </li><li>All on-campus computer rooms are now closed.  Faculty engterm remote desktop access will likely be limited due to high demand (:loudspeaker: **Instructor's note**: Students may not access MATLAB using a remote desktop because there is a concurrent license limit).<li> Online office hours (:loudspeaker: **Instructor's note**: We will use the issue board in this website or Skype chat for online communication).</li></ul>
+|**03/17/20 10:34**| A [**new course outline**](#new-course-outline) is posted. Unfortunately, lectures of multiview geometry and structure from motion have been dropped. These are very interesting topics but if these are covered, you cannot learn machine learning and do related assignments. In the remaining lectures, students will learn (1) machine learning overview, (2) neural network, and (3) machine learning implementation in Azure ML. The instructor will post video lectures in this website. Students can post questions on the issue board.  
+|**03/17/20 10:53**| A [**new assignment plan**](#new-assignment-plan) is posted. Besides Task 7 that students are currently working on, students need to complete only one task assignment related to machine learning, Task 8. It will be a bit challenging than the previous tasks. Thus, the deadline is set to the last week of April (April, 25). The task 8 will be posted no later than the end of this month. 
+|**03/17/20 11:00**| For **graduate students**, the evaluation for your project is based on the progress made up to April 25. The students who continue to discuss their research projects with the instructor will get a good mark. The students who have not shown a progress on their research project should spend more time on their research project. 
 |<img width=450/>||
 
-<!---
+
 ## New Course Outline
 |Class|Date Posted|Topics|Slide|Tutorial|
 |:----|:-----|:----|:-----|:-----|
@@ -29,7 +32,14 @@ The instructor will make a contingency plan to mitigate an impact of COVID-2019 
 |Class 22|TBD|**Neural Network II**|&nbsp;|&nbsp;|&nbsp;|
 |Class 23|TBD|**Azure Machine Learning: Designer**|&nbsp;|&nbsp;|&nbsp;|
 |Class 24|TBD|**Azure Machine Learning: Python SDK**|&nbsp;|&nbsp;|&nbsp;|
---->
+
+
+## New Assignment Plan
+|Task|Topics|Announcement|Due Date|
+|:----|:-----|:----|:-----|
+|Task7|[**Image Stitching & RANSAC**](task/task7) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |March 09, 2020|March 23, 2020|
+|Task8|[**Machine Learning**](task/task8) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</br> |TBD|April 25, 2020|    
+
 
 ## Table of Contents
 - [Course Description](#course-description)
