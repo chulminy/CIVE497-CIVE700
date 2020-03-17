@@ -21,7 +21,7 @@ The instructor will make a contingency plan to mitigate an impact of COVID-2019 
 |**03/17/20 10:34**| A [**new course outline**](#new-course-outline) is posted. Unfortunately, lectures of multiview geometry and structure from motion have been dropped. These are very interesting topics but if these are covered, you cannot learn machine learning and do related assignments. In the remaining lectures, students will learn (1) machine learning overview, (2) neural network, and (3) machine learning implementation in Azure ML. The instructor will post video lectures in this website. Students can post questions on the issue board.  
 |**03/17/20 10:53**| A [**new assignment plan**](#new-assignment-plan) is posted. Besides Task 7 that students are currently working on, students need to complete only one task assignment related to machine learning, Task 8. It will be a bit challenging than the previous tasks. Thus, the deadline is set to the last week of April (April, 25). The task 8 will be posted no later than the end of this month. 
 |**03/17/20 11:00**| For **graduate students**, the evaluation for your project is based on the progress made up to April 25. The students who continue to discuss their research projects with the instructor will get a good mark. The students who have not shown a progress on their research project should spend more time on their research project. 
-|<img width=450/>||
+|<img width=500/>||
 
 
 ## New Course Outline
@@ -38,7 +38,7 @@ The instructor will make a contingency plan to mitigate an impact of COVID-2019 
 |Task|Topics|Announcement|Due Date|
 |:----|:-----|:----|:-----|
 |Task7|[**Image Stitching & RANSAC**](task/task7) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |March 09, 2020|March 23, 2020|
-|Task8|[**Machine Learning**](task/task8) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</br> |TBD|April 25, 2020|    
+|Task8|**Machine Learning** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</br> |TBD|April 25, 2020|    
 
 
 ## Table of Contents
