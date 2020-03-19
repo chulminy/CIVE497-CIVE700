@@ -21,6 +21,7 @@ The instructor will make a contingency plan to mitigate an impact of COVID-2019 
 |**03/17/20 10:34**| A [**new course outline**](#new-course-outline) is posted. Unfortunately, lectures of multiview geometry and structure from motion have been dropped. These are very interesting topics but if these are covered, you cannot learn machine learning and do related assignments. In the remaining lectures, students will learn (1) machine learning overview, (2) neural network, and (3) machine learning implementation in Azure ML. The instructor will post video lectures in this website. Students can post questions on the issue board.  
 |**03/17/20 10:53**| A [**new assignment plan**](#new-assignment-plan) is posted. Besides Task 7 that students are currently working on, students need to complete only one task assignment related to machine learning, Task 8. It will be a bit challenging than the previous tasks. Thus, the deadline is set to the last week of April (April, 25). The task 8 will be posted no later than the end of this month. 
 |**03/17/20 11:00**| For **graduate students**, the evaluation for your project is based on the progress made up to April 25. The students who continue to discuss their research projects with the instructor will get a good mark. The students who have not shown a progress on their research project should spend more time on their research project. 
+|**03/19/20 11:00**| Juan finished grading your reports of Task 4, Task 5, and Task 6. Marked reports will be distributed today. The best reports for each task are posted in [**Tasks**](#tasks). If you have a question on your mark, please review the best solutions first and send an email to Juan.   
 |<img width=650/>||
 
 
@@ -133,9 +134,9 @@ There will be **10 tasks** and posted on either weekly or biweekly on this cours
 |Task1|[**Programming Practice**](task/task1) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |January 06, 2020|January 17, 2020|
 |Task2|[**Signal Processing I**](task/task2)  </br> [Best report (Saeed Ardakani)](task/task2/solution/Rept_saeed_PH_20793159.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |January 16, 2020|January 29, 2020|   
 |Task3|[**Signal Processing II**](task/task3)  </br> [Best report (Charlotte Mei)](task/task3/solution/Rept_charl_BA_20620597.pdf), [Best report (Aleksandar Jakovljevic)](task/task3/solution/Rept_aleksj_BA_20613063.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |January 27, 2020|February 16, 2020|   
-|Task4|[**Digital Image Processing & Camera Sensor and Digital Image**](task/task4) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |February 07, 2020|February 23, 2020|  
-|Task5|[**Homography**](task/task5) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |February 12, 2020|March 01, 2020|          
-|Task6|[**Image Filter & Edge Detection**](task/task6) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |February 27, 2020|March 08, 2020|    
+|Task4|[**Digital Image Processing & Camera Sensor and Digital Image**](task/task4)  </br> [Best report (Hana Bregman)](task/task4/solution/Rept_Hanab_BA_20617672.pdf), [Best report (Saeed Ardakani)](task/task4/solution/Rept_saeed_PH_20793159.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |February 07, 2020|February 23, 2020|  
+|Task5|[**Homography**](task/task5)  </br> [Best report (Armina Soleymani )](task/task5/solution/Rept_armin_PH_20850595.pdf), [Best report (Saeed Ardakani)](task/task5/solution/Rept_saeed_PH_20793159.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |February 12, 2020|March 01, 2020|          
+|Task6|[**Image Filter & Edge Detection**](task/task6)   </br> [Best report (Jasmine Zou)](task/task6/solution/Rept_pinyuz_BA_20602200.pdf), [(Aleksandar Jakovljevic)](task/task6/solution/Rept_aleksj_BA_20613063.pdf), [(Saeed Ardakani)](task/task6/solution/Rept_saeed_PH_20793159.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |February 27, 2020|March 08, 2020|    
 |Task7|[**Image Stitching & RANSAC**](task/task7) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |March 09, 2020|March 23, 2020|
 |Task8| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |March 00, 2020|March 00, 2020|    
 
