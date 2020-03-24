@@ -8,7 +8,7 @@
 **TA:** Juan Park (j246park@uwaterloo.ca)     
 **Office Hours** Please send me an email or send me a Skype message anytime. We can call with Skype (with an appointment). An instructor's Skype id: chulminy@hotmail.com.    
 
-Last updated: 2020-03-17     
+Last updated: 2020-03-24    
 
 ## Announcement 
 The instructor will make a contingency plan to mitigate an impact of COVID-2019 on the rest of the lectures. The plan will be posted by Wed March 18, including new course outline, task assignments, or a plan for online lectures. Please keep watching this course website and follow to the instruction. We will do online discussion through this website, email, or Skype. If possible, please send me a message to Skype so that we are connected online. 
@@ -22,23 +22,26 @@ The instructor will make a contingency plan to mitigate an impact of COVID-2019 
 |**03/17/20 10:53**| A [**new assignment plan**](#new-assignment-plan) is posted. Besides Task 7 that students are currently working on, students need to complete only one task assignment related to machine learning, Task 8. It will be a bit challenging than the previous tasks. Thus, the deadline is set to the last week of April (April, 25). The task 8 will be posted no later than the end of this month. 
 |**03/17/20 11:00**| For **graduate students**, the evaluation for your project is based on the progress made up to April 25. The students who continue to discuss their research projects with the instructor will get a good mark. The students who have not shown a progress on their research project should spend more time on their research project. 
 |**03/19/20 11:00**| Juan finished grading your reports of Task 4, Task 5, and Task 6. Marked reports will be distributed today. The best reports for each task are posted in [**Tasks**](#tasks). If you have a question on your mark, please review the best solutions first and send an email to Juan.   
+|**03/23/20 11:00**| I will give you two extra data to finish your [**Task 7**](task/task7). There will not be more delay after then. 
+|**03/23/20 11:00**| I just posted my first lecture video. It took a whole day to record and edit this video. Hopefully, I will do better in the next video. Sorry for the delay. 
 |<img width=650/>||
 
 
 ## New Course Outline
 |Class|Date Posted|Topics|Slide|Tutorial|
 |:----|:-----|:----|:-----|:-----|
-|Class 20|TBD|**Introduction of Machine Learning**|&nbsp;|&nbsp;|&nbsp;|
-|Class 21|TBD|**Neural Network I**|&nbsp;|&nbsp;|&nbsp;|
-|Class 22|TBD|**Neural Network II**|&nbsp;|&nbsp;|&nbsp;|
-|Class 23|TBD|**Azure Machine Learning: Designer**|&nbsp;|&nbsp;|&nbsp;|
-|Class 24|TBD|**Azure Machine Learning: Python SDK**|&nbsp;|&nbsp;|&nbsp;|
+|Class 20|March 24|[<img src="http://img.youtube.com/vi/glZFUTLDJAc/0.jpg" height="200">](https://www.youtube.com/watch?v=glZFUTLDJAc)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|[**link**](lecture/ml_intro)|&nbsp;|&nbsp;|
+|Class 21|TBD|**Gradient Descent**|&nbsp;|&nbsp;|&nbsp;|
+|Class 22|TBD|**Linear Regression**|&nbsp;|&nbsp;|&nbsp;|
+|Class 23|TBD|**Neural NetworkI**|&nbsp;|&nbsp;|&nbsp;|
+|Class 24|TBD|**Azure Machine Learning: Designer**|&nbsp;|&nbsp;|&nbsp;|
+
 
 
 ## New Assignment Plan
 |Task|Topics|Announcement|Due Date|
 |:----|:-----|:----|:-----|
-|Task7|[**Image Stitching & RANSAC**](task/task7) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |March 09, 2020|March 23, 2020|
+|Task7|[**Image Stitching & RANSAC**](task/task7) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |March 09, 2020|March 25, 2020|
 |Task8|**Machine Learning** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</br> |TBD|April 25, 2020|    
 
 

@@ -3,6 +3,13 @@
 **Announcement**: March 00, 2019   
 **Due date**: March 00, 2019 (Wednesday) before 11:59 pm    
 
+
+* Generate your own data !!! from existing models Add noises (such as gaussian noise) 
+* 
+
+
+
+
 The main goal of this task is to understand the fundamental of structure from motion through developing your own measurement tool. A draft of a code (`demo_code_v8_base.m`) is provided and you need to write your own codes in `YOUR CODE HERE` to complete your tool. 11 Problems and relevant guidelines are included in the code.   
 
 ## Submission of Your Work

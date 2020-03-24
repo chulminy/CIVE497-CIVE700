@@ -25,6 +25,7 @@ Given a conic
 
 
 ## Problem 3: Homogeneous Coordinate (Lines) (10 points)
+![](https://latex.codecogs.com/gif.latex?%5C%5C%20l_1%3A%20y_1%20%3D%200.75%20%5Ccdot%20x_1%20&plus;%203%20%5C%5C%20l_2%3A%20y_2%20%3D%200.4%20%5Ccdot%20x_2%20-%205%20%5C%5C%20l_3%3A%20y_3%20%3D%20-1.25%20%5Ccdot%20x_3%20&plus;%205%20%5C%5C%20l_4%3A%20y_4%20%3D%20-x_4%20-%208)
 
 ![](https://latex.codecogs.com/gif.latex?%5C%5C%20l_1%3A%20y_1%20%3D%201.25x_1%20&plus;%203%20%5C%5C%20l_2%3A%20y_2%20%3D%200.4x_2%20-%205%5C%5C%20l_3%3A%20y_3%20%3D%20-2.25x_3%20&plus;%205%20%5C%5C%20l_4%3A%20y_4%20%3D%20-x_4%20-%208)
 
