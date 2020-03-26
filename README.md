@@ -24,13 +24,14 @@ The instructor will make a contingency plan to mitigate an impact of COVID-2019 
 |**03/19/20 11:00**| Juan finished grading your reports of Task 4, Task 5, and Task 6. Marked reports will be distributed today. The best reports for each task are posted in [**Tasks**](#tasks). If you have a question on your mark, please review the best solutions first and send an email to Juan.   
 |**03/23/20 11:00**| I will give you two extra data to finish your [**Task 7**](task/task7). There will not be more delay after then. 
 |**03/23/20 11:00**| I just posted my first lecture video. It took a whole day to record and edit this video. Hopefully, I will do better in the next video. Sorry for the delay. 
+|**03/26/20 02:30**| The second lecture video is posted. It is the last lecture for the Machine learning introduction. The video of Class 21 will be ready tomorrow so please keep watching the course website.
 |<img width=650/>||
 
 
 ## New Course Outline
-|Class|Date Posted|Topics|Slide|Tutorial|
+|Class|Date|Topics|Slide|Tutorial|
 |:----|:-----|:----|:-----|:-----|
-|Class 20|March 24|[<img src="http://img.youtube.com/vi/glZFUTLDJAc/0.jpg" height="200">](https://www.youtube.com/watch?v=glZFUTLDJAc)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|[**link**](lecture/ml_intro)|&nbsp;|&nbsp;|
+|Class 20|March 24|[<img src="http://img.youtube.com/vi/glZFUTLDJAc/0.jpg" height="200">](https://www.youtube.com/watch?v=glZFUTLDJAc)  [<img src="http://img.youtube.com/vi/DWqYTA2wouw/0.jpg" height="200">](https://www.youtube.com/watch?v=DWqYTA2wouw)|[**link**](lecture/ml_intro), [**link**](lecture/ml_pipe)|&nbsp;|&nbsp;|
 |Class 21|TBD|**Gradient Descent**|&nbsp;|&nbsp;|&nbsp;|
 |Class 22|TBD|**Linear Regression**|&nbsp;|&nbsp;|&nbsp;|
 |Class 23|TBD|**Neural NetworkI**|&nbsp;|&nbsp;|&nbsp;|
