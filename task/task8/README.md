@@ -1,16 +1,30 @@
-# Task8: Development of a 3D measurement tool using structure from motion
+# Task8: Machine Learning Using Azure ML 
 
-**Announcement**: March 00, 2019   
-**Due date**: March 00, 2019 (Wednesday) before 11:59 pm    
+**Announcement**: April 02, 2020    
+**Due date**: April 25, 2020 (Wednesday) before 11:59 pm      
+
+**NO MORE DELAY: Please submit your report earlier**   
+
+In this task, I am giving you two problems that can be easily solved by only tuning the parameters (except Problem 1(a)). However, to better understanding the neural network, I recommend reviewing all codes in the folder and making an effort to learn how the codes work.  
+
+The main goal of this task is to train your own machine learning models 
 
 
-* Generate your own data !!! from existing models Add noises (such as gaussian noise) 
-* 
+understand the fundamental of structure from motion through developing your own measurement tool. A draft of a code (`demo_code_v8_base.m`) is provided and you need to write your own codes in `YOUR CODE HERE` to complete your tool. 11 Problems and relevant guidelines are included in the code.   
+    
+## Problem 1 (60 points)
 
+Yo
+1. Accuracy plot 
+2. 
+3. Repeat this process using 
 
-
-
-The main goal of this task is to understand the fundamental of structure from motion through developing your own measurement tool. A draft of a code (`demo_code_v8_base.m`) is provided and you need to write your own codes in `YOUR CODE HERE` to complete your tool. 11 Problems and relevant guidelines are included in the code.   
+## Problem 2 (60 points) 
+You are going to make your own data set and training the models. If you see the I 
+NNERUAL networks. 
+I will give you extra marks if you generate creative dataset and 
+For example. 
+You can sovle regression problems. 
 
 ## Submission of Your Work
 * You should turn in a report and codes to uw.task@gmail.com. When you send your email, please cc your email for future reference.  
