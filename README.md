@@ -8,7 +8,7 @@
 **TA:** Juan Park (j246park@uwaterloo.ca)     
 **Office Hours** Please send me an email or send me a Skype message anytime. We can call with Skype (with an appointment). An instructor's Skype id: chulminy@hotmail.com.    
 
-Last updated: 2020-03-24    
+Last updated: 2020-03-31    
 
 ## Announcement 
 The instructor will make a contingency plan to mitigate an impact of COVID-2019 on the rest of the lectures. The plan will be posted by Wed March 18, including new course outline, task assignments, or a plan for online lectures. Please keep watching this course website and follow to the instruction. We will do online discussion through this website, email, or Skype. If possible, please send me a message to Skype so that we are connected online. 
@@ -26,7 +26,8 @@ The instructor will make a contingency plan to mitigate an impact of COVID-2019 
 |**03/23/20 11:00**| I just posted my first lecture video. It took a whole day to record and edit this video. Hopefully, I will do better in the next video. Sorry for the delay. 
 |**03/26/20 02:30**| The second lecture video is posted. It is the last lecture for the Machine learning introduction. The video of Class 21 will be ready tomorrow so please keep watching the course website.
 |**03/27/20 02:15**| The video of Class 21 is posted. 
-|**03/30/20 02:15**| The video of Class 22 is posted. 
+|**03/30/20 02:15**| The video of Class 22 is posted.
+|**03/31/20 03:15**| The video of Class 23 (Neural Network) is posted (Part 1).  
 |<img width=650/>||
 
 
@@ -36,11 +37,10 @@ The instructor will make a contingency plan to mitigate an impact of COVID-2019 
 |Class 20|March 24|[<img src="http://img.youtube.com/vi/glZFUTLDJAc/0.jpg" height="200">](https://www.youtube.com/watch?v=glZFUTLDJAc)  [<img src="http://img.youtube.com/vi/DWqYTA2wouw/0.jpg" height="200">](https://www.youtube.com/watch?v=DWqYTA2wouw)|[**link**](lecture/ml_intro), [**link**](lecture/ml_pipe)|&nbsp;|&nbsp;|
 |Class 21|March 27|[<img src="http://img.youtube.com/vi/OhsioucIQvM/0.jpg" height="200">](https://youtu.be/OhsioucIQvM) |[**link**](lecture/ml_gd)|[**link**](lecture/ml_gd)|&nbsp;|
 |Class 22|March 30|[<img src="http://img.youtube.com/vi/fcbOvN-i_Q8/0.jpg" height="200">](https://www.youtube.com/watch?v=fcbOvN-i_Q8)| [**link**](lecture/ml_lg)|&nbsp;|&nbsp;|
-|Class 23|TBD|**Neural Network**|&nbsp;|&nbsp;|&nbsp;|
+|Class 23|March 31|[<img src="http://img.youtube.com/vi/INcajETfSLc/0.jpg" height="200">](https://www.youtube.com/watch?v=INcajETfSLc)|[**link**](lecture/ml_nn)|[**link**](tutorial/neural_network)|
 |Class 24|TBD|**Azure Machine Learning: Designer**|&nbsp;|&nbsp;|&nbsp;|
 
 
-https://youtu.be/fcbOvN-i_Q8
 ## New Assignment Plan
 |Task|Topics|Announcement|Due Date|
 |:----|:-----|:----|:-----|
