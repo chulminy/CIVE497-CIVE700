@@ -13,6 +13,7 @@ The main goal of this task is to understand the fundamental of neural network th
 **(b)** Please run all demos in the [**tutorial**](https://github.com/chulminy/CIVE497-CIVE700/tree/master/tutorial/neural_network/neural_network_code). I recommend that you configure parameters to improve the results. Please watch my review video.  
 
 [![](video.png)](https://www.youtube.com/watch?v=_T4svgLaaNw)
+[**video download**](https://www.dropbox.com/s/ge762fye621hd2l/2020-04-01_22-28-54.mp4?dl=0)
 
 (Sorry, I used a wrong microphone so the audio quality is not good).
 

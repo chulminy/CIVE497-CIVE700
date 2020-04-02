@@ -27,7 +27,9 @@ The instructor will make a contingency plan to mitigate an impact of COVID-2019 
 |**03/26/20 02:30**| The second lecture video is posted. It is the last lecture for the Machine learning introduction. The video of Class 21 will be ready tomorrow so please keep watching the course website.
 |**03/27/20 02:15**| The video of Class 21 is posted. 
 |**03/30/20 02:15**| The video of Class 22 is posted.
-|**03/31/20 03:15**| The video of Class 23 (Neural Network) is posted (Part 1).  
+|**03/31/20 03:15**| The video of Class 23 (Neural Network) is posted (Part 1).
+|**04/01/20 23:15**| **Task 8** is posted. The original plan was to do the assignment using Azure ML. However, when I prepare the lecture and assignment, the functions in Azure ML are  very limited and hardly configured unless you write a python script. At this point, learning Python for Task 8 is not doable. Instead, Task 8 is focusing on understanding the neural network using Matlab. I provide simple neural network scripts and several demos. You can review those codes and build your own models in Task 8. It will be fun. As planed, I will upload a lecture for Azure ML but it will be short. Juan is preparing a short lecture about how to python SDK in Azure ML. The second lecture of neural network will be posted tomorrow.  
+|**04/01/20 23:15**| The farewell meeting is scheduled this Friday at 3:00pm. I sent an meeting invitation. If you haven't received the email, please use the following info: [Meeting link](https://uwaterloo.webex.com/uwaterloo/j.php?MTID=m82ff6fd13ba450b430053824f721911c), Password: D9k83na4ZaK
 |<img width=650/>||
 
 
@@ -38,14 +40,14 @@ The instructor will make a contingency plan to mitigate an impact of COVID-2019 
 |Class 21|March 27|[<img src="http://img.youtube.com/vi/OhsioucIQvM/0.jpg" height="200">](https://youtu.be/OhsioucIQvM) |[**link**](lecture/ml_gd)|[**link**](lecture/ml_gd)|&nbsp;|
 |Class 22|March 30|[<img src="http://img.youtube.com/vi/fcbOvN-i_Q8/0.jpg" height="200">](https://www.youtube.com/watch?v=fcbOvN-i_Q8)| [**link**](lecture/ml_lg)|&nbsp;|&nbsp;|
 |Class 23|March 31|[<img src="http://img.youtube.com/vi/INcajETfSLc/0.jpg" height="200">](https://www.youtube.com/watch?v=INcajETfSLc)|[**link**](lecture/ml_nn)|[**link**](tutorial/neural_network)|
-|Class 24|TBD|**Azure Machine Learning: Designer**|&nbsp;|&nbsp;|&nbsp;|
+|Class 24|TBD|**(Short lecture) Azure Machine Learning: Python SDK**|&nbsp;|&nbsp;|&nbsp;|
 
 
 ## New Assignment Plan
 |Task|Topics|Announcement|Due Date|
 |:----|:-----|:----|:-----|
 |Task7|[**Image Stitching & RANSAC**](task/task7) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |March 09, 2020|March 25, 2020|
-|Task8|**Machine Learning** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</br> |TBD|April 25, 2020|    
+|Task8|[**Neural Network**](task/task8) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</br> |April 02, 2020|April 25, 2020|    
 
 
 ## Table of Contents
