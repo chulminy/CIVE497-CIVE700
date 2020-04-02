@@ -1,21 +1,20 @@
-function [net, tr] = nn_train_net(net, x, t)
+function [net, loss] = nn_train_net(net, x, t)
 
 nData = size(x,2);
 
-entropy = zeros(nData,1);
-is_correct = zeros(nData,1);
+loss = zeros(nData,1);
 for jj=1:nData
     net.input.data = x(:,jj);
     net.output.data = t(:,jj);
-    [net, entropy(jj), is_correct(jj)] = forward_prop(net);
+    
+    [net, loss(jj)] = forward_prop(net);
     net = backward_prop(net);
 end
-tr.entropy = mean(entropy);
-tr.acc = sum(is_correct)/nData;
+loss = mean(loss); % average loss (entropy)
 
 end
 
-function [net, entropy, is_correct] = forward_prop(net)
+function [net, loss] = forward_prop(net)
 
 net.layer.inData = transpose(net.input.data'*net.layer.weight + net.layer.bias');
 net.layer.outData =  nn_activation(net.layer.inData, net.layer.activation, 'forward');
@@ -24,9 +23,7 @@ net.output.inData =  transpose(net.layer.outData' * net.output.weight + net.outp
 net.output.outData =  nn_activation(net.output.inData, net.output.activation, 'forward');
 
 % evaluation
-entropy = nn_loss(net.output.outData, net.output.data, net.output.loss, 'forward');
-[~, I] = max(net.output.outData);
-is_correct = isequal(I, find(net.output.data));
+loss = nn_loss(net.output.outData, net.output.data, net.output.loss, 'forward'); % cost function
 end
 
 function net = backward_prop(net)
@@ -34,7 +31,11 @@ function net = backward_prop(net)
 net.output.dEdO = nn_loss(net.output.outData, net.output.data, net.output.loss, 'backward');
 net.output.dOdI = nn_activation(net.output.inData, net.output.activation, 'backward');
 net.output.dIdW = repmat(net.layer.outData,1,net.output.node);
-net.output.dEdI = net.output.dEdO.*net.output.dOdI;
+if  strcmp(net.output.activation, 'softmax')
+    net.output.dEdI = net.output.dOdI*net.output.dEdO;
+else
+    net.output.dEdI = net.output.dEdO.*net.output.dOdI;
+end
 net.output.dEdW = bsxfun(@times, net.output.dEdI' , net.output.dIdW);
 
 net.output.weight = bsxfun(@minus, net.output.weight, net.output.dEdW*net.param.learningrate);

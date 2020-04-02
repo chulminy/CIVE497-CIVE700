@@ -1,59 +1,73 @@
-function nn_demo_run
 % Simple neural network demonstration
-% This code shows how to implement a multi-layer neural network (having a
-% single hidden layer). You can change some basic parameters including
+% This code shows how to implement a neural network with one hidden layer. 
+% You can change some basic parameters including
 % learning rate, number of neurons, number of epoch, etc. You can also see
 % similar demo from here: 
 % https://github.com/tensorflow/playground
+% optimization: Stochastic gradient descent
+
+% Dataset: Gaussian (Two-class Classification)
 
 % Author: Chul Min Yeum (cmyeum@uwaterloo.ca)
-% Last update: 03/25/2019
+% Last update: 04/01/2020
+clear; close all; clc;
 
-% % dataset 1: demonstration using gaussian dataset
-% dataset = nn_generate_dataset('gaussian');
-% test_nn(dataset);
+addpath('base');
 
-% dataset 2: demonstration using circle dataset
-dataset = nn_generate_dataset('circle');
-test_nn(dataset);
+dataset = GenerateGaussianData;
+net = set_nn; % you need to configure your network depending your dataset
+test_nn(net, dataset);
 
-% % dataset 3: demonstration using xor dataset
-% dataset = nn_generate_dataset('xor');
-% test_nn(dataset);
+function data = GenerateGaussianData
+% genrating two gaussian distribution with different mean
+
+set1Loc = [2 2];
+set2Loc = [-2 -2];
+sigma = 1.1;
+numPt = 500;
+
+data.set1 = zeros(numPt,2);
+data.set1(:,1) = normrnd(set1Loc(1), sigma, [numPt 1]);
+data.set1(:,2) = normrnd(set1Loc(2), sigma, [numPt 1]);
+
+data.set2 = zeros(numPt,2);
+data.set2(:,1) = normrnd(set2Loc(1), sigma, [numPt 1]);
+data.set2(:,2) = normrnd(set2Loc(2), sigma, [numPt 1]);
 
 end
 
 function net = set_nn
-net.param.numepoch = 20;
-net.param.train_test_ratio = [0.85 0.15];
+net.param.numepoch = 20; % number of epoch
+net.param.learningrate = 0.03; % learning rate
 
-net.param.learningrate = 0.03;
+net.param.train_test_ratio = [0.7 0.3]; % training and testing division
 
 net.input.node = 2;
-net.layer.node = 10;
+net.layer.node = 5;
 net.output.node = 2;
 
 net.layer.activation = 'sigmoid';
 net.output.activation = 'softmax';
 net.output.loss = 'cross_entropy';
 
-net.layer.weight = rand(net.input.node, net.layer.node)-1; % -1 ~ 1
-net.layer.bias = zeros(net.layer.node, 1);
+% layer: hidden layer (input to hidden)
+net.layer.weight = rand(net.input.node, net.layer.node)-1; % set random value between -1 ~ 1
+net.layer.bias = zeros(net.layer.node, 1); % set bias as zero
 
+% output: output layer (hidden to output)
 net.output.weight = rand(net.layer.node, net.output.node)-1; % -1 ~ 1
 net.output.bias = zeros(net.output.node, 1);
 
 end
 
-function test_nn(dataset)
-
-net = set_nn;
+function test_nn(net, dataset)
 
 train_test_ratio = net.param.train_test_ratio;
-numepoch = net.param.numepoch;
+numepoch = net.param.numepoch;  % # of iteration
 
-[x, t] = data2xt(dataset);
+[x, t] = data2xt(dataset); % data transformation
 
+% training and testing split
 [trainInd, ~, testInd] = ...
     dividerand(size(x,2),train_test_ratio(1), 0, train_test_ratio(2));
 
@@ -64,27 +78,43 @@ h2 = subplot(2,2,3);
 h3 = subplot(2,2,[2 4]);
 
 [xgrid, ygrid] = meshgrid(-6:0.1:6);
-accuracy = zeros(2, numepoch);
-entropy = zeros(2, numepoch);
+loss = zeros(2, numepoch);
+accuracy = zeros(1, numepoch);
+
 for ii=1:numepoch
-    [net, tr_train] = nn_train_net(net, x(:,trainInd), t(:, trainInd));
-    tr_test = nn_test_net(net, x(:,testInd), t(:, testInd));
-    grid_clss_prob = nn_test_grid_net(net, [xgrid(:)';ygrid(:)']);
+    
+    % training
+    [net, train_loss] = nn_train_net(net, x(:,trainInd), t(:, trainInd));
+    
+    % testing
+    out = nn_test_net(net, x(:,testInd)); 
+    
+    % plotting loss curve
+    loss(1, ii) = train_loss;
+    
+    test_loss = mean(nn_loss(out,t(:, testInd), net.output.loss, 'forward'));     
+    loss(2, ii) = test_loss; % testing loss
+    
+    show_loss(h2, ii, loss);
+    
+    % plotting accuracy curve (check if the data is classified correctly)
+    [~,out_clss] = max(out, [], 1); % predicted class
+    [~,true_clss] = max(t(:, testInd), [], 1); % true class
+    n_test = numel(out_clss);
+    n_test_correct = sum(out_clss == true_clss);
+    
+    accuracy(ii) = n_test_correct/n_test;
+    show_acc(h1, ii, accuracy);
     
     % ploting
+    % visualization (testing grid coordinates)
+    out_grid = nn_test_net(net, [xgrid(:)';ygrid(:)']);
+    
     grid_info.xrange = [-6 6];
     grid_info.yrange = [-6 6];
     grid_info.size_mat = size(xgrid);
-    grid_info.grid_clss_prob = grid_clss_prob;
+    grid_info.grid_clss_prob = out_grid;
     grid_info.numPt_plot = 0.1*size(t,2); 
-    
-    accuracy(1,ii) = tr_train.acc;
-    accuracy(2,ii) = tr_test.acc;
-    show_acc(h1, ii, accuracy);
-    
-    entropy(1,ii) = tr_train.entropy;
-    entropy(2,ii) = tr_test.entropy;
-    show_entropy(h2, ii, entropy);
     
     show_map(h3, x, t, grid_info);
     pause(0.001);
@@ -95,9 +125,8 @@ function show_acc(cur_ax, epoch, accuracy)
 
 axes(cur_ax);
 plot(1:epoch, accuracy(1,1:epoch), '-ob', 'linewidth', 1); hold on;
-plot(1:epoch, accuracy(2,1:epoch), '-or', 'linewidth', 1); 
 
-legend('\bf Train','\bf Test', 'Location','southeast')
+legend('\bf Test', 'Location','southeast')
 xlabel('\bf Epoch');
 ylabel('\bf Accuracy');ylim([-0.1 1.1]);
 set(cur_ax,'fontsize',10,'linewidth',2,'fontweight','bold')
@@ -105,15 +134,15 @@ grid on; hold off;
 
 end
 
-function show_entropy(cur_ax, epoch, entropy)
+function show_loss(cur_ax, epoch, loss)
 
 axes(cur_ax);
-plot(1:epoch, entropy(1,1:epoch), '-ob', 'linewidth', 1); hold on;
-plot(1:epoch, entropy(2,1:epoch), '-or', 'linewidth', 1); 
+plot(1:epoch, loss(1,1:epoch), '-ob', 'linewidth', 1); hold on;
+plot(1:epoch, loss(2,1:epoch), '-or', 'linewidth', 1); 
 
 legend('\bf Train','\bf Test', 'Location','northeast');
 xlabel('\bf Epoch');
-ylabel('\bf Cross Entropy');
+ylabel('\bf Loss');
 set(cur_ax,'fontsize',10,'linewidth',2,'fontweight','bold')
 grid on; hold off;
 
