@@ -35,7 +35,7 @@ end
 
 function net = set_nn
 net.param.numepoch = 50; % number of epoch
-net.param.learningrate = 0.03; % learning rate
+net.param.learningrate = 0.1; % learning rate
 
 net.param.train_test_ratio = [0.85 0.15]; % training and testing division
 

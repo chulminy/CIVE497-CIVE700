@@ -5,7 +5,7 @@
 % similar demo from here: 
 % https://github.com/tensorflow/playground
 % optimization: Stochastic gradient descent
-
+% https://archive.ics.uci.edu/ml/datasets/Car+Evaluation
 % https://archive.ics.uci.edu/ml/machine-learning-databases/car/
 
 % Author: Chul Min Yeum (cmyeum@uwaterloo.ca)

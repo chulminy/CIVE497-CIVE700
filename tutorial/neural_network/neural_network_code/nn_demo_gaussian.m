@@ -19,7 +19,7 @@ net = set_nn; % you need to configure your network depending your dataset
 test_nn(net, dataset);
 
 function data = GenerateGaussianData
-% genrating two gaussian distribution with different mean
+% genrating two gaussian distribution with different means
 
 set1Loc = [2 2];
 set2Loc = [-2 -2];
