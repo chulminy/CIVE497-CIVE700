@@ -8,7 +8,7 @@
 **TA:** Juan Park (j246park@uwaterloo.ca)     
 **Office Hours** Please send me an email or send me a Skype message anytime. We can call with Skype (with an appointment). An instructor's Skype id: chulminy@hotmail.com.    
 
-Last updated: 2020-03-31    
+Last updated: 2020-04-02    
 
 ## Announcement 
 The instructor will make a contingency plan to mitigate an impact of COVID-2019 on the rest of the lectures. The plan will be posted by Wed March 18, including new course outline, task assignments, or a plan for online lectures. Please keep watching this course website and follow to the instruction. We will do online discussion through this website, email, or Skype. If possible, please send me a message to Skype so that we are connected online. 
@@ -30,6 +30,8 @@ The instructor will make a contingency plan to mitigate an impact of COVID-2019 
 |**03/31/20 03:15**| The video of Class 23 (Neural Network) is posted (Part 1).
 |**04/01/20 23:15**| **Task 8** is posted. The original plan was to do the assignment using Azure ML. However, when I prepare the lecture and assignment, the functions in Azure ML are  very limited and hardly configured unless you write a python script. At this point, learning Python for Task 8 is not doable. Instead, Task 8 is focusing on understanding the neural network using Matlab. I provide simple neural network scripts and several demos. You can review those codes and build your own models in Task 8. It will be fun. As planed, I will upload a lecture for Azure ML but it will be short. Juan is preparing a short lecture about how to python SDK in Azure ML. The second lecture of neural network will be posted tomorrow.  
 |**04/01/20 23:15**| The farewell meeting is scheduled this Friday at 3:00pm. I sent an meeting invitation. If you haven't received the email, please use the following info: [Meeting link](https://uwaterloo.webex.com/uwaterloo/j.php?MTID=m82ff6fd13ba450b430053824f721911c), Password: D9k83na4ZaK
+|**04/02/20 11:15**| The video of Class 23 (Neural Network) is posted (Part 2).
+|**04/02/20 11:15**| The video of Class 24 (AzureML: Python SDK) is posted. This is the final lecture for this course !!! :heart_eyes:
 |<img width=650/>||
 
 
@@ -39,8 +41,8 @@ The instructor will make a contingency plan to mitigate an impact of COVID-2019 
 |Class 20|March 24|[<img src="http://img.youtube.com/vi/glZFUTLDJAc/0.jpg" height="200">](https://www.youtube.com/watch?v=glZFUTLDJAc)  [<img src="http://img.youtube.com/vi/DWqYTA2wouw/0.jpg" height="200">](https://www.youtube.com/watch?v=DWqYTA2wouw)|[**link**](lecture/ml_intro), [**link**](lecture/ml_pipe)|&nbsp;|&nbsp;|
 |Class 21|March 27|[<img src="http://img.youtube.com/vi/OhsioucIQvM/0.jpg" height="200">](https://youtu.be/OhsioucIQvM) |[**link**](lecture/ml_gd)|[**link**](lecture/ml_gd)|&nbsp;|
 |Class 22|March 30|[<img src="http://img.youtube.com/vi/fcbOvN-i_Q8/0.jpg" height="200">](https://www.youtube.com/watch?v=fcbOvN-i_Q8)| [**link**](lecture/ml_lg)|&nbsp;|&nbsp;|
-|Class 23|March 31|[<img src="http://img.youtube.com/vi/INcajETfSLc/0.jpg" height="200">](https://www.youtube.com/watch?v=INcajETfSLc)|[**link**](lecture/ml_nn)|[**link**](tutorial/neural_network)|
-|Class 24|TBD|**(Short lecture) Azure Machine Learning: Python SDK**|&nbsp;|&nbsp;|&nbsp;|
+|Class 23|March 31|[<img src="http://img.youtube.com/vi/INcajETfSLc/0.jpg" height="200">](https://www.youtube.com/watch?v=INcajETfSLc)  [<img src="http://img.youtube.com/vi/hHjHU0Uf1uM/0.jpg" height="200">](https://www.youtube.com/watch?v=hHjHU0Uf1uM)|[**link**](lecture/ml_nn)|[**link**](tutorial/neural_network)|
+|Class 24|April 02|[<img src="http://img.youtube.com/vi/xETBAD_4Sf8/0.jpg" height="200">](https://youtu.be/xETBAD_4Sf8)|&nbsp;|[**link**](tutorial/azure_python)|
 
 
 ## New Assignment Plan
