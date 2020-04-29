@@ -9,14 +9,21 @@ y = y(:);
 z = z(:);
 
 n_data = numel(x);
-n_iter = 5000;
+
+all_idx = randperm(n_data,10000);
+x = x(all_idx);
+y = y(all_idx);
+z = z(all_idx);
+n_data = numel(x);
+
+n_iter = 1000;
 dist_thr = 0.01;
 
 best_param = [];
 best_inlier = 0;
 for ii=1: n_iter
     
-    idx = randperm(n_iter,3);
+    idx = randperm(n_data,3);
     
     xs = x(idx); % selected x
     ys = y(idx); % selected y

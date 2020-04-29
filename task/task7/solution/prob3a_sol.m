@@ -40,7 +40,6 @@ for ii=1: n_iter
     end
 end
 
-best_inlier
 3./best_param(end)*best_param
 
 function est_y = CompY(param, x)

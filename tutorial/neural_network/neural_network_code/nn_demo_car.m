@@ -162,7 +162,6 @@ n_data = size(dataset,1);
 out = dataset(:,end);
 x = dataset(:,1:end-1);
 
-% normalize each column 
 t = zeros(4, n_data);
  
 for ii=1:n_data

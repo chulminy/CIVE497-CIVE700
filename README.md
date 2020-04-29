@@ -6,51 +6,8 @@
 **Class:** Monday and Wednesday, 11:30AM to 12:50PM at E2-3356      
 **Email:** cmyeum@uwaterloo.ca  
 **TA:** Juan Park (j246park@uwaterloo.ca)     
-**Office Hours** Please send me an email or send me a Skype message anytime. We can call with Skype (with an appointment). An instructor's Skype id: chulminy@hotmail.com.    
 
-Last updated: 2020-04-02    
-
-## Announcement 
-The instructor will make a contingency plan to mitigate an impact of COVID-2019 on the rest of the lectures. The plan will be posted by Wed March 18, including new course outline, task assignments, or a plan for online lectures. Please keep watching this course website and follow to the instruction. We will do online discussion through this website, email, or Skype. If possible, please send me a message to Skype so that we are connected online. 
-
-|Date and time|Announcement|
-|:---------|:----|
-|**03/16/20 09:32**|A message from Engineering Dean indicates that *"March 14-22 is to be treated as a “scheduled pause” which means there are no academic activities and no assignments due during that week. The purpose of the pause is to allow the instructors to prepare and set up their contingency plans."* **The due date of the task assignment,** [**Task 7**](https://github.com/chulminy/CIVE497-CIVE700/tree/master/task/task7), **is delayed to March 23, 2020.**|
-|**03/16/20 10:00**|CEE meeting to discuss contingency plans for Winter 2020
-|**03/16/20 03:00**|Summary of the CEE meeting (only list the items applicable to this class) <ul><li>The last days of lectures is still April 3. </li><li>The university has made it possible for students who are demonstrating symptoms consistent with COVID-19 to self-declare that they are unwell. No Verification of Illness form is required for flu symptoms (:loudspeaker: **Instructor's note**: If you are the case, please send the instructor an email to provide accommodation). </li><li>All on-campus computer rooms are now closed.  Faculty engterm remote desktop access will likely be limited due to high demand (:loudspeaker: **Instructor's note**: Students may not access MATLAB using a remote desktop because there is a concurrent license limit).<li> Online office hours (:loudspeaker: **Instructor's note**: We will use the issue board in this website or Skype chat for online communication).</li></ul>
-|**03/17/20 10:34**| A [**new course outline**](#new-course-outline) is posted. Unfortunately, lectures of multiview geometry and structure from motion have been dropped. These are very interesting topics but if these are covered, you cannot learn machine learning and do related assignments. In the remaining lectures, students will learn (1) machine learning overview, (2) neural network, and (3) machine learning implementation in Azure ML. The instructor will post video lectures in this website. Students can post questions on the issue board.  
-|**03/17/20 10:53**| A [**new assignment plan**](#new-assignment-plan) is posted. Besides Task 7 that students are currently working on, students need to complete only one task assignment related to machine learning, Task 8. It will be a bit challenging than the previous tasks. Thus, the deadline is set to the last week of April (April, 25). The task 8 will be posted no later than the end of this month. 
-|**03/17/20 11:00**| For **graduate students**, the evaluation for your project is based on the progress made up to April 25. The students who continue to discuss their research projects with the instructor will get a good mark. The students who have not shown a progress on their research project should spend more time on their research project. 
-|**03/19/20 11:00**| Juan finished grading your reports of Task 4, Task 5, and Task 6. Marked reports will be distributed today. The best reports for each task are posted in [**Tasks**](#tasks). If you have a question on your mark, please review the best solutions first and send an email to Juan.   
-|**03/23/20 11:00**| I will give you two extra data to finish your [**Task 7**](task/task7). There will not be more delay after then. 
-|**03/23/20 11:00**| I just posted my first lecture video. It took a whole day to record and edit this video. Hopefully, I will do better in the next video. Sorry for the delay. 
-|**03/26/20 02:30**| The second lecture video is posted. It is the last lecture for the Machine learning introduction. The video of Class 21 will be ready tomorrow so please keep watching the course website.
-|**03/27/20 02:15**| The video of Class 21 is posted. 
-|**03/30/20 02:15**| The video of Class 22 is posted.
-|**03/31/20 03:15**| The video of Class 23 (Neural Network) is posted (Part 1).
-|**04/01/20 23:15**| **Task 8** is posted. The original plan was to do the assignment using Azure ML. However, when I prepare the lecture and assignment, the functions in Azure ML are  very limited and hardly configured unless you write a python script. At this point, learning Python for Task 8 is not doable. Instead, Task 8 is focusing on understanding the neural network using Matlab. I provide simple neural network scripts and several demos. You can review those codes and build your own models in Task 8. It will be fun. As planed, I will upload a lecture for Azure ML but it will be short. Juan is preparing a short lecture about how to python SDK in Azure ML. The second lecture of neural network will be posted tomorrow.  
-|**04/01/20 23:15**| The farewell meeting is scheduled this Friday at 3:00pm. I sent an meeting invitation. If you haven't received the email, please use the following info: [Meeting link](https://uwaterloo.webex.com/uwaterloo/j.php?MTID=m82ff6fd13ba450b430053824f721911c), Password: D9k83na4ZaK
-|**04/02/20 11:15**| The video of Class 23 (Neural Network) is posted (Part 2).
-|**04/02/20 11:15**| The video of Class 24 (AzureML: Python SDK) is posted. This is the final lecture for this course !!! :heart_eyes:
-|<img width=650/>||
-
-
-## New Course Outline
-|Class|Date|Topics|Slide|Tutorial|
-|:----|:-----|:----|:-----|:-----|
-|Class 20|March 24|[<img src="http://img.youtube.com/vi/glZFUTLDJAc/0.jpg" height="200">](https://www.youtube.com/watch?v=glZFUTLDJAc)  [<img src="http://img.youtube.com/vi/DWqYTA2wouw/0.jpg" height="200">](https://www.youtube.com/watch?v=DWqYTA2wouw)|[**link**](lecture/ml_intro), [**link**](lecture/ml_pipe)|&nbsp;|&nbsp;|
-|Class 21|March 27|[<img src="http://img.youtube.com/vi/OhsioucIQvM/0.jpg" height="200">](https://youtu.be/OhsioucIQvM) |[**link**](lecture/ml_gd)|[**link**](lecture/ml_gd)|&nbsp;|
-|Class 22|March 30|[<img src="http://img.youtube.com/vi/fcbOvN-i_Q8/0.jpg" height="200">](https://www.youtube.com/watch?v=fcbOvN-i_Q8)| [**link**](lecture/ml_lg)|&nbsp;|&nbsp;|
-|Class 23|March 31|[<img src="http://img.youtube.com/vi/INcajETfSLc/0.jpg" height="200">](https://www.youtube.com/watch?v=INcajETfSLc)  [<img src="http://img.youtube.com/vi/hHjHU0Uf1uM/0.jpg" height="200">](https://www.youtube.com/watch?v=hHjHU0Uf1uM)|[**link**](lecture/ml_nn)|[**link**](tutorial/neural_network)|
-|Class 24|April 02|[<img src="http://img.youtube.com/vi/xETBAD_4Sf8/0.jpg" height="200">](https://youtu.be/xETBAD_4Sf8)|&nbsp;|[**link**](tutorial/azure_python)|
-
-
-## New Assignment Plan
-|Task|Topics|Announcement|Due Date|
-|:----|:-----|:----|:-----|
-|Task7|[**Image Stitching & RANSAC**](task/task7) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |March 09, 2020|March 25, 2020|
-|Task8|[**Neural Network**](task/task8) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</br> |April 02, 2020|April 25, 2020|    
-
+Last updated: 2020-04-28    
 
 ## Table of Contents
 - [Course Description](#course-description)
@@ -116,21 +73,17 @@ Slides and tutorials are will be updated soon.
 |Class 15|**Camera Model**|[**link**](lecture/camera_model)|&nbsp;|
 |Class 16|**Multiview Geometry**|[**link**](lecture/multiview_geometry)|[**link**](tutorial/multiview_geometry)|
 
- 
-**Updated course outline will be posted !!!**  
 
+### New Course Outline
+**An updated course outline due to COVID-19**
 
-<!---
-|Class 17|**Structure-from-motion (SfM)**|&nbsp;|&nbsp;|
-|Class 18|**Review**|&nbsp;|&nbsp;|
-|Class 19|**Microsoft Azure Tutorial**|&nbsp;|&nbsp;|
-|Class 20|**Machine Learning I**|&nbsp;|&nbsp;|
-|Class 21|**Machine Learning II**|&nbsp;|&nbsp;|
-|Class 22|**Neural Network**|&nbsp;|&nbsp;|
-|Class 23|**Convolutional Neural Network**|&nbsp;|&nbsp;|
-|Class 24|**Presentation**|&nbsp;|&nbsp;|
---->
-
+|Class|Date|Topics|Slide|Tutorial|
+|:----|:-----|:----|:-----|:-----|
+|Class 20|March 24|[<img src="http://img.youtube.com/vi/glZFUTLDJAc/0.jpg" height="200">](https://www.youtube.com/watch?v=glZFUTLDJAc)  [<img src="http://img.youtube.com/vi/DWqYTA2wouw/0.jpg" height="200">](https://www.youtube.com/watch?v=DWqYTA2wouw)|[**link**](lecture/ml_intro), [**link**](lecture/ml_pipe)|&nbsp;|&nbsp;|
+|Class 21|March 27|[<img src="http://img.youtube.com/vi/OhsioucIQvM/0.jpg" height="200">](https://youtu.be/OhsioucIQvM) |[**link**](lecture/ml_gd)|[**link**](lecture/ml_gd)|&nbsp;|
+|Class 22|March 30|[<img src="http://img.youtube.com/vi/fcbOvN-i_Q8/0.jpg" height="200">](https://www.youtube.com/watch?v=fcbOvN-i_Q8)| [**link**](lecture/ml_lg)|&nbsp;|&nbsp;|
+|Class 23|March 31|[<img src="http://img.youtube.com/vi/INcajETfSLc/0.jpg" height="200">](https://www.youtube.com/watch?v=INcajETfSLc)  [<img src="http://img.youtube.com/vi/hHjHU0Uf1uM/0.jpg" height="200">](https://www.youtube.com/watch?v=hHjHU0Uf1uM)|[**link**](lecture/ml_nn)|[**link**](tutorial/neural_network)|
+|Class 24|April 02|[<img src="http://img.youtube.com/vi/xETBAD_4Sf8/0.jpg" height="200">](https://youtu.be/xETBAD_4Sf8)|&nbsp;|[**link**](tutorial/azure_python)|
 
 ## Tasks
 There will be **10 tasks** and posted on either weekly or biweekly on this course website. **The instructor encourage students to work in groups through collaborative learning, but to submit their assignments individually.** The task will have programming components or photography components, where students will use their own camera to capture and process their own images and discuss the results. Students are supposed to complete all tasks and turn their works in by the due date. After the due data, there is 25% deduction in the final mark and students must submit their works within a week after the due data. After then, the submission of the works will not be accepted unless accompanied by a valid excuse and some additional points might be deducted depending upon the circumstances.  
@@ -147,8 +100,8 @@ There will be **10 tasks** and posted on either weekly or biweekly on this cours
 |Task4|[**Digital Image Processing & Camera Sensor and Digital Image**](task/task4)  </br> [Best report (Hana Bregman)](task/task4/solution/Rept_Hanab_BA_20617672.pdf), [Best report (Saeed Ardakani)](task/task4/solution/Rept_saeed_PH_20793159.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |February 07, 2020|February 23, 2020|  
 |Task5|[**Homography**](task/task5)  </br> [Best report (Armina Soleymani )](task/task5/solution/Rept_armin_PH_20850595.pdf), [Best report (Saeed Ardakani)](task/task5/solution/Rept_saeed_PH_20793159.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |February 12, 2020|March 01, 2020|          
 |Task6|[**Image Filter & Edge Detection**](task/task6)   </br> [Best report (Jasmine Zou)](task/task6/solution/Rept_pinyuz_BA_20602200.pdf), [(Aleksandar Jakovljevic)](task/task6/solution/Rept_aleksj_BA_20613063.pdf), [(Saeed Ardakani)](task/task6/solution/Rept_saeed_PH_20793159.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |February 27, 2020|March 08, 2020|    
-|Task7|[**Image Stitching & RANSAC**](task/task7) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |March 09, 2020|March 23, 2020|
-|Task8| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> |March 00, 2020|March 00, 2020|    
+|Task7|[**Image Stitching & RANSAC**](task/task7)   </br> [Best report (Saeed Ardakani)](task/task7/Rept_saeed_PH_20793159.pdf)|March 09, 2020|March 25, 2020|  
+|Task8|[**Neural Network**](task/task8) </br> [Best report (Saeed Ardakani)](task/task8/solution/Rept_saeed_PH_20793159.pdf)|April 02, 2020|April 25, 2020| 
 
 ## Communication  
 **All communication will be made through [this course website](https://github.com/chulminy/CIVE497-CIVE700)**, especially for this web page. The instructor will make a note in the ["Announcement"](#announcement) section after updating the web page. Students can configure email notification for by ["watching"](https://help.github.com/articles/watching-and-unwatching-repositories/) this course website or use a version control system for tracking its changes. Thus, **students are responsible for checking the website regularly** for any relevant course information or announcements. 
