@@ -79,11 +79,11 @@ Slides and tutorials are will be updated soon.
 
 |Class|Date|Topics|Slide|Tutorial|
 |:----|:-----|:----|:-----|:-----|
-|Class 20|March 24|[<img src="http://img.youtube.com/vi/glZFUTLDJAc/0.jpg" height="200">](https://www.youtube.com/watch?v=glZFUTLDJAc)  [<img src="http://img.youtube.com/vi/DWqYTA2wouw/0.jpg" height="200">](https://www.youtube.com/watch?v=DWqYTA2wouw)|[**link**](lecture/ml_intro), [**link**](lecture/ml_pipe)|&nbsp;|&nbsp;|
-|Class 21|March 27|[<img src="http://img.youtube.com/vi/OhsioucIQvM/0.jpg" height="200">](https://youtu.be/OhsioucIQvM) |[**link**](lecture/ml_gd)|[**link**](lecture/ml_gd)|&nbsp;|
-|Class 22|March 30|[<img src="http://img.youtube.com/vi/fcbOvN-i_Q8/0.jpg" height="200">](https://www.youtube.com/watch?v=fcbOvN-i_Q8)| [**link**](lecture/ml_lg)|&nbsp;|&nbsp;|
-|Class 23|March 31|[<img src="http://img.youtube.com/vi/INcajETfSLc/0.jpg" height="200">](https://www.youtube.com/watch?v=INcajETfSLc)  [<img src="http://img.youtube.com/vi/hHjHU0Uf1uM/0.jpg" height="200">](https://www.youtube.com/watch?v=hHjHU0Uf1uM)|[**link**](lecture/ml_nn)|[**link**](tutorial/neural_network)|
-|Class 24|April 02|[<img src="http://img.youtube.com/vi/xETBAD_4Sf8/0.jpg" height="200">](https://youtu.be/xETBAD_4Sf8)|&nbsp;|[**link**](tutorial/azure_python)|
+|Class 20|March 24|[<img src="http://img.youtube.com/vi/glZFUTLDJAc/0.jpg" height="150">](https://www.youtube.com/watch?v=glZFUTLDJAc)  [<img src="http://img.youtube.com/vi/DWqYTA2wouw/0.jpg" height="150">](https://www.youtube.com/watch?v=DWqYTA2wouw)|[**link**](lecture/ml_intro), [**link**](lecture/ml_pipe)|&nbsp;|&nbsp;|
+|Class 21|March 27|[<img src="http://img.youtube.com/vi/OhsioucIQvM/0.jpg" height="150">](https://youtu.be/OhsioucIQvM) |[**link**](lecture/ml_gd)|[**link**](lecture/ml_gd)|&nbsp;|
+|Class 22|March 30|[<img src="http://img.youtube.com/vi/fcbOvN-i_Q8/0.jpg" height="150">](https://www.youtube.com/watch?v=fcbOvN-i_Q8)| [**link**](lecture/ml_lg)|&nbsp;|&nbsp;|
+|Class 23|March 31|[<img src="http://img.youtube.com/vi/INcajETfSLc/0.jpg" height="150">](https://www.youtube.com/watch?v=INcajETfSLc)  [<img src="http://img.youtube.com/vi/hHjHU0Uf1uM/0.jpg" height="150">](https://www.youtube.com/watch?v=hHjHU0Uf1uM)|[**link**](lecture/ml_nn)|[**link**](tutorial/neural_network)|
+|Class 24|April 02|[<img src="http://img.youtube.com/vi/xETBAD_4Sf8/0.jpg" height="150">](https://youtu.be/xETBAD_4Sf8)|&nbsp;|[**link**](tutorial/azure_python)|
 
 ## Tasks
 There will be **10 tasks** and posted on either weekly or biweekly on this course website. **The instructor encourage students to work in groups through collaborative learning, but to submit their assignments individually.** The task will have programming components or photography components, where students will use their own camera to capture and process their own images and discuss the results. Students are supposed to complete all tasks and turn their works in by the due date. After the due data, there is 25% deduction in the final mark and students must submit their works within a week after the due data. After then, the submission of the works will not be accepted unless accompanied by a valid excuse and some additional points might be deducted depending upon the circumstances.  
