@@ -1,5 +1,17 @@
 # CIVE497/700: Smart Structure Technology (Winter, 2020)
 
+## Announcement to the students who are thinking about taking this course in W2021
+
+:loudspeaker: If you are **graduate students** and interested in this topic, I highly recommend taking this course. This course might give you a new direction of your research development.    
+
+:loudspeaker: If you are **undergraduate students** and keen on taking this course, at least one of following conditions should be applicable to you: 
+1) I like programming and have a sufficient level of computer programming. (For example, regardless of programming languages, if you can develop a programming logic to solve the problems  [**here**](https://www.mathworks.com/matlabcentral/cody/groups/2), you are ready).
+2) I have taken at least one course from the other departments or online sites (e.g., Coursera) that focuses on the following topics: Signal processing, image processing, computer vision or machine learning.     
+3) I would pursue a graduate study
+4) I have plenty of time this term and am willing to take a challenge course.
+
+ 
+
 ![](intro_corona.png)
 
 **Instructor:** Chul Min Yeum (E2-2313)  
