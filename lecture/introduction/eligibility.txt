@@ -1,7 +1,0 @@
-- I have good programming background. (Do you enjoy Task 1?)
-- I will pursuit a graduate study.
-- I have knowledge about image processing and computer vision.
-- My current or future research topic is related to image applications.
-- I have plenty of time dedicated to the course. 
-
-You can take the course if the number of 'Yes' is more than 1. 
