@@ -34,7 +34,7 @@ Last updated: 2020-12-08
 - [Note](#note)
 
 ## Course Description
-This course offers an introduction to the emerging **smart structure technologies** in civil engineering. Smart structures integrate sensing, actuation, data processing, analysis, and visualization, and control capabilities so that a structure can sense and respond to its changing external conditions in a rapid and automated manner. Among several topics in smart structure, this course focuses on [**structural assessment**](https://en.wikipedia.org/wiki/Structural_health_monitoring) using optical sensor data by implementing state-of-art image processing and computer vision techniques. As a special topic, basic concepts in **virtual reality**, **machine learning**, and **neural networks** are covered and relevant applications in civil engineering are introduced. An application-based learning approach is emphasized and tasks are designed in such a way that students can implement smart structure technology to address contemporary problems in civil engineering. In addition, for graduate students, students can **opt to** perform a research project, in which students will have an opportunity to design a technique with a potential application to smart structures and advance their research works. 
+This course offers an introduction to the emerging **smart structure technologies** in civil engineering. Smart structures integrate sensing, actuation, data processing, analysis, and visualization, and control capabilities so that a structure can sense and respond to its changing external conditions in a rapid and automated manner. Among several topics in smart structure, this course focuses on [**structural assessment**](https://en.wikipedia.org/wiki/Structural_health_monitoring) using optical sensor data by implementing state-of-art image processing and computer vision techniques. As a special topic, basic concepts in **augmented reality**, **machine learning**, and **neural networks** are covered and relevant applications in civil engineering are introduced. An application-based learning approach is emphasized and tasks are designed in such a way that students can implement smart structure technology to address contemporary problems in civil engineering. In addition, for graduate students, students can **opt to** perform a research project, in which students will have an opportunity to design a technique with a potential application to smart structures and advance their research works. 
 
 This course is specially designed to suit the interest of **graduate students** and **senior undergraduate students who may pursue graduate studies**. Based on the feedback received from the courses offered in previous years, you are expected to spend 12 hours or more per week studying class materials as well as working on task assignments and research project. You will see the course outline and task assignments in the previous year from [**w2019**](w2019), [**w2020**](w2020). 
 
@@ -87,7 +87,7 @@ Slides and tutorials will be updated on a regular basis. The study load for each
 |Class 13|**Camera Model**|||1|Mar 12||
 |Class 14|**Multiview Geometry**|||1|Mar 17||
 |Class 15|**Structure From Motion**|||1|Mar 19|**Task08**|
-|Class 16|**Virtual Reality**|||2|Mar 26|**Task09**|
+|Class 16|**Augmented Reality**|||2|Mar 26|**Task09**|
 |Class 17|**Introduction of Machine Learning**|||0.5|Mar 31||
 |Class 18|**Gradient Descent**|||1|Mar 31||
 |Class 19|**Model Training Using Linear Regression**|||1|Apr 02||
@@ -112,7 +112,7 @@ Slides and tutorials will be updated on a regular basis. The study load for each
 |Class 13|**Camera Model**||
 |Class 14|**Multiview Geometry**||
 |Class 15|**Structure From Motion**||
-|Class 16|**Virtual Reality**||
+|Class 16|**Augmented Reality**||
 |Class 17|**Introduction of Machine Learning**||
 |Class 18|**Gradient Descent**||
 |Class 19|**Model Training Using Linear Regression**||
@@ -131,7 +131,7 @@ This course grades your final mark based on the marks earned from these assignme
 
 |Task|Topics|Announcement|1st Due|2nd Due|
 |:----|:-----|:----|:-----|:-----|
-|Task01|Programming|Jan 11|Jan 20|Jan 27|
+|Task01|[**Programming**](task/task1)|Jan 11|Jan 20|Jan 27|
 |Task02|Signal Processing 1|Jan 20|Jan 29|Feb 05|
 |Task03|Signal Processing 2|Jan 27|Feb 10|Feb 17|
 |Task04|Digital Image|Feb 03|Feb 15|Feb 22|
@@ -139,7 +139,7 @@ This course grades your final mark based on the marks earned from these assignme
 |Task06|Image Filter & Edge (Blob) Detection|Feb 24|Mar 08|Mar 15|
 |Task07|Feature Matching & RANSAC|Mar 05|Mar 15|Mar 22|
 |Task08|Multiview Geometry (SfM)|Mar 19|Apr 2|Apr 9|
-|Task09|Virtual Reality|Mar 26|Apr 14|Apr 21|
+|Task09|Augmented Reality|Mar 26|Apr 14|Apr 21|
 |Task10|Neural Network|Apr 09|Apr 26|Apr 26|
 
 ## Communication  
