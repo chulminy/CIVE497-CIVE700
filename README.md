@@ -5,7 +5,7 @@
 **Instructor:** Chul Min Yeum (E2-2313)  
 **Class:** Friday, 11:30AM to 2:30PM (Online)      
 **Email:** cmyeum@uwaterloo.ca  
-**TA:** To be determined     
+**TA:** Zaid Al-Sabbag (zaalsabbag@uwaterloo.ca) 
 
 Last updated: 2020-12-08 
 
@@ -131,11 +131,11 @@ This course grades your final mark based on the marks earned from these assignme
 
 |Task|Topics|Announcement|1st Due|2nd Due|
 |:----|:-----|:----|:-----|:-----|
-|Task01|[**Programming**](task/task1)|Jan 11|Jan 20|Jan 27|
+|Task01|Programming|Jan 11|Jan 20|Jan 27|
 |Task02|Signal Processing 1|Jan 20|Jan 29|Feb 05|
 |Task03|Signal Processing 2|Jan 27|Feb 10|Feb 17|
 |Task04|Digital Image|Feb 03|Feb 15|Feb 22|
-|Task05|Homography|Feb 10|Feb 24|Feb 31|
+|Task05|Homography|Feb 10|Feb 24|Mar 03|
 |Task06|Image Filter & Edge (Blob) Detection|Feb 24|Mar 08|Mar 15|
 |Task07|Feature Matching & RANSAC|Mar 05|Mar 15|Mar 22|
 |Task08|Multiview Geometry (SfM)|Mar 19|Apr 2|Apr 9|
