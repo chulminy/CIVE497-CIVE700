@@ -51,9 +51,7 @@ The four lines (**l1**, **l2**, **l3**, and **l4**) are intersected at six point
 
 ## Problem 5: Image Overlay (20 points)
 
-|![](doc/my_office.png)|![](doc/award.png)|
-|:-----:|:----:|
-|(a) original image: *prob5_1.jpg*|(b) original image: *prob5_2.jpg*|
+
 
 You are going to hang a good painting or image. Please find an image putting on the white board and award frame, and a digital clock (see *clock_wall.png*) is placed on the designated block (*marked as 'clock'*). Your images and the clock image are projected to the marked regions in (a) and (b). Write your own code to project your image. You need to find homography. 
 
