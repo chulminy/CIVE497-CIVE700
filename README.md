@@ -70,8 +70,8 @@ Slides and tutorials will be updated on a regular basis. The study load for each
 
 |Class|Topics|Slides|Tutorial|Load|ETF|Homework|
 |:----|:-----|:----|:-----|:-----|:-----|:-----|
-|Class 01|**Introduction**|[slide](lecture\clss01_introduction)||0.5|Jan 13||
-|Class 02|**MATLAB Tutorial**|[slide](lecture\clss02_matlab)|[tutorial](tutorial/matlab_tutorial)|1|Jan 15|**Task01**|
+|Class 01|**Introduction**|[slide](lecture/clss01_introduction)||0.5|Jan 13||
+|Class 02|**MATLAB Tutorial**|[slide](lecture/clss02_matlab)|[tutorial](tutorial/matlab_tutorial)|1|Jan 15|**Task01**|
 |Class 03|**Data Acquisition**|||1|Jan 20||
 |Class 04|**Signal Processing I**|||1|Jan 22|**Task02**|
 |Class 05|**Signal Processing II**|||1|Jan 27||
@@ -128,7 +128,7 @@ This course grades your final mark based on the marks earned from these assignme
 
 |Task|Topics|Announcement|1st Due|2nd Due|
 |:----|:-----|:----|:-----|:-----|
-|Task01|Programming|Jan 11|Jan 22|Jan 27|
+|Task01|Programming|Jan 11|Jan 22|Jan 29|
 |Task02|Signal Processing 1|Jan 20|Jan 29|Feb 05|
 |Task03|Signal Processing 2|Jan 27|Feb 10|Feb 17|
 |Task04|Digital Image|Feb 03|Feb 15|Feb 22|
