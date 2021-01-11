@@ -128,7 +128,7 @@ This course grades your final mark based on the marks earned from these assignme
 
 |Task|Topics|Announcement|1st Due|2nd Due|
 |:----|:-----|:----|:-----|:-----|
-|Task01|Programming|Jan 11|Jan 22|Jan 29|
+|Task01|[**Programming**](task/task01)|Jan 11|Jan 22|Jan 29|
 |Task02|Signal Processing 1|Jan 20|Jan 29|Feb 05|
 |Task03|Signal Processing 2|Jan 27|Feb 10|Feb 17|
 |Task04|Digital Image|Feb 03|Feb 15|Feb 22|
