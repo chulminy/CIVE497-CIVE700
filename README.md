@@ -72,7 +72,7 @@ Slides and tutorials will be updated on a regular basis. The study load for each
 |:----|:-----|:----|:-----|:-----|:-----|:-----|
 |Class 01|**Introduction**|[slide](lecture/clss01_introduction)||0.5|Jan 13||
 |Class 02|**MATLAB Tutorial**|[slide](lecture/clss02_matlab)|[tutorial](tutorial/matlab_tutorial)|1|Jan 15|**Task01**|
-|Class 03|**Data Acquisition**|||1|Jan 20||
+|Class 03|**Data Acquisition**|[slide](lecture/clss03_data_aquisition)|[tutorial](tutorial/data_aquisition)|1|Jan 20||
 |Class 04|**Signal Processing I**|||1|Jan 22|**Task02**|
 |Class 05|**Signal Processing II**|||1|Jan 27||
 |Class 06|**Signal Processing III**|||1.5|Jan 29|**Task03**|
