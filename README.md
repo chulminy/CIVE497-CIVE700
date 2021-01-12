@@ -7,13 +7,15 @@
 **Email:** cmyeum@uwaterloo.ca  
 **TA:** Zaid Al-Sabbag (zaalsabbag@uwaterloo.ca) 
 
-Last updated: 2021-01-10 
+Last updated: 2021-01-11 
 
 **Previous offerings of this course**
 - [**Smart Structure Technology (Winter, 2019)**](w2019)
 - [**Smart Structure Technology (Winter, 2020)**](w2020)
 
 ## Announcement
+:loudspeaker: **2021-01-11**: I forgot making the problems visible in MATLAB Grader. Now you can view the programming task and tutorial for Task01. 
+ 
 :loudspeaker: **2021-01-11**: A video for "Class 03: Data Acquisition System" is posted. Please check the [**Lecture Video**](#lecture-video) below.
 
 :loudspeaker: **2021-01-10**: There will be a live session on Jan. 15 (11:30am ~ 01:00 pm) to introduce an instructor and TA, and a course syllabus. Please attend the session. You already receive a link to join the session. 
