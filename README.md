@@ -14,6 +14,8 @@ Last updated: 2021-01-10
 - [**Smart Structure Technology (Winter, 2020)**](w2020)
 
 ## Announcement
+:loudspeaker: **2021-01-11**: A video for "Class 03: Data Acquisition System" is posted. Please check the [**Lecture Video**](#lecture-video) below.
+
 :loudspeaker: **2021-01-10**: There will be a live session on Jan. 15 (11:30am ~ 01:00 pm) to introduce an instructor and TA, and a course syllabus. Please attend the session. You already receive a link to join the session. 
 
 :loudspeaker: **2021-01-10**: Videos for "Class 01: Introduction" and "Class 02: MATLAB Tutorial" are posted. Please check the [**Lecture Video**](#lecture-video) below.
@@ -96,7 +98,7 @@ Slides and tutorials will be updated on a regular basis. The study load for each
 |:----|:-----|:----|
 |Class 01|**Introduction**|[<img src="http://img.youtube.com/vi/p7QaQYuG-RM/0.jpg" height="150">](https://youtu.be/p7QaQYuG-RM)|
 |Class 02|**MATLAB Tutorial**|[<img src="http://img.youtube.com/vi/TZzCF1eNGoo/0.jpg" height="150">](https://youtu.be/TZzCF1eNGoo)|
-|Class 03|**Data Acquisition**||
+|Class 03|**Data Acquisition**|[<img src="http://img.youtube.com/vi/PAnChNF7JqU/0.jpg" height="150">](https://youtu.be/PAnChNF7JqU)|
 |Class 04|**Signal Processing I**||
 |Class 05|**Signal Processing II**||
 |Class 06|**Signal Processing III**||
