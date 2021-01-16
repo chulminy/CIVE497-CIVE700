@@ -1,7 +1,7 @@
 # Task01: Programming Practice & Digital Image Processing Basic
 
 **Announcement**: January 11, 2021  
-**1st Due Date**: January 22, 2021 before 11:59 pm
+**1st Due Date**: January 22, 2021 before 11:59 pm  
 **2nd Due Date**: January 29, 2021 before 11:59 pm  
 
 **Problem Description**  
