@@ -14,6 +14,8 @@ Last updated: 2021-01-11
 - [**Smart Structure Technology (Winter, 2020)**](w2020)
 
 ## Announcement
+:loudspeaker: **2021-01-16**: There are some mistakes on the testing code for poker game. If you pass the tester, no action requires. 'soln_ranks.txt' is newly updated. If you already download this file, please use the current version.    
+
 :loudspeaker: **2021-01-11**: I forgot making the problems visible in MATLAB Grader. Now you can view the programming task and tutorial for Task01. 
  
 :loudspeaker: **2021-01-11**: A video for "Class 03: Data Acquisition System" is posted. Please check the [**Lecture Video**](#lecture-video) below.
