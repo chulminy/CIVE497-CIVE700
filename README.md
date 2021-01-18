@@ -7,20 +7,20 @@
 **Email:** cmyeum@uwaterloo.ca  
 **TA:** Zaid Al-Sabbag (zaalsabbag@uwaterloo.ca) 
 
-Last updated: 2021-01-11 
+Last updated: 2021-01-17 
 
 **Previous offerings of this course**
 - [**Smart Structure Technology (Winter, 2019)**](w2019)
 - [**Smart Structure Technology (Winter, 2020)**](w2020)
 
 ## Announcement
+:loudspeaker::loudspeaker: **2021-01-17**: The due date for Task01 is this Friday. Please do not make a late submission
+
+:loudspeaker: **2021-01-17**: Videos for "Class 04: Signal Processing I" and "Class 05: Signal Processing II" are posted. Please check the [**Lecture Video**](#lecture-video) below.
+
 :loudspeaker: **2021-01-16**: There are some mistakes on the testing code for poker game. If you pass the tester, no action requires. 'soln_ranks.txt' is newly updated. If you already download this file, please use the current version.    
 
-:loudspeaker: **2021-01-11**: I forgot making the problems visible in MATLAB Grader. Now you can view the programming task and tutorial for Task01. 
- 
 :loudspeaker: **2021-01-11**: A video for "Class 03: Data Acquisition System" is posted. Please check the [**Lecture Video**](#lecture-video) below.
-
-:loudspeaker: **2021-01-10**: There will be a live session on Jan. 15 (11:30am ~ 01:00 pm) to introduce an instructor and TA, and a course syllabus. Please attend the session. You already receive a link to join the session. 
 
 :loudspeaker: **2021-01-10**: Videos for "Class 01: Introduction" and "Class 02: MATLAB Tutorial" are posted. Please check the [**Lecture Video**](#lecture-video) below.
 
@@ -79,15 +79,15 @@ Slides and tutorials will be updated on a regular basis. The study load for each
 |Class 01|**Introduction**|[slide](lecture/clss01_introduction)||0.5|Jan 13||
 |Class 02|**MATLAB Tutorial**|[slide](lecture/clss02_matlab)|[tutorial](tutorial/matlab_tutorial)|1|Jan 15|**Task01**|
 |Class 03|**Data Acquisition**|[slide](lecture/clss03_data_aquisition)|[tutorial](tutorial/data_aquisition)|1|Jan 20||
-|Class 04|**Signal Processing I**|||1|Jan 22|**Task02**|
-|Class 05|**Signal Processing II**|||1|Jan 27||
-|Class 06|**Signal Processing III**|||1.5|Jan 29|**Task03**|
+|Class 04|**Signal Processing I**|[slide](lecture/clss04_06_signal_processing)|[tutorial](tutorial/signal_processing)|1|Jan 22|**Task02**|
+|Class 05|**Signal Processing II**|[slide](lecture/clss04_06_signal_processing)|[tutorial](tutorial/signal_processing)|1|Jan 27||
+|Class 06|**Signal Processing III**|||2|Jan 29|**Task03**|
 |Class 07|**Digital Image**|||1|Feb 03|**Task04**|
 |Class 08|**Projective Geometry**|||3|Feb 12|**Task05**|
 |Class 09|**Linear Filtering**|||1|Feb 17| |
-|Class 10|**Edge Detection**|||1|Feb 26|
-|Class 11|**Image Thresholding**|||2|Mar 05|**Task06**|   
-|Class 12|**Feature**|||1.5|Mar 12||
+|Class 10|**Edge Detection I**|||1|Feb 26|
+|Class 11|**Edge Detection II**|||1|Mar 05|**Task06**|   
+|Class 12|**Feature**|||2|Mar 12||
 |Class 13|**RANSAC**|||1|Mar 17|**Task07**|  
 |Class 14|**Camera Model**|||1|Mar 19||
 |Class 15|**Two-view Geometry**|||1.5|Mar 24||
@@ -103,14 +103,14 @@ Slides and tutorials will be updated on a regular basis. The study load for each
 |Class 01|**Introduction**|[<img src="http://img.youtube.com/vi/p7QaQYuG-RM/0.jpg" height="150">](https://youtu.be/p7QaQYuG-RM)|
 |Class 02|**MATLAB Tutorial**|[<img src="http://img.youtube.com/vi/TZzCF1eNGoo/0.jpg" height="150">](https://youtu.be/TZzCF1eNGoo)|
 |Class 03|**Data Acquisition**|[<img src="http://img.youtube.com/vi/PAnChNF7JqU/0.jpg" height="150">](https://youtu.be/PAnChNF7JqU)|
-|Class 04|**Signal Processing I**||
-|Class 05|**Signal Processing II**||
+|Class 04|**Signal Processing I**|[<img src="http://img.youtube.com/vi/52p-7BWwQ1Y/0.jpg" height="150">](https://youtu.be/52p-7BWwQ1Y) [<img src="http://img.youtube.com/vi/-ypxsaf21ak/0.jpg" height="150">](https://youtu.be/-ypxsaf21ak)|
+|Class 05|**Signal Processing II**|[<img src="http://img.youtube.com/vi/m2x6Wzc8Cf4/0.jpg" height="150">](https://youtu.be/m2x6Wzc8Cf4)|
 |Class 06|**Signal Processing III**||
 |Class 07|**Digital Image**||
 |Class 08|**Projective Geometry**||
 |Class 09|**Linear Filtering**||
-|Class 10|**Edge Detection**||
-|Class 11|**Image Thresholding**||   
+|Class 10|**Edge Detection I**||
+|Class 11|**Edge Detection II**||   
 |Class 12|**Feature**||
 |Class 13|**RANSAC**||  
 |Class 14|**Camera Model**||
