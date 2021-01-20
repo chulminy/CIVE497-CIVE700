@@ -7,13 +7,15 @@
 **Email:** cmyeum@uwaterloo.ca  
 **TA:** Zaid Al-Sabbag (zaalsabbag@uwaterloo.ca) 
 
-Last updated: 2021-01-17 
+Last updated: 2021-01-19 
 
 **Previous offerings of this course**
 - [**Smart Structure Technology (Winter, 2019)**](w2019)
 - [**Smart Structure Technology (Winter, 2020)**](w2020)
 
 ## Announcement
+:loudspeaker: **2021-01-19**: The second task assignment ([**Task02**](task/task02)) is posted. Please study the lectures of data acquisition and signal processing to complete this task. 
+
 :loudspeaker::loudspeaker: **2021-01-17**: The due date for Task01 is this Friday. Please do not make a late submission
 
 :loudspeaker: **2021-01-17**: Videos for "Class 04: Signal Processing I" and "Class 05: Signal Processing II" are posted. Please check the [**Lecture Video**](#lecture-video) below.
@@ -77,9 +79,9 @@ Slides and tutorials will be updated on a regular basis. The study load for each
 |Class|Topics|Slides|Tutorial|Load|ETF|Homework|
 |:----|:-----|:----|:-----|:-----|:-----|:-----|
 |Class 01|**Introduction**|[slide](lecture/clss01_introduction)||0.5|Jan 13||
-|Class 02|**MATLAB Tutorial**|[slide](lecture/clss02_matlab)|[tutorial](tutorial/matlab_tutorial)|1|Jan 15|**Task01**|
+|Class 02|**MATLAB Tutorial**|[slide](lecture/clss02_matlab)|[tutorial](tutorial/matlab_tutorial)|1|Jan 15|[**Task01**](task/task01)|
 |Class 03|**Data Acquisition**|[slide](lecture/clss03_data_aquisition)|[tutorial](tutorial/data_aquisition)|1|Jan 20||
-|Class 04|**Signal Processing I**|[slide](lecture/clss04_06_signal_processing)|[tutorial](tutorial/signal_processing)|1|Jan 22|**Task02**|
+|Class 04|**Signal Processing I**|[slide](lecture/clss04_06_signal_processing)|[tutorial](tutorial/signal_processing)|1|Jan 22|[**Task02**](task/task02)|
 |Class 05|**Signal Processing II**|[slide](lecture/clss04_06_signal_processing)|[tutorial](tutorial/signal_processing)|1|Jan 27||
 |Class 06|**Signal Processing III**|||2|Jan 29|**Task03**|
 |Class 07|**Digital Image**|||1|Feb 03|**Task04**|
@@ -135,7 +137,7 @@ This course grades your final mark based on the marks earned from these assignme
 |Task|Topics|Announcement|1st Due|2nd Due|
 |:----|:-----|:----|:-----|:-----|
 |Task01|[**Programming**](task/task01)|Jan 11|Jan 22|Jan 29|
-|Task02|Signal Processing 1|Jan 20|Jan 29|Feb 05|
+|Task02|[**Signal Processing 1**](task/task02)|Jan 20|Jan 29|Feb 05|
 |Task03|Signal Processing 2|Jan 27|Feb 10|Feb 17|
 |Task04|Digital Image|Feb 03|Feb 15|Feb 22|
 |Task05|Homography|Feb 10|Feb 24|Mar 03|
