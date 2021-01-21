@@ -7,13 +7,15 @@
 **Email:** cmyeum@uwaterloo.ca  
 **TA:** Zaid Al-Sabbag (zaalsabbag@uwaterloo.ca) 
 
-Last updated: 2021-01-19 
+Last updated: 2021-01-20 
 
 **Previous offerings of this course**
 - [**Smart Structure Technology (Winter, 2019)**](w2019)
 - [**Smart Structure Technology (Winter, 2020)**](w2020)
 
 ## Announcement
+:loudspeaker: **2021-01-20**: I found a mistake a given code in a poker game problem. Please press a reset button and test your code again.  
+
 :loudspeaker: **2021-01-19**: The second task assignment ([**Task02**](task/task02)) is posted. Please study the lectures of data acquisition and signal processing to complete this task. 
 
 :loudspeaker::loudspeaker: **2021-01-17**: The due date for Task01 is this Friday. Please do not make a late submission
