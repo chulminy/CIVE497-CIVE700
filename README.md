@@ -7,29 +7,20 @@
 **Email:** cmyeum@uwaterloo.ca  
 **TA:** Zaid Al-Sabbag (zaalsabbag@uwaterloo.ca) 
 
-Last updated: 2021-01-20 
+Last updated: 2021-01-24 
 
 **Previous offerings of this course**
 - [**Smart Structure Technology (Winter, 2019)**](w2019)
 - [**Smart Structure Technology (Winter, 2020)**](w2020)
 
 ## Announcement
-:loudspeaker: **2021-01-20**: I found a mistake a given code in a poker game problem. Please press a reset button and test your code again.  
+:loudspeaker: **2021-01-24**: The third task assignment ([**Task03**](task/task03)) is posted. Please study the all lectures of signal processing to complete this task. 
+
+:loudspeaker: **2021-01-24**: Lecture videos for "Class 06: Signal Processing III" are posted. Please check the [**Lecture Video**](#lecture-video) below.
 
 :loudspeaker: **2021-01-19**: The second task assignment ([**Task02**](task/task02)) is posted. Please study the lectures of data acquisition and signal processing to complete this task. 
 
-:loudspeaker::loudspeaker: **2021-01-17**: The due date for Task01 is this Friday. Please do not make a late submission
-
 :loudspeaker: **2021-01-17**: Videos for "Class 04: Signal Processing I" and "Class 05: Signal Processing II" are posted. Please check the [**Lecture Video**](#lecture-video) below.
-
-:loudspeaker: **2021-01-16**: There are some mistakes on the testing code for poker game. If you pass the tester, no action requires. 'soln_ranks.txt' is newly updated. If you already download this file, please use the current version.    
-
-:loudspeaker: **2021-01-11**: A video for "Class 03: Data Acquisition System" is posted. Please check the [**Lecture Video**](#lecture-video) below.
-
-:loudspeaker: **2021-01-10**: Videos for "Class 01: Introduction" and "Class 02: MATLAB Tutorial" are posted. Please check the [**Lecture Video**](#lecture-video) below.
-
-:loudspeaker: **2021-01-10**: The first task assignment ([**Task01**](task/task01)) is posted. This task is intended to check if you complete prerequisite for this course and get you ready for taking this course. You need to complete  [**Digital Image Processing**](tutorial/image_proc) to answer the questions in Task01. Also, there are two programming assignments posted on MATLAB Grader. You already received an email invitation to access the assignment in MATLAB Grader. Please see the description of [**Task01**](task/task01) to finish the task. There are some tutorial questions in MATLAB Grader. The answers for those problems are posted in a tutorial for "MATLAB Tutorial" [**here**](tutorial/matlab_tutorial). Please compare your solutions and the model solutions after you solve them by yourself.    
-
  
 ## Table of Contents
 - [**Course Description**](#course-description)
@@ -85,7 +76,7 @@ Slides and tutorials will be updated on a regular basis. The study load for each
 |Class 03|**Data Acquisition**|[slide](lecture/clss03_data_aquisition)|[tutorial](tutorial/data_aquisition)|1|Jan 20||
 |Class 04|**Signal Processing I**|[slide](lecture/clss04_06_signal_processing)|[tutorial](tutorial/signal_processing)|1|Jan 22|[**Task02**](task/task02)|
 |Class 05|**Signal Processing II**|[slide](lecture/clss04_06_signal_processing)|[tutorial](tutorial/signal_processing)|1|Jan 27||
-|Class 06|**Signal Processing III**|||2|Jan 29|**Task03**|
+|Class 06|**Signal Processing III**|[slide](lecture/clss04_06_signal_processing)|[tutorial](tutorial/signal_processing)|2|Jan 29|**Task03**|
 |Class 07|**Digital Image**|||1|Feb 03|**Task04**|
 |Class 08|**Projective Geometry**|||3|Feb 12|**Task05**|
 |Class 09|**Linear Filtering**|||1|Feb 17| |
@@ -109,7 +100,7 @@ Slides and tutorials will be updated on a regular basis. The study load for each
 |Class 03|**Data Acquisition**|[<img src="http://img.youtube.com/vi/PAnChNF7JqU/0.jpg" height="150">](https://youtu.be/PAnChNF7JqU)|
 |Class 04|**Signal Processing I**|[<img src="http://img.youtube.com/vi/52p-7BWwQ1Y/0.jpg" height="150">](https://youtu.be/52p-7BWwQ1Y) [<img src="http://img.youtube.com/vi/-ypxsaf21ak/0.jpg" height="150">](https://youtu.be/-ypxsaf21ak)|
 |Class 05|**Signal Processing II**|[<img src="http://img.youtube.com/vi/m2x6Wzc8Cf4/0.jpg" height="150">](https://youtu.be/m2x6Wzc8Cf4)|
-|Class 06|**Signal Processing III**||
+|Class 06|**Signal Processing III**|[<img src="http://img.youtube.com/vi/moytbQU0Gt8/0.jpg" height="150">](https://youtu.be/moytbQU0Gt8) [<img src="http://img.youtube.com/vi/pBpAV5kH8nI/0.jpg" height="150">](https://youtu.be/pBpAV5kH8nI)|
 |Class 07|**Digital Image**||
 |Class 08|**Projective Geometry**||
 |Class 09|**Linear Filtering**||
@@ -140,7 +131,7 @@ This course grades your final mark based on the marks earned from these assignme
 |:----|:-----|:----|:-----|:-----|
 |Task01|[**Programming**](task/task01)|Jan 11|Jan 22|Jan 29|
 |Task02|[**Signal Processing 1**](task/task02)|Jan 20|Jan 29|Feb 05|
-|Task03|Signal Processing 2|Jan 27|Feb 10|Feb 17|
+|Task03|[**Signal Processing 2**](task/task03)|Jan 27|Feb 10|Feb 17|
 |Task04|Digital Image|Feb 03|Feb 15|Feb 22|
 |Task05|Homography|Feb 10|Feb 24|Mar 03|
 |Task06|Image Processing|Feb 24|Mar 09|Mar 16|
