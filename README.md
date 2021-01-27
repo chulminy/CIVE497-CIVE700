@@ -7,21 +7,21 @@
 **Email:** cmyeum@uwaterloo.ca  
 **TA:** Zaid Al-Sabbag (zaalsabbag@uwaterloo.ca) 
 
-Last updated: 2021-01-24 
+Last updated: 2021-01-26 
 
 **Previous offerings of this course**
 - [**Smart Structure Technology (Winter, 2019)**](w2019)
 - [**Smart Structure Technology (Winter, 2020)**](w2020)
 
 ## Announcement
+:loudspeaker: **2021-01-26**: Here is a poker game solution that I have picked the best one for each rank. Please compare them with your solutions: [**video**](https://www.youtube.com/watch?v=XvHxbukEUmY&list=PLa1nAPP8qUX90fanmEze3zLD41N-4lV25&index=48&ab_channel=ChulMinYeum). 
+
 :loudspeaker: **2021-01-24**: The third task assignment ([**Task03**](task/task03)) is posted. Please study the all lectures of signal processing to complete this task. 
 
 :loudspeaker: **2021-01-24**: Lecture videos for "Class 06: Signal Processing III" are posted. Please check the [**Lecture Video**](#lecture-video) below.
 
 :loudspeaker: **2021-01-19**: The second task assignment ([**Task02**](task/task02)) is posted. Please study the lectures of data acquisition and signal processing to complete this task. 
 
-:loudspeaker: **2021-01-17**: Videos for "Class 04: Signal Processing I" and "Class 05: Signal Processing II" are posted. Please check the [**Lecture Video**](#lecture-video) below.
- 
 ## Table of Contents
 - [**Course Description**](#course-description)
 - [**Intended Learning Outcomes**](#intended-learning-outcomes)
