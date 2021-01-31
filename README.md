@@ -7,13 +7,15 @@
 **Email:** cmyeum@uwaterloo.ca  
 **TA:** Zaid Al-Sabbag (zaalsabbag@uwaterloo.ca) 
 
-Last updated: 2021-01-26 
+Last updated: 2021-01-31 
 
 **Previous offerings of this course**
 - [**Smart Structure Technology (Winter, 2019)**](w2019)
 - [**Smart Structure Technology (Winter, 2020)**](w2020)
 
 ## Announcement
+:loudspeaker: **2021-01-31**: Lecture videos for "Class 07: Digital Image", and "Class 08: Projective Geometry" are posted. Please check the [**Lecture Video**](#lecture-video) below.
+
 :loudspeaker: **2021-01-26**: Here is a poker game solution that I have picked the best one for each rank. Please compare them with your solutions: [**video**](https://www.youtube.com/watch?v=XvHxbukEUmY&list=PLa1nAPP8qUX90fanmEze3zLD41N-4lV25&index=48&ab_channel=ChulMinYeum). 
 
 :loudspeaker: **2021-01-24**: The third task assignment ([**Task03**](task/task03)) is posted. Please study the all lectures of signal processing to complete this task. 
@@ -76,9 +78,9 @@ Slides and tutorials will be updated on a regular basis. The study load for each
 |Class 03|**Data Acquisition**|[slide](lecture/clss03_data_aquisition)|[tutorial](tutorial/data_aquisition)|1|Jan 20||
 |Class 04|**Signal Processing I**|[slide](lecture/clss04_06_signal_processing)|[tutorial](tutorial/signal_processing)|1|Jan 22|[**Task02**](task/task02)|
 |Class 05|**Signal Processing II**|[slide](lecture/clss04_06_signal_processing)|[tutorial](tutorial/signal_processing)|1|Jan 27||
-|Class 06|**Signal Processing III**|[slide](lecture/clss04_06_signal_processing)|[tutorial](tutorial/signal_processing)|2|Jan 29|**Task03**|
-|Class 07|**Digital Image**|||1|Feb 03|**Task04**|
-|Class 08|**Projective Geometry**|||3|Feb 12|**Task05**|
+|Class 06|**Signal Processing III**|[slide](lecture/clss04_06_signal_processing)|[tutorial](tutorial/signal_processing)|2|Jan 29|[**Task03**](task/task03)|
+|Class 07|**Digital Image**|[slide](lecture/clss07_digital_image)||1|Feb 03|**Task04**|
+|Class 08|**Projective Geometry**|[slide](lecture/clss08_project_geometry)|[tutorial](tutorial/projective_geometry)|3|Feb 12|**Task05**|
 |Class 09|**Linear Filtering**|||1|Feb 17| |
 |Class 10|**Edge Detection I**|||1|Feb 26|
 |Class 11|**Edge Detection II**|||1|Mar 05|**Task06**|   
@@ -101,8 +103,8 @@ Slides and tutorials will be updated on a regular basis. The study load for each
 |Class 04|**Signal Processing I**|[<img src="http://img.youtube.com/vi/52p-7BWwQ1Y/0.jpg" height="150">](https://youtu.be/52p-7BWwQ1Y) [<img src="http://img.youtube.com/vi/-ypxsaf21ak/0.jpg" height="150">](https://youtu.be/-ypxsaf21ak)|
 |Class 05|**Signal Processing II**|[<img src="http://img.youtube.com/vi/m2x6Wzc8Cf4/0.jpg" height="150">](https://youtu.be/m2x6Wzc8Cf4)|
 |Class 06|**Signal Processing III**|[<img src="http://img.youtube.com/vi/moytbQU0Gt8/0.jpg" height="150">](https://youtu.be/moytbQU0Gt8) [<img src="http://img.youtube.com/vi/pBpAV5kH8nI/0.jpg" height="150">](https://youtu.be/pBpAV5kH8nI)|
-|Class 07|**Digital Image**||
-|Class 08|**Projective Geometry**||
+|Class 07|**Digital Image**|[<img src="http://img.youtube.com/vi/QuwI0HjQUoI/0.jpg" height="150">](https://youtu.be/QuwI0HjQUoI)|
+|Class 08|**Projective Geometry**|[<img src="http://img.youtube.com/vi/yXSRfpaXDYc/0.jpg" height="150">](https://youtu.be/yXSRfpaXDYc) [<img src="http://img.youtube.com/vi/_LOnmx1PqmY/0.jpg" height="150">](https://youtu.be/_LOnmx1PqmY)|
 |Class 09|**Linear Filtering**||
 |Class 10|**Edge Detection I**||
 |Class 11|**Edge Detection II**||   
