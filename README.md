@@ -14,6 +14,8 @@ Last updated: 2021-01-31
 - [**Smart Structure Technology (Winter, 2020)**](w2020)
 
 ## Announcement
+:loudspeaker: **2021-01-19**: The third task assignment ([**Task04**](task/task04)) is posted. Please study the lectures of "Digital Image" to complete this task. 
+
 :loudspeaker: **2021-01-31**: Lecture videos for "Class 07: Digital Image", and "Class 08: Projective Geometry" are posted. Please check the [**Lecture Video**](#lecture-video) below.
 
 :loudspeaker: **2021-01-26**: Here is a poker game solution that I have picked the best one for each rank. Please compare them with your solutions: [**video**](https://www.youtube.com/watch?v=XvHxbukEUmY&list=PLa1nAPP8qUX90fanmEze3zLD41N-4lV25&index=48&ab_channel=ChulMinYeum). 
