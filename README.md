@@ -7,7 +7,7 @@
 **Email:** cmyeum@uwaterloo.ca  
 **TA:** Zaid Al-Sabbag (zaalsabbag@uwaterloo.ca) 
 
-Last updated: 2021-01-31 
+Last updated: 2021-02-03 
 
 **Previous offerings of this course**
 - [**Smart Structure Technology (Winter, 2019)**](w2019)
@@ -81,7 +81,7 @@ Slides and tutorials will be updated on a regular basis. The study load for each
 |Class 04|**Signal Processing I**|[slide](lecture/clss04_06_signal_processing)|[tutorial](tutorial/signal_processing)|1|Jan 22|[**Task02**](task/task02)|
 |Class 05|**Signal Processing II**|[slide](lecture/clss04_06_signal_processing)|[tutorial](tutorial/signal_processing)|1|Jan 27||
 |Class 06|**Signal Processing III**|[slide](lecture/clss04_06_signal_processing)|[tutorial](tutorial/signal_processing)|2|Jan 29|[**Task03**](task/task03)|
-|Class 07|**Digital Image**|[slide](lecture/clss07_digital_image)||1|Feb 03|**Task04**|
+|Class 07|**Digital Image**|[slide](lecture/clss07_digital_image)||1|Feb 03||[**Task04**](task/task04)|
 |Class 08|**Projective Geometry**|[slide](lecture/clss08_project_geometry)|[tutorial](tutorial/projective_geometry)|3|Feb 12|**Task05**|
 |Class 09|**Linear Filtering**|||1|Feb 17| |
 |Class 10|**Edge Detection I**|||1|Feb 26|
@@ -136,7 +136,7 @@ This course grades your final mark based on the marks earned from these assignme
 |Task01|[**Programming**](task/task01)|Jan 11|Jan 22|Jan 29|
 |Task02|[**Signal Processing 1**](task/task02)|Jan 20|Jan 29|Feb 05|
 |Task03|[**Signal Processing 2**](task/task03)|Jan 27|Feb 10|Feb 17|
-|Task04|Digital Image|Feb 03|Feb 15|Feb 22|
+|Task04|[**Digital Image**](task/task04)|Feb 03|Feb 15|Feb 22|
 |Task05|Homography|Feb 10|Feb 24|Mar 03|
 |Task06|Image Processing|Feb 24|Mar 09|Mar 16|
 |Task07|Feature Matching & RANSAC|Mar 09|Mar 22|Mar 29|
