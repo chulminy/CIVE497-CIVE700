@@ -1,8 +1,8 @@
 # Task04: Camera Sensor and Digital Image
 
 **Announcement**: February 03, 2021        
-**1st due date**: February 15, 2021 before 11:59pm
-**2nd due date**: February 22, 2021 before 11:59pm     
+**1st due date**: February 22, 2021 before 11:59pm
+**2nd due date**: February 29, 2021 before 11:59pm     
 
 The main goal of this problem is to learn a working principle of a digital camera and how to take quality photos using your camera. Students are encouraged to search for relevant information on the web, such as wiki, article, or tutorial video. Please answer the following questions:  
 
