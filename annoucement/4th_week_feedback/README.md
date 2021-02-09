@@ -10,7 +10,7 @@ Eight students responded to the survey and four students left feedback. All stud
 I prefer 3:00~4:00pm on Wednesday starting from this week (2nd week of February, 2021). However, for those who are not able to attend the office hours due to schedule conflict, I can schedule an individual call so please let me know if you can't make it.  
 
 ## Students' Feedback 
-**Here is my response to each written feedback**
+**Here is my response to each written feedback**  
 *Again, if you feel hard and need help, just send me a message through MS team. Any question will be fine. *
 
 |Feedback & Answer|
