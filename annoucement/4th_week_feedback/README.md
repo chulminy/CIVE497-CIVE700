@@ -11,7 +11,7 @@ I prefer 3:00~4:00pm on Wednesday starting from this week (2nd week of February,
 
 ## Students' Feedback 
 **Here is my response to each written feedback**  
-*Again, if you feel hard and need help, just send me a message through MS team. Any question will be fine. *
+*Again, if you feel hard and need help, just send me a message through MS team. Any question will be fine.*
 
 |Feedback & Answer|
 |:---|
