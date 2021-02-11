@@ -7,26 +7,26 @@
 **Email:** cmyeum@uwaterloo.ca  
 **TA:** Zaid Al-Sabbag (zaalsabbag@uwaterloo.ca) 
 
-Last updated: 2021-02-07 
+Last updated: 2021-02-10 
 
 **Previous offerings of this course**
 - [**Smart Structure Technology (Winter, 2019)**](w2019)
 - [**Smart Structure Technology (Winter, 2020)**](w2020)
 
+**Previous offerings of this course**
+- Feedback for the 4th week: [**Link**](annoucement/4th_week_feedback)
+
 ## Announcement
-:loudspeaker: **2021-02-07**: Lecture videos for "Class 09: Linear Filtering" are posted. Please check the [**Lecture Video**](#lecture-video) below.
+:loudspeaker: **2021-02-10**: Only four students have answered the survey. Among them, three students have not finished Signal Processing III yet. I could not check the other student's current study progress but it would be good to delay the schedule a few days. All schedules are delayed by 5 days and all the due dates and ETF are delayed accordingly. Please check the new schedule. 
 
-:loudspeaker: **2021-02-06**: The due date of Task 04 is delayed to the date after the reading week. Please check out the due date.  
-
-:loudspeaker: **2021-02-03**: The third task assignment ([**Task04**](task/task04)) is posted. Please study the lectures of "Digital Image" to complete this task. 
-
-:loudspeaker: **2021-01-31**: Lecture videos for "Class 07: Digital Image", and "Class 08: Projective Geometry" are posted. Please check the [**Lecture Video**](#lecture-video) below.
+:loudspeaker: **2021-02-10**: There will be no office hour next week (reading week). However, I will accept your question anytime!
 
 :loudspeaker: **2021-01-26**: Here is a poker game solution that I have picked the best one for each rank. Please compare them with your solutions: [**video**](https://www.youtube.com/watch?v=XvHxbukEUmY&list=PLa1nAPP8qUX90fanmEze3zLD41N-4lV25&index=48&ab_channel=ChulMinYeum). 
 
+:loudspeaker: **2021-02-03**: The third task assignment ([**Task04**](task/task04)) is posted. Please study the lectures of "Digital Image" to complete this task. 
+
 :loudspeaker: **2021-01-24**: The third task assignment ([**Task03**](task/task03)) is posted. Please study the all lectures of signal processing to complete this task. 
 
-:loudspeaker: **2021-01-24**: Lecture videos for "Class 06: Signal Processing III" are posted. Please check the [**Lecture Video**](#lecture-video) below.
 
 ## Table of Contents
 - [**Course Description**](#course-description)
@@ -84,10 +84,10 @@ Slides and tutorials will be updated on a regular basis. The study load for each
 |Class 05|**Signal Processing II**|[slide](lecture/clss04_06_signal_processing)|[tutorial](tutorial/signal_processing)|1|Jan 27||
 |Class 06|**Signal Processing III**|[slide](lecture/clss04_06_signal_processing)|[tutorial](tutorial/signal_processing)|2|Jan 29|[**Task03**](task/task03)|
 |Class 07|**Digital Image**|[slide](lecture/clss07_digital_image)||1|Feb 03|[**Task04**](task/task04)|
-|Class 08|**Projective Geometry**|[slide](lecture/clss08_project_geometry)|[tutorial](tutorial/projective_geometry)|3|Feb 12|**Task05**|
-|Class 09|**Linear Filtering**|[slide](lecture/clss09_linear_filter)|[tutorial](tutorial/linear_filter)|1|Feb 17| |
-|Class 10|**Edge Detection I**|||1|Feb 26|
-|Class 11|**Edge Detection II**|||1|Mar 05|**Task06**|   
+|Class 08|**Projective Geometry**|[slide](lecture/clss08_project_geometry)|[tutorial](tutorial/projective_geometry)|3|Feb 17|**Task05**|
+|Class 09|**Linear Filtering**|[slide](lecture/clss09_linear_filter)|[tutorial](tutorial/linear_filter)|1|Feb 22| |
+|Class 10|**Edge Detection I**|||1|Mar 02|
+|Class 11|**Edge Detection II**|||1|Mar 07|**Task06**|   
 |Class 12|**Feature**|||2|Mar 12||
 |Class 13|**RANSAC**|||1|Mar 17|**Task07**|  
 |Class 14|**Camera Model**|||1|Mar 19||
@@ -137,13 +137,13 @@ This course grades your final mark based on the marks earned from these assignme
 |:----|:-----|:----|:-----|:-----|
 |Task01|[**Programming**](task/task01)|Jan 11|Jan 22|Jan 29|
 |Task02|[**Signal Processing 1**](task/task02)|Jan 20|Jan 29|Feb 05|
-|Task03|[**Signal Processing 2**](task/task03)|Jan 27|Feb 10|Feb 17|
+|Task03|[**Signal Processing 2**](task/task03)|Jan 27|Feb 15|Feb 22|
 |Task04|[**Digital Image**](task/task04)|Feb 03|Feb 22|Feb 29|
-|Task05|Homography|Feb 10|Feb 26|Mar 05|
-|Task06|Image Processing|Feb 24|Mar 09|Mar 16|
-|Task07|Feature Matching & RANSAC|Mar 09|Mar 22|Mar 29|
-|Task08|Multiview Geometry (SfM)|Mar 19|Apr 02|Apr 09|
-|Task09|Neural Network|Apr 09|Apr 23|Apr 23|
+|Task05|Homography|Feb 15|Mar 03|Mar 10|
+|Task06|Image Processing|Feb 24|Mar 14|Mar 21|
+|Task07|Feature Matching & RANSAC|Mar 14|Mar 27|Apr 05|
+|Task08|Multiview Geometry (SfM)|Mar 24|Apr 07|Apr 14|
+|Task09|Neural Network|Apr 01|Apr 23|Apr 23|
 
 ## Communication  
 **All communication will be made through [this course website](https://github.com/chulminy/CIVE497-CIVE700)**, especially for this web page. The instructor will make a note in the ["Announcement"](#announcement) section if there is an update on the web page. Students can configure email notification for by ["watching"](https://help.github.com/articles/watching-and-unwatching-repositories/) this course website or use a version control system for tracking its changes. Thus, **students are responsible for checking the website regularly** for any relevant course information or announcements. 

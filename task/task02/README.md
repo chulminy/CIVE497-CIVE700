@@ -112,7 +112,7 @@ Compute the Fourier transformation (integral) of the following functions and sho
 
 ![](https://latex.codecogs.com/gif.latex?y%20%3D%20cos%282%20%5Cpi%20p_0%20t%29%20&plus;%20d)
 
-**(c)** cosine wave + dc (direct current) wave
+**(c)** two cosine waves
 
 ![](https://latex.codecogs.com/gif.latex?y%20%3D%20cos%282%5Cpi%20p_0%20t%29%20&plus;%20cos%282%5Cpi%20p_1%20t%29)
 

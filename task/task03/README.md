@@ -1,8 +1,8 @@
 # Task03: Signal Processing II
 
 **Announcement**: January 27, 2021        
-**1st due date**: February 10, 2021 before 11:59pm
-**2nd due date**: February 17, 2021 before 11:59pm 
+**1st due date**: February 15, 2021 before 11:59pm
+**2nd due date**: February 22, 2021 before 11:59pm 
 
 The main goal of this task is to understand the fundamental of signal processing, especially for discrete Fourier transformation. You must study the tutorial to solve the corresponding problems. Please answer all sub-questions in each problem. You should write your own code to solve these questions. 
 
