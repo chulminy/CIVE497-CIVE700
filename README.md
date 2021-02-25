@@ -7,7 +7,7 @@
 **Email:** cmyeum@uwaterloo.ca  
 **TA:** Zaid Al-Sabbag (zaalsabbag@uwaterloo.ca) 
 
-Last updated: 2021-02-12 
+Last updated: 2021-02-24
 
 **Previous offerings of this course**
 - [**Smart Structure Technology (Winter, 2019)**](w2019)
@@ -17,7 +17,9 @@ Last updated: 2021-02-12
 - Feedback for the 4th week: [**Link**](annoucement/4th_week_feedback)
 
 ## Announcement
-:loudspeaker: **2021-02-12**: The third task assignment ([**Task05**](task/task05)) is posted. Please study lectures for projective geometry to complete this task. 
+:loudspeaker: **2021-02-24**: The sixth task assignment ([**Task06**](task/task06)) is posted. Please study the lectures of "Image Processing" to complete this task. 
+
+:loudspeaker: **2021-02-12**: The fifth task assignment ([**Task05**](task/task05)) is posted. Please study lectures for projective geometry to complete this task. 
 
 :loudspeaker: **2021-02-10**: Only four students have answered the survey. Among them, three students have not finished Signal Processing III yet. I could not check the other student's current study progress but it would be good to delay the schedule a few days. All schedules are delayed by 5 days and all the due dates and ETF are delayed accordingly. Please check the new schedule. 
 
@@ -88,8 +90,8 @@ Slides and tutorials will be updated on a regular basis. The study load for each
 |Class 07|**Digital Image**|[slide](lecture/clss07_digital_image)||1|Feb 03|[**Task04**](task/task04)|
 |Class 08|**Projective Geometry**|[slide](lecture/clss08_project_geometry)|[tutorial](tutorial/projective_geometry)|3|Feb 17|[**Task05**](task/task05)|
 |Class 09|**Linear Filtering**|[slide](lecture/clss09_linear_filter)|[tutorial](tutorial/linear_filter)|1|Feb 22| |
-|Class 10|**Edge Detection I**|||1|Mar 02|
-|Class 11|**Edge Detection II**|||1|Mar 07|**Task06**|   
+|Class 10|**Edge Detection I**|[slide](lecture/clss10_11_edge_detection)|[tutorial](tutorial/edge_detection)|1|Mar 02|
+|Class 11|**Edge Detection II**|[slide](lecture/clss10_11_edge_detection)|[tutorial](tutorial/edge_detection)|1|Mar 07|[**Task06**](task/task06)|   
 |Class 12|**Feature**|||2|Mar 12||
 |Class 13|**RANSAC**|||1|Mar 17|**Task07**|  
 |Class 14|**Camera Model**|||1|Mar 19||
@@ -112,8 +114,8 @@ Slides and tutorials will be updated on a regular basis. The study load for each
 |Class 07|**Digital Image**|[<img src="http://img.youtube.com/vi/QuwI0HjQUoI/0.jpg" height="150">](https://youtu.be/QuwI0HjQUoI)|
 |Class 08|**Projective Geometry**|[<img src="http://img.youtube.com/vi/yXSRfpaXDYc/0.jpg" height="150">](https://youtu.be/yXSRfpaXDYc) [<img src="http://img.youtube.com/vi/_LOnmx1PqmY/0.jpg" height="150">](https://youtu.be/_LOnmx1PqmY)|
 |Class 09|**Linear Filtering**|[<img src="http://img.youtube.com/vi/l2893AKrTAM/0.jpg" height="150">](https://youtu.be/l2893AKrTAM)|
-|Class 10|**Edge Detection I**||
-|Class 11|**Edge Detection II**||   
+|Class 10|**Edge Detection I**|[<img src="http://img.youtube.com/vi/IHwgR196PzM/0.jpg" height="150">](https://youtu.be/IHwgR196PzM)|
+|Class 11|**Edge Detection II**|[<img src="http://img.youtube.com/vi/ZjlNvLv-jj0/0.jpg" height="150">](https://youtu.be/ZjlNvLv-jj0)|   
 |Class 12|**Feature**||
 |Class 13|**RANSAC**||  
 |Class 14|**Camera Model**||
@@ -142,7 +144,7 @@ This course grades your final mark based on the marks earned from these assignme
 |Task03|[**Signal Processing 2**](task/task03)|Jan 27|Feb 15|Feb 22|
 |Task04|[**Digital Image**](task/task04)|Feb 03|Feb 22|Feb 29|
 |Task05|[**Homography**](task/task05)|Feb 15|Mar 03|Mar 10|
-|Task06|Image Processing|Feb 24|Mar 14|Mar 21|
+|Task06|[**Image Processing**](task/task06)|Feb 24|Mar 14|Mar 21|
 |Task07|Feature Matching & RANSAC|Mar 14|Mar 27|Apr 05|
 |Task08|Multiview Geometry (SfM)|Mar 24|Apr 07|Apr 14|
 |Task09|Neural Network|Apr 01|Apr 23|Apr 23|
