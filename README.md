@@ -17,9 +17,9 @@ Last updated: 2021-02-28
 - Feedback for the 4th week: [**Link**](annoucement/4th_week_feedback)
 
 ## Announcement
-**2021-02-28**: Correction! For those who attended office hours on Feb 11 regarding a solution review for Task 02, the equation of the reverse sawtooth curve was wrong. I have added a slide explaining a correct solution at the end. See [**task2_review.pdf**](task2_review.pdf).
+**2021-02-28**: Correction! For those who attended the office hour on Feb 11, my equation of the reverse sawtooth curve was wrong. I have added a slide explaining a revised solution at the following [**slide**](task2_review.pdf).  
 
-**2021-02-28**: Correction! Slide 26 in [**signal_processing3_W21_v2**](lecture/clss04_06_signal_processing/signal_processing3_W21_v2.pdf). A correction is explained in the following [**document**](review/correction_signal_processing_3.md). 
+**2021-02-28**: Correction for the slide 26 in [**signal_processing3_W21_v2**](lecture/clss04_06_signal_processing/signal_processing3_W21_v2.pdf). The revision is explained in the following [**document**](review/correction_signal_processing_3.md). 
 
 :loudspeaker: **2021-02-24**: The sixth task assignment ([**Task06**](task/task06)) is posted. Please study the lectures of "Image Processing" to complete this task. 
 
