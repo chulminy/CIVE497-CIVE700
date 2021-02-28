@@ -51,6 +51,9 @@ https://latex.codecogs.com/legacy/eqneditor/editor.php
 Please find a line equation for each side of the table in Image 2. The line equation should be the form of y = a•x + b.   
 
 ## Problem 4: Linear Algebra (20 points)
+
+Note that you should solve (a) and (b) by hand and (c) with a programming script.   
+
 **(a)** Find a transpose of inverse H (include your derivation) 
 
 ![](https://latex.codecogs.com/gif.latex?H%20%3D%20%5Cbegin%7Bbmatrix%7D%201%20%26%200%20%26%200%5C%5C%200%20%26%201%20%26%200%5C%5C%20l_1%20%26%20l_2%20%26%20l_3%20%5Cend%7Bbmatrix%7D)
