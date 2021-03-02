@@ -7,7 +7,7 @@
 **Email:** cmyeum@uwaterloo.ca  
 **TA:** Zaid Al-Sabbag (zaalsabbag@uwaterloo.ca) 
 
-Last updated: 2021-02-28
+Last updated: 2021-03-02
 
 **Previous offerings of this course**
 - [**Smart Structure Technology (Winter, 2019)**](w2019)
@@ -17,24 +17,17 @@ Last updated: 2021-02-28
 - Feedback for the 4th week: [**Link**](annoucement/4th_week_feedback)
 
 ## Announcement
-**2021-02-28**: Correction! For those who attended the office hour on Feb 11, my equation of the reverse sawtooth curve was wrong. I have added a slide explaining a revised solution at the following [**slide**](task2_review.pdf).  
+**2021-03-02**: The best reports for Task 03 from Arian Nedjabat and Niloofar Elyasi are posted (See [**here**](#tasks)). Thank you, Arian and Niloo!  
 
-**2021-02-28**: Correction for the slide 26 in [**signal_processing3_W21_v2**](lecture/clss04_06_signal_processing/signal_processing3_W21_v2.pdf). The revision is explained in the following [**document**](review/correction_signal_processing_3.md). 
+**2021-03-02**: The best report for Task 02 from Raymond Ren is posted (See [**here**](#tasks)). I think Raymond's report is a good layout or format for the report in a Jupyter Notebook. The report in .ipynb format is also posted. Thank you, Raymond.      
+
+**2021-02-28**: **Correction**! For those who attended the office hour on Feb 11, my equation of the reverse sawtooth curve was wrong. I have added a slide explaining a revised solution at the following [**slide**](task2_review.pdf).  
+
+**2021-02-28**: **Correction** for the slide 26 in [**signal_processing3_W21_v2**](lecture/clss04_06_signal_processing/signal_processing3_W21_v2.pdf). The revision is explained in the following [**document**](review/correction_signal_processing_3.md). 
 
 :loudspeaker: **2021-02-24**: The sixth task assignment ([**Task06**](task/task06)) is posted. Please study the lectures of "Image Processing" to complete this task. 
 
 :loudspeaker: **2021-02-12**: The fifth task assignment ([**Task05**](task/task05)) is posted. Please study lectures for projective geometry to complete this task. 
-
-:loudspeaker: **2021-02-10**: Only four students have answered the survey. Among them, three students have not finished Signal Processing III yet. I could not check the other student's current study progress but it would be good to delay the schedule a few days. All schedules are delayed by 5 days and all the due dates and ETF are delayed accordingly. Please check the new schedule. 
-
-:loudspeaker: **2021-02-10**: There will be no office hour next week (reading week). However, I will accept your question anytime!
-
-:loudspeaker: **2021-01-26**: Here is a poker game solution that I have picked the best one for each rank. Please compare them with your solutions: [**video**](https://www.youtube.com/watch?v=XvHxbukEUmY&list=PLa1nAPP8qUX90fanmEze3zLD41N-4lV25&index=48&ab_channel=ChulMinYeum). 
-
-:loudspeaker: **2021-02-03**: The third task assignment ([**Task04**](task/task04)) is posted. Please study the lectures of "Digital Image" to complete this task. 
-
-:loudspeaker: **2021-01-24**: The third task assignment ([**Task03**](task/task03)) is posted. Please study the all lectures of signal processing to complete this task. 
-
 
 ## Table of Contents
 - [**Course Description**](#course-description)
@@ -144,8 +137,8 @@ This course grades your final mark based on the marks earned from these assignme
 |Task|Topics|Announcement|1st Due|2nd Due|
 |:----|:-----|:----|:-----|:-----|
 |Task01|[**Programming**](task/task01)|Jan 11|Jan 22|Jan 29|
-|Task02|[**Signal Processing 1**](task/task02)|Jan 20|Jan 29|Feb 05|
-|Task03|[**Signal Processing 2**](task/task03)|Jan 27|Feb 15|Feb 22|
+|Task02|[**Signal Processing 1**](task/task02) </br> Best report ([Raymond Ren](task/task02/best/))|Jan 20|Jan 29|Feb 05|
+|Task03|[**Signal Processing 2**](task/task03) </br> Best report ([Arian Nedjabat](task/task03/best/Rept_Task03_Arian_BA_20661686.pdf),[Niloofar Elyasi](task/task03/best/Rept_niloo_PH_20925091.pdf))|Jan 27|Feb 15|Feb 22|
 |Task04|[**Digital Image**](task/task04)|Feb 03|Feb 22|Feb 29|
 |Task05|[**Homography**](task/task05)|Feb 15|Mar 03|Mar 10|
 |Task06|[**Image Processing**](task/task06)|Feb 24|Mar 14|Mar 21|
