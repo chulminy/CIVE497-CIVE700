@@ -17,6 +17,8 @@ Last updated: 2021-03-02
 - Feedback for the 4th week: [**Link**](annoucement/4th_week_feedback)
 
 ## Announcement
+**2021-03-02**: In tomorrow's office hour, I will review Task 03 and answer your questions regarding the lectures of projective geometry and linear filter, and Task 05 or Task 06.   
+
 **2021-03-02**: The best reports for Task 03 from Arian Nedjabat and Niloofar Elyasi are posted (See [**here**](#tasks)). Thank you, Arian and Niloo!  
 
 **2021-03-02**: The best report for Task 02 from Raymond Ren is posted (See [**here**](#tasks)). I think Raymond's report is a good layout or format for the report in a Jupyter Notebook. The report in .ipynb format is also posted. Thank you, Raymond.      
