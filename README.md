@@ -7,7 +7,7 @@
 **Email:** cmyeum@uwaterloo.ca  
 **TA:** Zaid Al-Sabbag (zaalsabbag@uwaterloo.ca) 
 
-Last updated: 2021-03-02
+Last updated: 2021-03-03
 
 **Previous offerings of this course**
 - [**Smart Structure Technology (Winter, 2019)**](w2019)
@@ -17,6 +17,8 @@ Last updated: 2021-03-02
 - Feedback for the 4th week: [**Link**](annoucement/4th_week_feedback)
 
 ## Announcement
+**2021-03-03**: The best reports for Task 04 from Rishabh Bajaj and Ryan Kong are posted (See [**here**](#tasks)). Thank you, Rishabh and Ryan! Also, I gathered your answers for "best phone cameras" and "future of phone cameras". Please check out the following [**document**](review/unqiue_future_smart_phone_camera.md). 
+
 **2021-03-02**: In tomorrow's office hour, I will review Task 03 and answer your questions regarding the lectures of projective geometry and linear filter, and Task 05 or Task 06.   
 
 **2021-03-02**: The best reports for Task 03 from Arian Nedjabat and Niloofar Elyasi are posted (See [**here**](#tasks)). Thank you, Arian and Niloo!  
@@ -141,7 +143,7 @@ This course grades your final mark based on the marks earned from these assignme
 |Task01|[**Programming**](task/task01)|Jan 11|Jan 22|Jan 29|
 |Task02|[**Signal Processing 1**](task/task02) </br> Best report ([Raymond Ren](task/task02/best/))|Jan 20|Jan 29|Feb 05|
 |Task03|[**Signal Processing 2**](task/task03) </br> Best report ([Arian Nedjabat](task/task03/best/Rept_Task03_Arian_BA_20661686.pdf),[Niloofar Elyasi](task/task03/best/Rept_niloo_PH_20925091.pdf))|Jan 27|Feb 15|Feb 22|
-|Task04|[**Digital Image**](task/task04)|Feb 03|Feb 22|Feb 29|
+|Task04|[**Digital Image**](task/task04) </br> Best report ([Rishabh Bajaj](task/task04/best/Rept_risha_PH_20912910.pdf),[Ryan Kong](task/task04/best/Rept_ryank_BA_20668791.pdf)) </br> [*Students' answers for Q4 and Q5*](review/unqiue_future_smart_phone_camera.md) |Feb 03|Feb 22|Feb 29|
 |Task05|[**Homography**](task/task05)|Feb 15|Mar 03|Mar 10|
 |Task06|[**Image Processing**](task/task06)|Feb 24|Mar 14|Mar 21|
 |Task07|Feature Matching & RANSAC|Mar 14|Mar 27|Apr 05|
