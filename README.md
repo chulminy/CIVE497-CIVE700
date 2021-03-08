@@ -18,7 +18,7 @@ Last updated: 2021-03-07
 - Feedback for the 8th week: [**Link**](annoucement/8th_week_feedback)
 
 ## Announcement
-**2021-03-07**: Please check out the feedback for the 8th week study progress. The due dates for the rest of the task assignments have been updated! 
+**2021-03-07**: Please check out [**the feedback for the 8th week study progress**](annoucement/8th_week_feedback). The due dates for the rest of the task assignments have been updated! 
 
 **2021-03-07**: A lecture video for "Class12: Feature - Part 1" is posted. Please check the [**Lecture Video**](#lecture-video) below. 
 
