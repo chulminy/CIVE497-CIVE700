@@ -2,7 +2,7 @@
 
 **Announcement**: February 15, 2021        
 **1st due date**: March 03, 2021 before 11:59pm
-**2nd due date**: March 10, 2021 before 11:59pm        
+**2nd due date**: March 12, 2021 before 11:59pm        
 
 The main goal of this task is to understand the fundamental of the homogeneous coordinate and the homography relationship between points on two images of the same planar surface in space. Please answer all sub-questions in each problem. You should write your own code to solve these questions. 
 

@@ -1,8 +1,8 @@
 # Task06: Image Processing
 
 **Announcement**: February 24, 2021        
-**1st due date**: March 08, 2021 before 11:59pm
-**2nd due date**: March 15, 2021 before 11:59pm       
+**1st due date**: March 19, 2021 before 11:59pm
+**2nd due date**: March 26, 2021 before 11:59pm       
 
 The main goal of this task is to understand the fundamental of the linear filter, edge detection, and Hough transform. You must study the tutorials at edge detection, linear filter, and image morphology before solving these problems. Please answer all sub-questions in each problem. You should write your own code to solve these questions. 
 

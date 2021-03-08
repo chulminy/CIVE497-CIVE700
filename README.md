@@ -7,7 +7,7 @@
 **Email:** cmyeum@uwaterloo.ca  
 **TA:** Zaid Al-Sabbag (zaalsabbag@uwaterloo.ca) 
 
-Last updated: 2021-03-03
+Last updated: 2021-03-07
 
 **Previous offerings of this course**
 - [**Smart Structure Technology (Winter, 2019)**](w2019)
@@ -93,7 +93,7 @@ Slides and tutorials will be updated on a regular basis. The study load for each
 |Class 09|**Linear Filtering**|[slide](lecture/clss09_linear_filter)|[tutorial](tutorial/linear_filter)|1|Feb 22| |
 |Class 10|**Edge Detection I**|[slide](lecture/clss10_11_edge_detection)|[tutorial](tutorial/edge_detection)|1|Mar 02|
 |Class 11|**Edge Detection II**|[slide](lecture/clss10_11_edge_detection)|[tutorial](tutorial/edge_detection)|1|Mar 07|[**Task06**](task/task06)|   
-|Class 12|**Feature**|||2|Mar 12||
+|Class 12|**Feature**|[slide](lecture/clss12_feature)|[tutorial](tutorial/feature)|2|Mar 12||
 |Class 13|**RANSAC**|||1|Mar 17|**Task07**|  
 |Class 14|**Camera Model**|||1|Mar 19||
 |Class 15|**Two-view Geometry**|||1.5|Mar 24||
@@ -117,7 +117,7 @@ Slides and tutorials will be updated on a regular basis. The study load for each
 |Class 09|**Linear Filtering**|[<img src="http://img.youtube.com/vi/l2893AKrTAM/0.jpg" height="150">](https://youtu.be/l2893AKrTAM)|
 |Class 10|**Edge Detection I**|[<img src="http://img.youtube.com/vi/IHwgR196PzM/0.jpg" height="150">](https://youtu.be/IHwgR196PzM)|
 |Class 11|**Edge Detection II**|[<img src="http://img.youtube.com/vi/ZjlNvLv-jj0/0.jpg" height="150">](https://youtu.be/ZjlNvLv-jj0)|   
-|Class 12|**Feature**||
+|Class 12|**Feature**|[<img src="http://img.youtube.com/vi/kLmCt43qafU/0.jpg" height="150">](https://youtu.be/kLmCt43qafU)|
 |Class 13|**RANSAC**||  
 |Class 14|**Camera Model**||
 |Class 15|**Two-view Geometry**||
@@ -144,10 +144,10 @@ This course grades your final mark based on the marks earned from these assignme
 |Task02|[**Signal Processing 1**](task/task02) </br> Best report ([Raymond Ren](task/task02/best/))|Jan 20|Jan 29|Feb 05|
 |Task03|[**Signal Processing 2**](task/task03) </br> Best report ([Arian Nedjabat](task/task03/best/Rept_Task03_Arian_BA_20661686.pdf),[Niloofar Elyasi](task/task03/best/Rept_niloo_PH_20925091.pdf))|Jan 27|Feb 15|Feb 22|
 |Task04|[**Digital Image**](task/task04) </br> Best report ([Rishabh Bajaj](task/task04/best/Rept_risha_PH_20912910.pdf),[Ryan Kong](task/task04/best/Rept_ryank_BA_20668791.pdf)) </br> [*Students' answers for Q4 and Q5*](review/unqiue_future_smart_phone_camera.md) |Feb 03|Feb 22|Feb 29|
-|Task05|[**Homography**](task/task05)|Feb 15|Mar 03|Mar 10|
-|Task06|[**Image Processing**](task/task06)|Feb 24|Mar 14|Mar 21|
-|Task07|Feature Matching & RANSAC|Mar 14|Mar 27|Apr 05|
-|Task08|Multiview Geometry (SfM)|Mar 24|Apr 07|Apr 14|
+|Task05|[**Homography**](task/task05)|Feb 15|Mar 03|Mar 12|
+|Task06|[**Image Processing**](task/task06)|Feb 24|Mar 19|Mar 26|
+|Task07|Feature Matching & RANSAC|Mar 14|Apr 02|Apr 09|
+|Task08|Multiview Geometry (SfM)|Mar 24|Apr 09|Apr 16|
 |Task09|Neural Network|Apr 01|Apr 23|Apr 23|
 
 ## Communication  
