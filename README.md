@@ -15,8 +15,13 @@ Last updated: 2021-03-07
 
 **Previous offerings of this course**
 - Feedback for the 4th week: [**Link**](annoucement/4th_week_feedback)
+- Feedback for the 8th week: [**Link**](annoucement/8th_week_feedback)
 
 ## Announcement
+**2021-03-07**: Please check out the feedback for the 8th week study progress. The due dates for the rest of the task assignments have been updated! 
+
+**2021-03-07**: A lecture video for "Class12: Feature - Part 1" is posted. Please check the [**Lecture Video**](#lecture-video) below. 
+
 **2021-03-03**: The best reports for Task 04 from Rishabh Bajaj and Ryan Kong are posted (See [**here**](#tasks)). Thank you, Rishabh and Ryan! Also, I gathered your answers for "best phone cameras" and "future of phone cameras". Please check out the following [**document**](review/unqiue_future_smart_phone_camera.md). 
 
 **2021-03-02**: In tomorrow's office hour, I will review Task 03 and answer your questions regarding the lectures of projective geometry and linear filter, and Task 05 or Task 06.   
