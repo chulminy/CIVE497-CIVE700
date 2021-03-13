@@ -7,7 +7,7 @@
 **Email:** cmyeum@uwaterloo.ca  
 **TA:** Zaid Al-Sabbag (zaalsabbag@uwaterloo.ca) 
 
-Last updated: 2021-03-12
+Last updated: 2021-03-13
 
 **Previous offerings of this course**
 - [**Smart Structure Technology (Winter, 2019)**](w2019)
@@ -18,6 +18,8 @@ Last updated: 2021-03-12
 - Feedback for the 8th week: [**Link**](annoucement/8th_week_feedback)
 
 ## Announcement
+**2021-03-13**: A lecture video for "Class12: Feature - Part 2" is posted. Please check the [**Lecture Video**](#lecture-video) below. 
+
 **2021-03-12**: Sorry for the delay of the "Feature: Part 2" lecture video. I will upload it over this weekend. 
 
 **2021-03-07**: Please check out [**the feedback for the 8th week study progress**](annoucement/8th_week_feedback). The due dates for the rest of the task assignments have been updated! 
@@ -124,7 +126,7 @@ Slides and tutorials will be updated on a regular basis. The study load for each
 |Class 09|**Linear Filtering**|[<img src="http://img.youtube.com/vi/l2893AKrTAM/0.jpg" height="150">](https://youtu.be/l2893AKrTAM)|
 |Class 10|**Edge Detection I**|[<img src="http://img.youtube.com/vi/IHwgR196PzM/0.jpg" height="150">](https://youtu.be/IHwgR196PzM)|
 |Class 11|**Edge Detection II**|[<img src="http://img.youtube.com/vi/ZjlNvLv-jj0/0.jpg" height="150">](https://youtu.be/ZjlNvLv-jj0)|   
-|Class 12|**Feature**|[<img src="http://img.youtube.com/vi/kLmCt43qafU/0.jpg" height="150">](https://youtu.be/kLmCt43qafU)|
+|Class 12|**Feature**|[<img src="http://img.youtube.com/vi/kLmCt43qafU/0.jpg" height="150">](https://youtu.be/kLmCt43qafU) [<img src="http://img.youtube.com/vi/BZsU2BvS8_M/0.jpg" height="150">](https://youtu.be/BZsU2BvS8_M)|
 |Class 13|**RANSAC**||  
 |Class 14|**Camera Model**||
 |Class 15|**Two-view Geometry**||
