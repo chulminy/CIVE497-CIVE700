@@ -7,7 +7,7 @@
 **Email:** cmyeum@uwaterloo.ca  
 **TA:** Zaid Al-Sabbag (zaalsabbag@uwaterloo.ca) 
 
-Last updated: 2021-03-13
+Last updated: 2021-03-14
 
 **Previous offerings of this course**
 - [**Smart Structure Technology (Winter, 2019)**](w2019)
@@ -18,17 +18,17 @@ Last updated: 2021-03-13
 - Feedback for the 8th week: [**Link**](annoucement/8th_week_feedback)
 
 ## Announcement
-**2021-03-13**: A lecture video for "Class12: Feature - Part 2" is posted. Please check the [**Lecture Video**](#lecture-video) below. 
+:loudspeaker: **2021-03-14**: The seventh task assignment ([**Task07**](task/task07)) is posted. Please study the lectures of "Feature Matching and RANSAC" to complete this task. 
 
-**2021-03-12**: Sorry for the delay of the "Feature: Part 2" lecture video. I will upload it over this weekend. 
+**2021-03-13**: A lecture video for "Class13: RANSAC" is posted. Please check the [**Lecture Video**](#lecture-video) below. 
+
+**2021-03-13**: A lecture video for "Class12: Feature - Part 2" is posted. Please check the [**Lecture Video**](#lecture-video) below. 
 
 **2021-03-07**: Please check out [**the feedback for the 8th week study progress**](annoucement/8th_week_feedback). The due dates for the rest of the task assignments have been updated! 
 
 **2021-03-07**: A lecture video for "Class12: Feature - Part 1" is posted. Please check the [**Lecture Video**](#lecture-video) below. 
 
 **2021-03-03**: The best reports for Task 04 from Rishabh Bajaj and Ryan Kong are posted (See [**here**](#tasks)). Thank you, Rishabh and Ryan! Also, I gathered your answers for "best phone cameras" and "future of phone cameras". Please check out the following [**document**](review/unqiue_future_smart_phone_camera.md). 
-
-**2021-03-02**: In tomorrow's office hour, I will review Task 03 and answer your questions regarding the lectures of projective geometry and linear filter, and Task 05 or Task 06.   
 
 **2021-03-02**: The best reports for Task 03 from Arian Nedjabat and Niloofar Elyasi are posted (See [**here**](#tasks)). Thank you, Arian and Niloo!  
 
@@ -39,8 +39,6 @@ Last updated: 2021-03-13
 **2021-02-28**: **Correction** for the slide 26 in [**signal_processing3_W21_v2**](lecture/clss04_06_signal_processing/signal_processing3_W21_v2.pdf). The revision is explained in the following [**document**](review/correction_signal_processing_3.md). 
 
 :loudspeaker: **2021-02-24**: The sixth task assignment ([**Task06**](task/task06)) is posted. Please study the lectures of "Image Processing" to complete this task. 
-
-:loudspeaker: **2021-02-12**: The fifth task assignment ([**Task05**](task/task05)) is posted. Please study lectures for projective geometry to complete this task. 
 
 ## Table of Contents
 - [**Course Description**](#course-description)
@@ -103,7 +101,7 @@ Slides and tutorials will be updated on a regular basis. The study load for each
 |Class 10|**Edge Detection I**|[slide](lecture/clss10_11_edge_detection)|[tutorial](tutorial/edge_detection)|1|Mar 02|
 |Class 11|**Edge Detection II**|[slide](lecture/clss10_11_edge_detection)|[tutorial](tutorial/edge_detection)|1|Mar 07|[**Task06**](task/task06)|   
 |Class 12|**Feature**|[slide](lecture/clss12_feature)|[tutorial](tutorial/feature)|2|Mar 12||
-|Class 13|**RANSAC**|||1|Mar 17|**Task07**|  
+|Class 13|**RANSAC**|[slide](lecture/clss13_ransac)|[tutorial](tutorial/ransac)|1|Mar 17|[**Task07**](task/task07)|  
 |Class 14|**Camera Model**|||1|Mar 19||
 |Class 15|**Two-view Geometry**|||1.5|Mar 24||
 |Class 16|**Structure From Motion**|||0.5|Mar 26|**Task08**|
@@ -127,7 +125,7 @@ Slides and tutorials will be updated on a regular basis. The study load for each
 |Class 10|**Edge Detection I**|[<img src="http://img.youtube.com/vi/IHwgR196PzM/0.jpg" height="150">](https://youtu.be/IHwgR196PzM)|
 |Class 11|**Edge Detection II**|[<img src="http://img.youtube.com/vi/ZjlNvLv-jj0/0.jpg" height="150">](https://youtu.be/ZjlNvLv-jj0)|   
 |Class 12|**Feature**|[<img src="http://img.youtube.com/vi/kLmCt43qafU/0.jpg" height="150">](https://youtu.be/kLmCt43qafU) [<img src="http://img.youtube.com/vi/BZsU2BvS8_M/0.jpg" height="150">](https://youtu.be/BZsU2BvS8_M)|
-|Class 13|**RANSAC**||  
+|Class 13|**RANSAC**|[<img src="http://img.youtube.com/vi/kLmCt43qafU/0.jpg" height="150">](https://youtu.be/kLmCt43qafU)|  
 |Class 14|**Camera Model**||
 |Class 15|**Two-view Geometry**||
 |Class 16|**Structure From Motion**||
@@ -155,7 +153,7 @@ This course grades your final mark based on the marks earned from these assignme
 |Task04|[**Digital Image**](task/task04) </br> Best report ([Rishabh Bajaj](task/task04/best/Rept_risha_PH_20912910.pdf),[Ryan Kong](task/task04/best/Rept_ryank_BA_20668791.pdf)) </br> [*Students' answers for Q4 and Q5*](review/unqiue_future_smart_phone_camera.md) |Feb 03|Feb 22|Feb 29|
 |Task05|[**Homography**](task/task05)|Feb 15|Mar 03|Mar 12|
 |Task06|[**Image Processing**](task/task06)|Feb 24|Mar 19|Mar 26|
-|Task07|Feature Matching & RANSAC|Mar 14|Apr 02|Apr 09|
+|Task07|[**Feature Matching & RANSAC**](task/task07)|Mar 14|Apr 02|Apr 09|
 |Task08|Multiview Geometry (SfM)|Mar 24|Apr 09|Apr 16|
 |Task09|Neural Network|Apr 01|Apr 23|Apr 23|
 
