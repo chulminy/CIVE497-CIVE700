@@ -125,7 +125,7 @@ Slides and tutorials will be updated on a regular basis. The study load for each
 |Class 10|**Edge Detection I**|[<img src="http://img.youtube.com/vi/IHwgR196PzM/0.jpg" height="150">](https://youtu.be/IHwgR196PzM)|
 |Class 11|**Edge Detection II**|[<img src="http://img.youtube.com/vi/ZjlNvLv-jj0/0.jpg" height="150">](https://youtu.be/ZjlNvLv-jj0)|   
 |Class 12|**Feature**|[<img src="http://img.youtube.com/vi/kLmCt43qafU/0.jpg" height="150">](https://youtu.be/kLmCt43qafU) [<img src="http://img.youtube.com/vi/BZsU2BvS8_M/0.jpg" height="150">](https://youtu.be/BZsU2BvS8_M)|
-|Class 13|**RANSAC**|[<img src="http://img.youtube.com/vi/kLmCt43qafU/0.jpg" height="150">](https://youtu.be/kLmCt43qafU)|  
+|Class 13|**RANSAC**|[<img src="http://img.youtube.com/vi/afZg68R4b9M/0.jpg" height="150">](https://youtu.be/afZg68R4b9M)|  
 |Class 14|**Camera Model**||
 |Class 15|**Two-view Geometry**||
 |Class 16|**Structure From Motion**||
