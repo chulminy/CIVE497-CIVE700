@@ -80,7 +80,7 @@ This problem is to write your own program that extracts a booklet image from eac
 
 [![](http://img.youtube.com/vi/wi4LXCr3xfs/0.jpg)](https://youtu.be/wi4LXCr3xfs)
 
-A sample code is provided in [**problem4**](problem4). You need to write your own code for extracting four corners of the booklet using edge detection and Hough transform on the given images. In other word, you need to write your own `FindCorner` function. In addition, you need to reuse your `ComputeH`, which was used in Task05. Note that you only remove perspective distortion, meaning that resulting images could be horizontally or vertically flipped.  
+A sample code is provided in [**problem4**](problem4). You need to write your own code for extracting four corners of the booklet using edge detection and Hough transform on the given images. In other word, you need to write your own `FindCorner` function. In addition, you might need  your `ComputeH`, which was used in Task05. Note that you only remove perspective distortion, meaning that resulting images could be horizontally or vertically flipped.  
 
 **Next**, you need to take photos and demonstrate your code using your own images. Certainly, your code should work on your own images as well. Please include both results and codes in your submission.  
 
