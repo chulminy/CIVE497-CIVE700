@@ -7,7 +7,7 @@
 **Email:** cmyeum@uwaterloo.ca  
 **TA:** Zaid Al-Sabbag (zaalsabbag@uwaterloo.ca) 
 
-Last updated: 2021-03-14
+Last updated: 2021-03-17
 
 **Previous offerings of this course**
 - [**Smart Structure Technology (Winter, 2019)**](w2019)
@@ -18,25 +18,13 @@ Last updated: 2021-03-14
 - Feedback for the 8th week: [**Link**](annoucement/8th_week_feedback)
 
 ## Announcement
+**2021-03-17**: The best reports for Task 05 from Arian Nedjabat and Raymond Ren are posted (See [**here**](#tasks)). Thank you, Arian and Raymond!  
+
 :loudspeaker: **2021-03-14**: The seventh task assignment ([**Task07**](task/task07)) is posted. Please study the lectures of "Feature Matching and RANSAC" to complete this task. 
 
 **2021-03-13**: A lecture video for "Class13: RANSAC" is posted. Please check the [**Lecture Video**](#lecture-video) below. 
 
 **2021-03-13**: A lecture video for "Class12: Feature - Part 2" is posted. Please check the [**Lecture Video**](#lecture-video) below. 
-
-**2021-03-07**: Please check out [**the feedback for the 8th week study progress**](annoucement/8th_week_feedback). The due dates for the rest of the task assignments have been updated! 
-
-**2021-03-07**: A lecture video for "Class12: Feature - Part 1" is posted. Please check the [**Lecture Video**](#lecture-video) below. 
-
-**2021-03-03**: The best reports for Task 04 from Rishabh Bajaj and Ryan Kong are posted (See [**here**](#tasks)). Thank you, Rishabh and Ryan! Also, I gathered your answers for "best phone cameras" and "future of phone cameras". Please check out the following [**document**](review/unqiue_future_smart_phone_camera.md). 
-
-**2021-03-02**: The best reports for Task 03 from Arian Nedjabat and Niloofar Elyasi are posted (See [**here**](#tasks)). Thank you, Arian and Niloo!  
-
-**2021-03-02**: The best report for Task 02 from Raymond Ren is posted (See [**here**](#tasks)). I think Raymond's report is a good layout or format for the report in a Jupyter Notebook. The report in .ipynb format is also posted. Thank you, Raymond.      
-
-**2021-02-28**: **Correction**! For those who attended the office hour on Feb 11, my equation of the reverse sawtooth curve was wrong. I have added a slide explaining a revised solution at the following [**slide**](task2_review.pdf).  
-
-**2021-02-28**: **Correction** for the slide 26 in [**signal_processing3_W21_v2**](lecture/clss04_06_signal_processing/signal_processing3_W21_v2.pdf). The revision is explained in the following [**document**](review/correction_signal_processing_3.md). 
 
 :loudspeaker: **2021-02-24**: The sixth task assignment ([**Task06**](task/task06)) is posted. Please study the lectures of "Image Processing" to complete this task. 
 
@@ -151,7 +139,7 @@ This course grades your final mark based on the marks earned from these assignme
 |Task02|[**Signal Processing 1**](task/task02) </br> Best report ([Raymond Ren](task/task02/best/))|Jan 20|Jan 29|Feb 05|
 |Task03|[**Signal Processing 2**](task/task03) </br> Best report ([Arian Nedjabat](task/task03/best/Rept_Task03_Arian_BA_20661686.pdf),[Niloofar Elyasi](task/task03/best/Rept_niloo_PH_20925091.pdf))|Jan 27|Feb 15|Feb 22|
 |Task04|[**Digital Image**](task/task04) </br> Best report ([Rishabh Bajaj](task/task04/best/Rept_risha_PH_20912910.pdf),[Ryan Kong](task/task04/best/Rept_ryank_BA_20668791.pdf)) </br> [*Students' answers for Q4 and Q5*](review/unqiue_future_smart_phone_camera.md) |Feb 03|Feb 22|Feb 29|
-|Task05|[**Homography**](task/task05)|Feb 15|Mar 03|Mar 12|
+|Task05|[**Homography**](task/task05) </br> Best report ([Arian Nedjabat](task/task05/best/Rept_Task05_Arian_BA_20661686.pdf),[Raymond Ren](task/task05/best/Rept_raymo_BA_20667930.pdf))|Feb 15|Mar 03|Mar 12|
 |Task06|[**Image Processing**](task/task06)|Feb 24|Mar 19|Mar 26|
 |Task07|[**Feature Matching & RANSAC**](task/task07)|Mar 14|Apr 02|Apr 09|
 |Task08|Multiview Geometry (SfM)|Mar 24|Apr 09|Apr 16|
