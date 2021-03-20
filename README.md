@@ -7,7 +7,7 @@
 **Email:** cmyeum@uwaterloo.ca  
 **TA:** Zaid Al-Sabbag (zaalsabbag@uwaterloo.ca) 
 
-Last updated: 2021-03-17
+Last updated: 2021-03-19
 
 **Previous offerings of this course**
 - [**Smart Structure Technology (Winter, 2019)**](w2019)
@@ -18,6 +18,8 @@ Last updated: 2021-03-17
 - Feedback for the 8th week: [**Link**](annoucement/8th_week_feedback)
 
 ## Announcement
+**2021-03-19**: A lecture video for "Class15: Two-view Geometry" is posted. Please check the [**Lecture Video**](#lecture-video) below. 
+
 **2021-03-17**: A lecture video for "Class14: Camera Model" is posted. Please check the [**Lecture Video**](#lecture-video) below. 
 
 **2021-03-17**: The best reports for Task 05 from Arian Nedjabat and Raymond Ren are posted (See [**here**](#tasks)). Thank you, Arian and Raymond!  
@@ -93,7 +95,7 @@ Slides and tutorials will be updated on a regular basis. The study load for each
 |Class 12|**Feature**|[slide](lecture/clss12_feature)|[tutorial](tutorial/feature)|2|Mar 12||
 |Class 13|**RANSAC**|[slide](lecture/clss13_ransac)|[tutorial](tutorial/ransac)|1|Mar 17|[**Task07**](task/task07)|  
 |Class 14|**Camera Model**|[slide](lecture/clss14_camera_model)||1|Mar 19||
-|Class 15|**Two-view Geometry**|||1.5|Mar 24||
+|Class 15|**Two-view Geometry**|[slide](lecture/clss15_two_view_geometry)|[tutorial](tutorial/two_view_geometry)|1.5|Mar 24||
 |Class 16|**Structure From Motion**|||0.5|Mar 26|**Task08**|
 |Class 17|**Introduction of Machine Learning**|||0.5|Mar 31||
 |Class 18|**Gradient Descent**|||1|Mar 31||
@@ -117,7 +119,7 @@ Slides and tutorials will be updated on a regular basis. The study load for each
 |Class 12|**Feature**|[<img src="http://img.youtube.com/vi/kLmCt43qafU/0.jpg" height="150">](https://youtu.be/kLmCt43qafU) [<img src="http://img.youtube.com/vi/BZsU2BvS8_M/0.jpg" height="150">](https://youtu.be/BZsU2BvS8_M)|
 |Class 13|**RANSAC**|[<img src="http://img.youtube.com/vi/afZg68R4b9M/0.jpg" height="150">](https://youtu.be/afZg68R4b9M)|  
 |Class 14|**Camera Model**|[<img src="http://img.youtube.com/vi/6_PJj7GrkL8/0.jpg" height="150">](https://youtu.be/6_PJj7GrkL8)|
-|Class 15|**Two-view Geometry**||
+|Class 15|**Two-view Geometry**|[<img src="http://img.youtube.com/vi/5_rez7tvg8I/0.jpg" height="150">](https://youtu.be/5_rez7tvg8I)|
 |Class 16|**Structure From Motion**||
 |Class 17|**Introduction of Machine Learning**||
 |Class 18|**Gradient Descent**||
