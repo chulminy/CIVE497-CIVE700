@@ -7,7 +7,7 @@
 **Email:** cmyeum@uwaterloo.ca  
 **TA:** Zaid Al-Sabbag (zaalsabbag@uwaterloo.ca) 
 
-Last updated: 2021-03-19
+Last updated: 2021-03-25
 
 **Previous offerings of this course**
 - [**Smart Structure Technology (Winter, 2019)**](w2019)
@@ -18,6 +18,10 @@ Last updated: 2021-03-19
 - Feedback for the 8th week: [**Link**](annoucement/8th_week_feedback)
 
 ## Announcement
+:loudspeaker: **2021-03-25**: The eighth task assignment ([**Task08**](task/task08)) is posted. Please study the lectures of "Image Geometry" to complete this task. 
+
+**2021-03-25**: A lecture video for "Class16: Structure From Motion" is posted. Please check the [**Lecture Video**](#lecture-video) below. 
+
 **2021-03-19**: A lecture video for "Class15: Two-view Geometry" is posted. Please check the [**Lecture Video**](#lecture-video) below. 
 
 **2021-03-17**: A lecture video for "Class14: Camera Model" is posted. Please check the [**Lecture Video**](#lecture-video) below. 
@@ -96,7 +100,7 @@ Slides and tutorials will be updated on a regular basis. The study load for each
 |Class 13|**RANSAC**|[slide](lecture/clss13_ransac)|[tutorial](tutorial/ransac)|1|Mar 17|[**Task07**](task/task07)|  
 |Class 14|**Camera Model**|[slide](lecture/clss14_camera_model)||1|Mar 19||
 |Class 15|**Two-view Geometry**|[slide](lecture/clss15_two_view_geometry)|[tutorial](tutorial/two_view_geometry)|1.5|Mar 24||
-|Class 16|**Structure From Motion**|||0.5|Mar 26|**Task08**|
+|Class 16|**Structure From Motion**|[slide](lecture/clss16_SfM)|[tutorial](tutorial/sfm)|0.5|Mar 26|[**Task08**](task/task08)|
 |Class 17|**Introduction of Machine Learning**|||0.5|Mar 31||
 |Class 18|**Gradient Descent**|||1|Mar 31||
 |Class 19|**Training Linear Model**|||1|Apr 02||
@@ -120,7 +124,7 @@ Slides and tutorials will be updated on a regular basis. The study load for each
 |Class 13|**RANSAC**|[<img src="http://img.youtube.com/vi/afZg68R4b9M/0.jpg" height="150">](https://youtu.be/afZg68R4b9M)|  
 |Class 14|**Camera Model**|[<img src="http://img.youtube.com/vi/6_PJj7GrkL8/0.jpg" height="150">](https://youtu.be/6_PJj7GrkL8)|
 |Class 15|**Two-view Geometry**|[<img src="http://img.youtube.com/vi/5_rez7tvg8I/0.jpg" height="150">](https://youtu.be/5_rez7tvg8I)|
-|Class 16|**Structure From Motion**||
+|Class 16|**Structure From Motion**|[<img src="http://img.youtube.com/vi/DFuQd2xw0ek/0.jpg" height="150">](https://youtu.be/DFuQd2xw0ek)|
 |Class 17|**Introduction of Machine Learning**||
 |Class 18|**Gradient Descent**||
 |Class 19|**Training Linear Model**||
@@ -146,7 +150,7 @@ This course grades your final mark based on the marks earned from these assignme
 |Task05|[**Homography**](task/task05) </br> Best report ([Arian Nedjabat](task/task05/best/Rept_Task05_Arian_BA_20661686.pdf),[Raymond Ren](task/task05/best/Rept_raymo_BA_20667930.pdf))|Feb 15|Mar 03|Mar 12|
 |Task06|[**Image Processing**](task/task06)|Feb 24|Mar 19|Mar 26|
 |Task07|[**Feature Matching & RANSAC**](task/task07)|Mar 14|Apr 02|Apr 09|
-|Task08|Multiview Geometry (SfM)|Mar 24|Apr 09|Apr 16|
+|Task08|[**Multiview Geometry (SfM)**](task/task08)|Mar 24|Apr 09|Apr 16|
 |Task09|Neural Network|Apr 01|Apr 23|Apr 23|
 
 ## Communication  
