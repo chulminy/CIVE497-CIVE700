@@ -7,7 +7,7 @@
 **Email:** cmyeum@uwaterloo.ca  
 **TA:** Zaid Al-Sabbag (zaalsabbag@uwaterloo.ca) 
 
-Last updated: 2021-03-25
+Last updated: 2021-03-29
 
 **Previous offerings of this course**
 - [**Smart Structure Technology (Winter, 2019)**](w2019)
@@ -17,7 +17,15 @@ Last updated: 2021-03-25
 - Feedback for the 4th week: [**Link**](annoucement/4th_week_feedback)
 - Feedback for the 8th week: [**Link**](annoucement/8th_week_feedback)
 
+**Course Evaluation**
+
+|||
+|:----|:----|
+|[<img src="annoucement/53o3tc.jpg" width="2500" >](https://evaluate.uwaterloo.ca)|[**Course Evaluations**](https://evaluate.uwaterloo.ca) are your opportunity to provide feedback to your course instructor. Your experiences are valuable in helping instructors make decisions about how they will teach future offerings of this course. Please include comments that are specific to this course - I would like to know what went well, and what could use some adjustment. We understand that this has been an exceptional academic term, and that everyone has been working extra hard in these exceptional times. Course Evaluation will be available to you **from 8:30 am, Monday, March 29th until 11:59 pm on Friday, April 9th**. Access the electronic course evaluation system on your phone, tablet, or computer by visiting https://evaluate.uwaterloo.ca and logging in using your UW credentials.|
+
 ## Announcement
+:loudspeaker: **2021-03-29**: Posting lecture videos for Class 17 and 18 will be delayed for about two or three days. Sorry for the delay.
+
 :loudspeaker: **2021-03-25**: The eighth task assignment ([**Task08**](task/task08)) is posted. Please study the lectures of "Image Geometry" to complete this task. 
 
 **2021-03-25**: A lecture video for "Class16: Structure From Motion" is posted. Please check the [**Lecture Video**](#lecture-video) below. 
@@ -26,15 +34,7 @@ Last updated: 2021-03-25
 
 **2021-03-17**: A lecture video for "Class14: Camera Model" is posted. Please check the [**Lecture Video**](#lecture-video) below. 
 
-**2021-03-17**: The best reports for Task 05 from Arian Nedjabat and Raymond Ren are posted (See [**here**](#tasks)). Thank you, Arian and Raymond!  
-
 :loudspeaker: **2021-03-14**: The seventh task assignment ([**Task07**](task/task07)) is posted. Please study the lectures of "Feature Matching and RANSAC" to complete this task. 
-
-**2021-03-13**: A lecture video for "Class13: RANSAC" is posted. Please check the [**Lecture Video**](#lecture-video) below. 
-
-**2021-03-13**: A lecture video for "Class12: Feature - Part 2" is posted. Please check the [**Lecture Video**](#lecture-video) below. 
-
-:loudspeaker: **2021-02-24**: The sixth task assignment ([**Task06**](task/task06)) is posted. Please study the lectures of "Image Processing" to complete this task. 
 
 ## Table of Contents
 - [**Course Description**](#course-description)
