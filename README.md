@@ -7,7 +7,7 @@
 **Email:** cmyeum@uwaterloo.ca  
 **TA:** Zaid Al-Sabbag (zaalsabbag@uwaterloo.ca) 
 
-Last updated: 2021-04-01
+Last updated: 2021-04-02
 
 **Previous offerings of this course**
 - [**Smart Structure Technology (Winter, 2019)**](w2019)
@@ -24,7 +24,9 @@ Last updated: 2021-04-01
 |[<img src="annoucement/53o3tc.jpg" width="3000" >](https://evaluate.uwaterloo.ca)|[**Course Evaluations**](https://evaluate.uwaterloo.ca) are your opportunity to provide feedback to your course instructor. Your experiences are valuable in helping instructors make decisions about how they will teach future offerings of this course. Please include comments that are specific to this course - I would like to know what went well, and what could use some adjustment. We understand that this has been an exceptional academic term, and that everyone has been working extra hard in these exceptional times. Course Evaluation will be available to you **from 8:30 am, Monday, March 29th until 11:59 pm on Friday, April 9th**. Access the electronic course evaluation system on your phone, tablet, or computer by visiting https://evaluate.uwaterloo.ca and logging in using your UW credentials.|
 
 ## Announcement
-**2021-04-01**: A lecture video for "Class17: Introduction of Machine Learning" is posted. Please check the [**Lecture Video**](#lecture-video) below. 
+**2021-04-02**: Lecture videos for "Class18: Gradient Descent", and "Class19: Training Linear Model" are posted. Please check the [**Lecture Video**](#lecture-video) below. 
+
+**2021-04-01**: A lecture video for "Class17: Introduction of Machine Learning" is posted. Please check the [**Lecture Video**](#lecture-video) below. There is one more video on this lecture ("Class17: Machine Learning in Practice") and it will be posted shortly. 
 
 :loudspeaker: **2021-03-25**: The eighth task assignment ([**Task08**](task/task08)) is posted. Please study the lectures of "Image Geometry" to complete this task. 
 
@@ -94,7 +96,7 @@ Slides and tutorials will be updated on a regular basis. The study load for each
 |Class 07|**Digital Image**|[slide](lecture/clss07_digital_image)||1|Feb 03|[**Task04**](task/task04)|
 |Class 08|**Projective Geometry**|[slide](lecture/clss08_project_geometry)|[tutorial](tutorial/projective_geometry)|3|Feb 17|[**Task05**](task/task05)|
 |Class 09|**Linear Filtering**|[slide](lecture/clss09_linear_filter)|[tutorial](tutorial/linear_filter)|1|Feb 22| |
-|Class 10|**Edge Detection I**|[slide](lecture/clss10_11_edge_detection)|[tutorial](tutorial/edge_detection)|1|Mar 02|
+|Class 10|**Edge Detection I**|[slide](lecture/clss10_11_edge_detection)|[tutorial](tutorial/edge_detection)|1|Mar 02||
 |Class 11|**Edge Detection II**|[slide](lecture/clss10_11_edge_detection)|[tutorial](tutorial/edge_detection)|1|Mar 07|[**Task06**](task/task06)|   
 |Class 12|**Feature**|[slide](lecture/clss12_feature)|[tutorial](tutorial/feature)|2|Mar 12||
 |Class 13|**RANSAC**|[slide](lecture/clss13_ransac)|[tutorial](tutorial/ransac)|1|Mar 17|[**Task07**](task/task07)|  
@@ -102,8 +104,8 @@ Slides and tutorials will be updated on a regular basis. The study load for each
 |Class 15|**Two-view Geometry**|[slide](lecture/clss15_two_view_geometry)|[tutorial](tutorial/two_view_geometry)|1.5|Mar 24||
 |Class 16|**Structure From Motion**|[slide](lecture/clss16_SfM)|[tutorial](tutorial/sfm)|0.5|Mar 26|[**Task08**](task/task08)|
 |Class 17|**Introduction of Machine Learning**|[slide](lecture/clss17_ml_intro)||0.5|Mar 31||
-|Class 18|**Gradient Descent**|||1|Mar 31||
-|Class 19|**Training Linear Model**|||1|Apr 02||
+|Class 18|**Gradient Descent**|[slide](lecture/clss18_ml_gd)|[tutorial](tutorial/ml_gd)|1|Mar 31||
+|Class 19|**Training Linear Model**|[slide](lecture/clss19_ml_lg)|[tutorial](tutorial/ml_linear_model)|1|Apr 02||
 |Class 20|**Neural Network**|||2|Apr 09|**Task09**|
 
 #### Lecture Video
@@ -126,8 +128,8 @@ Slides and tutorials will be updated on a regular basis. The study load for each
 |Class 15|**Two-view Geometry**|[<img src="http://img.youtube.com/vi/5_rez7tvg8I/0.jpg" height="150">](https://youtu.be/5_rez7tvg8I)|
 |Class 16|**Structure From Motion**|[<img src="http://img.youtube.com/vi/DFuQd2xw0ek/0.jpg" height="150">](https://youtu.be/DFuQd2xw0ek)|
 |Class 17|**Introduction of Machine Learning**|[<img src="http://img.youtube.com/vi/PdZ0cbddxfI/0.jpg" height="150">](https://youtu.be/PdZ0cbddxfI)|
-|Class 18|**Gradient Descent**||
-|Class 19|**Training Linear Model**||
+|Class 18|**Gradient Descent**|[<img src="http://img.youtube.com/vi/mZVHNXxdAys/0.jpg" height="150">](https://youtu.be/mZVHNXxdAys)|
+|Class 19|**Training Linear Model**|[<img src="http://img.youtube.com/vi/31CSIqymnWY/0.jpg" height="150">](https://youtu.be/31CSIqymnWY)|
 |Class 20|**Neural Network**||
 
 ## Tasks
@@ -151,7 +153,7 @@ This course grades your final mark based on the marks earned from these assignme
 |Task06|[**Image Processing**](task/task06)|Feb 24|Mar 19|Mar 26|
 |Task07|[**Feature Matching & RANSAC**](task/task07)|Mar 14|Apr 02|Apr 09|
 |Task08|[**Multiview Geometry (SfM)**](task/task08)|Mar 24|Apr 09|Apr 16|
-|Task09|Neural Network|Apr 01|Apr 23|Apr 23|
+|Task09|Neural Network|Apr 09|Apr 23|Apr 23|
 
 ## Communication  
 **All communication will be made through [this course website](https://github.com/chulminy/CIVE497-CIVE700)**, especially for this web page. The instructor will make a note in the ["Announcement"](#announcement) section if there is an update on the web page. Students can configure email notification for by ["watching"](https://help.github.com/articles/watching-and-unwatching-repositories/) this course website or use a version control system for tracking its changes. Thus, **students are responsible for checking the website regularly** for any relevant course information or announcements. 
