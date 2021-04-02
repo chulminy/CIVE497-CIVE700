@@ -7,7 +7,7 @@
 **Email:** cmyeum@uwaterloo.ca  
 **TA:** Zaid Al-Sabbag (zaalsabbag@uwaterloo.ca) 
 
-Last updated: 2021-03-29
+Last updated: 2021-04-01
 
 **Previous offerings of this course**
 - [**Smart Structure Technology (Winter, 2019)**](w2019)
@@ -24,7 +24,7 @@ Last updated: 2021-03-29
 |[<img src="annoucement/53o3tc.jpg" width="3000" >](https://evaluate.uwaterloo.ca)|[**Course Evaluations**](https://evaluate.uwaterloo.ca) are your opportunity to provide feedback to your course instructor. Your experiences are valuable in helping instructors make decisions about how they will teach future offerings of this course. Please include comments that are specific to this course - I would like to know what went well, and what could use some adjustment. We understand that this has been an exceptional academic term, and that everyone has been working extra hard in these exceptional times. Course Evaluation will be available to you **from 8:30 am, Monday, March 29th until 11:59 pm on Friday, April 9th**. Access the electronic course evaluation system on your phone, tablet, or computer by visiting https://evaluate.uwaterloo.ca and logging in using your UW credentials.|
 
 ## Announcement
-:loudspeaker: **2021-03-29**: Posting lecture videos for Class 17 and 18 will be delayed for about two or three days. Sorry for the delay.
+**2021-04-01**: A lecture video for "Class17: Introduction of Machine Learning" is posted. Please check the [**Lecture Video**](#lecture-video) below. 
 
 :loudspeaker: **2021-03-25**: The eighth task assignment ([**Task08**](task/task08)) is posted. Please study the lectures of "Image Geometry" to complete this task. 
 
@@ -101,7 +101,7 @@ Slides and tutorials will be updated on a regular basis. The study load for each
 |Class 14|**Camera Model**|[slide](lecture/clss14_camera_model)||1|Mar 19||
 |Class 15|**Two-view Geometry**|[slide](lecture/clss15_two_view_geometry)|[tutorial](tutorial/two_view_geometry)|1.5|Mar 24||
 |Class 16|**Structure From Motion**|[slide](lecture/clss16_SfM)|[tutorial](tutorial/sfm)|0.5|Mar 26|[**Task08**](task/task08)|
-|Class 17|**Introduction of Machine Learning**|||0.5|Mar 31||
+|Class 17|**Introduction of Machine Learning**|[slide](lecture/clss17_ml_intro)||0.5|Mar 31||
 |Class 18|**Gradient Descent**|||1|Mar 31||
 |Class 19|**Training Linear Model**|||1|Apr 02||
 |Class 20|**Neural Network**|||2|Apr 09|**Task09**|
@@ -125,7 +125,7 @@ Slides and tutorials will be updated on a regular basis. The study load for each
 |Class 14|**Camera Model**|[<img src="http://img.youtube.com/vi/6_PJj7GrkL8/0.jpg" height="150">](https://youtu.be/6_PJj7GrkL8)|
 |Class 15|**Two-view Geometry**|[<img src="http://img.youtube.com/vi/5_rez7tvg8I/0.jpg" height="150">](https://youtu.be/5_rez7tvg8I)|
 |Class 16|**Structure From Motion**|[<img src="http://img.youtube.com/vi/DFuQd2xw0ek/0.jpg" height="150">](https://youtu.be/DFuQd2xw0ek)|
-|Class 17|**Introduction of Machine Learning**||
+|Class 17|**Introduction of Machine Learning**|[<img src="http://img.youtube.com/vi/PdZ0cbddxfI/0.jpg" height="150">](https://youtu.be/PdZ0cbddxfI)|
 |Class 18|**Gradient Descent**||
 |Class 19|**Training Linear Model**||
 |Class 20|**Neural Network**||
