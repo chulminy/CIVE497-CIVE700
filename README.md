@@ -7,7 +7,7 @@
 **Email:** cmyeum@uwaterloo.ca  
 **TA:** Zaid Al-Sabbag (zaalsabbag@uwaterloo.ca) 
 
-Last updated: 2021-04-05
+Last updated: 2021-04-07
 
 **Previous offerings of this course**
 - [**Smart Structure Technology (Winter, 2019)**](w2019)
@@ -27,8 +27,6 @@ Last updated: 2021-04-05
 **2021-04-05**: If you are a MAC user and have a problem on installing vsfm, please try this through Engineering Remote Desktop (https://uwaterloo.ca/engineering-computing/remote-desktop-connection). Since I do not have a MAC computer, I can't help you with this problem.
 
 **2021-04-02**: Lecture videos for "Class18: Gradient Descent", and "Class19: Training Linear Model" are posted. Please check the [**Lecture Video**](#lecture-video) below. 
-
-**2021-04-01**: A lecture video for "Class17: Introduction of Machine Learning" is posted. Please check the [**Lecture Video**](#lecture-video) below. There is one more video on this lecture ("Class17: Machine Learning in Practice") and it will be posted shortly. 
 
 :loudspeaker: **2021-03-25**: The eighth task assignment ([**Task08**](task/task08)) is posted. Please study the lectures of "Image Geometry" to complete this task. 
 
@@ -129,7 +127,7 @@ Slides and tutorials will be updated on a regular basis. The study load for each
 |Class 14|**Camera Model**|[<img src="http://img.youtube.com/vi/6_PJj7GrkL8/0.jpg" height="150">](https://youtu.be/6_PJj7GrkL8)|
 |Class 15|**Two-view Geometry**|[<img src="http://img.youtube.com/vi/5_rez7tvg8I/0.jpg" height="150">](https://youtu.be/5_rez7tvg8I)|
 |Class 16|**Structure From Motion**|[<img src="http://img.youtube.com/vi/DFuQd2xw0ek/0.jpg" height="150">](https://youtu.be/DFuQd2xw0ek)|
-|Class 17|**Introduction of Machine Learning**|[<img src="http://img.youtube.com/vi/PdZ0cbddxfI/0.jpg" height="150">](https://youtu.be/PdZ0cbddxfI)|
+|Class 17|**Introduction of Machine Learning**|[<img src="http://img.youtube.com/vi/PdZ0cbddxfI/0.jpg" height="150">](https://youtu.be/PdZ0cbddxfI) [<img src="http://img.youtube.com/vi/FHZIJgLVXBw/0.jpg" height="150">](https://youtu.be/FHZIJgLVXBw)|
 |Class 18|**Gradient Descent**|[<img src="http://img.youtube.com/vi/mZVHNXxdAys/0.jpg" height="150">](https://youtu.be/mZVHNXxdAys)|
 |Class 19|**Training Linear Model**|[<img src="http://img.youtube.com/vi/31CSIqymnWY/0.jpg" height="150">](https://youtu.be/31CSIqymnWY)|
 |Class 20|**Neural Network**||
