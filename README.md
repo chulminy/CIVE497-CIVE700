@@ -106,7 +106,7 @@ Slides and tutorials will be updated on a regular basis. The study load for each
 |Class 17|**Introduction of Machine Learning**|[slide](lecture/clss17_ml_intro)||0.5|Mar 31||
 |Class 18|**Gradient Descent**|[slide](lecture/clss18_ml_gd)|[tutorial](tutorial/ml_gd)|1|Mar 31||
 |Class 19|**Training Linear Model**|[slide](lecture/clss19_ml_lg)|[tutorial](tutorial/ml_linear_model)|1|Apr 02||
-|Class 20|**Neural Network**|||2|Apr 09|**Task09**|
+|Class 20|**Neural Network**|[slide](lecture/clss20_ml_nn)|[tutorial](tutorial/neural_network)|2|Apr 09|[**Task09**](task/task09)|
 
 #### Lecture Video
 |Class|Topics|Video|
@@ -153,7 +153,7 @@ This course grades your final mark based on the marks earned from these assignme
 |Task06|[**Image Processing**](task/task06)|Feb 24|Mar 19|Mar 26|
 |Task07|[**Feature Matching & RANSAC**](task/task07)|Mar 14|Apr 02|Apr 09|
 |Task08|[**Multiview Geometry (SfM)**](task/task08)|Mar 24|Apr 09|Apr 16|
-|Task09|Neural Network|Apr 09|Apr 23|Apr 23|
+|Task09|[**Neural Network**](task/task09)|Apr 09|Apr 23|Apr 23|
 
 ## Communication  
 **All communication will be made through [this course website](https://github.com/chulminy/CIVE497-CIVE700)**, especially for this web page. The instructor will make a note in the ["Announcement"](#announcement) section if there is an update on the web page. Students can configure email notification for by ["watching"](https://help.github.com/articles/watching-and-unwatching-repositories/) this course website or use a version control system for tracking its changes. Thus, **students are responsible for checking the website regularly** for any relevant course information or announcements. 
