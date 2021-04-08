@@ -7,7 +7,7 @@
 **Email:** cmyeum@uwaterloo.ca  
 **TA:** Zaid Al-Sabbag (zaalsabbag@uwaterloo.ca) 
 
-Last updated: 2021-04-07
+Last updated: 2021-04-08
 
 **Previous offerings of this course**
 - [**Smart Structure Technology (Winter, 2019)**](w2019)
@@ -24,17 +24,13 @@ Last updated: 2021-04-07
 |[<img src="annoucement/53o3tc.jpg" width="3000" >](https://evaluate.uwaterloo.ca)|[**Course Evaluations**](https://evaluate.uwaterloo.ca) are your opportunity to provide feedback to your course instructor. Your experiences are valuable in helping instructors make decisions about how they will teach future offerings of this course. Please include comments that are specific to this course - I would like to know what went well, and what could use some adjustment. We understand that this has been an exceptional academic term, and that everyone has been working extra hard in these exceptional times. Course Evaluation will be available to you **from 8:30 am, Monday, March 29th until 11:59 pm on Friday, April 9th**. Access the electronic course evaluation system on your phone, tablet, or computer by visiting https://evaluate.uwaterloo.ca and logging in using your UW credentials.|
 
 ## Announcement
+**2021-04-08**: Lecture videos for "Class20-1: Neural Network I", and "Class20-2: Neural Network II" are posted. Please check the [**Lecture Video**](#lecture-video) below. 
+
 **2021-04-05**: If you are a MAC user and have a problem on installing vsfm, please try this through Engineering Remote Desktop (https://uwaterloo.ca/engineering-computing/remote-desktop-connection). Since I do not have a MAC computer, I can't help you with this problem.
 
-**2021-04-02**: Lecture videos for "Class18: Gradient Descent", and "Class19: Training Linear Model" are posted. Please check the [**Lecture Video**](#lecture-video) below. 
+:loudspeaker: **2021-04-08**: The eighth task assignment ([**Task09**](task/task09)) is posted. Please study the lectures of "Machine Learning" to complete this task. 
 
 :loudspeaker: **2021-03-25**: The eighth task assignment ([**Task08**](task/task08)) is posted. Please study the lectures of "Image Geometry" to complete this task. 
-
-**2021-03-25**: A lecture video for "Class16: Structure From Motion" is posted. Please check the [**Lecture Video**](#lecture-video) below. 
-
-**2021-03-19**: A lecture video for "Class15: Two-view Geometry" is posted. Please check the [**Lecture Video**](#lecture-video) below. 
-
-**2021-03-17**: A lecture video for "Class14: Camera Model" is posted. Please check the [**Lecture Video**](#lecture-video) below. 
 
 :loudspeaker: **2021-03-14**: The seventh task assignment ([**Task07**](task/task07)) is posted. Please study the lectures of "Feature Matching and RANSAC" to complete this task. 
 
@@ -130,7 +126,7 @@ Slides and tutorials will be updated on a regular basis. The study load for each
 |Class 17|**Introduction of Machine Learning**|[<img src="http://img.youtube.com/vi/PdZ0cbddxfI/0.jpg" height="150">](https://youtu.be/PdZ0cbddxfI) [<img src="http://img.youtube.com/vi/FHZIJgLVXBw/0.jpg" height="150">](https://youtu.be/FHZIJgLVXBw)|
 |Class 18|**Gradient Descent**|[<img src="http://img.youtube.com/vi/mZVHNXxdAys/0.jpg" height="150">](https://youtu.be/mZVHNXxdAys)|
 |Class 19|**Training Linear Model**|[<img src="http://img.youtube.com/vi/31CSIqymnWY/0.jpg" height="150">](https://youtu.be/31CSIqymnWY)|
-|Class 20|**Neural Network**||
+|Class 20|**Neural Network**|[<img src="http://img.youtube.com/vi/pZLQywcd2Lw/0.jpg" height="150">](https://youtu.be/pZLQywcd2Lw) [<img src="http://img.youtube.com/vi/lIjEW38i75g/0.jpg" height="150">](https://youtu.be/lIjEW38i75g)|
 
 ## Tasks
 There will be **9 tasks** and they will be posted on this course website weekly or bi-weekly. **The instructor encourage students to work in groups through collaborative learning, but to submit their assignments individually.** The task will have programming components or photography components, where students will use their own camera to capture and process their own images and discuss the results. Students are supposed to complete all tasks and turn their works in by the due date. You can access the best reports for the assignments in previous years from [**w2019**](w2019#tasks) and [**w2020**](w2020#tasks). The problems will be similar to the ones in the previous assignments. However, the students must not copy and paste the codes or texts in those reports. Also, some answers in the model report are not correct.     
