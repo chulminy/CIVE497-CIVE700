@@ -8,7 +8,7 @@
 The main goal of this task is to understand the fundamental of neural network through training your own models. Several sample examples are provided in the [**tutorial**](../../tutorial/neural_network/neural_network_code). I recommend reviewing the tutorial codes in the folder and making an effort to learn how the codes work.  
     
 ## Problem 1 (40 points)
-**(a)** Try out a neural network playground in this link: [http://playground.tensorflow.org](http://playground.tensorflow.org). Run all four examples by changing features, # of hidden layers, # of neurons, activation function, and/or learning rate. Please watch a convergence speed of the loss depending on the parameter changes that you made. (You do not need to include your results in your report).
+**(a)** Try out a neural network playground in this link: [http://playground.tensorflow.org](http://playground.tensorflow.org). Run all four examples by changing features, # of hidden layers, # of neurons, activation function, and/or learning rate. Please watch a convergence speed of the loss depending on the parameter changes that you made. (You do not need to include any result in your report).
 
 **(b)** Please run all demos in the [**tutorial**](../../tutorial/neural_network/neural_network_code). I recommend that you configure parameters to improve the results. Please watch my review video.  
 

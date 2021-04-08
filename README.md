@@ -24,11 +24,11 @@ Last updated: 2021-04-08
 |[<img src="annoucement/53o3tc.jpg" width="3000" >](https://evaluate.uwaterloo.ca)|[**Course Evaluations**](https://evaluate.uwaterloo.ca) are your opportunity to provide feedback to your course instructor. Your experiences are valuable in helping instructors make decisions about how they will teach future offerings of this course. Please include comments that are specific to this course - I would like to know what went well, and what could use some adjustment. We understand that this has been an exceptional academic term, and that everyone has been working extra hard in these exceptional times. Course Evaluation will be available to you **from 8:30 am, Monday, March 29th until 11:59 pm on Friday, April 9th**. Access the electronic course evaluation system on your phone, tablet, or computer by visiting https://evaluate.uwaterloo.ca and logging in using your UW credentials.|
 
 ## Announcement
+:loudspeaker: **2021-04-08**: The eighth task assignment ([**Task09**](task/task09)) is posted. Please study the lectures of "Machine Learning" to complete this task. 
+
 **2021-04-08**: Lecture videos for "Class20-1: Neural Network I", and "Class20-2: Neural Network II" are posted. Please check the [**Lecture Video**](#lecture-video) below. 
 
 **2021-04-05**: If you are a MAC user and have a problem on installing vsfm, please try this through Engineering Remote Desktop (https://uwaterloo.ca/engineering-computing/remote-desktop-connection). Since I do not have a MAC computer, I can't help you with this problem.
-
-:loudspeaker: **2021-04-08**: The eighth task assignment ([**Task09**](task/task09)) is posted. Please study the lectures of "Machine Learning" to complete this task. 
 
 :loudspeaker: **2021-03-25**: The eighth task assignment ([**Task08**](task/task08)) is posted. Please study the lectures of "Image Geometry" to complete this task. 
 
