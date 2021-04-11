@@ -7,7 +7,7 @@
 **Email:** cmyeum@uwaterloo.ca  
 **TA:** Zaid Al-Sabbag (zaalsabbag@uwaterloo.ca) 
 
-Last updated: 2021-04-08
+Last updated: 2021-04-11
 
 **Previous offerings of this course**
 - [**Smart Structure Technology (Winter, 2019)**](w2019)
@@ -17,13 +17,9 @@ Last updated: 2021-04-08
 - Feedback for the 4th week: [**Link**](annoucement/4th_week_feedback)
 - Feedback for the 8th week: [**Link**](annoucement/8th_week_feedback)
 
-**Course Evaluation**
-
-|||
-|:----|:----|
-|[<img src="annoucement/53o3tc.jpg" width="3000" >](https://evaluate.uwaterloo.ca)|[**Course Evaluations**](https://evaluate.uwaterloo.ca) are your opportunity to provide feedback to your course instructor. Your experiences are valuable in helping instructors make decisions about how they will teach future offerings of this course. Please include comments that are specific to this course - I would like to know what went well, and what could use some adjustment. We understand that this has been an exceptional academic term, and that everyone has been working extra hard in these exceptional times. Course Evaluation will be available to you **from 8:30 am, Monday, March 29th until 11:59 pm on Friday, April 9th**. Access the electronic course evaluation system on your phone, tablet, or computer by visiting https://evaluate.uwaterloo.ca and logging in using your UW credentials.|
-
 ## Announcement
+:loudspeaker: **2021-04-11**: The best reports for Task 06 from Janice Zhang is posted (See [**here**](task/task06/best/Rept_janicz_BA_20664084.pdf)). Thank you, Janice!
+
 :loudspeaker: **2021-04-08**: The eighth task assignment ([**Task09**](task/task09)) is posted. Please study the lectures of "Machine Learning" to complete this task. 
 
 **2021-04-08**: Lecture videos for "Class20-1: Neural Network I", and "Class20-2: Neural Network II" are posted. Please check the [**Lecture Video**](#lecture-video) below. 
@@ -146,7 +142,7 @@ This course grades your final mark based on the marks earned from these assignme
 |Task03|[**Signal Processing 2**](task/task03) </br> Best report ([Arian Nedjabat](task/task03/best/Rept_Task03_Arian_BA_20661686.pdf),[Niloofar Elyasi](task/task03/best/Rept_niloo_PH_20925091.pdf))|Jan 27|Feb 15|Feb 22|
 |Task04|[**Digital Image**](task/task04) </br> Best report ([Rishabh Bajaj](task/task04/best/Rept_risha_PH_20912910.pdf),[Ryan Kong](task/task04/best/Rept_ryank_BA_20668791.pdf)) </br> [*Students' answers for Q4 and Q5*](review/unqiue_future_smart_phone_camera.md) |Feb 03|Feb 22|Feb 29|
 |Task05|[**Homography**](task/task05) </br> Best report ([Arian Nedjabat](task/task05/best/Rept_Task05_Arian_BA_20661686.pdf),[Raymond Ren](task/task05/best/Rept_raymo_BA_20667930.pdf))|Feb 15|Mar 03|Mar 12|
-|Task06|[**Image Processing**](task/task06)|Feb 24|Mar 19|Mar 26|
+|Task06|[**Image Processing**](task/task06)</br> Best report ([Janice Zhang](task/task06/best/Rept_janicz_BA_20664084.pdf)|Feb 24|Mar 19|Mar 26|
 |Task07|[**Feature Matching & RANSAC**](task/task07)|Mar 14|Apr 02|Apr 09|
 |Task08|[**Multiview Geometry (SfM)**](task/task08)|Mar 24|Apr 09|Apr 16|
 |Task09|[**Neural Network**](task/task09)|Apr 09|Apr 23|Apr 23|
