@@ -7,28 +7,20 @@
 **Email:** cmyeum@uwaterloo.ca  
 **TA:** Zaid Al-Sabbag (zaalsabbag@uwaterloo.ca) 
 
-Last updated: 2021-04-11
+Last updated: 2021-04-19
 
 **Previous offerings of this course**
 - [**Smart Structure Technology (Winter, 2019)**](w2019)
 - [**Smart Structure Technology (Winter, 2020)**](w2020)
 
-**Previous offerings of this course**
-- Feedback for the 4th week: [**Link**](annoucement/4th_week_feedback)
-- Feedback for the 8th week: [**Link**](annoucement/8th_week_feedback)
-
 ## Announcement
-:loudspeaker: **2021-04-11**: The best reports for Task 06 from Janice Zhang is posted (See [**here**](task/task06/best/Rept_janicz_BA_20664084.pdf)). Thank you, Janice!
+:loudspeaker: **2021-04-19**: The best report for Task 07 from Raymond Ren is posted (See [**here**](task/task07/best/Rept_raymo_BA_20667930.pdf)). Thank you, Raymond!
 
 :loudspeaker: **2021-04-08**: The eighth task assignment ([**Task09**](task/task09)) is posted. Please study the lectures of "Machine Learning" to complete this task. 
-
-**2021-04-08**: Lecture videos for "Class20-1: Neural Network I", and "Class20-2: Neural Network II" are posted. Please check the [**Lecture Video**](#lecture-video) below. 
 
 **2021-04-05**: If you are a MAC user and have a problem on installing vsfm, please try this through Engineering Remote Desktop (https://uwaterloo.ca/engineering-computing/remote-desktop-connection). Since I do not have a MAC computer, I can't help you with this problem.
 
 :loudspeaker: **2021-03-25**: The eighth task assignment ([**Task08**](task/task08)) is posted. Please study the lectures of "Image Geometry" to complete this task. 
-
-:loudspeaker: **2021-03-14**: The seventh task assignment ([**Task07**](task/task07)) is posted. Please study the lectures of "Feature Matching and RANSAC" to complete this task. 
 
 ## Table of Contents
 - [**Course Description**](#course-description)
@@ -143,7 +135,7 @@ This course grades your final mark based on the marks earned from these assignme
 |Task04|[**Digital Image**](task/task04) </br> Best report ([Rishabh Bajaj](task/task04/best/Rept_risha_PH_20912910.pdf),[Ryan Kong](task/task04/best/Rept_ryank_BA_20668791.pdf)) </br> [*Students' answers for Q4 and Q5*](review/unqiue_future_smart_phone_camera.md) |Feb 03|Feb 22|Feb 29|
 |Task05|[**Homography**](task/task05) </br> Best report ([Arian Nedjabat](task/task05/best/Rept_Task05_Arian_BA_20661686.pdf),[Raymond Ren](task/task05/best/Rept_raymo_BA_20667930.pdf))|Feb 15|Mar 03|Mar 12|
 |Task06|[**Image Processing**](task/task06)</br> Best report ([Janice Zhang](task/task06/best/Rept_janicz_BA_20664084.pdf))|Feb 24|Mar 19|Mar 26|
-|Task07|[**Feature Matching & RANSAC**](task/task07)|Mar 14|Apr 02|Apr 09|
+|Task07|[**Feature Matching & RANSAC**](task/task07)</br> Best report ([Raymond Ren](task/task07/best/Rept_raymo_BA_20667930.pdf))|Mar 14|Apr 02|Apr 09|
 |Task08|[**Multiview Geometry (SfM)**](task/task08)|Mar 24|Apr 09|Apr 16|
 |Task09|[**Neural Network**](task/task09)|Apr 09|Apr 23|Apr 23|
 
