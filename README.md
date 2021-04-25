@@ -7,20 +7,7 @@
 **Email:** cmyeum@uwaterloo.ca  
 **TA:** Zaid Al-Sabbag (zaalsabbag@uwaterloo.ca) 
 
-Last updated: 2021-04-19
-
-**Previous offerings of this course**
-- [**Smart Structure Technology (Winter, 2019)**](w2019)
-- [**Smart Structure Technology (Winter, 2020)**](w2020)
-
-## Announcement
-:loudspeaker: **2021-04-19**: The best report for Task 07 from Raymond Ren is posted (See [**here**](task/task07/best/Rept_raymo_BA_20667930.pdf)). Thank you, Raymond!
-
-:loudspeaker: **2021-04-08**: The eighth task assignment ([**Task09**](task/task09)) is posted. Please study the lectures of "Machine Learning" to complete this task. 
-
-**2021-04-05**: If you are a MAC user and have a problem on installing vsfm, please try this through Engineering Remote Desktop (https://uwaterloo.ca/engineering-computing/remote-desktop-connection). Since I do not have a MAC computer, I can't help you with this problem.
-
-:loudspeaker: **2021-03-25**: The eighth task assignment ([**Task08**](task/task08)) is posted. Please study the lectures of "Image Geometry" to complete this task. 
+Last updated: 2021-04-25
 
 ## Table of Contents
 - [**Course Description**](#course-description)
