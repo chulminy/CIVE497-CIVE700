@@ -9,6 +9,38 @@
 **Problem 1**
 The main goal of this problem is to prepare for your programming activities throughout the course. It is a good opportunity for reviewing the programming course materials that you learned in your undergraduate. You can review your own course material or the instructor's teaching material from [AE/ENVE/GEOE121](https://github.com/chulminy/AE_ENVE_GEOE_121#course-outline) 
 
+
+**Q1. Tic-Tac-Toe: Find a winner**
+
+Tic-tac-toe is a paper-and-pencil game for two players, X and O, who take turns marking the spaces in a 3×3 grid. 
+
+The player who succeeds in placing three of their marks in a diagonal, horizontal, or vertical row is the winner. Create a function `CheckWin` that has one input and one output to evaluate who wins this game. 
+
+```matlab
+function winner = CheckWin(mat2d)
+```
+
+The input 'mat2d' is a 3 x 3 matrix named mat2d, which contain 1, -1 and 0. -1 and 1 indicate X and O respectively and 0 represents that the space hasn't been filled yet. 
+Player 1 and 2 use X and O marks, respectively. 
+
+The output 'winner' include a winner's id. If Player 1 wins the game, assign 1 to 'winner'. If Player 2 does, 2 is assigned to 'winner'. If the winner cannot be determined yet from 'mat2d', assign 0 to 'winner'. 
+ 	
+![](tic_tac_toe.png)
+
+
+**Q2. Tic-Tac-Toe: Find a winning shot**
+
+You
+```matlab
+function winner = CheckWin(mat2d)
+```
+
+XXXXX
+
+
+
+
+
 In Task01, the two programming tasks were posted on [**MATLAB Grader**](https://grader.mathworks.com/courses/27793-cive497-700-smart-structure-technology-winter-2021). You need to get a permission from the instructor to access those problems. The MATLAB Grader allows students instant feedback on the correctness of their solutions through the pre-designed testers. Thus, students can be highly motivated and inspired to persevere with completing the assignments. You can find a short tutorial here: [How to use MATLAB Grader?](https://github.com/chulminy/AE_ENVE_GEOE_121/tree/master/S2020/tutorial/matlab_grader)
 
 You are going to solve "poker game" and "word puzzle" problems. Note that these two problems were the homework assignments of the instructor's computational method course (first-year undergraduate course). 
