@@ -11,9 +11,9 @@
 Last updated: 2021-11-15
 
 **Previous offerings of this course**
-- [**Smart Structure Technology (Winter, 2019)**](old/w2019)
-- [**Smart Structure Technology (Winter, 2020)**](old/w2020)
-- [**Smart Structure Technology (Winter, 2021)**](old/w2021)
+- [**Smart Structure Technology (Winter, 2019)**](previous/w2019)
+- [**Smart Structure Technology (Winter, 2020)**](previous/w2020)
+- [**Smart Structure Technology (Winter, 2021)**](previous/w2021)
 
 ## Table of Contents
 - [**Course Description**](#course-description)
@@ -29,7 +29,7 @@ Last updated: 2021-11-15
 ## Course Description
 This course offers an introduction to the emerging **smart structure technologies** in civil engineering. Smart structures integrate sensing, actuation, data processing, analysis, and visualization, and control capabilities so that a structure can sense and respond to its changing external conditions in a rapid and automated manner. Among several topics in smart structure, this course focuses on [**structural assessment**](https://en.wikipedia.org/wiki/Structural_health_monitoring) using optical sensor data by implementing state-of-art image processing and computer vision techniques. As a special topic, basic concepts in **structure from motion**, **machine learning**, and **neural networks** are covered and relevant applications in civil engineering are introduced. An application-based learning approach is emphasized and tasks are designed in such a way that students can implement smart structure technology to address contemporary problems in civil engineering. In addition, for graduate students, students can **opt to** perform a research project, in which students will have an opportunity to design a technique with a potential application to smart structures and advance their research works. 
 
-This course is specially designed to suit the interest of **graduate students** and **senior undergraduate students who may pursue graduate studies**. Based on the feedback received from the courses offered in previous years, you are expected to spend 12 hours or more per week studying class materials as well as working on task assignments and research project. You will see the course outline and task assignments in the previous year from [**w2019**](w2019), [**w2020**](w2020), [**w2021**](w2021) . 
+This course is specially designed to suit the interest of **graduate students** and **senior undergraduate students who may pursue graduate studies**. Based on the feedback received from the courses offered in previous years, you are expected to spend 12 hours or more per week studying class materials as well as working on task assignments and research project. You will see the course outline and task assignments in the previous year from [**w2019**](previous/w2019), [**w2020**](previous/w2020), [**w2021**](previous/w2021) . 
 
 Note that all lectures were delivered using [pre-recorded videos](https://github.com/chulminy/CIVE497-CIVE700/tree/master/w2021#lecture-video) in 2021. When you are absent from a class, you can watch the corresponding lecture video. However, the instructor highly recommend attending the classes. 
 
