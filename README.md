@@ -29,9 +29,7 @@ Last updated: 2021-11-15
 ## Course Description
 This course offers an introduction to the emerging **smart structure technologies** in civil engineering. Smart structures integrate sensing, actuation, data processing, analysis, and visualization, and control capabilities so that a structure can sense and respond to its changing external conditions in a rapid and automated manner. Among several topics in smart structure, this course focuses on [**structural assessment**](https://en.wikipedia.org/wiki/Structural_health_monitoring) using optical sensor data by implementing state-of-art image processing and computer vision techniques. As a special topic, basic concepts in **structure from motion**, **machine learning**, and **neural networks** are covered and relevant applications in civil engineering are introduced. An application-based learning approach is emphasized and tasks are designed in such a way that students can implement smart structure technology to address contemporary problems in civil engineering. In addition, for graduate students, students can **opt to** perform a research project, in which students will have an opportunity to design a technique with a potential application to smart structures and advance their research works. 
 
-This course is specially designed to suit the interest of **graduate students** and **senior undergraduate students who may pursue graduate studies**. Based on the feedback received from the courses offered in previous years, you are expected to spend 12 hours or more per week studying class materials as well as working on task assignments and research project. You will see the course outline and task assignments in the previous year from [**w2019**](previous/w2019), [**w2020**](previous/w2020), [**w2021**](previous/w2021) . 
-
-Note that all lectures were delivered using [pre-recorded videos](https://github.com/chulminy/CIVE497-CIVE700/tree/master/w2021#lecture-video) in 2021. When you are absent from a class, you can watch the corresponding lecture video. However, the instructor highly recommend attending the classes. 
+This course is specially designed to suit the interest of **graduate students** and **senior undergraduate students who may pursue graduate studies**. Based on the feedback received from the courses offered in previous years, you are expected to spend 12 hours or more per week studying class materials as well as working on task assignments and research project. You will see the course outline and task assignments in the previous year from [**w2019**](previous/w2019), [**w2020**](previous/w2020), [**w2021**](previous/w2021). Note that all lectures were delivered using [pre-recorded videos](previous/w2021#lecture-video) in 2021. When you are absent from a class, you can watch the corresponding lecture video. However, the instructor highly recommend attending the classes. 
 
 
 ## Intended Learning Outcomes
@@ -66,54 +64,28 @@ Slides and tutorials will be updated on a regular basis. The study load for each
 |Class|Topics|Slides|Tutorial|Load|ETF|Homework|
 |:----|:-----|:----|:-----|:-----|:-----|:-----|
 |Class 01|**Introduction**|[slide](lecture/clss01_introduction)||0.5|Jan 13||
-|Class 02|**MATLAB Tutorial**|[slide](lecture/clss02_matlab)|[tutorial](tutorial/matlab_tutorial)|1|Jan 15|[**Task01**](task/task01)|
+|Class 02|**MATLAB Tutorial**|[slide](lecture/clss02_matlab)|[tutorial](tutorial/matlab_tutorial)|1|Jan 15|**Task01**|
 |Class 03|**Data Acquisition**|[slide](lecture/clss03_data_aquisition)|[tutorial](tutorial/data_aquisition)|1|Jan 20||
-|Class 04|**Signal Processing I**|[slide](lecture/clss04_06_signal_processing)|[tutorial](tutorial/signal_processing)|1|Jan 22|[**Task02**](task/task02)|
+|Class 04|**Signal Processing I**|[slide](lecture/clss04_06_signal_processing)|[tutorial](tutorial/signal_processing)|1|Jan 22|**Task02**|
 |Class 05|**Signal Processing II**|[slide](lecture/clss04_06_signal_processing)|[tutorial](tutorial/signal_processing)|1|Jan 27||
-|Class 06|**Signal Processing III**|[slide](lecture/clss04_06_signal_processing)|[tutorial](tutorial/signal_processing)|2|Jan 29|[**Task03**](task/task03)|
-|Class 07|**Digital Image**|[slide](lecture/clss07_digital_image)||1|Feb 03|[**Task04**](task/task04)|
-|Class 08|**Projective Geometry**|[slide](lecture/clss08_project_geometry)|[tutorial](tutorial/projective_geometry)|3|Feb 17|[**Task05**](task/task05)|
+|Class 06|**Signal Processing III**|[slide](lecture/clss04_06_signal_processing)|[tutorial](tutorial/signal_processing)|2|Jan 29|**Task03**|
+|Class 07|**Digital Image**|[slide](lecture/clss07_digital_image)||1|Feb 03|**Task04**|
+|Class 08|**Projective Geometry**|[slide](lecture/clss08_project_geometry)|[tutorial](tutorial/projective_geometry)|3|Feb 17|**Task05**|
 |Class 09|**Linear Filtering**|[slide](lecture/clss09_linear_filter)|[tutorial](tutorial/linear_filter)|1|Feb 22| |
 |Class 10|**Edge Detection I**|[slide](lecture/clss10_11_edge_detection)|[tutorial](tutorial/edge_detection)|1|Mar 02||
-|Class 11|**Edge Detection II**|[slide](lecture/clss10_11_edge_detection)|[tutorial](tutorial/edge_detection)|1|Mar 07|[**Task06**](task/task06)|   
+|Class 11|**Edge Detection II**|[slide](lecture/clss10_11_edge_detection)|[tutorial](tutorial/edge_detection)|1|Mar 07|**Task06**|   
 |Class 12|**Feature**|[slide](lecture/clss12_feature)|[tutorial](tutorial/feature)|2|Mar 12||
-|Class 13|**RANSAC**|[slide](lecture/clss13_ransac)|[tutorial](tutorial/ransac)|1|Mar 17|[**Task07**](task/task07)|  
+|Class 13|**RANSAC**|[slide](lecture/clss13_ransac)|[tutorial](tutorial/ransac)|1|Mar 17|**Task07**|  
 |Class 14|**Camera Model**|[slide](lecture/clss14_camera_model)||1|Mar 19||
 |Class 15|**Two-view Geometry**|[slide](lecture/clss15_two_view_geometry)|[tutorial](tutorial/two_view_geometry)|1.5|Mar 24||
-|Class 16|**Structure From Motion**|[slide](lecture/clss16_SfM)|[tutorial](tutorial/sfm)|0.5|Mar 26|[**Task08**](task/task08)|
+|Class 16|**Structure From Motion**|[slide](lecture/clss16_SfM)|[tutorial](tutorial/sfm)|0.5|Mar 26|**Task08**|
 |Class 17|**Introduction of Machine Learning**|[slide](lecture/clss17_ml_intro)||0.5|Mar 31||
 |Class 18|**Gradient Descent**|[slide](lecture/clss18_ml_gd)|[tutorial](tutorial/ml_gd)|1|Mar 31||
 |Class 19|**Training Linear Model**|[slide](lecture/clss19_ml_lg)|[tutorial](tutorial/ml_linear_model)|1|Apr 02||
-|Class 20|**Neural Network**|[slide](lecture/clss20_ml_nn)|[tutorial](tutorial/neural_network)|2|Apr 09|[**Task09**](task/task09)|
-
-
-### Tutorial
-|Class|Topics|MATLAB|Python|
-|:----|:-----|:----|:-----|
-|Class 01|**Introduction**|||
-|Class 02|[**MATLAB Tutorial**](tutorial/matlab_tutorial)|<li>matrices_arrays.mlx</li> <li>operators_elem_operations.mlx</li>||
-|Class 03|[**Data Acquisition**](tutorial/data_aquisition)|<li>data_aquisition_W21_v1.mlx</li>|<li>data_aquisition_W22_v2.ipynb</li>|
-|Class 04|[**Signal Processing I**](tutorial/signal_processing)|<li>signal_processing1_W21_v2.mlx</li>||
-|Class 05|[**Signal Processing II**](tutorial/signal_processing)|<li>signal_processing2_W21_v2.mlx</li>||
-|Class 06|[**Signal Processing III**](tutorial/signal_processing)|<li>signal_processing3_W21_v2.mlx</li> ||
-|Class 07|**Digital Image**|||
-|Class 08|[**Projective Geometry**](tutorial/projective_geometry)|<li>ProjectiveGeometryV2.mlx</li>||
-|Class 09|[**Linear Filtering**](tutorial/linear_filter)|<li>linear_filtering.mlx</li>||
-|Class 10|[**Edge Detection I**](tutorial/edge_detection)|<li>edge_detection_V2.mlx</li>||
-|Class 11|[**Edge Detection II**](tutorial/edge_detection)|<li>canny_edge_v1.mlx</li> <li>hough_transformation.mlx</li>||   
-|Class 12|[**Feature**](tutorial/feature)|<li>newton_method.mlx</li> <li>scale_space.mlx</li>||
-|Class 13|[**RANSAC**](tutorial/ransac)|<li>ransac_v1.mlx</li> <li>ransac_demo.mlx</li> <li>linear_least_square_v1.mlx</li>||  
-|Class 14|**Camera Model**|||
-|Class 15|[**Two-view Geometry**](tutorial/two_view_geometry)|<li>two_view_geometry_v1.mlx</li>||
-|Class 16|[**Structure From Motion**](tutorial/sfm)|<li>sfm_v1.mlx</li>||
-|Class 17|**Introduction of Machine Learning**|||
-|Class 18|[**Gradient Descent**](tutorial/ml_gd)|<li>demo_line_fit.m</li> <li>demo_st_gd.m</li>||
-|Class 19|[**Training Linear Model**](tutorial/ml_linear_model)|<li>demo_linear_model.m</li>||
-|Class 20|[**Neural Network**](tutorial/neural_network)|||
-
+|Class 20|**Neural Network**|[slide](lecture/clss20_ml_nn)|[tutorial](tutorial/neural_network)|2|Apr 09|**Task09**|
 
 ## Tasks
-There will be **9 tasks** and they will be posted on this course website weekly or bi-weekly. **The instructor encourage students to work in groups through collaborative learning, but to submit their assignments individually.** The task will have programming components or photography components, where students will use their own camera to capture and process their own images and discuss the results. Students are supposed to complete all tasks and turn their works in by the due date. You can access the best reports for the assignments in previous years from [**w2019**](w2019#tasks), [**w2020**](w2020#tasks), and [**w2019**](w2019#tasks). The problems will be similar to the ones in the previous assignments. However, the students must not copy and paste the codes or texts in those reports. Also, some answers in the model report are not correct.     
+There will be **9 tasks** and they will be posted on this course website weekly or bi-weekly. **The instructor encourage students to work in groups through collaborative learning, but to submit their assignments individually.** The task will have programming components or photography components, where students will use their own camera to capture and process their own images and discuss the results. Students are supposed to complete all tasks and turn their works in by the due date. You can access the best reports for the assignments in previous years from [**w2019**](previous/w2019#tasks), [**w2020**](previous/w2020#tasks), and [**w2021**](previous/w2021#tasks). The problems will be similar to the ones in the previous assignments. However, the students must not copy and paste the codes or texts in those reports. Also, some answers in the model report are not correct.     
 
 The late submission policy allows students to have a **maximum one-week** delay for **three among the first eight assignments** (You must submit the last assignment on time). TAs will just count the number of delays in your homework assignments. TAs will inform the students when they delay their submission three times. If the number of delays is more than three, the fourth delayed homework will be zero. Students must pay close attention to deadlines. No further late submission will not be accepted unless accompanied by a valid excuse and some marks might be deducted depending upon the circumstances.  
 
