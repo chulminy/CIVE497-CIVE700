@@ -1,13 +1,19 @@
-# CIVE497/700: Smart Structure Technology (Winter, 2021)
+# CIVE497/700: Smart Structure Technology (Winter, 2022)
 
 ![](intro_img.png)
 
-**Instructor:** Chul Min Yeum (E2-2313)  
-**Class:** Friday, 11:30AM to 2:30PM (Online)      
-**Email:** cmyeum@uwaterloo.ca  
-**TA:** Zaid Al-Sabbag (zaalsabbag@uwaterloo.ca) 
+**Instructor:** Chul Min Yeum (E2-2313)   
+**Class:** Mon and Wed, 08:30AM to 9:50AM       
+**Email:** cmyeum@uwaterloo.ca   
+**Office Hours:** Mon and Wed 10 to 11AM at E2-2313 (You can also email for an appointment)  
+**TA:** Zaid Al-Sabbag (zaalsabbag@uwaterloo.ca)  
 
-Last updated: 2021-04-25
+Last updated: 2021-11-15
+
+**Previous offerings of this course**
+- [**Smart Structure Technology (Winter, 2019)**](old/w2019)
+- [**Smart Structure Technology (Winter, 2020)**](old/w2020)
+- [**Smart Structure Technology (Winter, 2021)**](old/w2021)
 
 ## Table of Contents
 - [**Course Description**](#course-description)
@@ -23,9 +29,10 @@ Last updated: 2021-04-25
 ## Course Description
 This course offers an introduction to the emerging **smart structure technologies** in civil engineering. Smart structures integrate sensing, actuation, data processing, analysis, and visualization, and control capabilities so that a structure can sense and respond to its changing external conditions in a rapid and automated manner. Among several topics in smart structure, this course focuses on [**structural assessment**](https://en.wikipedia.org/wiki/Structural_health_monitoring) using optical sensor data by implementing state-of-art image processing and computer vision techniques. As a special topic, basic concepts in **structure from motion**, **machine learning**, and **neural networks** are covered and relevant applications in civil engineering are introduced. An application-based learning approach is emphasized and tasks are designed in such a way that students can implement smart structure technology to address contemporary problems in civil engineering. In addition, for graduate students, students can **opt to** perform a research project, in which students will have an opportunity to design a technique with a potential application to smart structures and advance their research works. 
 
-This course is specially designed to suit the interest of **graduate students** and **senior undergraduate students who may pursue graduate studies**. Based on the feedback received from the courses offered in previous years, you are expected to spend 12 hours or more per week studying class materials as well as working on task assignments and research project. You will see the course outline and task assignments in the previous year from [**w2019**](w2019), [**w2020**](w2020). 
+This course is specially designed to suit the interest of **graduate students** and **senior undergraduate students who may pursue graduate studies**. Based on the feedback received from the courses offered in previous years, you are expected to spend 12 hours or more per week studying class materials as well as working on task assignments and research project. You will see the course outline and task assignments in the previous year from [**w2019**](w2019), [**w2020**](w2020), [**w2021**](w2021) . 
 
-All lectures and tutorials will be delivered using pre-recorded videos. All videos will be uploaded on a [**YouTube Channel**](https://www.youtube.com/playlist?list=PLa1nAPP8qUX-Q61lcRMxaZ1u2Fk8DSsWt). However, there will have several live help sessions in our class time to review homework problems, homework solutions, and lectures. The live sessions may not be recorded so students are encouraged to attend the live session. (Note if the students cannot attend this live session due to time difference, please inform the instructor at the beginning of this course).     
+Note that all lectures were delivered using [pre-recorded videos](https://github.com/chulminy/CIVE497-CIVE700/tree/master/w2021#lecture-video) in 2021. When you are absent from a class, you can watch the corresponding lecture video. However, the instructor highly recommend attending the classes. 
+
 
 ## Intended Learning Outcomes
 By the end of this course, students should be able to  
@@ -79,32 +86,34 @@ Slides and tutorials will be updated on a regular basis. The study load for each
 |Class 19|**Training Linear Model**|[slide](lecture/clss19_ml_lg)|[tutorial](tutorial/ml_linear_model)|1|Apr 02||
 |Class 20|**Neural Network**|[slide](lecture/clss20_ml_nn)|[tutorial](tutorial/neural_network)|2|Apr 09|[**Task09**](task/task09)|
 
-#### Lecture Video
-|Class|Topics|Video|
-|:----|:-----|:----|
-|Class 01|**Introduction**|[<img src="http://img.youtube.com/vi/p7QaQYuG-RM/0.jpg" height="150">](https://youtu.be/p7QaQYuG-RM)|
-|Class 02|**MATLAB Tutorial**|[<img src="http://img.youtube.com/vi/TZzCF1eNGoo/0.jpg" height="150">](https://youtu.be/TZzCF1eNGoo)|
-|Class 03|**Data Acquisition**|[<img src="http://img.youtube.com/vi/PAnChNF7JqU/0.jpg" height="150">](https://youtu.be/PAnChNF7JqU)|
-|Class 04|**Signal Processing I**|[<img src="http://img.youtube.com/vi/52p-7BWwQ1Y/0.jpg" height="150">](https://youtu.be/52p-7BWwQ1Y) [<img src="http://img.youtube.com/vi/-ypxsaf21ak/0.jpg" height="150">](https://youtu.be/-ypxsaf21ak)|
-|Class 05|**Signal Processing II**|[<img src="http://img.youtube.com/vi/m2x6Wzc8Cf4/0.jpg" height="150">](https://youtu.be/m2x6Wzc8Cf4)|
-|Class 06|**Signal Processing III**|[<img src="http://img.youtube.com/vi/moytbQU0Gt8/0.jpg" height="150">](https://youtu.be/moytbQU0Gt8) [<img src="http://img.youtube.com/vi/pBpAV5kH8nI/0.jpg" height="150">](https://youtu.be/pBpAV5kH8nI)|
-|Class 07|**Digital Image**|[<img src="http://img.youtube.com/vi/QuwI0HjQUoI/0.jpg" height="150">](https://youtu.be/QuwI0HjQUoI)|
-|Class 08|**Projective Geometry**|[<img src="http://img.youtube.com/vi/yXSRfpaXDYc/0.jpg" height="150">](https://youtu.be/yXSRfpaXDYc) [<img src="http://img.youtube.com/vi/_LOnmx1PqmY/0.jpg" height="150">](https://youtu.be/_LOnmx1PqmY)|
-|Class 09|**Linear Filtering**|[<img src="http://img.youtube.com/vi/l2893AKrTAM/0.jpg" height="150">](https://youtu.be/l2893AKrTAM)|
-|Class 10|**Edge Detection I**|[<img src="http://img.youtube.com/vi/IHwgR196PzM/0.jpg" height="150">](https://youtu.be/IHwgR196PzM)|
-|Class 11|**Edge Detection II**|[<img src="http://img.youtube.com/vi/ZjlNvLv-jj0/0.jpg" height="150">](https://youtu.be/ZjlNvLv-jj0)|   
-|Class 12|**Feature**|[<img src="http://img.youtube.com/vi/kLmCt43qafU/0.jpg" height="150">](https://youtu.be/kLmCt43qafU) [<img src="http://img.youtube.com/vi/BZsU2BvS8_M/0.jpg" height="150">](https://youtu.be/BZsU2BvS8_M)|
-|Class 13|**RANSAC**|[<img src="http://img.youtube.com/vi/afZg68R4b9M/0.jpg" height="150">](https://youtu.be/afZg68R4b9M)|  
-|Class 14|**Camera Model**|[<img src="http://img.youtube.com/vi/6_PJj7GrkL8/0.jpg" height="150">](https://youtu.be/6_PJj7GrkL8)|
-|Class 15|**Two-view Geometry**|[<img src="http://img.youtube.com/vi/5_rez7tvg8I/0.jpg" height="150">](https://youtu.be/5_rez7tvg8I)|
-|Class 16|**Structure From Motion**|[<img src="http://img.youtube.com/vi/DFuQd2xw0ek/0.jpg" height="150">](https://youtu.be/DFuQd2xw0ek)|
-|Class 17|**Introduction of Machine Learning**|[<img src="http://img.youtube.com/vi/PdZ0cbddxfI/0.jpg" height="150">](https://youtu.be/PdZ0cbddxfI) [<img src="http://img.youtube.com/vi/FHZIJgLVXBw/0.jpg" height="150">](https://youtu.be/FHZIJgLVXBw)|
-|Class 18|**Gradient Descent**|[<img src="http://img.youtube.com/vi/mZVHNXxdAys/0.jpg" height="150">](https://youtu.be/mZVHNXxdAys)|
-|Class 19|**Training Linear Model**|[<img src="http://img.youtube.com/vi/31CSIqymnWY/0.jpg" height="150">](https://youtu.be/31CSIqymnWY)|
-|Class 20|**Neural Network**|[<img src="http://img.youtube.com/vi/pZLQywcd2Lw/0.jpg" height="150">](https://youtu.be/pZLQywcd2Lw) [<img src="http://img.youtube.com/vi/lIjEW38i75g/0.jpg" height="150">](https://youtu.be/lIjEW38i75g)|
+
+### Tutorial
+|Class|Topics|MATLAB|Python|
+|:----|:-----|:----|:-----|
+|Class 01|**Introduction**|||
+|Class 02|[**MATLAB Tutorial**](tutorial/matlab_tutorial)|<li>matrices_arrays.mlx</li> <li>operators_elem_operations.mlx</li>||
+|Class 03|[**Data Acquisition**](tutorial/data_aquisition)|<li>data_aquisition_W21_v1.mlx</li>|<li>data_aquisition_W22_v2.ipynb</li>|
+|Class 04|[**Signal Processing I**](tutorial/signal_processing)|<li>signal_processing1_W21_v2.mlx</li>||
+|Class 05|[**Signal Processing II**](tutorial/signal_processing)|<li>signal_processing2_W21_v2.mlx</li>||
+|Class 06|[**Signal Processing III**](tutorial/signal_processing)|<li>signal_processing3_W21_v2.mlx</li> ||
+|Class 07|**Digital Image**|||
+|Class 08|[**Projective Geometry**](tutorial/projective_geometry)|<li>ProjectiveGeometryV2.mlx</li>||
+|Class 09|[**Linear Filtering**](tutorial/linear_filter)|<li>linear_filtering.mlx</li>||
+|Class 10|[**Edge Detection I**](tutorial/edge_detection)|<li>edge_detection_V2.mlx</li>||
+|Class 11|[**Edge Detection II**](tutorial/edge_detection)|<li>canny_edge_v1.mlx</li> <li>hough_transformation.mlx</li>||   
+|Class 12|[**Feature**](tutorial/feature)|<li>newton_method.mlx</li> <li>scale_space.mlx</li>||
+|Class 13|[**RANSAC**](tutorial/ransac)|<li>ransac_v1.mlx</li> <li>ransac_demo.mlx</li> <li>linear_least_square_v1.mlx</li>||  
+|Class 14|**Camera Model**|||
+|Class 15|[**Two-view Geometry**](tutorial/two_view_geometry)|<li>two_view_geometry_v1.mlx</li>||
+|Class 16|[**Structure From Motion**](tutorial/sfm)|<li>sfm_v1.mlx</li>||
+|Class 17|**Introduction of Machine Learning**|||
+|Class 18|[**Gradient Descent**](tutorial/ml_gd)|<li>demo_line_fit.m</li> <li>demo_st_gd.m</li>||
+|Class 19|[**Training Linear Model**](tutorial/ml_linear_model)|<li>demo_linear_model.m</li>||
+|Class 20|[**Neural Network**](tutorial/neural_network)|||
+
 
 ## Tasks
-There will be **9 tasks** and they will be posted on this course website weekly or bi-weekly. **The instructor encourage students to work in groups through collaborative learning, but to submit their assignments individually.** The task will have programming components or photography components, where students will use their own camera to capture and process their own images and discuss the results. Students are supposed to complete all tasks and turn their works in by the due date. You can access the best reports for the assignments in previous years from [**w2019**](w2019#tasks) and [**w2020**](w2020#tasks). The problems will be similar to the ones in the previous assignments. However, the students must not copy and paste the codes or texts in those reports. Also, some answers in the model report are not correct.     
+There will be **9 tasks** and they will be posted on this course website weekly or bi-weekly. **The instructor encourage students to work in groups through collaborative learning, but to submit their assignments individually.** The task will have programming components or photography components, where students will use their own camera to capture and process their own images and discuss the results. Students are supposed to complete all tasks and turn their works in by the due date. You can access the best reports for the assignments in previous years from [**w2019**](w2019#tasks), [**w2020**](w2020#tasks), and [**w2019**](w2019#tasks). The problems will be similar to the ones in the previous assignments. However, the students must not copy and paste the codes or texts in those reports. Also, some answers in the model report are not correct.     
 
 The late submission policy allows students to have a **maximum one-week** delay for **three among the first eight assignments** (You must submit the last assignment on time). TAs will just count the number of delays in your homework assignments. TAs will inform the students when they delay their submission three times. If the number of delays is more than three, the fourth delayed homework will be zero. Students must pay close attention to deadlines. No further late submission will not be accepted unless accompanied by a valid excuse and some marks might be deducted depending upon the circumstances.  
 
@@ -116,15 +125,15 @@ This course grades your final mark based on the marks earned from these assignme
 
 |Task|Topics|Announcement|1st Due|2nd Due|
 |:----|:-----|:----|:-----|:-----|
-|Task01|[**Programming**](task/task01)|Jan 11|Jan 22|Jan 29|
-|Task02|[**Signal Processing 1**](task/task02) </br> Best report ([Raymond Ren](task/task02/best/))|Jan 20|Jan 29|Feb 05|
-|Task03|[**Signal Processing 2**](task/task03) </br> Best report ([Arian Nedjabat](task/task03/best/Rept_Task03_Arian_BA_20661686.pdf),[Niloofar Elyasi](task/task03/best/Rept_niloo_PH_20925091.pdf))|Jan 27|Feb 15|Feb 22|
-|Task04|[**Digital Image**](task/task04) </br> Best report ([Rishabh Bajaj](task/task04/best/Rept_risha_PH_20912910.pdf),[Ryan Kong](task/task04/best/Rept_ryank_BA_20668791.pdf)) </br> [*Students' answers for Q4 and Q5*](review/unqiue_future_smart_phone_camera.md) |Feb 03|Feb 22|Feb 29|
-|Task05|[**Homography**](task/task05) </br> Best report ([Arian Nedjabat](task/task05/best/Rept_Task05_Arian_BA_20661686.pdf),[Raymond Ren](task/task05/best/Rept_raymo_BA_20667930.pdf))|Feb 15|Mar 03|Mar 12|
-|Task06|[**Image Processing**](task/task06)</br> Best report ([Janice Zhang](task/task06/best/Rept_janicz_BA_20664084.pdf))|Feb 24|Mar 19|Mar 26|
-|Task07|[**Feature Matching & RANSAC**](task/task07)</br> Best report ([Raymond Ren](task/task07/best/Rept_raymo_BA_20667930.pdf))|Mar 14|Apr 02|Apr 09|
-|Task08|[**Multiview Geometry (SfM)**](task/task08)|Mar 24|Apr 09|Apr 16|
-|Task09|[**Neural Network**](task/task09)|Apr 09|Apr 23|Apr 23|
+|Task01|**Programming**||||
+|Task02|**Signal Processing 1**||||
+|Task03|**Signal Processing 2**||||
+|Task04|**Digital Image**||||
+|Task05|**Homography**||||
+|Task06|**Image Processing**||||
+|Task07|**Feature Matching & RANSAC**||||
+|Task08|**Multiview Geometry (SfM)**||||
+|Task09|**Neural Network**||||
 
 ## Communication  
 **All communication will be made through [this course website](https://github.com/chulminy/CIVE497-CIVE700)**, especially for this web page. The instructor will make a note in the ["Announcement"](#announcement) section if there is an update on the web page. Students can configure email notification for by ["watching"](https://help.github.com/articles/watching-and-unwatching-repositories/) this course website or use a version control system for tracking its changes. Thus, **students are responsible for checking the website regularly** for any relevant course information or announcements. 
