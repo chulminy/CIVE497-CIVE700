@@ -16,9 +16,8 @@ Last updated: 2021-11-17
 - [**Smart Structure Technology (Winter, 2019)**](previous/w2019)  
 
 ## Announcement
-* Jan 05, 2021: Class begins!
-*   
-
+* **Nov 17, 2021:** The CEE guidelines for the minimum requirements for audit (AUD) are (1) attend at least 10 weeks of class and (2) complete the equivalent of a t lest of the graded items (assignments, project, midterm) with an overall grade of at least 70%. However, the instructor does not recommend auditing this course because unless students does homework assignment in this course, they will not learn much. Since the lectures were already uploaded in the [**course website**](previous/w2021#lecture-video), please watch these videos rather than auditing.   
+* **Nov 17, 2021:** The first class will start at Jan 05, 2022.     
 
 
 ## Table of Contents
