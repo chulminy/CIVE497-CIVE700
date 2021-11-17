@@ -64,17 +64,17 @@ This course requires basic knowledge in **linear algebra** and **probability** a
 This course is not based on any particular textbook. The instructor will provide relevant keywords (search by yourself), reading materials, and website links in each class.  
 
 ## Course Outline
-Slides and tutorials will be updated on a regular basis. The study load for each class is marked as the number of regular offline classes, which becomes a total of 24 classes. The expected time to finish (ETF) in each module is also provided to help students manage their time and keep up with lectures and assignments. The course material will be posted as a PDF.   
+The study load for each class is marked as the number of regular offline classes, which becomes a total of 24 classes. The expected time to finish (ETF) in each module is also provided to help students manage their time and keep up with lectures and assignments. The course material will be posted as a PDF.   
 
 |Class|Topics|Slides|Tutorial|Load|ETF|Homework|
 |:----|:-----|:----|:-----|:-----|:-----|:-----|
-|Class 01|**Introduction**|[slide](lecture/clss01_introduction)||0.5|Jan 5||
+|Class 01|**Introduction**|[slide](lecture/clss01_introduction)||0.5|Jan 05||
 |Class 02|**MATLAB Tutorial**|[slide](lecture/clss02_matlab)|[tutorial](tutorial/matlab_tutorial)|1|Jan 10|**Task01**|
 |Class 03|**Data Acquisition**|[slide](lecture/clss03_data_aquisition)|[tutorial](tutorial/data_aquisition)|1|Jan 12||
 |Class 04|**Signal Processing I**|[slide](lecture/clss04_06_signal_processing)|[tutorial](tutorial/signal_processing)|1|Jan 17|**Task02**|
 |Class 05|**Signal Processing II**|[slide](lecture/clss04_06_signal_processing)|[tutorial](tutorial/signal_processing)|1|Jan 19||
 |Class 06|**Signal Processing III**|[slide](lecture/clss04_06_signal_processing)|[tutorial](tutorial/signal_processing)|2|Jan 26|**Task03**|
-|Class 07|**Digital Image**|[slide](lecture/clss07_digital_image)|1|Jan 31|**Task04**|
+|Class 07|**Digital Image**|[slide](lecture/clss07_digital_image)||1|Jan 31|**Task04**|
 |Class 08|**Projective Geometry**|[slide](lecture/clss08_project_geometry)|[tutorial](tutorial/projective_geometry)|3|Feb 09|**Task05**|
 |Class 09|**Linear Filtering**|[slide](lecture/clss09_linear_filter)|[tutorial](tutorial/linear_filter)|1|Feb 14| |
 |Class 10|**Edge Detection I**|[slide](lecture/clss10_11_edge_detection)|[tutorial](tutorial/edge_detection)|1|Feb 16||
@@ -98,7 +98,7 @@ When you decide to delay your homework assignments, please carefully consider al
 
 This course grades your final mark based on the marks earned from these assignments. Thus, not submitting homework assignments is a really bad idea and your final score will significantly drop. If you have difficulty in doing the assignments, please speak to the instructor or TA.    
 
-Please carefully review the submission instruction: 
+Please carefully review the submission instruction:   
 [**Submission instruction of your work**](#submission-instruction-of-your-work)
 
 |Task|Topics|Announcement|1st Due|2nd Due|
