@@ -12,32 +12,57 @@ The main goal of this problem is to prepare for your programming activities thro
 
 **Q1. Tic-Tac-Toe: Find a winner**
 
-Tic-tac-toe is a paper-and-pencil game for two players, X and O, who take turns marking the spaces in a 3×3 grid. 
+Tic-tac-toe is a paper-and-pencil game for two players, X and O, who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a diagonal, horizontal, or vertical row is the winner. 
 
-The player who succeeds in placing three of their marks in a diagonal, horizontal, or vertical row is the winner. Create a function `CheckWin` that has one input and one output to evaluate who wins this game. 
+Create a function `CheckWin` that has one input and one output to evaluate who wins this game. 
 
 ```matlab
 function winner = CheckWin(mat2d)
 ```
 
-The input 'mat2d' is a 3 x 3 matrix named mat2d, which contain 1, -1 and 0. -1 and 1 indicate X and O respectively and 0 represents that the space hasn't been filled yet. 
-Player 1 and 2 use X and O marks, respectively. 
+```python
+def CheckWin(mat2d):
+
+return winner
+```
+
+The input 'mat2d' is a 3 x 3 matrix, which contain 1, -1 and 0. -1 and 1 indicate X and O respectively and 0 represents that the space hasn't been filled yet. Player 1 and 2 use X and O marks, respectively. 
 
 The output 'winner' include a winner's id. If Player 1 wins the game, assign 1 to 'winner'. If Player 2 does, 2 is assigned to 'winner'. If the winner cannot be determined yet from 'mat2d', assign 0 to 'winner'. 
+
+Here are sample inputs and corresponding outputs from `CheckWin`:
  	
 ![](tic_tac_toe.png)
 
 
 **Q2. Tic-Tac-Toe: Find a winning shot**
 
-You
+This question is to make a funcntion to find winning shot location(s) of a given player. The input 'mat2d' is the same as the previous question. Create a function `FindWinShot` that has two input and one output to evaluate winning shot locations when an input grid and player number is given. 
+
 ```matlab
-function winner = CheckWin(mat2d)
+function win_loc = FindWinShot(mat2d, ply_num)
+```
+The output 'win_loc' is a linear index of the winning shot location in 'mat2d'. If the multiple locations are valid, 'win_loc' becomes a row vector and it values should be in order. 'ply_num' is a player number, which is either 1 or 2.  If there is no winning shot, 'win_loc' becomes an empty vector. 
+
+
+**Q3. Tic-Tac-Toe: Beating a random bot** 
+
+You are going to make your Tic-Tac-Toe bot and beating a random bot. You are a player 1. Create a function `MyTTTBot` that has one input 'mat2d' and one output: 
+
+```matlab
+loc = MyTTTBot(mat2d)
 ```
 
-XXXXX
+'loc' is a **single** scalar value and a location of X (-1). Note you can only place your value to empty (0) locations. You must not replace O (1) values with your for winning. 
+
+You can pass this question if your chance of winning is more than 70%. 
 
 
+**Q4. Tic-Tac-Toe: Beating a CY bot**
+You are going to use the same function `MyTTTBot` but you are going to fight with Chul Min's Tic-Tac-Toe bot `CYTTTBot`. You are a player 1.
+
+
+Provide your best winning rate when you compete with `CYTTTBot`.
 
 
 
