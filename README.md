@@ -98,8 +98,7 @@ When you decide to delay your homework assignments, please carefully consider al
 
 This course grades your final mark based on the marks earned from these assignments. Thus, not submitting homework assignments is a really bad idea and your final score will significantly drop. If you have difficulty in doing the assignments, please speak to the instructor or TA.    
 
-Please carefully review the submission instruction:   
-[**Submission instruction of your work**](#submission-instruction-of-your-work)
+Please carefully review the submission instruction: [**Submission instruction of your work**](#submission-instruction-of-your-work)
 
 |Task|Topics|Announcement|1st Due|2nd Due|
 |:----|:-----|:----|:-----|:-----|
@@ -158,7 +157,7 @@ Text matching software (Turnitin®) may be used to screen assignments in this co
 - Inappropriate posts and comments are immediately deleted and closed without a notice. 
 
 ### Submission instruction of your work
-Students must **electronically** turn in both their source code (with data) and report. The report must be written with **Markdown script (GFM)** first and is converted to a PDF format. All other formats like docx, or pptx, or in hardcopy **are not permitted**.  However, if you are a Python user, you can use a Jupyter notebook instead of a Markdown. When you submit your homework, you should submit both .IPyhone and .pdf. A submission guideline will be varied depending on the tasks and provided with each task. Remember that the instructor will grade your pdf report, not other markdown file so please carefully review your pdf report to see if all figures are texts are included.  
+Students must **electronically** turn in both their source code (with data) and report. The report must be written with **Markdown script (GFM)** first and is converted to a PDF format. All other formats like docx, or pptx, or in hardcopy **are not permitted**.  However, if you are a Python user, you can use a Jupyter notebook instead of a Markdown. When you submit your homework, you should submit both .IPyhone and .pdf. A submission guideline will be varied depending on the tasks and provided with each task. Remember that the instructor will grade your pdf report, not markdown file or files attached so please carefully review your pdf report to see if all figures are texts are included.  
 
 Students choose either a **MATLAB** or **Python** to complete the tasks. The source code needs to be neatly organized and include detailed comments. The instructor and TA may run your codes in the instructor's Window computer where MATLAB 2020a and Python above 3.4 are installed. All sample codes for tutorials or assignments will be delivered in MATLAB. Thus, working with MATLAB is easier to complete the assignments. 
 

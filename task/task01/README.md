@@ -1,86 +1,101 @@
 # Task01: Programming Practice & Digital Image Processing Basic
 
-**Announcement**: January 11, 2021  
-**1st Due Date**: January 22, 2021 before 11:59 pm  
-**2nd Due Date**: January 29, 2021 before 11:59 pm  
+**Announcement**: January 05, 2021  
+**1st Due Date**: January 14, 2021 before 11:59 pm  
+**2nd Due Date**: January 21, 2021 before 11:59 pm  
 
 **Problem Description**  
 
-**Problem 1**
-The main goal of this problem is to prepare for your programming activities throughout the course. It is a good opportunity for reviewing the programming course materials that you learned in your undergraduate. You can review your own course material or the instructor's teaching material from [AE/ENVE/GEOE121](https://github.com/chulminy/AE_ENVE_GEOE_121#course-outline) 
+## Problem 1
+The main goal of this problem is to prepare for your programming activities throughout the course. It is a good opportunity for reviewing the programming course materials that you learned in your undergraduate. You can review your own course material or the instructor's teaching material from [AE/ENVE/GEOE121](https://github.com/chulminy/AE_ENVE_GEOE_121#course-outline). Note that you will get zero if you just copy and paste existing solutions in Google.  
+
+We will going to design a Tic-tac-toe game! 
+
+![](tic_tac_toe_img.jpg)
 
 
-**Q1. Tic-Tac-Toe: Find a winner**
+### Q1. Tic-Tac-Toe: Find a winner
 
 Tic-tac-toe is a paper-and-pencil game for two players, X and O, who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a diagonal, horizontal, or vertical row is the winner. 
 
-Create a function `CheckWin` that has one input and one output to evaluate who wins this game. 
+Create a function `fun_check_win` that has one input and one output to evaluate who wins this game. 
 
 ```matlab
-function winner = CheckWin(mat2d)
+function winner = fun_check_win(mat2d)
 ```
 
 ```python
-def CheckWin(mat2d):
+def fun_check_win(mat2d):
 
 return winner
 ```
 
-The input 'mat2d' is a 3 x 3 matrix, which contain 1, -1 and 0. -1 and 1 indicate X and O respectively and 0 represents that the space hasn't been filled yet. Player 1 and 2 use X and O marks, respectively. 
+The input 'mat2d' is a 3 x 3 matrix, which contain 1, -1 and 0. -1 and 1 indicate X and O respectively and 0 represents that the space hasn't been filled yet. Player 1 and 2 use X and O marks, respectively. The output 'winner' include a winner's id. If Player 1 wins the game, assign 1 to 'winner'. If Player 2 does, 2 is assigned to 'winner'. If the winner cannot be determined yet from 'mat2d', assign 0 to 'winner'. 
 
-The output 'winner' include a winner's id. If Player 1 wins the game, assign 1 to 'winner'. If Player 2 does, 2 is assigned to 'winner'. If the winner cannot be determined yet from 'mat2d', assign 0 to 'winner'. 
+You need to show that your `fun_check_win` produces correct outcomes (e.g., screen capture), like the below. You should not hide your code! 
 
-Here are sample inputs and corresponding outputs from `CheckWin`:
- 	
-![](tic_tac_toe.png)
+|MATLAB|
+|---|
+|![](prob1_Q1_matlab.png)|
 
-
-**Q2. Tic-Tac-Toe: Find a winning shot**
-
-This question is to make a funcntion to find winning shot location(s) of a given player. The input 'mat2d' is the same as the previous question. Create a function `FindWinShot` that has two input and one output to evaluate winning shot locations when an input grid and player number is given. 
-
-```matlab
-function win_loc = FindWinShot(mat2d, ply_num)
-```
-The output 'win_loc' is a linear index of the winning shot location in 'mat2d'. If the multiple locations are valid, 'win_loc' becomes a row vector and it values should be in order. 'ply_num' is a player number, which is either 1 or 2.  If there is no winning shot, 'win_loc' becomes an empty vector. 
+|Python|
+|---|
+|![](prob1_Q1_python.png)|
 
 
-**Q3. Tic-Tac-Toe: Beating a random bot** 
+### Q2. Tic-Tac-Toe: Find a winning shot
 
-You are going to make your Tic-Tac-Toe bot and beating a random bot. You are a player 1. Create a function `MyTTTBot` that has one input 'mat2d' and one output: 
+This question is to make a function to find winning shot location(s) of a given player. The input 'mat2d' is the same as the previous question. Create a function `fun_find_win_shot` that has two input and one output to evaluate winning shot locations when an input grid and player number is given. 
 
 ```matlab
-loc = MyTTTBot(mat2d)
+function win_loc = fun_find_win_shot(mat2d, ply_num)
+```
+The output 'win_loc' is a linear index (for MATLAB) or subscript index (for Python) of the winning shot location in 'mat2d'. If the multiple locations are valid, 'win_loc' becomes a row vector (for MATLAB) or a matrix (for Python) and it values should be in order. 'ply_num' is a player number, which is either 1 or 2.  If there is no winning shot, 'win_loc' becomes an empty vector. 
+
+You need to show that your `fun_find_win_shot` produces correct outcomes (e.g., screen capture), like the below. You should not hide your code! 
+
+|MATLAB|
+|---|
+|![](prob1_Q2_matlab.png)|
+
+|Python|
+|---|
+|![](prob1_Q2_python.png)|
+
+
+### Q3. Tic-Tac-Toe: Beating a random bot 
+
+You are going to make your Tic-Tac-Toe bot and beating a random bot `fun_rand_ttt_bot`. You are a **Player 1**. Create a function `fun_my_ttt_bot` that has one input 'mat2d' and one output: 
+
+```matlab
+loc = fun_my_ttt_bot(mat2d)
 ```
 
-'loc' is a **single** scalar value and a location of X (-1). Note you can only place your value to empty (0) locations. You must not replace O (1) values with your for winning. 
+You can pass this question if your chance of winning is more than 70%. Provide your code and results (e.g., screen shots or screen videos)
 
-You can pass this question if your chance of winning is more than 70%. 
+Please use the following template code and design your `fun_my_ttt_bot`:
+* MATLAB: `task1_prob1.m` (see from this [folder](matlab))
+* Python: `main.py` (see from this [folder](python))
+
+### Q4. Tic-Tac-Toe: Beating a CY bot**
+You are going to use the same function `fun_my_ttt_bot` but you are going to fight with Chul Min's Tic-Tac-Toe bot `fun_cy_ttt_bot`. Again, you are a Player 1. Provide your best winning rate when you compete with `fun_cy_ttt_bot`. Provide your code and results (e.g., scree nshots or screen videos). 
+
+Please use the following template code and design your `fun_my_ttt_bot`:
+* MATLAB: `task1_prob1.m` (see from this [folder](matlab))
+* Python: `main.py` (see from this [folder](python))
+
+**Warning**: For Python users!, please do not open `do_not_open_it.py` (see from this [folder](python)), which is my answer. It will distract you and will hinder you to come up with your own solution. 
+
+|MATLAB|
+|---|
+|![](prob1_Q3_matlab.png)|
+
+|Python|
+|---|
+|![](prob1_Q3_python.png)|
 
 
-**Q4. Tic-Tac-Toe: Beating a CY bot**
-You are going to use the same function `MyTTTBot` but you are going to fight with Chul Min's Tic-Tac-Toe bot `CYTTTBot`. You are a player 1.
-
-
-Provide your best winning rate when you compete with `CYTTTBot`.
-
-
-
-In Task01, the two programming tasks were posted on [**MATLAB Grader**](https://grader.mathworks.com/courses/27793-cive497-700-smart-structure-technology-winter-2021). You need to get a permission from the instructor to access those problems. The MATLAB Grader allows students instant feedback on the correctness of their solutions through the pre-designed testers. Thus, students can be highly motivated and inspired to persevere with completing the assignments. You can find a short tutorial here: [How to use MATLAB Grader?](https://github.com/chulminy/AE_ENVE_GEOE_121/tree/master/S2020/tutorial/matlab_grader)
-
-You are going to solve "poker game" and "word puzzle" problems. Note that these two problems were the homework assignments of the instructor's computational method course (first-year undergraduate course). 
-
-Here are the specific directions for MATLAB or Python users:
-
-**MATLAB users**  
-If you can pass the testers for both problems with your own code without hard coding (e.g., manually typing the locations of the words to pass the tester for the word puzzle problem), you are done. You can start to prepare a report following to the guideline below. Note that for a poker game problem, problems started with "(testing)" are just to help designing all nine functions needed to solve the "(main)" problem. You should pass "(main)" problem, not "(testing)" problems.  
-
-**Python users**  
-If you are Python users, you cannot use MATLAB grader features. However, you can still do homework. First, you must carefully read problem descriptions on the MATLAB Grader. Then, you can directly use these two files ("puzzle.txt" and "poker_card.txt") to find (1) 10 words locations and (2) ranks for 1000 card sequences. If you read the problem descriptions, you can understand what you should do with these two files. For a poker game problem, true ranks for all sequences in 'poker_card.txt' are given in 'soln_ranks.txt'. All files are posted on this page or download through this [link](task1.zip). For Python users, you should show in the report that (1) your code can identify the locations of all 10 words in the puzzle and (2) the ranks from your code are identical to the ones in 'soln.ranks.txt'. For example, you may write a code to check that your output is identical to the values in 'soln_ranks.txt'. Once you complete the coding, you can start to prepare a report following to the guideline below. 
-
-If students complete this task using Python, they will receive 3 extra points. This is because python users will spend much more time to complete this task. However, this does not mean that the instructors encourage students python programming. Either one is fine.    
-
-**Problem 2**
+## Problem 2
 The main goal of this problem is to review a tutorial for [**Digital Image Processing**](../../tutorial/image_proc). Copy this folder in your computer and run `digital_image_processing.mlx` in MATLAB (Note: If you do not find the sample images, you can download them from [**here**](https://www.dropbox.com/s/xgznul2u1l16iaw/sample_images.zip?dl=0)). Please answer the following questions in 'digital_image_processing.mlx':
  
 Q.002, Q.004, Q.005, Q.009, Q.010, Q.010, Q.013, Q.015 
