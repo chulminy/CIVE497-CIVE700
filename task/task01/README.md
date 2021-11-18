@@ -11,7 +11,7 @@ The main goal of this problem is to prepare for your programming activities thro
 
 We will going to design a Tic-tac-toe game! 
 
-![](tic_tac_toe_img.jpg)
+![](img/tic_tac_toe_img.jpg)
 
 
 ### Q1. Tic-Tac-Toe: Find a winner
@@ -36,11 +36,11 @@ You need to show that your `fun_check_win` produces correct outcomes (e.g., scre
 
 |MATLAB|
 |---|
-|![](prob1_Q1_matlab.png)|
+|![](img/prob1_Q1_matlab.png)|
 
 |Python|
 |---|
-|![](prob1_Q1_python.png)|
+|![](img/prob1_Q1_python.png)|
 
 
 ### Q2. Tic-Tac-Toe: Find a winning shot
@@ -56,11 +56,11 @@ You need to show that your `fun_find_win_shot` produces correct outcomes (e.g., 
 
 |MATLAB|
 |---|
-|![](prob1_Q2_matlab.png)|
+|![](img/prob1_Q2_matlab.png)|
 
 |Python|
 |---|
-|![](prob1_Q2_python.png)|
+|![](img/prob1_Q2_python.png)|
 
 
 ### Q3. Tic-Tac-Toe: Beating a random bot 
@@ -88,11 +88,11 @@ Please use the following template code and design your `fun_my_ttt_bot`:
 
 |MATLAB|
 |---|
-|![](prob1_Q3_matlab.png)|
+|![](img/prob1_Q3_matlab.png)|
 
 |Python|
 |---|
-|![](prob1_Q3_python.png)|
+|![](img/prob1_Q3_python.png)|
 
 
 ## Problem 2
