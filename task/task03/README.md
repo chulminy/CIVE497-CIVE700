@@ -1,8 +1,8 @@
 # Task03: Signal Processing II
 
-**Announcement**: January 27, 2021        
-**1st due date**: February 15, 2021 before 11:59pm
-**2nd due date**: February 22, 2021 before 11:59pm 
+**Announcement**: January XXX, 2021        
+**1st due date**: February XXX, 2021 before 11:59pm
+**2nd due date**: February XXX, 2021 before 11:59pm 
 
 The main goal of this task is to understand the fundamental of signal processing, especially for discrete Fourier transformation. You must study the tutorial to solve the corresponding problems. Please answer all sub-questions in each problem. You should write your own code to solve these questions. 
 
@@ -20,7 +20,7 @@ B, \,\,\,\,\,\,\,\,\,\,\,\,\,\,   b > \left | t \right |\\
 0, \,\,\, \,otherwise
 \end{Bmatrix} -->
 
-where A = 3, a= 3, and B = 2, b = 3
+where A = 10, a= 3, and B = 7, b = 3
 
 **(a)** Compute an analytic y(t) which is the convolution of f(t) and g(t):
 
@@ -71,7 +71,7 @@ F\left \{ x(t) \cdot h(t) \right \} = X(f) \ast  H(f)
 
 ![](https://latex.codecogs.com/gif.latex?y_2%28t%29%20%3D%20e%5E%7B-a%5Cleft%20%7C%20t%20%5Cright%20%7C%7D%28b%5Ccdot%20cos2%5Cpi%20f_1t%20&plus;%20c%5Ccdot%20cos2%5Cpi%20f_2t%29) &nbsp;&nbsp;&nbsp;&nbsp; where a = 0.3, b = 10, c= 3, f<sub>1</sub> = 5, and f<sub>2</sub> = 8 
 
-**(a)** z1 and z2 are discrete signals, which are obtained by digitizing (sampling) y1(t) and y2(t) with a sampling rate of 50 Hz and collecting them for 5 seconds, respectively. Please plot z1 and z2 in the time domain (include a proper time axis).  
+**(a)** z1 and z2 are discrete signals, which are obtained by digitizing (sampling) y1(t) and y2(t) with a sampling rate of 30 Hz and collecting them for 10 seconds, respectively. Please plot z1 and z2 in the time domain (include a proper time axis).  
 
 **(b)** Perform the discrete Fourier transform of z1 and z2, and plot your graphs in the frequency domain (include a proper frequency axis). Plot only positive frequency signals with absolute values.
 
@@ -79,23 +79,23 @@ F\left \{ x(t) \cdot h(t) \right \} = X(f) \ast  H(f)
 
 ## Problem 5: Discrete Fourier Transform 3 (30 points) - Use FFT
 
-![](https://latex.codecogs.com/gif.latex?y%28t%29%3D%20A1cos2%5Cpi%2825%29t%20&plus;%20A2cos2%5Cpi%2845%29t%20&plus;%20A3cos2%5Cpi%2875%29t)
+![](https://latex.codecogs.com/gif.latex?y%28t%29%3D%20A1cos2%5Cpi%2825%29t%20&plus;%20A2cos2%5Cpi%2845%29t%20&plus;%20A3cos2%5Cpi%2880%29t)
 
-where A1 = 2, A2 = 5, and A3 = 10. 
+where A1 = 2, A2 = 10, and A3 = 10. 
 
-**(a)** y1 is a discrete signal, which is obtained by digitizing y(t) with a sampling rate of 200 Hz for 3 seconds. Please plot y1 in the time domain (include a proper time axis). Please connect the sampled points.  
+**(a)** y1 is a discrete signal, which is obtained by digitizing y(t) with a sampling rate of 200 Hz for 10 seconds. Please plot y1 in the time domain (include a proper time axis). Please connect the sampled points.  
 
 **(b)** Perform the discrete Fourier transform of y1 and plot your graph in the frequency domain (include a proper frequency axis). Plot only a positive frequency signal. Can we measure all three frequencies? 
 
-**(c)** y2 is a discrete signal, which is obtained by digitizing y(t) with a sampling rate of 110 Hz for 3 seconds. Please plot y2 in the time domain (include a proper time axis). Please connect the sampled points.
+**(c)** y2 is a discrete signal, which is obtained by digitizing y(t) with a sampling rate of 140 Hz for 10 seconds. Please plot y2 in the time domain (include a proper time axis). Please connect the sampled points.
 
 **(d)** Perform the discrete Fourier transform of y2 and plot your graph in the frequency domain (include a proper frequency axis). Plot only a positive frequency signal. Can we measure all three frequencies? 
 
-**(e)** If you digitize a longer-duration signal (let's say 100 seconds) with a sampling rate of 110 Hz, can you measure and extract all three frequencies contained in the original signal, y(t)? Please explain your answer. 
+**(e)** If you digitize a longer-duration signal (let's say 100 seconds) with a sampling rate of 140 Hz, can you measure and extract all three frequencies contained in the original signal, y(t)? Please explain your answer. 
 
-**(f)** If you digitize the signal with a sampling rate of 120 Hz for 20 seconds, can you measure and extract all frequencies contained in the original signal, y(t)? please explain your answer.
+**(f)** If you digitize the signal with a sampling rate of 150 Hz for 20 seconds, can you measure and extract all frequencies contained in the original signal, y(t)? please explain your answer.
 
-**(g)** If you digitize the signal with a sampling rate of 151 Hz for 20 seconds, can you measure and extract all frequencies contained in the original signal, y(t)? please explain your answer.
+**(g)** If you digitize the signal with a sampling rate of 161 Hz for 20 seconds, can you measure and extract all frequencies contained in the original signal, y(t)? please explain your answer.
 
 ## Problem 6: Frequency Analysis (10 points)
 Two sinusoidal accelerations are measured using an accelerometer in a smartphone. Each of the waves is stored at `data1.mat` and `data2.mat`. 
@@ -104,7 +104,7 @@ Two sinusoidal accelerations are measured using an accelerometer in a smartphone
 
 **(b)** Load `data2.mat` and plot the acceleration signal in a z direction (`zvib`). What is the main frequency of this wave? The sampling frequency is 10.1192 Hz. 
 
-**Submission of Your Work**
+## Submission of Your Work
 * You should turn in a report to uw.task@gmail.com. When you send your email, please cc your email for future reference.  
 * A subject of your email must be the format of "Task03_`Your name` _ `Degree` _ `ID`"
 	* `Your name`: first five lower-case letter your **first + last** name. It should be lower case. (i.g Chul Min Yeum -> chulmi, Juan Park -> juanp)   
