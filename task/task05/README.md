@@ -16,7 +16,7 @@ The intersection of two lines **l1** and **l2**, with **l1** passing through the
 
 ## Problem 2: Homogeneous Coordinate (Lines) (10 points)
 
-The four lines (**l1**, **l2**, **l3**, and **l4**) are intersected at six points. **Among the six points, please find four points that form a quadrangle with your code, not manually**. 
+The four lines (**l1**, **l2**, **l3**, and **l4**) are intersected at six points. **Among the six points, please find four points that form a quadrangle with your code, not manually**. Please explain your own algorithm to pick these four points.
 
 ![](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bmatrix%7D%20%5C%5C%20l_1%3A%20y%20%3D%200.59756%5Ccdot%20x%20&plus;%20921.94%20%5C%5C%20l_2%3A%20y%20%3D%20-1.935%5Ccdot%20x%20&plus;%206050.3%20%5C%5C%20l_3%3A%20y%20%3D%200.51575%5Ccdot%20x%20-495.56%20%5C%5C%20l_4%3A%20y%20%3D%20-1.3858%5Ccdot%20x%20&plus;%201685.5%20%5Cend%7Bmatrix%7D)
 
@@ -33,7 +33,7 @@ https://latex.codecogs.com/legacy/eqneditor/editor.php
 
 ## Problem 3: Homography (10 points)
 
-Image 1 and Image 2 capture a flat rectangular table from different viewpoints. The pixel locations of the four corners of the table on Image 1 are the locations computed in Problem 2. The perspective transformation from the points in image 1 to the ones in image 2 is
+Image 1 and Image 2 capture a flat rectangular table from different viewpoints. The pixel locations of the four corners of the table on Image 1 are the locations computed in Problem 2. When the perspective transformation from the points in image 1 to the ones in image 2 is
 
 ![](https://latex.codecogs.com/gif.latex?%5Cmathbf%7BH%7D%20%3D%20%5Cbegin%7Bbmatrix%7D%200.44973%26%20-0.3531%26%201147.5%5C%5C%200.2448%26%200.41441%26%2096.5%5C%5C%200%26%200%26%201%20%5Cend%7Bbmatrix%7D)
 
@@ -48,7 +48,7 @@ https://latex.codecogs.com/legacy/eqneditor/editor.php
 \end{bmatrix}
 -->
 
-Please find a line equation for each side of the table in Image 2. The line equation should be the form of y = a•x + b.   
+, please find a line equation for each side of the table in Image 2 (a total of four sides). The line equation should be the form of y = a•x + b.   
 
 ## Problem 4: Linear Algebra (20 points)
 
@@ -98,7 +98,7 @@ https://latex.codecogs.com/legacy/eqneditor/editor.php
 |:-----:|:----:|:----:|
 |(a) original image: *prob5_1.jpg*|(b) original image: *prob5_2.jpg*|(c) original image: *prob5_3.jpg*|
 
-You are going to hang a good painting or meme. Please find an image putting on the designated regions, and a digital clock (see *clock_wall.png*) is placed on the designated block (*marked as 'clock'*). Your images and the clock image are projected to the marked regions in (a), (b) and (c). Write your own code to automatically project your image. You should find homography for each image. 
+You are going to hang a good painting or meme. Please find an image putting on the designated regions, and a digital clock (see *clock_wall.png*) is placed on the designated block (*marked as 'clock' in prob5_1.jpg*). Your images should be projected to the marked regions in (a), (b) and (c). Write your own code to automatically project your image. You need to find homography for each image. 
 
 Here is a sample demo for one image (`demo_problem5.m` in [**problem5**](problem5)).
 
@@ -120,7 +120,7 @@ Here is a sample demo
 
 [![](http://img.youtube.com/vi/kx3znk9mT_g/0.jpg)](https://youtu.be/kx3znk9mT_g)
 
-First, you need to show that your code is working for the given image of *prob6.jpg*. You should include the resulting images in the report. Next, you should demonstrate the functionality of your code using your own image like the one in the demo videos. Please think about how or what to take images to show the functions of your code. You can capture the video (like demo video) and include it in your submission or the link to the video. 
+First, you need to show that your code is working for the given image of *prob6.jpg*. You should include the resulting images in the report. Next, you should demonstrate the functionality of your code **using your own image like the one in the demo videos**. Please think about how or what to take images to show the functions of your code. You can capture the video (like demo video) and include it in your submission or the link to the video. 
 
 ## Problem 7: Build your 3D Planar Measurement Software (20 points)
 
