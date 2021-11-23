@@ -1,13 +1,13 @@
 # Task05: Homography
 
-**Announcement**: February 15, 2021        
-**1st due date**: March 03, 2021 before 11:59pm
-**2nd due date**: March 12, 2021 before 11:59pm        
+**Announcement**: February XXX, 2021        
+**1st due date**: March XXX, 2021 before 11:59pm
+**2nd due date**: March XXX, 2021 before 11:59pm        
 
 The main goal of this task is to understand the fundamental of the homogeneous coordinate and the homography relationship between points on two images of the same planar surface in space. Please answer all sub-questions in each problem. You should write your own code to solve these questions. 
 
 ## Problem 1: Homogeneous Coordinate (Lines and Points) (10 points)
-The intersection of two lines **l1** and **l2**, with **l1** passing through the points (5,4) and (1,7), and **l2** passing through the points (6,3) and (-3,8). 
+The intersection of two lines **l1** and **l2**, with **l1** passing through the points (8,4) and (1,7), and **l2** passing through the points (6,3) and (-3,8). 
 
 **(a)** Compute the intersection without using homogeneous coordinates 
 
@@ -60,7 +60,7 @@ Note that you should solve (a) and (b) by hand and (c) with a programming script
 
 **(b)** What is the definition of a row and null space? Please find the rank and nullity of A. 
 
-![](https://latex.codecogs.com/gif.latex?%5Cmathbf%7BA%7D%20%3D%20%5Cbegin%7Bbmatrix%7D%201%20%26%203%26%202%26%201%26%204%5C%5C%203%20%26%206%26%208%26%204%26%20-7%20%5C%5C%20-1%20%26%202%26%203%26%207%26%209%20%5C%5C%207%20%26%2021%26%2014%26%207%26%2028%20%5Cend%7Bbmatrix%7D)
+![](https://latex.codecogs.com/gif.latex?%5Cmathbf%7BA%7D%20%3D%20%5Cbegin%7Bbmatrix%7D%201%20%26%203%26%202%26%201%26%204%5C%5C%203%20%26%206%26%208%26%204%26%20-7%20%5C%5C%20-1%20%26%20-3%26%20-2%26%20-1%26%20-4%20%5C%5C%207%20%26%2021%26%2014%26%207%26%2028%20%5Cend%7Bbmatrix%7D)
 
 <!---
 https://latex.codecogs.com/legacy/eqneditor/editor.php
@@ -68,7 +68,7 @@ https://latex.codecogs.com/legacy/eqneditor/editor.php
 \begin{bmatrix}
 1 &  3&  2&  1&  4\\ 
 3 &  6&  8&  4&  -7 \\ 
--1 &  2&  3&  7&  9 \\ 
+-1 &  -3&  -2&  -1&  -4 \\ 
 7 &  21&  14&  7&  28 
 \end{bmatrix}
 -->
@@ -94,11 +94,11 @@ https://latex.codecogs.com/legacy/eqneditor/editor.php
 -->
 
 ## Problem 5: Image Overlay (10 points)
-|![](doc/my_office.png)|![](doc/award.png)|
-|:-----:|:----:|
-|(a) original image: *prob5_1.jpg*|(b) original image: *prob5_2.jpg*|
+|![](doc/my_office.png)<img width=300/>|![](doc/squid.jpg)<img width=300/>|![](doc/prove_me_wrong.jpg)<img width=300/>|
+|:-----:|:----:|:----:|
+|(a) original image: *prob5_1.jpg*|(b) original image: *prob5_2.jpg*|(c) original image: *prob5_3.jpg*|
 
-You are going to hang a good painting or meme. Please find an image putting on the whiteboard and award frame, and a digital clock (see *clock_wall.png*) is placed on the designated block (*marked as 'clock'*). Your images and the clock image are projected to the marked regions in (a) and (b). Write your own code to automatically project your image. You should find homography for each image. 
+You are going to hang a good painting or meme. Please find an image putting on the designated regions, and a digital clock (see *clock_wall.png*) is placed on the designated block (*marked as 'clock'*). Your images and the clock image are projected to the marked regions in (a), (b) and (c). Write your own code to automatically project your image. You should find homography for each image. 
 
 Here is a sample demo for one image (`demo_problem5.m` in [**problem5**](problem5)).
 
@@ -134,7 +134,6 @@ A sample code is not provided in this problem because you will reuse the code in
 
 You need to demonstrate the functionality of your tool using your own image as well as physical measurements. Any size of a calibration paper can be used. Please provide at least two measurements on the plane that the calibration paper is placed. You can capture the video (like demo video) and include it in your submission or the link to the video. 
 
-**Note that if you can complete problems 5,6 and 7 using Python, you will receive extra 5 points.** 
 
 ## Submission of Your Work
 * **YOU MUST INCLUDE YOUR RESULTING GRAPHS OR IMAGES INTO YOUR REPORT**
