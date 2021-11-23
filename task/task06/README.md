@@ -1,8 +1,8 @@
 # Task06: Image Processing
 
-**Announcement**: February 24, 2021        
-**1st due date**: March 19, 2021 before 11:59pm
-**2nd due date**: March 26, 2021 before 11:59pm       
+**Announcement**: XXXX, 2021        
+**1st due date**: XXXX, 2021 before 11:59pm
+**2nd due date**: XXXX, 2021 before 11:59pm       
 
 The main goal of this task is to understand the fundamental of the linear filter, edge detection, and Hough transform. You must study the tutorials at edge detection, linear filter, and image morphology before solving these problems. Please answer all sub-questions in each problem. You should write your own code to solve these questions. 
 
@@ -32,7 +32,7 @@ You are going to filter your image using the following kernels. Please conduct c
 
 ![](https://latex.codecogs.com/gif.latex?H_1%20%3D%20%5Cfrac%7B1%7D%7B9%7D%5Cbegin%7Bbmatrix%7D%201%20%26%201%20%26%201%5C%5C%201%20%26%201%20%26%201%5C%5C%201%20%26%201%20%26%201%20%5Cend%7Bbmatrix%7D%2C%5C%2C%5C%2C%20H_2%20%3D%20%5Cbegin%7Bbmatrix%7D%200%20%26%201%20%26%200%5C%5C%201%20%26%20-4%20%26%201%5C%5C%200%20%26%201%20%26%200%20%5Cend%7Bbmatrix%7D%20%2C%20%5C%2C%5C%2C%20H_3%20%3D%20%5Cbegin%7Bbmatrix%7D%20-0.55%20%26%20-0.55%20%26%20-0.55%5C%5C%20-0.55%20%26%205.40%20%26%20-0.55%5C%5C%20-0.55%20%26%20-0.55%20%26%20-0.55%20%5Cend%7Bbmatrix%7D%20%2C)
 </br>
-![](https://latex.codecogs.com/gif.latex?H_4%20%3D%20%5Cbegin%7Bbmatrix%7D%200.0030%20%26%200.0133%20%26%200.0219%20%26%200.0133%20%26%200.0030%20%5C%5C%200.0133%20%26%200.0596%20%26%200.0983%20%26%200.0596%20%26%200.0133%20%5C%5C%200.0219%20%26%200.0983%20%26%200.1621%20%26%200.0983%20%26%200.0219%20%5C%5C%200.0133%20%26%200.0596%20%26%200.0983%20%26%200.0596%20%26%200.0133%20%5C%5C%200.0030%20%26%200.0133%20%26%200.0219%20%26%200.0133%20%26%200.0030%20%5Cend%7Bbmatrix%7D) ![](https://latex.codecogs.com/gif.latex?,) &nbsp;&nbsp;&nbsp;   ![](https://latex.codecogs.com/gif.latex?H_5%20%3D%20%5Cbegin%7Bbmatrix%7D%200%20%26%200%20%26%201%26%200%26%200%5C%5C%200%20%26%200%20%26%200%20%26%200%20%26%200%5C%5C%200%20%26%200%20%26%200%20%26%200%20%26%200%5C%5C%200%20%26%200%20%26%200%20%26%200%20%26%200%5C%5C%200%20%26%200%20%26%200%20%26%200%20%26%200%20%5Cend%7Bbmatrix%7D)
+![](https://latex.codecogs.com/gif.latex?H_4%20%3D%20%5Cbegin%7Bbmatrix%7D%200.0030%20%26%200.0133%20%26%200.0219%20%26%200.0133%20%26%200.0030%20%5C%5C%200.0133%20%26%200.0596%20%26%200.0983%20%26%200.0596%20%26%200.0133%20%5C%5C%200.0219%20%26%200.0983%20%26%200.1621%20%26%200.0983%20%26%200.0219%20%5C%5C%200.0133%20%26%200.0596%20%26%200.0983%20%26%200.0596%20%26%200.0133%20%5C%5C%200.0030%20%26%200.0133%20%26%200.0219%20%26%200.0133%20%26%200.0030%20%5Cend%7Bbmatrix%7D) ![](https://latex.codecogs.com/gif.latex?,) &nbsp;&nbsp;&nbsp;   ![](https://latex.codecogs.com/gif.latex?H_5%20%3D%20%5Cbegin%7Bbmatrix%7D%200%20%26%200%20%26%200%26%200%26%200%5C%5C%200%20%26%200%20%26%200%20%26%200%20%26%200%5C%5C%200%20%26%200%20%26%200%20%26%200%20%26%201%5C%5C%200%20%26%200%20%26%200%20%26%200%20%26%200%5C%5C%200%20%26%200%20%26%200%20%26%200%20%26%200%20%5Cend%7Bbmatrix%7D)
 
 <!--
 H_5 = \begin{bmatrix}
@@ -113,7 +113,7 @@ Here is a sample demo.
 
 A sample script is provided in this problem. You are going to make your own `find_aruco_num` script, which is given as p-code. If you are a Python user, you need to make an equivalent function to identify marker ids. To do so, you need to import `aruco_marker.mat` to your Python script. Note that you **should not** use any computer vision library (including marker detection library) in MATLAB or Python. You can solve this using `ComputeH` that you made and some basic functions in MATLAB or Python. Note that this is not a feature matching problem so do not try to match features on the marker on the test image and original marker image. 
 
-**Note that if you can complete problems 4,5 and 6 using Python, you will receive extra 10 points.** 
+**Note that if you can complete problems 4,5 and 6 using Python, you will receive extra 5 points.** 
 
 ## Submission of Your Work
 * **YOU MUST INCLUDE YOUR RESULTING GRAPHS OR IMAGES INTO YOUR REPORT**

@@ -121,10 +121,14 @@ This course grades your final mark based on the marks earned from these assignme
 |Task03|[**Signal Processing 2**](task/task03) </br> Best report ([Arian Nedjabat](task/task03/best/Rept_Task03_Arian_BA_20661686.pdf),[Niloofar Elyasi](task/task03/best/Rept_niloo_PH_20925091.pdf))|Jan 27|Feb 15|Feb 22|
 |Task04|[**Digital Image**](task/task04) </br> Best report ([Rishabh Bajaj](task/task04/best/Rept_risha_PH_20912910.pdf),[Ryan Kong](task/task04/best/Rept_ryank_BA_20668791.pdf)) </br> [*Students' answers for Q4 and Q5*](review/unqiue_future_smart_phone_camera.md) |Feb 03|Feb 22|Feb 29|
 |Task05|[**Homography**](task/task05) </br> Best report ([Arian Nedjabat](task/task05/best/Rept_Task05_Arian_BA_20661686.pdf),[Raymond Ren](task/task05/best/Rept_raymo_BA_20667930.pdf))|Feb 15|Mar 03|Mar 12|
-|Task06|[**Image Processing**](task/task06)</br> Best report ([Janice Zhang](task/task06/best/Rept_janicz_BA_20664084.pdf))|Feb 24|Mar 19|Mar 26|
+|Task06|[**Image Processing**](task/task06)|Feb 24|Mar 19|Mar 26|
 |Task07|[**Feature Matching & RANSAC**](task/task07)</br> Best report ([Raymond Ren](task/task07/best/Rept_raymo_BA_20667930.pdf))|Mar 14|Apr 02|Apr 09|
 |Task08|[**Multiview Geometry (SfM)**](task/task08)|Mar 24|Apr 09|Apr 16|
 |Task09|[**Neural Network**](task/task09)|Apr 09|Apr 23|Apr 23|
+
+<!---
+|Task06|[**Image Processing**](task/task06)</br> Best report ([Janice Zhang](task/task06/best/Rept_janicz_BA_20664084.pdf))|Feb 24|Mar 19|Mar 26|
+--->
 
 ## Communication  
 **All communication will be made through [this course website](https://github.com/chulminy/CIVE497-CIVE700)**, especially for this web page. The instructor will make a note in the ["Announcement"](#announcement) section if there is an update on the web page. Students can configure email notification for by ["watching"](https://help.github.com/articles/watching-and-unwatching-repositories/) this course website or use a version control system for tracking its changes. Thus, **students are responsible for checking the website regularly** for any relevant course information or announcements. 
