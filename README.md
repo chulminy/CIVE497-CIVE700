@@ -5,7 +5,7 @@
 **Instructor:** Chul Min Yeum (E2-2313)   
 **Class:** Mon and Wed, 08:30AM to 9:50AM       
 **Email:** cmyeum@uwaterloo.ca   
-**Office Hours:** Mon and Wed 10 to 11AM at E2-2313 (You can also email me for an appointment)   
+**Office Hours:** Mon and Wed 10 to 11AM at E2-2313 (in-person) (You can also email me for an appointment)  
 **TA:** Zaid Al-Sabbag (zaalsabbag@uwaterloo.ca)     
 
 Last updated: 2021-11-17
