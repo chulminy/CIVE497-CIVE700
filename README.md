@@ -3,22 +3,36 @@
 ![](intro_img.png)
 
 **Instructor:** Chul Min Yeum (E2-2313)   
-**Class:** Mon and Wed, 08:30AM to 9:50AM       
+**Class:** Mon and Wed, 08:30AM to 9:50AM (as of Jan 26)      
 **Email:** cmyeum@uwaterloo.ca   
-**Office Hours:** Mon and Wed 10 to 11AM at E2-2313 (in-person) (You can also email me for an appointment)  
+**Office Hours:** Mon and Wed 10 to 11AM at E2-2313 (in-person) (as of Jan 26). You can also email me for an appointment.  
 **TA:** Zaid Al-Sabbag (zaalsabbag@uwaterloo.ca)     
 
-Last updated: 2021-11-17
+Last updated: 2021-12-16
 
 **Previous offerings of this course**
 - [**Smart Structure Technology (Winter, 2021)**](previous/w2021)  
 - [**Smart Structure Technology (Winter, 2020)**](previous/w2020)  
 - [**Smart Structure Technology (Winter, 2019)**](previous/w2019)  
 
+## Online Schedule for the first three weeks (prior to Jan 24)
+Please see a recent announcement regarding the winter term: https://uwaterloo.ca/coronavirus/news/preparing-online-start-winter-term
+
+* All in-person classes on Jan 5, 10, 12, 17, and 19 will be canceled.
+* Students need to watch per-recorded video lectures for Class 01, 02, 03, 04, and 05. 
+* There will be three live lectures at the class time on every Wednesday. We are going to have a MS team meeting in our class MS team channel. Students are highly encouraged to attend these meetings and ask at least one questions regarding a corresponding topic. Here are the detailed schedules:
+
+|Time|Topic|Preparation|
+|:----|:-----|:----|
+|Jan 5 at 8:30 am|Review a course syllabus and Q&A|Please carefully read the **course syllabus** before joining the meeting|
+|Jan 12 at 8:30 am|Review Class 02 and 03, introduce HW01, and Q&A |Please watch and study **Class 01**, **02**, and **03** before joining the meeting|
+|Jan 19 at 8:30 am|Review Class 04 and 05, introduce HW02, and Q&A |Please watch and study **Class 04** and **05** before joining the meeting| 
+* All in-person office hours will be canceled. However, students feel free to send the instructor a chat message through MS Team if they have questions. 
+
 ## Announcement
+* **Dec 16, 2021:** Please see a new announcement regarding online start to the winter term.  
 * **Nov 17, 2021:** The CEE guidelines for the minimum requirements for audit (AUD) are (1) attend at least 10 weeks of class and (2) complete the equivalent of a t lest of the graded items (assignments, project, midterm) with an overall grade of at least 70%. However, the instructor does not recommend auditing this course because unless students does homework assignment in this course, they will not learn much. Since the lectures were already uploaded in the [**course website**](previous/w2021#lecture-video), please watch these videos rather than auditing.   
 * **Nov 17, 2021:** The first class will start at Jan 05, 2022.     
-
 
 ## Table of Contents
 - [**Course Description**](#course-description)
