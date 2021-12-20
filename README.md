@@ -8,7 +8,7 @@
 **Office Hours:** Mon and Wed 10 to 11AM at E2-2313 (in-person) (as of Jan 26). You can also email me for an appointment.  
 **TA:** Zaid Al-Sabbag (zaalsabbag@uwaterloo.ca)     
 
-Last updated: 2021-12-16
+Last updated: 2021-12-20
 
 **Previous offerings of this course**
 - [**Smart Structure Technology (Winter, 2021)**](previous/w2021)  
@@ -29,6 +29,9 @@ Please see a recent announcement regarding the winter term: https://uwaterloo.ca
 |Jan 19 at 8:30 am|Review Class 04 and 05, introduce HW02, and Q&A |Please watch and study **Class 04** and **05** before joining the meeting| 
 * All in-person office hours will be canceled. However, students feel free to send the instructor a chat message through MS Team if they have questions. 
 
+## Fair Contingencies for Emergency Remote Teaching
+We are facing unusual and challenging times. The course outline presents the instructor’s intentions for course assessments, their weights, and due dates in Winter 2022. As best as possible, we will keep to the specified assessments, weights, and dates. To provide contingency for unforeseen circumstances, **the instructor reserves the right to modify course topics and/or assessments and/or weight and/or deadlines with due and fair notice to students.** In the event of such challenges, the instructor will work with the Department/Faculty to find reasonable and fair solutions that respect rights and workloads of students, staff, and faculty. 
+
 ## Announcement
 * **Dec 16, 2021:** Please see a new announcement regarding online start to the winter term.  
 * **Nov 17, 2021:** The CEE guidelines for the minimum requirements for audit (AUD) are (1) attend at least 10 weeks of class and (2) complete the equivalent of a t lest of the graded items (assignments, project, midterm) with an overall grade of at least 70%. However, the instructor does not recommend auditing this course because unless students does homework assignment in this course, they will not learn much. Since the lectures were already uploaded in the [**course website**](previous/w2021#lecture-video), please watch these videos rather than auditing.   
@@ -48,8 +51,7 @@ Please see a recent announcement regarding the winter term: https://uwaterloo.ca
 ## Course Description
 This course offers an introduction to the emerging **smart structure technologies** in civil engineering. Smart structures integrate sensing, actuation, data processing, analysis, and visualization, and control capabilities so that a structure can sense and respond to its changing external conditions in a rapid and automated manner. Among several topics in smart structure, this course focuses on [**structural assessment**](https://en.wikipedia.org/wiki/Structural_health_monitoring) using optical sensor data by implementing state-of-art image processing and computer vision techniques. As a special topic, basic concepts in **structure from motion**, **machine learning**, and **neural networks** are covered and relevant applications in civil engineering are introduced. An application-based learning approach is emphasized and tasks are designed in such a way that students can implement smart structure technology to address contemporary problems in civil engineering. In addition, for graduate students, students can **opt to** perform a research project, in which students will have an opportunity to design a technique with a potential application to smart structures and advance their research works. 
 
-This course is specially designed to suit the interest of **graduate students** and **senior undergraduate students who may pursue graduate studies**. Based on the feedback received from the courses offered in previous years, you are expected to spend 12 hours or more per week studying class materials as well as working on task assignments and research project. You can see the course outline and task assignments in the previous year from [**w2021**](previous/w2021), [**w2020**](previous/w2020), [**w2019**](previous/w2019). Note that all lectures were delivered using [**pre-recorded videos**](previous/w2021#lecture-video) in 2021. When you are absent from a class, you can watch the corresponding lecture video. However, students are highly encouraged to attend the classes. 
-
+This course is specially designed to suit the interest of **graduate students** and **senior undergraduate students who may pursue graduate studies**. Based on the feedback received from the courses offered in previous years, you are expected to spend 12 hours or more per week studying class materials as well as working on task assignments and research project. You can see the course outline and task assignments in the previous year from [**w2021**](previous/w2021), [**w2020**](previous/w2020), [**w2019**](previous/w2019). Note that all lectures were delivered using [**pre-recorded videos**](#lecture-video) in 2021. When you are absent from a class, you can watch the corresponding lecture video. However, students are highly encouraged to attend the classes. 
 
 ## Intended Learning Outcomes
 By the end of this course, students should be able to  
@@ -102,6 +104,30 @@ The study load for each class is marked as the number of regular offline classes
 |Class 18|**Gradient Descent**|[slide](lecture/clss18_ml_gd)|[tutorial](tutorial/ml_gd)|1|Mar 28||
 |Class 19|**Training Linear Model**|[slide](lecture/clss19_ml_lg)|[tutorial](tutorial/ml_linear_model)|1|Apr 30||
 |Class 20|**Neural Network**|[slide](lecture/clss20_ml_nn)|[tutorial](tutorial/neural_network)|2|Apr 04|**Task09**|
+
+### Lecture Video
+|Class|Topics|Video|
+|:----|:-----|:----|
+|Class 01|**Introduction**|[<img src="http://img.youtube.com/vi/p7QaQYuG-RM/0.jpg" height="150">](https://youtu.be/p7QaQYuG-RM)|
+|Class 02|**MATLAB Tutorial**|[<img src="http://img.youtube.com/vi/TZzCF1eNGoo/0.jpg" height="150">](https://youtu.be/TZzCF1eNGoo)|
+|Class 03|**Data Acquisition**|[<img src="http://img.youtube.com/vi/PAnChNF7JqU/0.jpg" height="150">](https://youtu.be/PAnChNF7JqU)|
+|Class 04|**Signal Processing I**|[<img src="http://img.youtube.com/vi/52p-7BWwQ1Y/0.jpg" height="150">](https://youtu.be/52p-7BWwQ1Y) [<img src="http://img.youtube.com/vi/-ypxsaf21ak/0.jpg" height="150">](https://youtu.be/-ypxsaf21ak)|
+|Class 05|**Signal Processing II**|[<img src="http://img.youtube.com/vi/m2x6Wzc8Cf4/0.jpg" height="150">](https://youtu.be/m2x6Wzc8Cf4)|
+|Class 06|**Signal Processing III**|[<img src="http://img.youtube.com/vi/moytbQU0Gt8/0.jpg" height="150">](https://youtu.be/moytbQU0Gt8) [<img src="http://img.youtube.com/vi/pBpAV5kH8nI/0.jpg" height="150">](https://youtu.be/pBpAV5kH8nI)|
+|Class 07|**Digital Image**|[<img src="http://img.youtube.com/vi/QuwI0HjQUoI/0.jpg" height="150">](https://youtu.be/QuwI0HjQUoI)|
+|Class 08|**Projective Geometry**|[<img src="http://img.youtube.com/vi/yXSRfpaXDYc/0.jpg" height="150">](https://youtu.be/yXSRfpaXDYc) [<img src="http://img.youtube.com/vi/_LOnmx1PqmY/0.jpg" height="150">](https://youtu.be/_LOnmx1PqmY)|
+|Class 09|**Linear Filtering**|[<img src="http://img.youtube.com/vi/l2893AKrTAM/0.jpg" height="150">](https://youtu.be/l2893AKrTAM)|
+|Class 10|**Edge Detection I**|[<img src="http://img.youtube.com/vi/IHwgR196PzM/0.jpg" height="150">](https://youtu.be/IHwgR196PzM)|
+|Class 11|**Edge Detection II**|[<img src="http://img.youtube.com/vi/ZjlNvLv-jj0/0.jpg" height="150">](https://youtu.be/ZjlNvLv-jj0)|   
+|Class 12|**Feature**|[<img src="http://img.youtube.com/vi/kLmCt43qafU/0.jpg" height="150">](https://youtu.be/kLmCt43qafU) [<img src="http://img.youtube.com/vi/BZsU2BvS8_M/0.jpg" height="150">](https://youtu.be/BZsU2BvS8_M)|
+|Class 13|**RANSAC**|[<img src="http://img.youtube.com/vi/afZg68R4b9M/0.jpg" height="150">](https://youtu.be/afZg68R4b9M)|  
+|Class 14|**Camera Model**|[<img src="http://img.youtube.com/vi/6_PJj7GrkL8/0.jpg" height="150">](https://youtu.be/6_PJj7GrkL8)|
+|Class 15|**Two-view Geometry**|[<img src="http://img.youtube.com/vi/5_rez7tvg8I/0.jpg" height="150">](https://youtu.be/5_rez7tvg8I)|
+|Class 16|**Structure From Motion**|[<img src="http://img.youtube.com/vi/DFuQd2xw0ek/0.jpg" height="150">](https://youtu.be/DFuQd2xw0ek)|
+|Class 17|**Introduction of Machine Learning**|[<img src="http://img.youtube.com/vi/PdZ0cbddxfI/0.jpg" height="150">](https://youtu.be/PdZ0cbddxfI) [<img src="http://img.youtube.com/vi/FHZIJgLVXBw/0.jpg" height="150">](https://youtu.be/FHZIJgLVXBw)|
+|Class 18|**Gradient Descent**|[<img src="http://img.youtube.com/vi/mZVHNXxdAys/0.jpg" height="150">](https://youtu.be/mZVHNXxdAys)|
+|Class 19|**Training Linear Model**|[<img src="http://img.youtube.com/vi/31CSIqymnWY/0.jpg" height="150">](https://youtu.be/31CSIqymnWY)|
+|Class 20|**Neural Network**|[<img src="http://img.youtube.com/vi/pZLQywcd2Lw/0.jpg" height="150">](https://youtu.be/pZLQywcd2Lw) [<img src="http://img.youtube.com/vi/lIjEW38i75g/0.jpg" height="150">](https://youtu.be/lIjEW38i75g)|
 
 ## Tasks
 There will be **9 tasks** and they will be posted on this course website weekly or bi-weekly. **The instructor encourage students to work in groups through collaborative learning, but to submit their assignments individually.** The task will have programming components or photography components, where students will use their own camera to capture and process their own images and discuss the results. Students are supposed to complete all tasks and turn their works in by the due date. You can access the best reports for the assignments in previous years from [**w2021**](previous/w2021#tasks), [**w2020**](previous/w2020#tasks), and [**w2019**](previous/w2019#tasks). The problems will be similar to the ones in the previous assignments. However, the students must not copy and paste the codes or texts in those reports. Also, some answers in the model report are not correct.     
