@@ -21,7 +21,8 @@ Tic-tac-toe is a paper-and-pencil game for two players, X and O, who take turns 
 Create a function `fun_check_win` that has one input and one output to evaluate who wins this game. 
 
 ```matlab
-function winner = fun_check_win(mat2d) % matlab
+% matlab  
+function winner = fun_check_win(mat2d) 
 ```
 
 ```python

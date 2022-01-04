@@ -8,7 +8,7 @@
 **Office Hours:** Mon and Wed 10 to 11AM at E2-2313 (in-person) (as of Jan 26). You can also email me for an appointment.  
 **TA:** Zaid Al-Sabbag (zaalsabbag@uwaterloo.ca)     
 
-Last updated: 2021-12-20
+Last updated: 2022-01-04  
 
 **Previous offerings of this course**
 - [**Smart Structure Technology (Winter, 2021)**](previous/w2021)  
@@ -20,19 +20,20 @@ Please see a recent announcement regarding the winter term: https://uwaterloo.ca
 
 * All in-person classes on Jan 5, 10, 12, 17, and 19 will be canceled.
 * Students need to watch per-recorded video lectures for Class 01, 02, 03, 04, and 05. 
-* There will be three live lectures at the class time on every Wednesday. We are going to have a MS team meeting in our class MS team channel. Students are highly encouraged to attend these meetings and ask at least one questions regarding a corresponding topic. Here are the detailed schedules:
+* There will be three live lectures at the class time on every **Wednesday**. We are going to have a MS team meeting in our class MS team channel. Students are highly encouraged to attend these meetings and ask at least one questions regarding a corresponding topic. Here are the detailed schedules:
 
 |Time|Topic|Preparation|
 |:----|:-----|:----|
-|Jan 5 at 8:30 am|Review a course syllabus and Q&A|Please carefully read the **course syllabus** before joining the meeting|
-|Jan 12 at 8:30 am|Review Class 02 and 03, introduce HW01, and Q&A |Please watch and study **Class 01**, **02**, and **03** before joining the meeting|
-|Jan 19 at 8:30 am|Review Class 04 and 05, introduce HW02, and Q&A |Please watch and study **Class 04** and **05** before joining the meeting| 
+|Jan 5 at 8:30 am|Review a course syllabus, introduce Task 01,  and Q&A|Please carefully read the **course syllabus** and review [**Task 01**](task/task01) description|
+|Jan 12 at 8:30 am|Review Class 02 and 03, and Q&A |Please watch and study **Class 01**, **02**, and **03** before joining the meeting|
+|Jan 19 at 8:30 am|Review Class 04 and 05, introduce Task 02, and Q&A |Please watch and study **Class 04** and **05** before joining the meeting| 
 * All in-person office hours will be canceled. However, students feel free to send the instructor a chat message through MS Team if they have questions. 
 
 ## Fair Contingencies for Emergency Remote Teaching
 We are facing unusual and challenging times. The course outline presents the instructor’s intentions for course assessments, their weights, and due dates in Winter 2022. As best as possible, we will keep to the specified assessments, weights, and dates. To provide contingency for unforeseen circumstances, **the instructor reserves the right to modify course topics and/or assessments and/or weight and/or deadlines with due and fair notice to students.** In the event of such challenges, the instructor will work with the Department/Faculty to find reasonable and fair solutions that respect rights and workloads of students, staff, and faculty. 
 
 ## Announcement
+* **Jan 04, 2021:** [**Task 01: Programming**](task/task01) has been posted.  
 * **Dec 16, 2021:** Please see a new announcement regarding online start to the winter term.  
 * **Nov 17, 2021:** The CEE guidelines for the minimum requirements for audit (AUD) are (1) attend at least 10 weeks of class and (2) complete the equivalent of a t lest of the graded items (assignments, project, midterm) with an overall grade of at least 70%. However, the instructor does not recommend auditing this course because unless students does homework assignment in this course, they will not learn much. Since the lectures were already uploaded in the [**course website**](#lecture-video), please watch these videos rather than auditing.   
 * **Nov 17, 2021:** The first class will start at Jan 05, 2022.     
@@ -142,7 +143,7 @@ Please carefully review the submission instruction: [**Submission instruction of
 
 |Task|Topics|Announcement|1st Due|2nd Due|
 |:----|:-----|:----|:-----|:-----|
-|Task01|**Programming**||||
+|Task01|[**Programming**](task/task01)|Jan 04|Jan 14|Jan 21|
 |Task02|**Signal Processing 1**||||
 |Task03|**Signal Processing 2**||||
 |Task04|**Digital Image**||||
@@ -151,6 +152,7 @@ Please carefully review the submission instruction: [**Submission instruction of
 |Task07|**Feature Matching & RANSAC**||||
 |Task08|**Multiview Geometry (SfM)**||||
 |Task09|**Neural Network**||||
+
 
 ## Communication  
 **All communication will be made through [this course website](https://github.com/chulminy/CIVE497-CIVE700)**, especially for this web page. The instructor will make a note in the ["Announcement"](#announcement) section if there is an update on the web page. Students can configure email notification for by ["watching"](https://help.github.com/articles/watching-and-unwatching-repositories/) this course website or use a version control system for tracking its changes. Thus, **students are responsible for checking the website regularly** for any relevant course information or announcements. 
