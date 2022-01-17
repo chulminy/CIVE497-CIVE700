@@ -3,37 +3,41 @@
 ![](intro_img.png)
 
 **Instructor:** Chul Min Yeum (E2-2313)   
-**Class:** Mon and Wed, 08:30AM to 9:50AM (as of Jan 31)      
+**Class:** Mon and Wed, 08:30AM to 9:50AM (as of Feb 07)      
 **Email:** cmyeum@uwaterloo.ca   
 **Office Hours:** Mon and Wed 10 to 11AM at E2-2313 (in-person) (as of Jan 31).   
 **TA:** Zaid Al-Sabbag (zaalsabbag@uwaterloo.ca)     
 
-Last updated: 2022-01-04  
+Last updated: 2022-01-17  
 
 **Previous offerings of this course**
 - [**Smart Structure Technology (Winter, 2021)**](previous/w2021)  
 - [**Smart Structure Technology (Winter, 2020)**](previous/w2020)  
 - [**Smart Structure Technology (Winter, 2019)**](previous/w2019)  
 
-## Online Schedule for the first four weeks (prior to Jan 31)
-Please see a recent announcement regarding the winter term: https://uwaterloo.ca/coronavirus/news/extending-remote-work-and-learning-january-27
+## Online Schedule for the first five weeks (prior to Feb 07)
+Please see a recent announcement regarding the winter term: https://uwaterloo.ca/coronavirus/
 
-* All in-person classes on Jan 5, 10, 12, 17, 19, 24, and 26 will be canceled.
-* Students need to watch per-recorded video lectures for Class 01, 02, 03, 04, 05, and 06. 
-* There will be four live lectures at the class time on every **Wednesday**. We are going to have a MS team meeting in our class MS team channel. Students are highly encouraged to attend these meetings and ask at least one questions regarding a corresponding topic. Here are the detailed schedules:
+* All in-person classes on Jan 5, 10, 12, 17, 19, 24, 26, 31, and Feb 2 will be canceled.
+* Students need to watch per-recorded video lectures for Class 01, 02, 03, 04, 05, 06, 07, and 08. 
+* There will be five live lectures at the class time on every **Wednesday**. We are going to have a MS team meeting in our class MS team channel. Students are highly encouraged to attend these meetings and ask at least one questions regarding a corresponding topic. Here are the detailed schedules:
 
 |Time|Topic|Preparation|
 |:----|:-----|:----|
 |Jan 5 at 8:30 am|Review a course syllabus, introduce Task 01,  and Q&A|Please carefully read the **course syllabus** and review [**Task 01**](task/task01) description before joining the meeting|
 |Jan 12 at 8:30 am|Review Class 02 and 03, and Q&A |Please watch and study **Class 01**, **02**, and **03** before joining the meeting|
 |Jan 19 at 8:30 am|Review Class 04 and 05, introduce Task 02, and Q&A |Please watch and study **Class 04** and **05**, and review Task 02 description before joining the meeting| 
-|Jan 26 at 8:30 am|Review Class 06, introduce Task 03, and Q&A |Please watch and study **Class 06**, and review Task 03 description before joining the meeting| 
+|Jan 26 at 8:30 am|Review Class 06, introduce Task 03, and Q&A |Please watch and study **Class 06**, and review Task 03 description before joining the meeting|
+|Feb 02 at 8:30 am|TBD|TBD|
+ 
 * All in-person office hours will be canceled. However, students feel free to send the instructor a chat message through MS Team if they have questions. 
 
 ## Fair Contingencies for Emergency Remote Teaching
 We are facing unusual and challenging times. The course outline presents the instructor’s intentions for course assessments, their weights, and due dates in Winter 2022. As best as possible, we will keep to the specified assessments, weights, and dates. To provide contingency for unforeseen circumstances, **the instructor reserves the right to modify course topics and/or assessments and/or weight and/or deadlines with due and fair notice to students.** In the event of such challenges, the instructor will work with the Department/Faculty to find reasonable and fair solutions that respect rights and workloads of students, staff, and faculty. 
 
 ## Announcement
+* **Jan 17, 2021:** [**Task 02: Signal Processing 1**](task/task02) has been posted. 
+* **Jan 17, 2021:** Please see a revised announcement regarding online session.  
 * **Jan 04, 2021:** [**Task 01: Programming**](task/task01) has been posted.  
 * **Jan 04, 2021:** Please see a revised announcement regarding online start to the winter term (extended).   
 * **Dec 16, 2021:** Please see a new announcement regarding online start to the winter term.  
@@ -146,7 +150,7 @@ Please carefully review the submission instruction: [**Submission instruction of
 |Task|Topics|Announcement|1st Due|2nd Due|
 |:----|:-----|:----|:-----|:-----|
 |Task01|[**Programming**](task/task01)|Jan 04|Jan 14|Jan 21|
-|Task02|**Signal Processing 1**||||
+|Task02|[**Signal Processing 1**](task/task02)|Jan 17|Jan 27|Feb 03|
 |Task03|**Signal Processing 2**||||
 |Task04|**Digital Image**||||
 |Task05|**Homography**||||
