@@ -1,8 +1,8 @@
 # Task02: Signal Processing I
 
-**Announcement**: January XXX, 2021        
-**1st due date**: January XXX, 2021 before 11:59pm  
-**2nd due date**: February XXX, 2021 before 11:59pm       
+**Announcement**: January 17, 2021        
+**1st due date**: January 27, 2021 before 11:59pm  
+**2nd due date**: February 03, 2021 before 11:59pm       
 
 The main goal of this task is to understand the fundamental of the data acquisition system and signal processing. You must study all the tutorial to solve the corresponding problems. Please answer all sub-questions in each problem and **explain your answers**. You might need to write your own code to solve these questions.
 
