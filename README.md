@@ -3,46 +3,40 @@
 ![](intro_img.png)
 
 **Instructor:** Chul Min Yeum (E2-2313)   
-**Class:** Mon and Wed, 08:30AM to 9:50AM (as of Feb 07)      
+**Class:** Mon and Wed, 08:30AM to 9:50AM at E2-2350 (as of Feb 07)      
 **Email:** cmyeum@uwaterloo.ca   
-**Office Hours:** Mon and Wed 10 to 11AM at E2-2313 (in-person) (as of Jan 31).   
+**Office Hours:** Mon and Wed 10 to 11AM at E2-2313 (in-person) (as of Feb 07).   
 **TA:** Zaid Al-Sabbag (zaalsabbag@uwaterloo.ca)     
 
-Last updated: 2022-01-17  
+Last updated: 2022-01-25  
 
 **Previous offerings of this course**
 - [**Smart Structure Technology (Winter, 2021)**](previous/w2021)  
 - [**Smart Structure Technology (Winter, 2020)**](previous/w2020)  
 - [**Smart Structure Technology (Winter, 2019)**](previous/w2019)  
 
-## Online Schedule for the first five weeks (prior to Feb 07)
-Please see a recent announcement regarding the winter term: https://uwaterloo.ca/coronavirus/
+## Announcement
+* **Jan 25, 2021:** We will resume in-person classes **as of Feb 07**. The classes will be held at E2-2350 on Monday and Wednesday starting at 8:30 am. Please see a recent announcement regarding the winter term: https://uwaterloo.ca/coronavirus/.
+* **Jan 25, 2021:** [**Task 03: Signal Processing 2**](task/task03) has been posted. 
+* **Jan 17, 2021:** [**Task 02: Signal Processing 1**](task/task02) has been posted. 
 
-* All in-person classes on Jan 5, 10, 12, 17, 19, 24, 26, 31, and Feb 2 will be canceled.
-* Students need to watch per-recorded video lectures for Class 01, 02, 03, 04, 05, 06, 07, and 08. 
-* There will be five live lectures at the class time on every **Wednesday**. We are going to have a MS team meeting in our class MS team channel. Students are highly encouraged to attend these meetings and ask at least one questions regarding a corresponding topic. Here are the detailed schedules:
+## Course Schedule 
 
 |Time|Topic|Preparation|
 |:----|:-----|:----|
-|Jan 5 at 8:30 am|Review a course syllabus, introduce Task 01,  and Q&A|Please carefully read the **course syllabus** and review [**Task 01**](task/task01) description before joining the meeting|
-|Jan 12 at 8:30 am|Review Class 02 and 03, and Q&A |Please watch and study **Class 01**, **02**, and **03** before joining the meeting|
-|Jan 19 at 8:30 am|Review Class 04 and 05, introduce Task 02, and Q&A |Please watch and study **Class 04** and **05**, and review Task 02 description before joining the meeting| 
-|Jan 26 at 8:30 am|Review Class 06, introduce Task 03, and Q&A |Please watch and study **Class 06**, and review Task 03 description before joining the meeting|
-|Feb 02 at 8:30 am|TBD|TBD|
- 
-* All in-person office hours will be canceled. However, students feel free to send the instructor a chat message through MS Team if they have questions. 
+|Jan 26 at 8:30 am (Online)|Review Class 05, 06, and Q&A |Please watch and study **Class 06**|
+|Feb 02 at 8:30 am (Online)|Review Class 06 (continue) and Q&A |Please watch and study **Class 06**||
+|Feb 07 at 8:30 am |Review Class 06 (continue) and Q&A |Please watch and study **Class 06**|
+|Feb 09 at 8:30 am |Review Class 08 and Q&A |Please watch and study **Class 08**|
+|Feb 14 at 8:30 am |Review Class 08 (continue), 09, and Q&A |Please watch and study **Class 08, 09** |
+|Feb 16 at 8:30 am |Review Class 09 (continue) and Q&A |Please watch and study **Class 09** |
+|March 07 at 8:30 am |Review Class 10, 11 and Q&A |Please watch and study **Class 10, 11** |
+|March 09 at 8:30 am |Review Class 12 and Q&A |Please watch and study **Class 12** |
+|March 14 at 8:30 am |Review Class 13 and Q&A |Please watch and study **Class 13** |
+|March 16 at 8:30 am |Review Class 14 and Q&A |Please watch and study **Class 14** |
+|March 21 at 8:30 am |Review Class 15, 16 and Q&A |Please watch and study **Class 15, 16** |
 
-## Fair Contingencies for Emergency Remote Teaching
-We are facing unusual and challenging times. The course outline presents the instructor’s intentions for course assessments, their weights, and due dates in Winter 2022. As best as possible, we will keep to the specified assessments, weights, and dates. To provide contingency for unforeseen circumstances, **the instructor reserves the right to modify course topics and/or assessments and/or weight and/or deadlines with due and fair notice to students.** In the event of such challenges, the instructor will work with the Department/Faculty to find reasonable and fair solutions that respect rights and workloads of students, staff, and faculty. 
-
-## Announcement
-* **Jan 17, 2021:** [**Task 02: Signal Processing 1**](task/task02) has been posted. 
-* **Jan 17, 2021:** Please see a revised announcement regarding online session.  
-* **Jan 04, 2021:** [**Task 01: Programming**](task/task01) has been posted.  
-* **Jan 04, 2021:** Please see a revised announcement regarding online start to the winter term (extended).   
-* **Dec 16, 2021:** Please see a new announcement regarding online start to the winter term.  
-* **Nov 17, 2021:** The CEE guidelines for the minimum requirements for audit (AUD) are (1) attend at least 10 weeks of class and (2) complete the equivalent of a t lest of the graded items (assignments, project, midterm) with an overall grade of at least 70%. However, the instructor does not recommend auditing this course because unless students does homework assignment in this course, they will not learn much. Since the lectures were already uploaded in the [**course website**](#lecture-video), please watch these videos rather than auditing.   
-* **Nov 17, 2021:** The first class will start at Jan 05, 2022.     
+**Mar. 21, 23, 28, 30, and Apr. 4:** Lectures for Machine Learning  
 
 ## Table of Contents
 - [**Course Description**](#course-description)
@@ -109,7 +103,7 @@ The study load for each class is marked as the number of regular offline classes
 |Class 16|**Structure From Motion**|[slide](lecture/clss16_SfM)|[tutorial](tutorial/sfm)|0.5|Mar 21|**Task08**|
 |Class 17|**Introduction of Machine Learning**|[slide](lecture/clss17_ml_intro)||0.5|Mar 23||
 |Class 18|**Gradient Descent**|[slide](lecture/clss18_ml_gd)|[tutorial](tutorial/ml_gd)|1|Mar 28||
-|Class 19|**Training Linear Model**|[slide](lecture/clss19_ml_lg)|[tutorial](tutorial/ml_linear_model)|1|Apr 30||
+|Class 19|**Training Linear Model**|[slide](lecture/clss19_ml_lg)|[tutorial](tutorial/ml_linear_model)|1|Mar 30||
 |Class 20|**Neural Network**|[slide](lecture/clss20_ml_nn)|[tutorial](tutorial/neural_network)|2|Apr 04|**Task09**|
 
 ### Lecture Video
@@ -151,7 +145,7 @@ Please carefully review the submission instruction: [**Submission instruction of
 |:----|:-----|:----|:-----|:-----|
 |Task01|[**Programming**](task/task01)|Jan 04|Jan 14|Jan 21|
 |Task02|[**Signal Processing 1**](task/task02)|Jan 17|Jan 27|Feb 03|
-|Task03|**Signal Processing 2**||||
+|Task03|[**Signal Processing 2**](task/task03)|Jan 25|Feb 06|Feb 13|
 |Task04|**Digital Image**||||
 |Task05|**Homography**||||
 |Task06|**Image Processing**||||
@@ -175,6 +169,10 @@ If you are a graduate student, you can opt in conducting a research project. Stu
 [**Guideline for the project**](#guideline-for-the-project)
 
 ## Note
+
+### Fair Contingencies for Emergency Remote Teaching
+We are facing unusual and challenging times. The course outline presents the instructor’s intentions for course assessments, their weights, and due dates in Winter 2022. As best as possible, we will keep to the specified assessments, weights, and dates. To provide contingency for unforeseen circumstances, **the instructor reserves the right to modify course topics and/or assessments and/or weight and/or deadlines with due and fair notice to students.** In the event of such challenges, the instructor will work with the Department/Faculty to find reasonable and fair solutions that respect rights and workloads of students, staff, and faculty. 
+
 ### Academic integrity
 In order to maintain a culture of academic integrity, members of the University of Waterloo community are expected to promote honesty, trust, fairness, respect and responsibility. [Check <a href="https://uwaterloo.ca/academic-integrity/">the Office of Academic Integrity</a> for more information.]</p>
 

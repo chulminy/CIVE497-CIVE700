@@ -1,8 +1,8 @@
 # Task03: Signal Processing II
 
-**Announcement**: January XXX, 2021        
-**1st due date**: February XXX, 2021 before 11:59pm
-**2nd due date**: February XXX, 2021 before 11:59pm 
+**Announcement**: January 25, 2021        
+**1st due date**: February 06, 2021 before 11:59pm
+**2nd due date**: February 13, 2021 before 11:59pm 
 
 The main goal of this task is to understand the fundamental of signal processing, especially for discrete Fourier transformation. You must study the tutorial to solve the corresponding problems. Please answer all sub-questions in each problem. You should write your own code to solve these questions. 
 
@@ -106,7 +106,7 @@ Two sinusoidal accelerations are measured using an accelerometer in a smartphone
 
 ## Submission of Your Work
 * You should turn in a report to uw.task@gmail.com. When you send your email, please cc your email for future reference.  
-* A subject of your email must be the format of "Task03_`Your name` _ `Degree` _ `ID`"
+* A subject of your email must be the format of "Task03 _ `Your name` _ `Degree` _ `ID`"
 	* `Your name`: first five lower-case letter your **first + last** name. It should be lower case. (i.g Chul Min Yeum -> chulmi, Juan Park -> juanp)   
 	* `Degree`: pick your degree among BA, ME, MA, and PH (BA=Undergraduate, ME=MEng, MA=MASc, and PH=PhD)  
 	* `ID`: your school ID
