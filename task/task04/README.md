@@ -1,8 +1,8 @@
 # Task04: Camera Sensor and Digital Image
 
-**Announcement**: February 04, 2021        
-**1st due date**: February 11, 2021 before 11:59pm
-**2nd due date**: February 18, 2021 before 11:59pm     
+**Announcement**: February 08, 2021        
+**1st due date**: February 15, 2021 before 11:59pm
+**2nd due date**: February 20, 2021 before 11:59pm
 
 The main goal of this problem is to learn a working principle of a digital camera and how to take quality photos using your camera. Students are encouraged to search for relevant information on the web, such as wiki, article, or tutorial video. Please answer the following questions:  
 
@@ -16,7 +16,6 @@ The main goal of this problem is to learn a working principle of a digital camer
 **Q4. Can you search for the unique design or function of the smartphone camera module (not software)? Please rank five cameras and make a short explanation of why they are unique or special.**
 
 **Q5. What kind of phone cameras or phone camera technologies will be introduced in next ten years? Talk freely** 
-
 
 > **(Q6~Q12)** Please explain and demonstrate the following functions/effects using your own images. Also, you need to explain when and why you change their values on a camera. Your answers are graded based on both the correctness and considerations of potential situations where the corresponding setting need to be changed. Your answers do not have to be lengthy but should not be too short. Note that you are allowed to use the DSLR images provided in the link below but **you need to provide a suitable reason for why your smartphone camera cannot take the corresponding images.** You can download the instructor's images from [**here**](https://www.dropbox.com/s/3setnfjjq18ekg1/img_cive497.zip?dl=0).
  

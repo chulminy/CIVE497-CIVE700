@@ -1,8 +1,8 @@
 # Task05: Homography
 
 **Announcement**: February 08, 2021        
-**1st due date**: March XXX, 2021 before 11:59pm
-**2nd due date**: March XXX, 2021 before 11:59pm        
+**1st due date**: March 06, 2021 before 11:59pm
+**2nd due date**: March 13, 2021 before 11:59pm        
 
 The main goal of this task is to understand the fundamental of the homogeneous coordinate and the homography relationship between points on two images of the same planar surface in space. Please answer all sub-questions in each problem. You should write your own code to solve these questions. 
 
