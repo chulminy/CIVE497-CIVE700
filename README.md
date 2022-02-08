@@ -18,7 +18,7 @@ Last updated: 2022-02-08
 ## Announcement
 * **Feb 08, 2021:** [**Task 05: Digital Image**](task/task05) has been posted.   
 * **Feb 08, 2021:** [**Task 04: Digital Image**](task/task04) has been posted. 
-* **Feb 08, 2021:** The best report for [Task 02](task/task02) has been posted. Thanks, Kin Long.  
+* **Feb 08, 2021:** The best report for Task 02 has been posted. Thanks, Kin Long.  
 
 ## Course Schedule 
 |Time|Topic|Preparation|
@@ -140,7 +140,7 @@ Please carefully review the submission instruction: [**Submission instruction of
 |Task|Topics|Announcement|1st Due|2nd Due|
 |:----|:-----|:----|:-----|:-----|
 |Task01|[**Programming**](task/task01)|Jan 04|Jan 14|Jan 21|
-|Task02|[**Signal Processing 1**](task/task02)  </br> [Best report (Kin Long Li)](task/task02/best/Rept_likinl_ME_20928997.pdf|Jan 17|Jan 27|Feb 03|
+|Task02|[**Signal Processing 1**](task/task02)  </br> [Best report (Kin Long Li)](task/task02/best/Rept_likinl_ME_20928997.pdf)|Jan 17|Jan 27|Feb 03|
 |Task03|[**Signal Processing 2**](task/task03)|Jan 25|Feb 06|Feb 13|
 |Task04|[**Digital Image**](task/task04)|Feb 08|Feb 15|Feb 20|
 |Task05|[**Homography**](task/task05)|Feb 08|Mar 06|Mar 13|
