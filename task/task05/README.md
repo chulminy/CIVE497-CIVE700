@@ -1,6 +1,6 @@
 # Task05: Homography
 
-**Announcement**: February XXX, 2021        
+**Announcement**: February 08, 2021        
 **1st due date**: March XXX, 2021 before 11:59pm
 **2nd due date**: March XXX, 2021 before 11:59pm        
 

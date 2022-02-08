@@ -8,7 +8,7 @@
 **Office Hours:** Mon and Wed 10 to 11AM at E2-2313 (in-person) (as of Feb 07).   
 **TA:** Zaid Al-Sabbag (zaalsabbag@uwaterloo.ca)     
 
-Last updated: 2022-01-25  
+Last updated: 2022-02-07  
 
 **Previous offerings of this course**
 - [**Smart Structure Technology (Winter, 2021)**](previous/w2021)  
@@ -16,6 +16,8 @@ Last updated: 2022-01-25
 - [**Smart Structure Technology (Winter, 2019)**](previous/w2019)  
 
 ## Announcement
+* **Feb 07, 2021:** The best report for [Task 02](task/task02) has been posted. Thanks, Kin Long.  
+* **Feb 04, 2021:** [**Task 04: Digital Image**](task/task04) has been posted. 
 * **Jan 25, 2021:** We will resume in-person classes **as of Feb 07**. The classes will be held at E2-2350 on Monday and Wednesday starting at 8:30 am. Please see a recent announcement regarding the winter term: https://uwaterloo.ca/coronavirus/.
 * **Jan 25, 2021:** [**Task 03: Signal Processing 2**](task/task03) has been posted. 
 * **Jan 17, 2021:** [**Task 02: Signal Processing 1**](task/task02) has been posted. 
@@ -144,9 +146,9 @@ Please carefully review the submission instruction: [**Submission instruction of
 |Task|Topics|Announcement|1st Due|2nd Due|
 |:----|:-----|:----|:-----|:-----|
 |Task01|[**Programming**](task/task01)|Jan 04|Jan 14|Jan 21|
-|Task02|[**Signal Processing 1**](task/task02)|Jan 17|Jan 27|Feb 03|
+|Task02|[**Signal Processing 1**](task/task02)  </br> [Best report (Kin Long Li)](task/task02/best/Rept_likinl_ME_20928997.pdf|Jan 17|Jan 27|Feb 03|
 |Task03|[**Signal Processing 2**](task/task03)|Jan 25|Feb 06|Feb 13|
-|Task04|**Digital Image**||||
+|Task04|[**Digital Image**](task/task04)|Feb 04|Feb 11|Feb 18|
 |Task05|**Homography**||||
 |Task06|**Image Processing**||||
 |Task07|**Feature Matching & RANSAC**||||
