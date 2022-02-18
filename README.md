@@ -16,7 +16,7 @@ Last updated: 2022-02-08
 - [**Smart Structure Technology (Winter, 2019)**](previous/w2019)  
 
 ## Announcement
-* **Feb 08, 2021:** [**Task 05: Digital Image**](task/task05) has been posted.   
+* **Feb 08, 2021:** [**Task 05: Homography**](task/task05) has been posted.   
 * **Feb 08, 2021:** [**Task 04: Digital Image**](task/task04) has been posted. 
 * **Feb 08, 2021:** The best report for Task 02 has been posted. Thanks, Kin Long.  
 
