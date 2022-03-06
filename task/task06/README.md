@@ -1,8 +1,8 @@
 # Task06: Image Processing
 
-**Announcement**: XXXX, 2021        
-**1st due date**: XXXX, 2021 before 11:59pm
-**2nd due date**: XXXX, 2021 before 11:59pm       
+**Announcement**: March 06, 2021        
+**1st due date**: March 16, 2021 before 11:59pm
+**2nd due date**: March 23, 2021 before 11:59pm       
 
 The main goal of this task is to understand the fundamental of the linear filter, edge detection, and Hough transform. You must study the tutorials at edge detection, linear filter, and image morphology before solving these problems. Please answer all sub-questions in each problem. You should write your own code to solve these questions. 
 
@@ -112,8 +112,6 @@ Here is a sample demo.
 [![](http://img.youtube.com/vi/y-CTJWiyw38/0.jpg)](https://youtu.be/y-CTJWiyw38)
 
 A sample script is provided in this problem. You are going to make your own `find_aruco_num` script, which is given as p-code. If you are a Python user, you need to make an equivalent function to identify marker ids. To do so, you need to import `aruco_marker.mat` to your Python script. Note that you **should not** use any computer vision library (including marker detection library) in MATLAB or Python. You can solve this using `ComputeH` that you made and some basic functions in MATLAB or Python. Note that this is not a feature matching problem so do not try to match features on the marker on the test image and original marker image. 
-
-**Note that if you can complete problems 4,5 and 6 using Python, you will receive extra 5 points.** 
 
 ## Submission of Your Work
 * **YOU MUST INCLUDE YOUR RESULTING GRAPHS OR IMAGES INTO YOUR REPORT**
