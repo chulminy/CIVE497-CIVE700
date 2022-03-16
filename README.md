@@ -16,6 +16,7 @@ Last updated: 2022-03-06
 - [**Smart Structure Technology (Winter, 2019)**](previous/w2019)  
 
 ## Announcement
+* **Mar 16, 2021:** [**Task07: Feature Matching & RANSAC**](task/task07) has been posted.     
 * **Mar 06, 2021:** [**Task06: Image Processing**](task/task06) has been posted.   
 * **Mar 06, 2021:** The best reports for Task 03 have been posted. Thanks, Noreen and Wilson.   
 * **Mar 06, 2021:** Students' answers for Question 5 in Task 04 are documented [here](review/Task4_Q5.md). 
@@ -23,12 +24,6 @@ Last updated: 2022-03-06
 ## Course Schedule 
 |Time|Topic|Preparation|
 |:----|:-----|:----|
-|Feb 09 at 8:30 am |Review Class 08 and Q&A |Please watch and study **Class 08**|
-|Feb 14 at 8:30 am |Review Class 08 (continue), 09, and Q&A |Please watch and study **Class 08, 09** |
-|Feb 16 at 8:30 am |Review Class 09 (continue) and Q&A |Please watch and study **Class 09** |
-|March 07 at 8:30 am |Review Class 10, 11 and Q&A |Please watch and study **Class 10, 11** |
-|March 09 at 8:30 am |Review Class 12 and Q&A |Please watch and study **Class 12** |
-|March 14 at 8:30 am |Review Class 13 and Q&A |Please watch and study **Class 13** |
 |March 16 at 8:30 am |Review Class 14 and Q&A |Please watch and study **Class 14** |
 |March 21 at 8:30 am |Review Class 15, 16 and Q&A |Please watch and study **Class 15, 16** |
 
