@@ -16,10 +16,9 @@ Last updated: 2022-03-06
 - [**Smart Structure Technology (Winter, 2019)**](previous/w2019)  
 
 ## Announcement
+* **Mar 27, 2021:** [**Task08: Multiview Geometry (SfM)**](task/task08) has been posted.
 * **Mar 16, 2021:** [**Task07: Feature Matching & RANSAC**](task/task07) has been posted.     
 * **Mar 06, 2021:** [**Task06: Image Processing**](task/task06) has been posted.   
-* **Mar 06, 2021:** The best reports for Task 03 have been posted. Thanks, Noreen and Wilson.   
-* **Mar 06, 2021:** Students' answers for Question 5 in Task 04 are documented [here](review/Task4_Q5.md). 
 
 ## Course Schedule 
 |Time|Topic|Preparation|
@@ -140,8 +139,8 @@ Please carefully review the submission instruction: [**Submission instruction of
 |Task04|[**Digital Image**](task/task04)|Feb 08|Feb 15|Feb 20|
 |Task05|[**Homography**](task/task05)|Feb 08|Mar 06|Mar 13|
 |Task06|[**Image Processing**](task/task06)|Mar 06|Mar 16|Mar 23|
-|Task07|**Feature Matching & RANSAC**||||
-|Task08|**Multiview Geometry (SfM)**||||
+|Task07|[**Feature Matching & RANSAC**](task/task07)|Mar 16|Mar 26|Apr 2|
+|Task08|[**Multiview Geometry (SfM)**](task/task08)|Mar 27|Apr 11|Apr 18|
 |Task09|**Neural Network**||||
 
 
