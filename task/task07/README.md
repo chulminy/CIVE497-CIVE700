@@ -1,7 +1,7 @@
 # Task07: Feature Matching & RANSAC
 
 **Announcement**: Mar 16, 2022        
-**1st due date**: Mar 26, 2022 before 11:59pm
+**1st due date**: Mar 26, 2022 before 11:59pm  
 **2nd due date**: Apr 2, 2022 before 11:59pm       
 
 The main goal of this task is to understand the fundamental of a feature extraction and matching method (Scale-invariant feature transform (SIFT)) and a Random sample consensus (RANSAC) method to estimate model parameters. You must study the relevant tutorials to solve the corresponding problems. Please answer all sub-questions in each problem. You should write your own code to solve these questions *if needed*. 
