@@ -1,8 +1,8 @@
 # Task08: Development of a 3D measurement tool using structure from motion
 
 **Announcement**: Mar 27, 2022        
-**1st due date**: Apr 11, 2022 before 11:59pm   
-**2nd due date**: Apr 18, 2022 before 11:59pm       
+**1st due date**: Apr 20, 2022 before 11:59pm   
+**2nd due date**: Apr 20, 2022 before 11:59pm       
 
 The main goal of this task is to understand the fundamental of structure from motion through developing your own measurement tool. A draft of a code (`demo_code_v8_base.m`) is provided and you need to write your own codes in `YOUR CODE HERE` to complete your tool. 11 Problems  and relevant guidelines are included in the code.   
 

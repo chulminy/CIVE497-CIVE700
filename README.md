@@ -8,7 +8,7 @@
 **Office Hours:** Mon and Wed 10 to 11AM at E2-2313   
 **TA:** Zaid Al-Sabbag (zaalsabbag@uwaterloo.ca)     
 
-Last updated: 2022-03-06  
+Last updated: 2022-03-29  
 
 **Previous offerings of this course**
 - [**Smart Structure Technology (Winter, 2021)**](previous/w2021)  
@@ -16,17 +16,12 @@ Last updated: 2022-03-06
 - [**Smart Structure Technology (Winter, 2019)**](previous/w2019)  
 
 ## Announcement
+* **Mar 29, 2021:** As mentioned in the class, [**Task08**](task/task08) is set to **April 20** so that you have enough time to complete this task. Also, I decided to make Task 09 as an optional. If you submit the report, you will get an extra 5 marks. The due date of Task 08 is also April 20. 
 * **Mar 27, 2021:** [**Task08: Multiview Geometry (SfM)**](task/task08) has been posted.
 * **Mar 16, 2021:** [**Task07: Feature Matching & RANSAC**](task/task07) has been posted.     
-* **Mar 06, 2021:** [**Task06: Image Processing**](task/task06) has been posted.   
-
+  
 ## Course Schedule 
-|Time|Topic|Preparation|
-|:----|:-----|:----|
-|March 16 at 8:30 am |Review Class 14 and Q&A |Please watch and study **Class 14** |
-|March 21 at 8:30 am |Review Class 15, 16 and Q&A |Please watch and study **Class 15, 16** |
-
-**Mar. 21, 23, 28, 30, and Apr. 4:** Lectures for Machine Learning  
+**Mar. 30 at 8:30 ~ 10:00am and Apr. 1 1:00pm ~ 2:00pm:** Lectures for Machine Learning  
 
 ## Table of Contents
 - [**Course Description**](#course-description)
@@ -139,8 +134,8 @@ Please carefully review the submission instruction: [**Submission instruction of
 |Task04|[**Digital Image**](task/task04)|Feb 08|Feb 15|Feb 20|
 |Task05|[**Homography**](task/task05)|Feb 08|Mar 06|Mar 13|
 |Task06|[**Image Processing**](task/task06)|Mar 06|Mar 16|Mar 23|
-|Task07|[**Feature Matching & RANSAC**](task/task07)|Mar 16|Mar 26|Apr 2|
-|Task08|[**Multiview Geometry (SfM)**](task/task08)|Mar 27|Apr 11|Apr 18|
+|Task07|[**Feature Matching & RANSAC**](task/task07)|Mar 16|Mar 26|Apr 10|
+|Task08|[**Multiview Geometry (SfM)**](task/task08)|Mar 27|Apr 20|Apr 20|
 |Task09|**Neural Network**||||
 
 
