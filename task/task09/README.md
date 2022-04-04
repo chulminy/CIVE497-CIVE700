@@ -1,13 +1,13 @@
-# Task08: Neural Network
+# Task09: Neural Network
 
-**Announcement**: April 09, 2021    
-**Due date**: April 23, 2021 (Friday) before 11:59 pm      
+**Announcement**: April 04, 2021    
+**Due date**: April 20, 2021 (Friday) before 11:59 pm      
 
-**NO MORE DELAY: Please submit your report earlier**   
+**If you submit it, you will receive 5 extra mark.**   
 
 The main goal of this task is to understand the fundamental of neural network through training your own models. Several sample examples are provided in the [**tutorial**](../../tutorial/neural_network/neural_network_code). I recommend reviewing the tutorial codes in the folder and making an effort to learn how the codes work.  
     
-## Problem 1 (40 points)
+## Problem 1
 **(a)** Try out a neural network playground in this link: [http://playground.tensorflow.org](http://playground.tensorflow.org). Run all four examples by changing features, # of hidden layers, # of neurons, activation function, and/or learning rate. Please watch a convergence speed of the loss depending on the parameter changes that you made. (You do not need to include any result in your report).
 
 **(b)** Please run all demos in the [**tutorial**](../../tutorial/neural_network/neural_network_code). I recommend that you configure parameters to improve the results. Please watch my review video.  
@@ -19,7 +19,7 @@ The main goal of this task is to understand the fundamental of neural network th
 
 In your report, **briefly** explain (1) an objective of each sample demo, (2) what change you made in default codes or you made (if you configure the network), and (3) a screenshot of the final plot. Basically, you introduce your model and its performance. The default parameters are the ones that I tuned but might not be the best. You can find better neural network architecture by changing # of neurons, activation functions, or loss function. You can also change the learning rate. If you achieve performance improvement, please introduce your network configuration. You can allow changing the code if you can improve the model performance.  
 
-## Problem 2 (60 points) 
+## Problem 2
 You are going to build your own model using neural network. Create your own dataset and build a classifier. Please do not create the dataset similar to the examples provided. Please be creative! You will get the idea from the several demos in the tutorial. For example, like the polynomial example, think about making a sample data from a known model. 
 
 ## Submission of Your Work

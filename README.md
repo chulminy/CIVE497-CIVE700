@@ -8,7 +8,7 @@
 **Office Hours:** Mon and Wed 10 to 11AM at E2-2313   
 **TA:** Zaid Al-Sabbag (zaalsabbag@uwaterloo.ca)     
 
-Last updated: 2022-03-29  
+Last updated: 2022-04-04  
 
 **Previous offerings of this course**
 - [**Smart Structure Technology (Winter, 2021)**](previous/w2021)  
@@ -16,13 +16,9 @@ Last updated: 2022-03-29
 - [**Smart Structure Technology (Winter, 2019)**](previous/w2019)  
 
 ## Announcement
-* **Mar 29, 2021:** As mentioned in the class, [**Task08**](task/task08) is set to **April 20** so that you have enough time to complete this task. Also, I decided to make Task 09 as an optional. If you submit the report, you will get an extra 5 marks. The due date of Task 08 is also April 20. 
-* **Mar 27, 2021:** [**Task08: Multiview Geometry (SfM)**](task/task08) has been posted.
-* **Mar 16, 2021:** [**Task07: Feature Matching & RANSAC**](task/task07) has been posted.     
-  
-## Course Schedule 
-**Mar. 30 at 8:30 ~ 10:00am and Apr. 1 1:00pm ~ 2:00pm:** Lectures for Machine Learning  
-
+* **Apr 04, 2022:** [**Task09: Neural Network**](task/task09) has been posted.   
+* **Mar 29, 2022:** As mentioned in the class, [**Task08**](task/task08) is set to **April 20** so that you have enough time to complete this task. Also, I decided to make Task 09 as an optional. If you submit the report, you will get an extra 5 marks. The due date of Task 08 is also April 20. 
+   
 ## Table of Contents
 - [**Course Description**](#course-description)
 - [**Intended Learning Outcomes**](#intended-learning-outcomes)
@@ -132,12 +128,11 @@ Please carefully review the submission instruction: [**Submission instruction of
 |Task02|[**Signal Processing 1**](task/task02)  </br> Best report: [(**Kin Long Li**)](task/task02/best/Rept_likinl_ME_20928997.pdf)|Jan 17|Jan 27|Feb 03|
 |Task03|[**Signal Processing 2**](task/task03)  </br> Best report: [(**Noreen Gao**)](task/task03/best/Rept_noree_BA_20786725.pdf), [(**Wilson Carofilis**)](task/task03/best/Rept_wilso_PH_20986777.pdf)|Jan 25|Feb 06|Feb 13|
 |Task04|[**Digital Image**](task/task04)|Feb 08|Feb 15|Feb 20|
-|Task05|[**Homography**](task/task05)|Feb 08|Mar 06|Mar 13|
-|Task06|[**Image Processing**](task/task06)|Mar 06|Mar 16|Mar 23|
+|Task05|[**Homography**](task/task05) </br> Best report: [(**Noreen Gao**)](task/task05/best/Rept_noree_BA_20786725.pdf)|Feb 08|Mar 06|Mar 13|
+|Task06|[**Image Processing**](task/task06) </br> Best report: [(**Jing Zhang**)](task/task06/best/Rept_jingz_PH_20984622.pdf)|Mar 06|Mar 16|Mar 23|
 |Task07|[**Feature Matching & RANSAC**](task/task07)|Mar 16|Mar 26|Apr 10|
 |Task08|[**Multiview Geometry (SfM)**](task/task08)|Mar 27|Apr 20|Apr 20|
-|Task09|**Neural Network**||||
-
+|Task09|[**Neural Network**](task/task09)|Apr 04|Apr 20|Apr 20|
 
 ## Communication  
 **All communication will be made through [this course website](https://github.com/chulminy/CIVE497-CIVE700)**, especially for this web page. The instructor will make a note in the ["Announcement"](#announcement) section if there is an update on the web page. Students can configure email notification for by ["watching"](https://help.github.com/articles/watching-and-unwatching-repositories/) this course website or use a version control system for tracking its changes. Thus, **students are responsible for checking the website regularly** for any relevant course information or announcements. 
