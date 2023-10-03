@@ -1,23 +1,23 @@
-# CIVE497/700: Smart Structure Technology (Winter, 2022)
+# CIVE497/700: Smart Structure Technology (Winter, 2024)
 
 ![](intro_img.png)
 
 **Instructor:** Chul Min Yeum (E2-2313)   
-**Class:** Mon and Wed, 08:30AM to 9:50AM at E2-2350      
+**Class:** <!-- Mon and Wed, 08:30AM to 9:50AM at E2-2350 -->    
 **Email:** cmyeum@uwaterloo.ca   
-**Office Hours:** Mon and Wed 10 to 11AM at E2-2313   
-**TA:** Zaid Al-Sabbag (zaalsabbag@uwaterloo.ca)     
+**Office Hours:** <!-- Mon and Wed 10 to 11AM at E2-2313 -->  
+**TA:**     
 
 Last updated: 2022-04-04  
 
 **Previous offerings of this course**
+- [**Smart Structure Technology (Winter, 2022)**](previous/w2022)  
 - [**Smart Structure Technology (Winter, 2021)**](previous/w2021)  
 - [**Smart Structure Technology (Winter, 2020)**](previous/w2020)  
 - [**Smart Structure Technology (Winter, 2019)**](previous/w2019)  
 
 ## Announcement
-* **Apr 04, 2022:** [**Task09: Neural Network**](task/task09) has been posted.   
-* **Mar 29, 2022:** As mentioned in the class, [**Task08**](task/task08) is set to **April 20** so that you have enough time to complete this task. Also, I decided to make Task 09 as an optional. If you submit the report, you will get an extra 5 marks. The due date of Task 08 is also April 20. 
+* **Jan 01, 2024:** Welcome to a Smart Structure System Course
    
 ## Table of Contents
 - [**Course Description**](#course-description)
@@ -31,28 +31,21 @@ Last updated: 2022-04-04
 - [**Note**](#note)
 
 ## Course Description
-This course offers an introduction to the emerging **smart structure technologies** in civil engineering. Smart structures integrate sensing, actuation, data processing, analysis, and visualization, and control capabilities so that a structure can sense and respond to its changing external conditions in a rapid and automated manner. Among several topics in smart structure, this course focuses on [**structural assessment**](https://en.wikipedia.org/wiki/Structural_health_monitoring) using optical sensor data by implementing state-of-art image processing and computer vision techniques. As a special topic, basic concepts in **structure from motion**, **machine learning**, and **neural networks** are covered and relevant applications in civil engineering are introduced. An application-based learning approach is emphasized and tasks are designed in such a way that students can implement smart structure technology to address contemporary problems in civil engineering. In addition, for graduate students, students can **opt to** perform a research project, in which students will have an opportunity to design a technique with a potential application to smart structures and advance their research works. 
+This course offers an introduction to the emerging **smart structure technologies** in civil engineering. Smart structures integrate sensing, actuation, data processing, analysis, and visualization, and control capabilities so that a structure can sense and respond to its changing external conditions in a rapid and automated manner. Among several topics in smart structure, this course focuses on [**structural assessment**](https://en.wikipedia.org/wiki/Structural_health_monitoring) using optical sensor data by implementing state-of-art image processing and computer vision techniques. As a special topic, basic concepts in **structure from motion**, **machine learning**, **neural networks**, and **neural radiance fields (NeRF)** are covered and relevant applications in civil engineering are introduced. An application-based learning approach is emphasized and tasks are designed in such a way that students can implement smart structure technology to address contemporary problems in civil engineering. 
 
-This course is specially designed to suit the interest of **graduate students** and **senior undergraduate students who may pursue graduate studies**. Based on the feedback received from the courses offered in previous years, you are expected to spend 12 hours or more per week studying class materials as well as working on task assignments and research project. You can see the course outline and task assignments in the previous year from [**w2021**](previous/w2021), [**w2020**](previous/w2020), [**w2019**](previous/w2019). Note that all lectures were delivered using [**pre-recorded videos**](#lecture-video) in 2021. When you are absent from a class, you can watch the corresponding lecture video. However, students are highly encouraged to attend the classes. 
+This course is specially designed to suit the interest of **graduate students** and **senior undergraduate students who may pursue graduate studies**. Based on the course surveys collected from previous years, you are expected to spend 20 hours or more per week studying class materials as well as working on task assignments and research project. You can see the course outline and task assignments in the previous year from [**w2021**](previous/w2021), [**w2020**](previous/w2020), [**w2019**](previous/w2019). **If you cannot commit enough time to this course, please reconsider taking it.** Note that all lectures were delivered using [**pre-recorded videos**](#lecture-video) in 2021. When you are absent from a class, you can watch the corresponding lecture video. However, students are highly encouraged to attend the classes. 
 
 ## Intended Learning Outcomes
 By the end of this course, students should be able to  
-
 * Describe smart structure technology and its applications in civil engineering
 * Explain the working principle of an accelerometer and digital camera, and their data acquisition process
 * Interpret the concept of image processing techniques through signal processing theory 
-* Develop programs (MATLAB or Python) to process and analyze 2D and 3D optical data for structural assessment
+* Develop Python programs to process and analyze 2D and 3D optical data for structural assessment
 * Demonstrate how to implement machine learning algorithms in solving real-world problems 
 * Devise innovative smart structure technology for civil engineering applications and research
 
 ## Prerequisite
-This course requires basic knowledge in **linear algebra** and **probability** and skills at ***a sufficient level of a non-trivial computer programming*** (with **MATLAB** or  **Python**). Students also need to know how to use **Markdown**. If you are not familiar with or would revisit these topics, students should complete the following tutorials and questions inside:
-
-**MATLAB tutorials**
-* [**AE/ENVE/GEOE121: Computational Method**](https://github.com/chulminy/AE_ENVE_GEOE_121)
-* [**How to download and install MATLAB in your computer?**](tutorial/matlab_install)
-* [**Matrices & Arrays**](tutorial/matlab_tutorial): copy this folder in your computer and run `matrices_arrays.mlx` in MATLAB 
-* [**Operations and Elementary Operations**](tutorial/matlab_tutorial): copy this folder in your computer and run `operators_elem_operations.mlx` in MATLAB
+This course requires basic knowledge in **linear algebra** and **probability** and skills at ***a sufficient level of a non-trivial computer programming***. Students also need to know how to use **Markdown**. If you are not familiar with or would revisit these topics, students should complete the following tutorials and questions inside:
 
 **Topics**
 * [**Digital Image Processing**](tutorial/image_proc): copy this folder in your computer and run `digital_image_processing.mlx` in MATLAB (Note: If you do not find the sample images, you can download them from [**here**](https://www.dropbox.com/s/xgznul2u1l16iaw/sample_images.zip?dl=0))   
@@ -67,36 +60,38 @@ The study load for each class is marked as the number of regular offline classes
 |Class|Topics|Slides|Tutorial|Load|ETF|Homework|
 |:----|:-----|:----|:-----|:-----|:-----|:-----|
 |Class 01|**Introduction**|[slide](lecture/clss01_introduction)||0.5|Jan 05||
-|Class 02|**MATLAB Tutorial**|[slide](lecture/clss02_matlab)|[tutorial](tutorial/matlab_tutorial)|1|Jan 10|**Task01**|
-|Class 03|**Data Acquisition**|[slide](lecture/clss03_data_aquisition)|[tutorial](tutorial/data_aquisition)|1|Jan 12||
-|Class 04|**Signal Processing I**|[slide](lecture/clss04_06_signal_processing)|[tutorial](tutorial/signal_processing)|1|Jan 17|**Task02**|
-|Class 05|**Signal Processing II**|[slide](lecture/clss04_06_signal_processing)|[tutorial](tutorial/signal_processing)|1|Jan 19||
-|Class 06|**Signal Processing III**|[slide](lecture/clss04_06_signal_processing)|[tutorial](tutorial/signal_processing)|2|Jan 26|**Task03**|
-|Class 07|**Digital Image**|[slide](lecture/clss07_digital_image)||1|Jan 31|**Task04**|
-|Class 08|**Projective Geometry**|[slide](lecture/clss08_project_geometry)|[tutorial](tutorial/projective_geometry)|3|Feb 09|**Task05**|
+|Class 02|**Data Acquisition**|[slide](lecture/clss03_data_aquisition)|[tutorial](tutorial/data_aquisition)|0.5|Jan 12||
+|Class 03|**Signal Processing I**|[slide](lecture/clss04_06_signal_processing)|[tutorial](tutorial/signal_processing)|1|Jan 17|**Task02**|
+|Class 04|**Signal Processing II**|[slide](lecture/clss04_06_signal_processing)|[tutorial](tutorial/signal_processing)|1|Jan 19||
+|Class 05|**Signal Processing III**|[slide](lecture/clss04_06_signal_processing)|[tutorial](tutorial/signal_processing)|1|Jan 26|**Task03**|
+|Class 06|**Modal Analysis**|[slide](lecture/clss04_06_signal_processing)|[tutorial](tutorial/signal_processing)|1|Jan 26|**Task03**|
+|Class 07|**Digital Image**|[slide](lecture/clss07_digital_image)||0.5|Jan 31|**Task04**|
+|Class 08|**Projective Geometry**|[slide](lecture/clss08_project_geometry)|[tutorial](tutorial/projective_geometry)|1|Feb 09|**Task05**|
 |Class 09|**Linear Filtering**|[slide](lecture/clss09_linear_filter)|[tutorial](tutorial/linear_filter)|1|Feb 14| |
-|Class 10|**Edge Detection I**|[slide](lecture/clss10_11_edge_detection)|[tutorial](tutorial/edge_detection)|1|Feb 16||
-|Class 11|**Edge Detection II**|[slide](lecture/clss10_11_edge_detection)|[tutorial](tutorial/edge_detection)|1|Feb 28|**Task06**|   
-|Class 12|**Feature**|[slide](lecture/clss12_feature)|[tutorial](tutorial/feature)|2|Mar 07||
-|Class 13|**RANSAC**|[slide](lecture/clss13_ransac)|[tutorial](tutorial/ransac)|1|Mar 09|**Task07**|  
-|Class 14|**Camera Model**|[slide](lecture/clss14_camera_model)||1|Mar 14||
-|Class 15|**Two-view Geometry**|[slide](lecture/clss15_two_view_geometry)|[tutorial](tutorial/two_view_geometry)|1.5|Mar 16||
-|Class 16|**Structure From Motion**|[slide](lecture/clss16_SfM)|[tutorial](tutorial/sfm)|0.5|Mar 21|**Task08**|
-|Class 17|**Introduction of Machine Learning**|[slide](lecture/clss17_ml_intro)||0.5|Mar 23||
-|Class 18|**Gradient Descent**|[slide](lecture/clss18_ml_gd)|[tutorial](tutorial/ml_gd)|1|Mar 28||
-|Class 19|**Training Linear Model**|[slide](lecture/clss19_ml_lg)|[tutorial](tutorial/ml_linear_model)|1|Mar 30||
-|Class 20|**Neural Network**|[slide](lecture/clss20_ml_nn)|[tutorial](tutorial/neural_network)|2|Apr 04|**Task09**|
+|Class 10|**Image Morphology**|[slide](lecture/clss09_linear_filter)|[tutorial](tutorial/linear_filter)|1|Feb 14| |
+|Class 11|**Edge Detection I**|[slide](lecture/clss10_11_edge_detection)|[tutorial](tutorial/edge_detection)|1|Feb 16||
+|Class 12|**Edge Detection II**|[slide](lecture/clss10_11_edge_detection)|[tutorial](tutorial/edge_detection)|1|Feb 28|**Task06**|   
+|Class 13|**Feature**|[slide](lecture/clss12_feature)|[tutorial](tutorial/feature)|1|Mar 07||
+|Class 14|**RANSAC**|[slide](lecture/clss13_ransac)|[tutorial](tutorial/ransac)|1|Mar 09|**Task07**|  
+|Class 15|**Camera Model**|[slide](lecture/clss14_camera_model)||1|Mar 14||
+|Class 16|**Two-view Geometry**|[slide](lecture/clss15_two_view_geometry)|[tutorial](tutorial/two_view_geometry)|1|Mar 16||
+|Class 17|**Structure From Motion**|[slide](lecture/clss16_SfM)|[tutorial](tutorial/sfm)|0.5|Mar 21|**Task08**|
+|Class 18|**Introduction of Machine Learning**|[slide](lecture/clss17_ml_intro)||0.5|Mar 23||
+|Class 19|**Gradient Descent**|[slide](lecture/clss18_ml_gd)|[tutorial](tutorial/ml_gd)|1|Mar 28||
+|Class 20|**Training Linear Model**|[slide](lecture/clss19_ml_lg)|[tutorial](tutorial/ml_linear_model)|1|Mar 30||
+|Class 21|**Neural Network**|[slide](lecture/clss20_ml_nn)|[tutorial](tutorial/neural_network)|2|Apr 04|**Task09**|
+|Class 22|**Convolutional Neural Network**|[slide](lecture/clss20_ml_nn)|[tutorial](tutorial/neural_network)|2|Apr 04|**Task09**|
+|Class 23|**Neural Radian Field (NeRF)**|[slide](lecture/clss20_ml_nn)|[tutorial](tutorial/neural_network)|2|Apr 04|**Task09**|
 
 ### Lecture Video
 |Class|Topics|Video|
 |:----|:-----|:----|
 |Class 01|**Introduction**|[<img src="http://img.youtube.com/vi/p7QaQYuG-RM/0.jpg" height="150">](https://youtu.be/p7QaQYuG-RM)|
-|Class 02|**MATLAB Tutorial**|[<img src="http://img.youtube.com/vi/TZzCF1eNGoo/0.jpg" height="150">](https://youtu.be/TZzCF1eNGoo)|
-|Class 03|**Data Acquisition**|[<img src="http://img.youtube.com/vi/PAnChNF7JqU/0.jpg" height="150">](https://youtu.be/PAnChNF7JqU)|
-|Class 04|**Signal Processing I**|[<img src="http://img.youtube.com/vi/52p-7BWwQ1Y/0.jpg" height="150">](https://youtu.be/52p-7BWwQ1Y) [<img src="http://img.youtube.com/vi/-ypxsaf21ak/0.jpg" height="150">](https://youtu.be/-ypxsaf21ak)|
-|Class 05|**Signal Processing II**|[<img src="http://img.youtube.com/vi/m2x6Wzc8Cf4/0.jpg" height="150">](https://youtu.be/m2x6Wzc8Cf4)|
-|Class 06|**Signal Processing III**|[<img src="http://img.youtube.com/vi/moytbQU0Gt8/0.jpg" height="150">](https://youtu.be/moytbQU0Gt8) [<img src="http://img.youtube.com/vi/pBpAV5kH8nI/0.jpg" height="150">](https://youtu.be/pBpAV5kH8nI)|
-|Class 07|**Digital Image**|[<img src="http://img.youtube.com/vi/QuwI0HjQUoI/0.jpg" height="150">](https://youtu.be/QuwI0HjQUoI)|
+|Class 02|**Data Acquisition**|[<img src="http://img.youtube.com/vi/PAnChNF7JqU/0.jpg" height="150">](https://youtu.be/PAnChNF7JqU)|
+|Class 03|**Signal Processing I**|[<img src="http://img.youtube.com/vi/52p-7BWwQ1Y/0.jpg" height="150">](https://youtu.be/52p-7BWwQ1Y) [<img src="http://img.youtube.com/vi/-ypxsaf21ak/0.jpg" height="150">](https://youtu.be/-ypxsaf21ak)|
+|Class 04|**Signal Processing II**|[<img src="http://img.youtube.com/vi/m2x6Wzc8Cf4/0.jpg" height="150">](https://youtu.be/m2x6Wzc8Cf4)|
+|Class 05|**Signal Processing III**|[<img src="http://img.youtube.com/vi/moytbQU0Gt8/0.jpg" height="150">](https://youtu.be/moytbQU0Gt8) [<img src="http://img.youtube.com/vi/pBpAV5kH8nI/0.jpg" height="150">](https://youtu.be/pBpAV5kH8nI)|
+|Class 06|**Digital Image**|[<img src="http://img.youtube.com/vi/QuwI0HjQUoI/0.jpg" height="150">](https://youtu.be/QuwI0HjQUoI)|
 |Class 08|**Projective Geometry**|[<img src="http://img.youtube.com/vi/yXSRfpaXDYc/0.jpg" height="150">](https://youtu.be/yXSRfpaXDYc) [<img src="http://img.youtube.com/vi/_LOnmx1PqmY/0.jpg" height="150">](https://youtu.be/_LOnmx1PqmY)|
 |Class 09|**Linear Filtering**|[<img src="http://img.youtube.com/vi/l2893AKrTAM/0.jpg" height="150">](https://youtu.be/l2893AKrTAM)|
 |Class 10|**Edge Detection I**|[<img src="http://img.youtube.com/vi/IHwgR196PzM/0.jpg" height="150">](https://youtu.be/IHwgR196PzM)|
@@ -112,13 +107,11 @@ The study load for each class is marked as the number of regular offline classes
 |Class 20|**Neural Network**|[<img src="http://img.youtube.com/vi/pZLQywcd2Lw/0.jpg" height="150">](https://youtu.be/pZLQywcd2Lw) [<img src="http://img.youtube.com/vi/lIjEW38i75g/0.jpg" height="150">](https://youtu.be/lIjEW38i75g)|
 
 ## Tasks
-There will be **9 tasks** and they will be posted on this course website weekly or bi-weekly. **The instructor encourage students to work in groups through collaborative learning, but to submit their assignments individually.** The task will have programming components or photography components, where students will use their own camera to capture and process their own images and discuss the results. Students are supposed to complete all tasks and turn their works in by the due date. You can access the best reports for the assignments in previous years from [**w2021**](previous/w2021#tasks), [**w2020**](previous/w2020#tasks), and [**w2019**](previous/w2019#tasks). The problems will be similar to the ones in the previous assignments. However, the students must not copy and paste the codes or texts in those reports. Also, some answers in the model report are not correct.     
+There will be **9 tasks** and they will be posted on this course website weekly or bi-weekly. **The instructor encourage students to work in groups through collaborative learning, but to submit their assignments individually.** The task will have programming components or photography components, where students will use their own camera to capture and process their own images and discuss the results. Students are supposed to complete all tasks and turn their works in by the due date. You can access the best reports for the assignments in previous years from [**w2022**](previous/w2022#tasks), [**w2021**](previous/w2021#tasks), [**w2020**](previous/w2020#tasks), and [**w2019**](previous/w2019#tasks). The problems will be similar to the ones in the previous assignments. However, the students must not copy and paste the codes or texts in those reports. Also, some answers in the model report are not correct.     
 
 The late submission policy allows students to have a **maximum one-week** delay for **three among the first eight assignments** (You must submit the last assignment on time). TAs will just count the number of delays in your homework assignments. TAs will inform the students when they delay their submission three times. If the number of delays is more than three, the fourth delayed homework will be zero. Students must pay close attention to deadlines. No further late submission will not be accepted unless accompanied by a valid excuse and some marks might be deducted depending upon the circumstances.  
 
-When you decide to delay your homework assignments, please carefully consider all schedules and milestones for your other courses. Usually, students get busier when they prepare exams (or quizzes) or the due date for their capstone projects is approaching.   
-
-This course grades your final mark based on the marks earned from these assignments. Thus, not submitting homework assignments is a really bad idea and your final score will significantly drop. If you have difficulty in doing the assignments, please speak to the instructor or TA.    
+Your final grade for this course is determined by the scores you achieve on these assignments. Therefore, failing to submit homework can greatly impact your overall grade. If you encounter challenges with the assignments, please reach out to the instructor or TA for assistance.
 
 Please carefully review the submission instruction: [**Submission instruction of your work**](#submission-instruction-of-your-work)
 
@@ -142,11 +135,7 @@ In this course, both the instructor and the students are encouraged to engage in
 [**Discussion forum instruction**](#discussion-forum-instruction)
 
 ## Grading  
-The final grade will be based on the total marks earned during the semester. Each task will be graded on the basis of 100 points and will contribute the final grade with **different weights**. Note that undergraduate and graduate students are marked using different evaluation metrics.
-
-If you are a graduate student, you can opt in conducting a research project. Students can bring their own problems related to their thesis, research projects or potential research in civil engineering that they plan to pursue near future. This course gives special attention to exploring theory and potential techniques in the field of smart structure to address real problems that students are exposed to or involved in. Thus, students need to devise feasible project topics that are achievable within your current or future graduate study. For the students who conduct their research projects, the final grade metric becomes Tasks (70%) and Project (30%).
-
-[**Guideline for the project**](#guideline-for-the-project)
+The final grade will be based on the total marks earned during the semester. Each task will be graded on the basis of 100 points and will contribute the final grade with **different weights**. 
 
 ## Note
 
@@ -190,14 +179,3 @@ Students choose either a **MATLAB** or **Python** to complete the tasks. The sou
 However, the instructor and TA will also encourage to use Python as well. If the students complete the assignments using Python, extra points might be given depending on the task assignments (up to 5 points). Pillow and OpenCV for computer vision programming and some basic python packages (e.g. Pandas, NumPy, matplotlib, sklearn, etc) will be installed on the TA's computer. It is recommended that any external code library should not be used unless explicitly mentioned in tasks. **The instructor is not able to install every different libraries on the computer.** Note that OS (platform)-dependent functions, scripts or libraries are not permitted. The students must check their report in a Windows computer before its submission.   
 
 Marked reports will be distributed via email, and sample solutions for the tasks may be reviewed in class with the instructor. A couple of the best reports in each task will be posted on the class web page with the consent of the corresponding students. 
-
-### Guideline for the project
-Individuals/teams should clearly identify the challenges of existing applications, procedures, and research in civil engineering and then consider how smart structure technology contributes to addressing them. The project does not have to be big, fancy and innovative if your project outcomes can marginally improve existing problems or advance practices. For example, it could be proposing a modification to existing processes, applying image processing and computer vision technology to streamline analysis and documentation processes, applying a new signal or image processing techniques to improve the accuracy of your technique. The possibilities are very open and diverse if they are attainable. However, for instance, the following two examples are not acceptable because they are not attainable: *"we will build a robot to automatically and rapidly construct a building"* or *"we will develop a new vision sensor that can measure 3D volume"*. 
-
-The project can be done either individually or in teams of two or three students. If students choose to work in a team, they need to justify the need for a teamwork and define the scope of works in individual members. For the completion of the project, each group must reach the following **milestones**:  
-
-- **Individual/team meeting (3 or 4th week)**: Individuals or teams need to schedule a separate meeting with the instructor so that the project ideas are refined together. The instructor encourages the individual/team preparing and bringing relevant slides or reading materials to the meeting. In the case of the team project, all members must agree on the direction and scope of their project before having a meeting with the instructor. They also can take advantage of office hours or separate meetings if further discussion is needed.  
-
-- **Abstract submission (7 or 8th week)**: Individuals or teams will submit a 1-page abstract that can summarize your project. The abstract should include (1) project title, (2) motivation, problem or challenge, (3)objective, (4) implemented/developed method(s), and (5) validation/demonstration plan(s). In addition, one representative figure (graphical abstract) must be included. It should have a self-explanatory image to illustrate motivation and expected outcome, summarize a procedure of the methods implemented/developed, or describe updated processes or outcomes that benefit from your technique or algorithm designed in the project. The abstract should not exceed 600 words. **The evaluation of the abstract contributes 30% of the project grade.** 
-
-- **10-minute final presentation (at Class 24)**: A 10-minute presentation will be given at the final class. Individuals/teams should strive to give a comprehensive and understandable presentation that the other students recognize the value of your project. Similar to the 3-minute presentation, time limits will be strictly enforced. **The evaluation of the final presentation contributes 50% of the project grade** and the detailed evaluation criteria will be announced after the abstract submission. 
