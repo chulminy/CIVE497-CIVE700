@@ -1,5 +1,7 @@
 # CIVE497/700: Smart Structure Technology (Winter, 2024)
 
+<span style="background-color: #FFFF00"> The instructor is currently updating this website in preparation for the upcoming course. To view the full syllabus, please refer to the course website from the previous year: [**LINK**](https://github.com/chulminy/CIVE497-CIVE700/tree/master/previous/w2022) </span>
+
 ![](intro_img.png)
 
 **Instructor:** Chul Min Yeum (E2-2313)   
@@ -33,7 +35,12 @@ Last updated: 2022-04-04
 ## Course Description
 This course offers an introduction to the emerging **smart structure technologies** in civil engineering. Smart structures integrate sensing, actuation, data processing, analysis, and visualization, and control capabilities so that a structure can sense and respond to its changing external conditions in a rapid and automated manner. Among several topics in smart structure, this course focuses on [**structural assessment**](https://en.wikipedia.org/wiki/Structural_health_monitoring) using optical sensor data by implementing state-of-art image processing and computer vision techniques. As a special topic, basic concepts in **structure from motion**, **machine learning**, **neural networks**, and **neural radiance fields (NeRF)** are covered and relevant applications in civil engineering are introduced. An application-based learning approach is emphasized and tasks are designed in such a way that students can implement smart structure technology to address contemporary problems in civil engineering. 
 
-This course is specially designed to suit the interest of **graduate students** and **senior undergraduate students who may pursue graduate studies**. Based on the course surveys collected from previous years, you are expected to spend 20 hours or more per week studying class materials as well as working on task assignments and research project. You can see the course outline and task assignments in the previous year from [**w2021**](previous/w2021), [**w2020**](previous/w2020), [**w2019**](previous/w2019). **If you cannot commit enough time to this course, please reconsider taking it.** Note that all lectures were delivered using [**pre-recorded videos**](#lecture-video) in 2021. When you are absent from a class, you can watch the corresponding lecture video. However, students are highly encouraged to attend the classes. 
+This course is specially designed to suit the interest of **graduate students** and **senior undergraduate students who may pursue graduate studies**. You can see the course outline and task assignments in the previous year from [**w2021**](previous/w2021), [**w2020**](previous/w2020), [**w2019**](previous/w2019).  Note that all lectures were delivered through [**pre-recorded videos**](#lecture-video) in 2021. When you are absent from a class, you can watch the corresponding lecture video. However, students are highly encouraged to attend the classes. 
+
+<span style="background-color: #FFFF00">
+Based on past course surveys, students should anticipate dedicating at least 20 hours per week to study class materials, work on assignments, and undertake research projects. Additionally, a strong background in computer programming is expected of students. <b>If you are unsure about allocating this much time, please carefully reconsider enrolling.</b> For undergraduates, be aware that the instructor will not accommodate personal situations, like capstone projects, quizzes, midterms, or finals, that do not adhere to institutional policies and guidelines. 
+</span>
+
 
 ## Intended Learning Outcomes
 By the end of this course, students should be able to  
@@ -42,14 +49,12 @@ By the end of this course, students should be able to
 * Interpret the concept of image processing techniques through signal processing theory 
 * Develop Python programs to process and analyze 2D and 3D optical data for structural assessment
 * Demonstrate how to implement machine learning algorithms in solving real-world problems 
+* Explain the working principle of neural network and neural radiance fiel algorithms
 * Devise innovative smart structure technology for civil engineering applications and research
 
-## Prerequisite
-This course requires basic knowledge in **linear algebra** and **probability** and skills at ***a sufficient level of a non-trivial computer programming***. Students also need to know how to use **Markdown**. If you are not familiar with or would revisit these topics, students should complete the following tutorials and questions inside:
 
-**Topics**
-* [**Digital Image Processing**](tutorial/image_proc): copy this folder in your computer and run `digital_image_processing.mlx` in MATLAB (Note: If you do not find the sample images, you can download them from [**here**](https://www.dropbox.com/s/xgznul2u1l16iaw/sample_images.zip?dl=0))   
-* [**Markdown**](tutorial/markdown)
+## Prerequisite
+For this course, students should have a foundational understanding of **linear algebra** and **probability**. Additionally, proficiency in **python programming** is essential. Students are also expected to be familiar with **Markdown** script and **Jupyter Notebook** for submitting homework assignments.
 
 ## Course Textbook 
 This course is not based on any particular textbook. The instructor will provide relevant keywords (search by yourself), reading materials, and website links in each class.  
@@ -57,37 +62,37 @@ This course is not based on any particular textbook. The instructor will provide
 ## Course Outline
 The study load for each class is marked as the number of regular offline classes, which becomes a total of 24 classes. The expected time to finish (ETF) in each module is also provided to help students manage their time and keep up with lectures and assignments. The course material will be posted as a PDF.   
 
-|Class|Topics|Slides|Tutorial|Load|ETF|Homework|
-|:----|:-----|:----|:-----|:-----|:-----|:-----|
-|Class 01|**Introduction**|[slide](lecture/clss01_introduction)||0.5|Jan 05||
-|Class 02|**Data Acquisition**|[slide](lecture/clss03_data_aquisition)|[tutorial](tutorial/data_aquisition)|0.5|Jan 12||
-|Class 03|**Signal Processing I**|[slide](lecture/clss04_06_signal_processing)|[tutorial](tutorial/signal_processing)|1|Jan 17|**Task02**|
-|Class 04|**Signal Processing II**|[slide](lecture/clss04_06_signal_processing)|[tutorial](tutorial/signal_processing)|1|Jan 19||
-|Class 05|**Signal Processing III**|[slide](lecture/clss04_06_signal_processing)|[tutorial](tutorial/signal_processing)|1|Jan 26|**Task03**|
-|Class 06|**Modal Analysis**|[slide](lecture/clss04_06_signal_processing)|[tutorial](tutorial/signal_processing)|1|Jan 26|**Task03**|
-|Class 07|**Digital Image**|[slide](lecture/clss07_digital_image)||0.5|Jan 31|**Task04**|
-|Class 08|**Projective Geometry**|[slide](lecture/clss08_project_geometry)|[tutorial](tutorial/projective_geometry)|1|Feb 09|**Task05**|
-|Class 09|**Linear Filtering**|[slide](lecture/clss09_linear_filter)|[tutorial](tutorial/linear_filter)|1|Feb 14| |
-|Class 10|**Image Morphology**|[slide](lecture/clss09_linear_filter)|[tutorial](tutorial/linear_filter)|1|Feb 14| |
-|Class 11|**Edge Detection I**|[slide](lecture/clss10_11_edge_detection)|[tutorial](tutorial/edge_detection)|1|Feb 16||
-|Class 12|**Edge Detection II**|[slide](lecture/clss10_11_edge_detection)|[tutorial](tutorial/edge_detection)|1|Feb 28|**Task06**|   
-|Class 13|**Feature**|[slide](lecture/clss12_feature)|[tutorial](tutorial/feature)|1|Mar 07||
-|Class 14|**RANSAC**|[slide](lecture/clss13_ransac)|[tutorial](tutorial/ransac)|1|Mar 09|**Task07**|  
-|Class 15|**Camera Model**|[slide](lecture/clss14_camera_model)||1|Mar 14||
-|Class 16|**Two-view Geometry**|[slide](lecture/clss15_two_view_geometry)|[tutorial](tutorial/two_view_geometry)|1|Mar 16||
-|Class 17|**Structure From Motion**|[slide](lecture/clss16_SfM)|[tutorial](tutorial/sfm)|0.5|Mar 21|**Task08**|
-|Class 18|**Introduction of Machine Learning**|[slide](lecture/clss17_ml_intro)||0.5|Mar 23||
-|Class 19|**Gradient Descent**|[slide](lecture/clss18_ml_gd)|[tutorial](tutorial/ml_gd)|1|Mar 28||
-|Class 20|**Training Linear Model**|[slide](lecture/clss19_ml_lg)|[tutorial](tutorial/ml_linear_model)|1|Mar 30||
-|Class 21|**Neural Network**|[slide](lecture/clss20_ml_nn)|[tutorial](tutorial/neural_network)|2|Apr 04|**Task09**|
-|Class 22|**Convolutional Neural Network**|[slide](lecture/clss20_ml_nn)|[tutorial](tutorial/neural_network)|2|Apr 04|**Task09**|
-|Class 23|**Neural Radian Field (NeRF)**|[slide](lecture/clss20_ml_nn)|[tutorial](tutorial/neural_network)|2|Apr 04|**Task09**|
+|Class|Topics (lecture slide)|Lecture|Notebook|Colab|Load|ETF|Homework|
+|:----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+|C01|[**Introduction**](lecture/clss01_introduction)||||0.5|||
+|C02|[**Data Acquisition**](lecture/clss03_data_aquisition)|<a href="(https://youtu.be/PAnChNF7JqU"><img src="icon/video.png" height=22.5></a>|<a href=""><img src="icon/jupyter.png" height=22.5></a>|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|0.5|||
+|C03|[**Signal Processing I**](lecture/clss04_06_signal_processing)||<a href=""><img src="icon/jupyter.png" height=22.5></a>|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|0.5|||
+|C04|[**Signal Processing II**](lecture/clss04_06_signal_processing)||[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1|||
+|C05|[**Signal Processing III**](lecture/clss04_06_signal_processing)||[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1|||
+|C06|[**Modal Analysis**](lecture/clss04_06_signal_processing)||[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|0.5|||
+|C07|[**Digital Image**](lecture/clss07_digital_image)||[Notebook]()||0.5|||
+|C08|[**Projective Geometry**](lecture/clss08_project_geometry)||[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1.5|||
+|C09|[**Linear Filtering**](lecture/clss09_linear_filter)||[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1|||
+|C10|[**Image Morphology**](lecture/clss09_linear_filter)||[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1|||
+|C11|[**Edge Detection I**](lecture/clss10_11_edge_detection)||[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1|||
+|C12|[**Edge Detection II**](lecture/clss10_11_edge_detection)||[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|0.5|||
+|C13|[**Feature**](lecture/clss12_feature)||[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1.5|||
+|C14|[**RANSAC**](lecture/clss13_ransac)||[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1|||
+|C15|[**Camera Model**](lecture/clss14_camera_model)||[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|0.5|||
+|C16|[**Two-view Geometry**](lecture/clss15_two_view_geometry)||[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1|||
+|C17|[**Structure From Motion**](lecture/clss16_SfM)||[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|0.5|||
+|C18|[**Intro. of Machine Learning**](lecture/clss17_ml_intro)||[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|0.5|||
+|C19|[**Gradient Descent**](lecture/clss18_ml_gd)||[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|0.5|||
+|C20|[**Training Linear Model**](lecture/clss19_ml_lg)||[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|0.5|||
+|C21|[**Neural Network**](lecture/clss20_ml_nn)||[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1.5|||
+|C22|[**Convolutional Neural Network**](lecture/clss20_ml_nn)||[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1.5|||
+|C23|[**Neural Radian Field (NeRF)**](lecture/clss20_ml_nn)||[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1.5|||
 
 ### Lecture Video
 |Class|Topics|Video|
 |:----|:-----|:----|
 |Class 01|**Introduction**|[<img src="http://img.youtube.com/vi/p7QaQYuG-RM/0.jpg" height="150">](https://youtu.be/p7QaQYuG-RM)|
-|Class 02|**Data Acquisition**|[<img src="http://img.youtube.com/vi/PAnChNF7JqU/0.jpg" height="150">](https://youtu.be/PAnChNF7JqU)|
+|Class 02|**Data Acquisition**|[<img src="http://img.youtube.com/vi/PAnChNF7JqU/0.jpg" height="150">])|
 |Class 03|**Signal Processing I**|[<img src="http://img.youtube.com/vi/52p-7BWwQ1Y/0.jpg" height="150">](https://youtu.be/52p-7BWwQ1Y) [<img src="http://img.youtube.com/vi/-ypxsaf21ak/0.jpg" height="150">](https://youtu.be/-ypxsaf21ak)|
 |Class 04|**Signal Processing II**|[<img src="http://img.youtube.com/vi/m2x6Wzc8Cf4/0.jpg" height="150">](https://youtu.be/m2x6Wzc8Cf4)|
 |Class 05|**Signal Processing III**|[<img src="http://img.youtube.com/vi/moytbQU0Gt8/0.jpg" height="150">](https://youtu.be/moytbQU0Gt8) [<img src="http://img.youtube.com/vi/pBpAV5kH8nI/0.jpg" height="150">](https://youtu.be/pBpAV5kH8nI)|
@@ -107,25 +112,26 @@ The study load for each class is marked as the number of regular offline classes
 |Class 20|**Neural Network**|[<img src="http://img.youtube.com/vi/pZLQywcd2Lw/0.jpg" height="150">](https://youtu.be/pZLQywcd2Lw) [<img src="http://img.youtube.com/vi/lIjEW38i75g/0.jpg" height="150">](https://youtu.be/lIjEW38i75g)|
 
 ## Tasks
-There will be **9 tasks** and they will be posted on this course website weekly or bi-weekly. **The instructor encourage students to work in groups through collaborative learning, but to submit their assignments individually.** The task will have programming components or photography components, where students will use their own camera to capture and process their own images and discuss the results. Students are supposed to complete all tasks and turn their works in by the due date. You can access the best reports for the assignments in previous years from [**w2022**](previous/w2022#tasks), [**w2021**](previous/w2021#tasks), [**w2020**](previous/w2020#tasks), and [**w2019**](previous/w2019#tasks). The problems will be similar to the ones in the previous assignments. However, the students must not copy and paste the codes or texts in those reports. Also, some answers in the model report are not correct.     
+There will be **9 tasks** and they will be posted on this course website weekly or bi-weekly. **The instructor encourage students to work in groups through collaborative learning, but to submit their assignments individually.** The task will have programming components or photography components, where students will use their own camera to capture and process their own images and discuss the results. Students are supposed to complete all tasks and turn their works in by the due date. You can access the best reports for the assignments in previous years from [**w2022**](previous/w2022#tasks), [**w2021**](previous/w2021#tasks), [**w2020**](previous/w2020#tasks), and [**w2019**](previous/w2019#tasks). The problems will be similar to the ones in the previous assignments. However, **the students must not copy and paste the codes or texts in those reports.** Also, some answers in the model report are not correct.     
 
-The late submission policy allows students to have a **maximum one-week** delay for **three among the first eight assignments** (You must submit the last assignment on time). TAs will just count the number of delays in your homework assignments. TAs will inform the students when they delay their submission three times. If the number of delays is more than three, the fourth delayed homework will be zero. Students must pay close attention to deadlines. No further late submission will not be accepted unless accompanied by a valid excuse and some marks might be deducted depending upon the circumstances.  
+The late submission policy allows students to have a **maximum one-week** delay for **three among the first eight assignments** (You must submit the last assignment on time). **If the number of delays is more than three, the fourth delayed homework will be zero.** Students must pay close attention to deadlines. No further late submission will not be accepted unless accompanied by a valid excuse and some marks might be deducted depending upon the circumstances.  
 
-Your final grade for this course is determined by the scores you achieve on these assignments. Therefore, failing to submit homework can greatly impact your overall grade. If you encounter challenges with the assignments, please reach out to the instructor or TA for assistance.
+Your final grade for this course is determined by the scores you achieve on these assignments. Please check the mark in the table below. Therefore, **failing to submit homework can greatly impact your overall grade. If you encounter challenges with the assignments, please reach out to the instructor or TA for assistance.**
 
 Please carefully review the submission instruction: [**Submission instruction of your work**](#submission-instruction-of-your-work)
 
-|Task|Topics|Announcement|1st Due|2nd Due|
-|:----|:-----|:----|:-----|:-----|
-|Task01|[**Programming**](task/task01)|Jan 04|Jan 14|Jan 21|
-|Task02|[**Signal Processing 1**](task/task02)  </br> Best report: [(**Kin Long Li**)](task/task02/best/Rept_likinl_ME_20928997.pdf)|Jan 17|Jan 27|Feb 03|
-|Task03|[**Signal Processing 2**](task/task03)  </br> Best report: [(**Noreen Gao**)](task/task03/best/Rept_noree_BA_20786725.pdf), [(**Wilson Carofilis**)](task/task03/best/Rept_wilso_PH_20986777.pdf)|Jan 25|Feb 06|Feb 13|
-|Task04|[**Digital Image**](task/task04)|Feb 08|Feb 15|Feb 20|
-|Task05|[**Homography**](task/task05) </br> Best report: [(**Noreen Gao**)](task/task05/best/Rept_noree_BA_20786725.pdf)|Feb 08|Mar 06|Mar 13|
-|Task06|[**Image Processing**](task/task06) </br> Best report: [(**Jing Zhang**)](task/task06/best/Rept_jingz_PH_20984622.pdf)|Mar 06|Mar 16|Mar 23|
-|Task07|[**Feature Matching & RANSAC**](task/task07)|Mar 16|Mar 26|Apr 10|
-|Task08|[**Multiview Geometry (SfM)**](task/task08)|Mar 27|Apr 20|Apr 20|
-|Task09|[**Neural Network**](task/task09)|Apr 04|Apr 20|Apr 20|
+|Task|Topics|Mark|Announcement|1st Due|2nd Due|
+|:----|:-----|:----|:----|:-----|:-----|
+|Task01|[**Basic Image Professing**]()|5||||
+|Task02|[**Signal Processing I**]()|10||||
+|Task03|[**Signal Processing II**]()|10||||
+|Task04|[**Homography**]()|15||||
+|Task05|[**Image Professing**]()|10||||
+|Task06|[**Feature Matching & RANSAC**]()|10||||
+|Task07|[**Multiview Geometry**]()|15||||
+|Task08|[**Neural Network**]()|15||||
+|Task09|[**Neural Radiance Field**]()|10||||
+
 
 ## Communication  
 **All communication will be made through [this course website](https://github.com/chulminy/CIVE497-CIVE700)**, especially for this web page. The instructor will make a note in the ["Announcement"](#announcement) section if there is an update on the web page. Students can configure email notification for by ["watching"](https://help.github.com/articles/watching-and-unwatching-repositories/) this course website or use a version control system for tracking its changes. Thus, **students are responsible for checking the website regularly** for any relevant course information or announcements. 
