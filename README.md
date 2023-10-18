@@ -5,12 +5,12 @@
 ![](intro_img.png)
 
 **Instructor:** Chul Min Yeum (E2-2313)   
-**Class:** <!-- Mon and Wed, 08:30AM to 9:50AM at E2-2350 -->    
-**Email:** cmyeum@uwaterloo.ca   
-**Office Hours:** <!-- Mon and Wed 10 to 11AM at E2-2313 -->  
+**Class:** Mon and Wed, 08:30AM to 9:50AM at E2-2350  
+**Email:** cmyeum@uwaterloo.ca    
+**Office Hours:** Mon and Wed 10 to 11AM at E2-2313   
 **TA:**     
 
-Last updated: 2022-04-04  
+Last updated: 2022-04-17  
 
 **Previous offerings of this course**
 - [**Smart Structure Technology (Winter, 2022)**](previous/w2022)  
@@ -60,56 +60,33 @@ For this course, students should have a foundational understanding of **linear a
 This course is not based on any particular textbook. The instructor will provide relevant keywords (search by yourself), reading materials, and website links in each class.  
 
 ## Course Outline
-The study load for each class is marked as the number of regular offline classes, which becomes a total of 24 classes. The expected time to finish (ETF) in each module is also provided to help students manage their time and keep up with lectures and assignments. The course material will be posted as a PDF.   
+The study load for each class is marked as the number of regular offline classes, which becomes a total of **24 classes**. The expected time to finish (ETF) in each module is also provided to help students manage their time and keep up with lectures and assignments. The course material will be posted as a PDF.   
 
 |Class|Topics (lecture slide)|Lecture|Notebook|Colab|Load|ETF|Homework|
 |:----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|C01|[**Introduction**](lecture/clss01_introduction)||||0.5|||
-|C02|[**Data Acquisition**](lecture/clss03_data_aquisition)|<a href="(https://youtu.be/PAnChNF7JqU"><img src="icon/video.png" height=22.5></a>|<a href=""><img src="icon/jupyter.png" height=22.5></a>|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|0.5|||
-|C03|[**Signal Processing I**](lecture/clss04_06_signal_processing)||<a href=""><img src="icon/jupyter.png" height=22.5></a>|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|0.5|||
-|C04|[**Signal Processing II**](lecture/clss04_06_signal_processing)||[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1|||
-|C05|[**Signal Processing III**](lecture/clss04_06_signal_processing)||[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1|||
-|C06|[**Modal Analysis**](lecture/clss04_06_signal_processing)||[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|0.5|||
-|C07|[**Digital Image**](lecture/clss07_digital_image)||[Notebook]()||0.5|||
-|C08|[**Projective Geometry**](lecture/clss08_project_geometry)||[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1.5|||
-|C09|[**Linear Filtering**](lecture/clss09_linear_filter)||[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1|||
-|C10|[**Image Morphology**](lecture/clss09_linear_filter)||[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1|||
-|C11|[**Edge Detection I**](lecture/clss10_11_edge_detection)||[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1|||
-|C12|[**Edge Detection II**](lecture/clss10_11_edge_detection)||[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|0.5|||
-|C13|[**Feature**](lecture/clss12_feature)||[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1.5|||
-|C14|[**RANSAC**](lecture/clss13_ransac)||[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1|||
-|C15|[**Camera Model**](lecture/clss14_camera_model)||[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|0.5|||
-|C16|[**Two-view Geometry**](lecture/clss15_two_view_geometry)||[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1|||
-|C17|[**Structure From Motion**](lecture/clss16_SfM)||[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|0.5|||
-|C18|[**Intro. of Machine Learning**](lecture/clss17_ml_intro)||[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|0.5|||
-|C19|[**Gradient Descent**](lecture/clss18_ml_gd)||[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|0.5|||
-|C20|[**Training Linear Model**](lecture/clss19_ml_lg)||[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|0.5|||
-|C21|[**Neural Network**](lecture/clss20_ml_nn)||[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1.5|||
-|C22|[**Convolutional Neural Network**](lecture/clss20_ml_nn)||[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1.5|||
-|C23|[**Neural Radian Field (NeRF)**](lecture/clss20_ml_nn)||[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1.5|||
-
-### Lecture Video
-|Class|Topics|Video|
-|:----|:-----|:----|
-|Class 01|**Introduction**|[<img src="http://img.youtube.com/vi/p7QaQYuG-RM/0.jpg" height="150">](https://youtu.be/p7QaQYuG-RM)|
-|Class 02|**Data Acquisition**|[<img src="http://img.youtube.com/vi/PAnChNF7JqU/0.jpg" height="150">])|
-|Class 03|**Signal Processing I**|[<img src="http://img.youtube.com/vi/52p-7BWwQ1Y/0.jpg" height="150">](https://youtu.be/52p-7BWwQ1Y) [<img src="http://img.youtube.com/vi/-ypxsaf21ak/0.jpg" height="150">](https://youtu.be/-ypxsaf21ak)|
-|Class 04|**Signal Processing II**|[<img src="http://img.youtube.com/vi/m2x6Wzc8Cf4/0.jpg" height="150">](https://youtu.be/m2x6Wzc8Cf4)|
-|Class 05|**Signal Processing III**|[<img src="http://img.youtube.com/vi/moytbQU0Gt8/0.jpg" height="150">](https://youtu.be/moytbQU0Gt8) [<img src="http://img.youtube.com/vi/pBpAV5kH8nI/0.jpg" height="150">](https://youtu.be/pBpAV5kH8nI)|
-|Class 06|**Digital Image**|[<img src="http://img.youtube.com/vi/QuwI0HjQUoI/0.jpg" height="150">](https://youtu.be/QuwI0HjQUoI)|
-|Class 08|**Projective Geometry**|[<img src="http://img.youtube.com/vi/yXSRfpaXDYc/0.jpg" height="150">](https://youtu.be/yXSRfpaXDYc) [<img src="http://img.youtube.com/vi/_LOnmx1PqmY/0.jpg" height="150">](https://youtu.be/_LOnmx1PqmY)|
-|Class 09|**Linear Filtering**|[<img src="http://img.youtube.com/vi/l2893AKrTAM/0.jpg" height="150">](https://youtu.be/l2893AKrTAM)|
-|Class 10|**Edge Detection I**|[<img src="http://img.youtube.com/vi/IHwgR196PzM/0.jpg" height="150">](https://youtu.be/IHwgR196PzM)|
-|Class 11|**Edge Detection II**|[<img src="http://img.youtube.com/vi/ZjlNvLv-jj0/0.jpg" height="150">](https://youtu.be/ZjlNvLv-jj0)|   
-|Class 12|**Feature**|[<img src="http://img.youtube.com/vi/kLmCt43qafU/0.jpg" height="150">](https://youtu.be/kLmCt43qafU) [<img src="http://img.youtube.com/vi/BZsU2BvS8_M/0.jpg" height="150">](https://youtu.be/BZsU2BvS8_M)|
-|Class 13|**RANSAC**|[<img src="http://img.youtube.com/vi/afZg68R4b9M/0.jpg" height="150">](https://youtu.be/afZg68R4b9M)|  
-|Class 14|**Camera Model**|[<img src="http://img.youtube.com/vi/6_PJj7GrkL8/0.jpg" height="150">](https://youtu.be/6_PJj7GrkL8)|
-|Class 15|**Two-view Geometry**|[<img src="http://img.youtube.com/vi/5_rez7tvg8I/0.jpg" height="150">](https://youtu.be/5_rez7tvg8I)|
-|Class 16|**Structure From Motion**|[<img src="http://img.youtube.com/vi/DFuQd2xw0ek/0.jpg" height="150">](https://youtu.be/DFuQd2xw0ek)|
-|Class 17|**Introduction of Machine Learning**|[<img src="http://img.youtube.com/vi/PdZ0cbddxfI/0.jpg" height="150">](https://youtu.be/PdZ0cbddxfI) [<img src="http://img.youtube.com/vi/FHZIJgLVXBw/0.jpg" height="150">](https://youtu.be/FHZIJgLVXBw)|
-|Class 18|**Gradient Descent**|[<img src="http://img.youtube.com/vi/mZVHNXxdAys/0.jpg" height="150">](https://youtu.be/mZVHNXxdAys)|
-|Class 19|**Training Linear Model**|[<img src="http://img.youtube.com/vi/31CSIqymnWY/0.jpg" height="150">](https://youtu.be/31CSIqymnWY)|
-|Class 20|**Neural Network**|[<img src="http://img.youtube.com/vi/pZLQywcd2Lw/0.jpg" height="150">](https://youtu.be/pZLQywcd2Lw) [<img src="http://img.youtube.com/vi/lIjEW38i75g/0.jpg" height="150">](https://youtu.be/lIjEW38i75g)|
+|C01|[**Introduction**](lecture/clss01_introduction)||[Notebook]()||0.5|||
+|C02|[**Data Acquisition**](lecture/clss03_data_aquisition)|<a href="https://youtu.be/PAnChNF7JqU"><img src="icon/video.png" height=22.5></a>|[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|0.5|||
+|C03|[**Signal Processing I**](lecture/clss04_06_signal_processing)|<a href="https://youtu.be/52p-7BWwQ1Y"><img src="icon/video.png" height=22.5></a> <a href="https://youtu.be/-ypxsaf21ak"><img src="icon/video.png" height=22.5></a>|[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|0.5|||
+|C04|[**Signal Processing II**](lecture/clss04_06_signal_processing)|<a href="https://youtu.be/m2x6Wzc8Cf4"><img src="icon/video.png" height=22.5></a>|[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1|||
+|C05|[**Signal Processing III**](lecture/clss04_06_signal_processing)|<a href="https://youtu.be/moytbQU0Gt8"><img src="icon/video.png" height=22.5></a> <a href="https://youtu.be/pBpAV5kH8nI"><img src="icon/video.png" height=22.5></a>|[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1|||
+|C06|[**Modal Analysis**](lecture/clss04_06_signal_processing)|<a href=""><img src="icon/video.png" height=22.5></a>|[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|0.5|||
+|C07|[**Digital Image**](lecture/clss07_digital_image)|<a href="https://youtu.be/QuwI0HjQUoI"><img src="icon/video.png" height=22.5></a>|[Notebook]()||0.5|||
+|C08|[**Projective Geometry**](lecture/clss08_project_geometry)|<a href="https://youtu.be/yXSRfpaXDYc"><img src="icon/video.png" height=22.5></a> <a href="https://youtu.be/_LOnmx1PqmY"><img src="icon/video.png" height=22.5></a>|[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1.5|||
+|C09|[**Linear Filtering**](lecture/clss09_linear_filter)|<a href="https://youtu.be/l2893AKrTAM"><img src="icon/video.png" height=22.5></a>|[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1|||
+|C10|[**Image Morphology**](lecture/clss09_linear_filter)|<a href=""><img src="icon/video.png" height=22.5></a>|[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1|||
+|C11|[**Edge Detection I**](lecture/clss10_11_edge_detection)|<a href="https://youtu.be/IHwgR196PzM"><img src="icon/video.png" height=22.5></a>|[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1|||
+|C12|[**Edge Detection II**](lecture/clss10_11_edge_detection)|<a href="https://youtu.be/ZjlNvLv-jj0"><img src="icon/video.png" height=22.5></a>|[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|0.5|||
+|C13|[**Feature**](lecture/clss12_feature)|<a href="https://youtu.be/kLmCt43qafU"><img src="icon/video.png" height=22.5></a> <a href="https://youtu.be/BZsU2BvS8_M"><img src="icon/video.png" height=22.5></a>|[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1.5|||
+|C14|[**RANSAC**](lecture/clss13_ransac)|<a href="https://youtu.be/afZg68R4b9M"><img src="icon/video.png" height=22.5></a>|[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1|||
+|C15|[**Camera Model**](lecture/clss14_camera_model)|<a href="https://youtu.be/6_PJj7GrkL8"><img src="icon/video.png" height=22.5></a>|[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|0.5|||
+|C16|[**Two-view Geometry**](lecture/clss15_two_view_geometry)|<a href="https://youtu.be/5_rez7tvg8I"><img src="icon/video.png" height=22.5></a>|[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1|||
+|C17|[**Structure From Motion**](lecture/clss16_SfM)|<a href="https://youtu.be/DFuQd2xw0ek"><img src="icon/video.png" height=22.5></a>|[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|0.5|||
+|C18|[**Intro. of Machine Learning**](lecture/clss17_ml_intro)|<a href="https://youtu.be/PdZ0cbddxfI"><img src="icon/video.png" height=22.5></a> <a href="https://youtu.be/FHZIJgLVXBw"><img src="icon/video.png" height=22.5></a> |[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|0.5|||
+|C19|[**Gradient Descent**](lecture/clss18_ml_gd)|<a href="https://youtu.be/mZVHNXxdAys"><img src="icon/video.png" height=22.5></a>|[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|0.5|||
+|C20|[**Training Linear Model**](lecture/clss19_ml_lg)|<a href="https://youtu.be/31CSIqymnWY"><img src="icon/video.png" height=22.5></a>|[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|0.5|||
+|C21|[**Neural Network**](lecture/clss20_ml_nn)|<a href="https://youtu.be/pZLQywcd2Lw"><img src="icon/video.png" height=22.5></a> <a href="https://youtu.be/lIjEW38i75g"><img src="icon/video.png" height=22.5></a>|[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1.5|||
+|C22|[**Convolutional Neural Network**](lecture/clss20_ml_nn)|<a href=""><img src="icon/video.png" height=22.5></a>|[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1.5|||
+|C23|[**Neural Radian Field (NeRF)**](lecture/clss20_ml_nn)|<a href=""><img src="icon/video.png" height=22.5></a>|[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1.5|||
 
 ## Tasks
 There will be **9 tasks** and they will be posted on this course website weekly or bi-weekly. **The instructor encourage students to work in groups through collaborative learning, but to submit their assignments individually.** The task will have programming components or photography components, where students will use their own camera to capture and process their own images and discuss the results. Students are supposed to complete all tasks and turn their works in by the due date. You can access the best reports for the assignments in previous years from [**w2022**](previous/w2022#tasks), [**w2021**](previous/w2021#tasks), [**w2020**](previous/w2020#tasks), and [**w2019**](previous/w2019#tasks). The problems will be similar to the ones in the previous assignments. However, **the students must not copy and paste the codes or texts in those reports.** Also, some answers in the model report are not correct.     
@@ -123,14 +100,16 @@ Please carefully review the submission instruction: [**Submission instruction of
 |Task|Topics|Mark|Announcement|1st Due|2nd Due|
 |:----|:-----|:----|:----|:-----|:-----|
 |Task01|[**Basic Image Professing**]()|5||||
-|Task02|[**Signal Processing I**]()|10||||
-|Task03|[**Signal Processing II**]()|10||||
+|Task02|[**Signal Processing I**]()|5||||
+|Task03|[**Signal Processing II**]()|5||||
 |Task04|[**Homography**]()|15||||
-|Task05|[**Image Professing**]()|10||||
-|Task06|[**Feature Matching & RANSAC**]()|10||||
+|Task05|[**Image Processing**]()|10||||
+|Task06|[**Feature Matching & RANSAC**]()|15||||
 |Task07|[**Multiview Geometry**]()|15||||
 |Task08|[**Neural Network**]()|15||||
 |Task09|[**Neural Radiance Field**]()|10||||
+
+**Please note that there will be a quiz after Task 03, and 5 marks have been allocated for it.**
 
 
 ## Communication  
@@ -141,10 +120,10 @@ In this course, both the instructor and the students are encouraged to engage in
 [**Discussion forum instruction**](#discussion-forum-instruction)
 
 ## Grading  
-The final grade will be based on the total marks earned during the semester. Each task will be graded on the basis of 100 points and will contribute the final grade with **different weights**. 
+The final grade will be based on the total marks earned during the semester. Each task will be graded on the basis of 100 points and will contribute the final grade. 
+
 
 ## Note
-
 ### Fair Contingencies for Emergency Remote Teaching
 We are facing unusual and challenging times. The course outline presents the instructor’s intentions for course assessments, their weights, and due dates in Winter 2022. As best as possible, we will keep to the specified assessments, weights, and dates. To provide contingency for unforeseen circumstances, **the instructor reserves the right to modify course topics and/or assessments and/or weight and/or deadlines with due and fair notice to students.** In the event of such challenges, the instructor will work with the Department/Faculty to find reasonable and fair solutions that respect rights and workloads of students, staff, and faculty. 
 
