@@ -7,10 +7,9 @@
 **Instructor:** Chul Min Yeum (E2-2313)   
 **Class:** Mon and Wed, 08:30AM to 9:50AM at E2-2350  
 **Email:** cmyeum@uwaterloo.ca    
-**Office Hours:** Mon and Wed 10 to 11AM at E2-2313   
-**TA:**     
+**Office Hours:** Mon and Wed 10 to 11AM at E2-2313 (or after each class)  
 
-Last updated: 2022-04-17  
+Last updated: 2024-01-01  
 
 **Previous offerings of this course**
 - [**Smart Structure Technology (Winter, 2022)**](previous/w2022)  
@@ -35,11 +34,9 @@ Last updated: 2022-04-17
 ## Course Description
 This course offers an introduction to the emerging **smart structure technologies** in civil engineering. Smart structures integrate sensing, actuation, data processing, analysis, and visualization, and control capabilities so that a structure can sense and respond to its changing external conditions in a rapid and automated manner. Among several topics in smart structure, this course focuses on [**structural assessment**](https://en.wikipedia.org/wiki/Structural_health_monitoring) using optical sensor data by implementing state-of-art image processing and computer vision techniques. As a special topic, basic concepts in **structure from motion**, **machine learning**, **neural networks**, and **neural radiance fields (NeRF)** are covered and relevant applications in civil engineering are introduced. An application-based learning approach is emphasized and tasks are designed in such a way that students can implement smart structure technology to address contemporary problems in civil engineering. 
 
-This course is specially designed to suit the interest of **graduate students** and **senior undergraduate students who may pursue graduate studies**. You can see the course outline and task assignments in the previous year from [**w2021**](previous/w2021), [**w2020**](previous/w2020), [**w2019**](previous/w2019).  Note that all lectures were delivered through [**pre-recorded videos**](#lecture-video) in 2021. When you are absent from a class, you can watch the corresponding lecture video. However, students are highly encouraged to attend the classes. 
+This course is specially designed to suit the interest of **graduate students** and **senior undergraduate students who may pursue graduate studies**. You can see the course outline and task assignments in the previous year from [**w2021**](previous/w2021), [**w2020**](previous/w2020), [**w2019**](previous/w2019).  Note that all lectures were already delivered through [**pre-recorded videos**](#lecture-video) in 2021. When you are absent from a class, you can watch the corresponding lecture video. However, students are highly encouraged to attend the classes. 
 
-<span style="background-color: #FFFF00">
-Based on past course surveys, students should anticipate dedicating at least 20 hours per week to study class materials, work on assignments, and undertake research projects. Additionally, a strong background in computer programming is expected of students. <b>If you are unsure about allocating this much time, please carefully reconsider enrolling.</b> For undergraduates, be aware that the instructor will not accommodate personal situations, like capstone projects, quizzes, midterms, or finals, that do not adhere to institutional policies and guidelines. 
-</span>
+Based on past course surveys, students should anticipate dedicating **at least 20 hours per week** to study class materials, work on assignments, and undertake research projects. Additionally, a strong background in computer programming is expected of students. **If you are unsure about allocating this much time, please carefully reconsider enrolling.** For undergraduates, be aware that the instructor will not accommodate personal situations, like capstone projects, quizzes, midterms, or finals, that do not adhere to institutional policies and guidelines. 
 
 
 ## Intended Learning Outcomes
@@ -65,17 +62,17 @@ The study load for each class is marked as the number of regular offline classes
 |Class|Topics (lecture slide)|Lecture|Notebook|Colab|Load|ETF|Homework|
 |:----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |C01|[**Introduction**](lecture/clss01_introduction)||[Notebook]()||0.5|||
-|C02|[**Data Acquisition**](lecture/clss03_data_aquisition)|<a href="https://youtu.be/PAnChNF7JqU"><img src="icon/video.png" height=22.5></a>|[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|0.5|||
-|C03|[**Signal Processing I**](lecture/clss04_06_signal_processing)|<a href="https://youtu.be/52p-7BWwQ1Y"><img src="icon/video.png" height=22.5></a> <a href="https://youtu.be/-ypxsaf21ak"><img src="icon/video.png" height=22.5></a>|[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|0.5|||
-|C04|[**Signal Processing II**](lecture/clss04_06_signal_processing)|<a href="https://youtu.be/m2x6Wzc8Cf4"><img src="icon/video.png" height=22.5></a>|[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1|||
-|C05|[**Signal Processing III**](lecture/clss04_06_signal_processing)|<a href="https://youtu.be/moytbQU0Gt8"><img src="icon/video.png" height=22.5></a> <a href="https://youtu.be/pBpAV5kH8nI"><img src="icon/video.png" height=22.5></a>|[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1|||
+|C02|[**Data Acquisition**](lecture/clss03_data_aquisition)|<a href="https://youtu.be/PAnChNF7JqU"><img src="icon/video.png" height=22.5></a>|[Notebook](notebook/data_aquisition)|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|0.5|||
+|C03|[**Signal Processing I**](lecture/clss04_06_signal_processing)|<a href="https://youtu.be/52p-7BWwQ1Y"><img src="icon/video.png" height=22.5></a> <a href="https://youtu.be/-ypxsaf21ak"><img src="icon/video.png" height=22.5></a>|[Notebook](notebook/signal_processing1)|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|0.5|||
+|C04|[**Signal Processing II**](lecture/clss04_06_signal_processing)|<a href="https://youtu.be/m2x6Wzc8Cf4"><img src="icon/video.png" height=22.5></a>|[Notebook](notebook/signal_processing2)|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1|||
+|C05|[**Signal Processing III**](lecture/clss04_06_signal_processing)|<a href="https://youtu.be/moytbQU0Gt8"><img src="icon/video.png" height=22.5></a> <a href="https://youtu.be/pBpAV5kH8nI"><img src="icon/video.png" height=22.5></a>|[Notebook](notebook/signal_processing3)|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1|||
 |C06|[**Modal Analysis**](lecture/clss04_06_signal_processing)|<a href=""><img src="icon/video.png" height=22.5></a>|[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|0.5|||
-|C07|[**Digital Image**](lecture/clss07_digital_image)|<a href="https://youtu.be/QuwI0HjQUoI"><img src="icon/video.png" height=22.5></a>|[Notebook]()||0.5|||
-|C08|[**Projective Geometry**](lecture/clss08_project_geometry)|<a href="https://youtu.be/yXSRfpaXDYc"><img src="icon/video.png" height=22.5></a> <a href="https://youtu.be/_LOnmx1PqmY"><img src="icon/video.png" height=22.5></a>|[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1.5|||
-|C09|[**Linear Filtering**](lecture/clss09_linear_filter)|<a href="https://youtu.be/l2893AKrTAM"><img src="icon/video.png" height=22.5></a>|[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1|||
-|C10|[**Image Morphology**](lecture/clss09_linear_filter)|<a href=""><img src="icon/video.png" height=22.5></a>|[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1|||
-|C11|[**Edge Detection I**](lecture/clss10_11_edge_detection)|<a href="https://youtu.be/IHwgR196PzM"><img src="icon/video.png" height=22.5></a>|[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1|||
-|C12|[**Edge Detection II**](lecture/clss10_11_edge_detection)|<a href="https://youtu.be/ZjlNvLv-jj0"><img src="icon/video.png" height=22.5></a>|[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|0.5|||
+|C07|[**Digital Image**](lecture/clss07_digital_image)|<a href="https://youtu.be/QuwI0HjQUoI"><img src="icon/video.png" height=22.5></a>|||0.5|||
+|C08|[**Projective Geometry**](lecture/clss08_project_geometry)|<a href="https://youtu.be/yXSRfpaXDYc"><img src="icon/video.png" height=22.5></a> <a href="https://youtu.be/_LOnmx1PqmY"><img src="icon/video.png" height=22.5></a>|[Notebook](notebook/projective_geometry)|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1.5|||
+|C09|[**Linear Filtering**](lecture/clss09_linear_filter)|<a href="https://youtu.be/l2893AKrTAM"><img src="icon/video.png" height=22.5></a>|[Notebook](notebook/linear_filter)|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1|||
+|C10|[**Image Morphology**](lecture/clss09_linear_filter)|<a href=""><img src="icon/video.png" height=22.5></a>|[Notebook](notebook/morphology)|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1|||
+|C11|[**Edge Detection I**](lecture/clss10_11_edge_detection)|<a href="https://youtu.be/IHwgR196PzM"><img src="icon/video.png" height=22.5></a>|[Notebook](notebook/edge_detection1)|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1|||
+|C12|[**Edge Detection II**](lecture/clss10_11_edge_detection)|<a href="https://youtu.be/ZjlNvLv-jj0"><img src="icon/video.png" height=22.5></a>|[Notebook](notebook/edge_detection2)|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|0.5|||
 |C13|[**Feature**](lecture/clss12_feature)|<a href="https://youtu.be/kLmCt43qafU"><img src="icon/video.png" height=22.5></a> <a href="https://youtu.be/BZsU2BvS8_M"><img src="icon/video.png" height=22.5></a>|[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1.5|||
 |C14|[**RANSAC**](lecture/clss13_ransac)|<a href="https://youtu.be/afZg68R4b9M"><img src="icon/video.png" height=22.5></a>|[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1|||
 |C15|[**Camera Model**](lecture/clss14_camera_model)|<a href="https://youtu.be/6_PJj7GrkL8"><img src="icon/video.png" height=22.5></a>|[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|0.5|||
@@ -89,7 +86,7 @@ The study load for each class is marked as the number of regular offline classes
 |C23|[**Neural Radian Field (NeRF)**](lecture/clss20_ml_nn)|<a href=""><img src="icon/video.png" height=22.5></a>|[Notebook]()|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|1.5|||
 
 ## Tasks
-There will be **9 tasks** and they will be posted on this course website weekly or bi-weekly. **The instructor encourage students to work in groups through collaborative learning, but to submit their assignments individually.** The task will have programming components or photography components, where students will use their own camera to capture and process their own images and discuss the results. Students are supposed to complete all tasks and turn their works in by the due date. You can access the best reports for the assignments in previous years from [**w2022**](previous/w2022#tasks), [**w2021**](previous/w2021#tasks), [**w2020**](previous/w2020#tasks), and [**w2019**](previous/w2019#tasks). The problems will be similar to the ones in the previous assignments. However, **the students must not copy and paste the codes or texts in those reports.** Also, some answers in the model report are not correct.     
+There will be **9 tasks** and **1 Quiz** and they will be posted on this course website weekly or bi-weekly. **The instructor encourage students to work in groups through collaborative learning, but to submit their assignments individually.** The task will have programming components or photography components, where students will use their own camera to capture and process their own images and discuss the results. Students are supposed to complete all tasks and turn their works in by the due date. You can access the best reports for the assignments in previous years from [**w2022**](previous/w2022#tasks), [**w2021**](previous/w2021#tasks), [**w2020**](previous/w2020#tasks), and [**w2019**](previous/w2019#tasks). The problems will be similar to the ones in the previous assignments. However, **the students must not copy and paste the codes or texts in those reports.** Also, some answers in the model report are not correct.     
 
 The late submission policy allows students to have a **maximum one-week** delay for **three among the first eight assignments** (You must submit the last assignment on time). **If the number of delays is more than three, the fourth delayed homework will be zero.** Students must pay close attention to deadlines. No further late submission will not be accepted unless accompanied by a valid excuse and some marks might be deducted depending upon the circumstances.  
 
@@ -101,15 +98,14 @@ Please carefully review the submission instruction: [**Submission instruction of
 |:----|:-----|:----|:----|:-----|:-----|
 |Task01|[**Basic Image Professing**]()|5||||
 |Task02|[**Signal Processing I**]()|5||||
-|Task03|[**Signal Processing II**]()|5||||
+|Task03|[**Signal Processing II**]()|10||||
+|Quiz01|**Quiz**|5||||
 |Task04|[**Homography**]()|15||||
 |Task05|[**Image Processing**]()|10||||
 |Task06|[**Feature Matching & RANSAC**]()|15||||
 |Task07|[**Multiview Geometry**]()|15||||
 |Task08|[**Neural Network**]()|15||||
 |Task09|[**Neural Radiance Field**]()|10||||
-
-**Please note that there will be a quiz after Task 03, and 5 marks have been allocated for it.**
 
 
 ## Communication  
@@ -120,7 +116,7 @@ In this course, both the instructor and the students are encouraged to engage in
 [**Discussion forum instruction**](#discussion-forum-instruction)
 
 ## Grading  
-The final grade will be based on the total marks earned during the semester. Each task will be graded on the basis of 100 points and will contribute the final grade. 
+The final grade will be determined by the cumulative marks obtained throughout the semester. Individual grades for each task can be found in the table under [**Tasks**](#tasks). The final grade is the sum of the grades awarded to students for each task.
 
 
 ## Note
