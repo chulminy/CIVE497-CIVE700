@@ -60,12 +60,10 @@ This course is not based on any particular textbook. The instructor will provide
 The study load for each class is marked as the number of regular offline classes, which becomes a total of **24 classes**. The expected time to finish (ETF) in each module is also provided to help students manage their time and keep up with lectures and assignments. The course material will be posted as a PDF.   
 
 <!--
-
 [Notebook]()
 <a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>
 https://openincolab.com/
 -->
-
 
 |Class|Topics (lecture slide)|Lecture|Notebook|Colab|Load|ETF|Homework|
 |:----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -128,6 +126,14 @@ The final grade will be determined by the cumulative marks obtained throughout t
 
 
 ## Note
+
+### Generative Artificial Intelligence
+Generative artificial intelligence (GenAI) trained using large language models (LLM) or other methods to produce text, images, music, or code, like Chat GPT, DALL-E, or GitHub CoPilot, may be used for assignments in this class with proper documentation, citation, and acknowledgement. Recommendations for how to cite GenAI in student work at the University of Waterloo may be found through the Library: https://subjectguides.uwaterloo.ca/chatgpt_generative_ai. **Please be aware that generative AI is known to falsify references to other work and may fabricate facts and inaccurately express ideas.** GenAI generates content based on the input of other human authors and may therefore contain inaccuracies or reflect biases.
+
+In addition, you should be aware that the legal/copyright status of generative AI inputs and outputs is unclear. Exercise caution when using large portions of content from AI sources, especially images. More information is available from the Copyright Advisory Committee: https://uwaterloo.ca/copyright-at-waterloo/teaching/generative-artificial-intelligence
+
+You are accountable for the content and accuracy of all work you submit in this class, including any supported by generative AI.
+
 ### Fair Contingencies for Emergency Remote Teaching
 We are facing unusual and challenging times. The course outline presents the instructor’s intentions for course assessments, their weights, and due dates in Winter 2022. As best as possible, we will keep to the specified assessments, weights, and dates. To provide contingency for unforeseen circumstances, **the instructor reserves the right to modify course topics and/or assessments and/or weight and/or deadlines with due and fair notice to students.** In the event of such challenges, the instructor will work with the Department/Faculty to find reasonable and fair solutions that respect rights and workloads of students, staff, and faculty. 
 
