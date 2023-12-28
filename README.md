@@ -69,26 +69,26 @@ The study load for each class is marked as the number of regular offline classes
 |Class|Topics (lecture slide)|Lecture|Notebook|Colab|Load|ETF|Homework|
 |:----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |C01|[**Introduction**](lecture/clss01_introduction)| | | |0.5| | |
-|C02|[**Data Acquisition**](lecture/clss03_data_aquisition)|<a href="https://youtu.be/PAnChNF7JqU"><img src="icon/video.png" height=22.5></a>| | |0.5| | |
-|C03|[**Signal Processing I**](lecture/clss04_06_signal_processing)|<a href="https://youtu.be/52p-7BWwQ1Y"><img src="icon/video.png" height=22.5></a> <a href="https://youtu.be/-ypxsaf21ak"><img src="icon/video.png" height=22.5></a>| | |0.5| | |
-|C04|[**Signal Processing II**](lecture/clss04_06_signal_processing)|<a href="https://youtu.be/m2x6Wzc8Cf4"><img src="icon/video.png" height=22.5></a>| | |0.5| | |
-|C05|[**Signal Processing III**](lecture/clss04_06_signal_processing)|<a href="https://youtu.be/moytbQU0Gt8"><img src="icon/video.png" height=22.5></a> <a href="https://youtu.be/pBpAV5kH8nI"><img src="icon/video.png" height=22.5></a>| | |0.5| | |
+|C02|[**Data Acquisition**](lecture/clss03_data_aquisition)|<a href="https://youtu.be/PAnChNF7JqU"><img src="icon/button.png" height=22.5></a>| | |0.5| | |
+|C03|[**Signal Processing I**](lecture/clss04_06_signal_processing)|<a href="https://youtu.be/52p-7BWwQ1Y"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/-ypxsaf21ak"><img src="icon/button.png" height=22.5></a>| | |0.5| | |
+|C04|[**Signal Processing II**](lecture/clss04_06_signal_processing)|<a href="https://youtu.be/m2x6Wzc8Cf4"><img src="icon/button.png" height=22.5></a>| | |0.5| | |
+|C05|[**Signal Processing III**](lecture/clss04_06_signal_processing)|<a href="https://youtu.be/moytbQU0Gt8"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/pBpAV5kH8nI"><img src="icon/button.png" height=22.5></a>| | |0.5| | |
 |C06|[**Modal Analysis**]()| | | |0.5| | |
-|C07|[**Digital Image**](lecture/clss07_digital_image)|<a href="https://youtu.be/QuwI0HjQUoI"><img src="icon/video.png" height=22.5></a>| | |0.5| | |
-|C08|[**Projective Geometry**](lecture/clss08_project_geometry)|<a href="https://youtu.be/yXSRfpaXDYc"><img src="icon/video.png" height=22.5></a> <a href="https://youtu.be/_LOnmx1PqmY"><img src="icon/video.png" height=22.5></a>| | |0.5| | |
-|C09|[**Linear Filtering**](lecture/clss09_linear_filter)|<a href="https://youtu.be/l2893AKrTAM"><img src="icon/video.png" height=22.5></a>| | |0.5| | |
+|C07|[**Digital Image**](lecture/clss07_digital_image)|<a href="https://youtu.be/QuwI0HjQUoI"><img src="icon/button.png" height=22.5></a>| | |0.5| | |
+|C08|[**Projective Geometry**](lecture/clss08_project_geometry)|<a href="https://youtu.be/yXSRfpaXDYc"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/_LOnmx1PqmY"><img src="icon/button.png" height=22.5></a>| | |0.5| | |
+|C09|[**Linear Filtering**](lecture/clss09_linear_filter)|<a href="https://youtu.be/l2893AKrTAM"><img src="icon/button.png" height=22.5></a>| | |0.5| | |
 |C10|[**Image Morphology**]()| | | |0.5| | |
-|C11|[**Edge Detection I**](lecture/clss10_11_edge_detection)|<a href="https://youtu.be/IHwgR196PzM"><img src="icon/video.png" height=22.5></a>| | |0.5| | |
-|C12|[**Edge Detection II**](lecture/clss10_11_edge_detection)|<a href="https://youtu.be/ZjlNvLv-jj0"><img src="icon/video.png" height=22.5></a>| | |0.5| | |
-|C13|[**Feature**](lecture/clss12_feature)|<a href="https://youtu.be/kLmCt43qafU"><img src="icon/video.png" height=22.5></a> <a href="https://youtu.be/BZsU2BvS8_M"><img src="icon/video.png" height=22.5></a>| | |0.5| | |
-|C14|[**RANSAC**](lecture/clss13_ransac)|<a href="https://youtu.be/afZg68R4b9M"><img src="icon/video.png" height=22.5></a>| | |0.5| | |
-|C15|[**Camera Model**](lecture/clss14_camera_model)|<a href="https://youtu.be/6_PJj7GrkL8"><img src="icon/video.png" height=22.5></a>| | |0.5| | |
-|C16|[**Two-view Geometry**](lecture/clss15_two_view_geometry)|<a href="https://youtu.be/5_rez7tvg8I"><img src="icon/video.png" height=22.5></a>| | |0.5| | |
-|C17|[**Structure From Motion**](lecture/clss16_SfM)|<a href="https://youtu.be/DFuQd2xw0ek"><img src="icon/video.png" height=22.5></a>| | |0.5| | |
-|C18|[**Intro. of Machine Learning**](lecture/clss17_ml_intro)|<a href="https://youtu.be/PdZ0cbddxfI"><img src="icon/video.png" height=22.5></a> <a href="https://youtu.be/FHZIJgLVXBw"><img src="icon/video.png" height=22.5></a> | | |0.5| | |
-|C19|[**Gradient Descent**](lecture/clss18_ml_gd)|<a href="https://youtu.be/mZVHNXxdAys"><img src="icon/video.png" height=22.5></a>| | |0.5| | |
-|C20|[**Training Linear Model**](lecture/clss19_ml_lg)|<a href="https://youtu.be/31CSIqymnWY"><img src="icon/video.png" height=22.5></a>| | |0.5| | |
-|C21|[**Neural Network**](lecture/clss20_ml_nn)|<a href="https://youtu.be/pZLQywcd2Lw"><img src="icon/video.png" height=22.5></a> <a href="https://youtu.be/lIjEW38i75g"><img src="icon/video.png" height=22.5></a>| | |1.5| | |
+|C11|[**Edge Detection I**](lecture/clss10_11_edge_detection)|<a href="https://youtu.be/IHwgR196PzM"><img src="icon/button.png" height=22.5></a>| | |0.5| | |
+|C12|[**Edge Detection II**](lecture/clss10_11_edge_detection)|<a href="https://youtu.be/ZjlNvLv-jj0"><img src="icon/button.png" height=22.5></a>| | |0.5| | |
+|C13|[**Feature**](lecture/clss12_feature)|<a href="https://youtu.be/kLmCt43qafU"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/BZsU2BvS8_M"><img src="icon/button.png" height=22.5></a>| | |0.5| | |
+|C14|[**RANSAC**](lecture/clss13_ransac)|<a href="https://youtu.be/afZg68R4b9M"><img src="icon/button.png" height=22.5></a>| | |0.5| | |
+|C15|[**Camera Model**](lecture/clss14_camera_model)|<a href="https://youtu.be/6_PJj7GrkL8"><img src="icon/button.png" height=22.5></a>| | |0.5| | |
+|C16|[**Two-view Geometry**](lecture/clss15_two_view_geometry)|<a href="https://youtu.be/5_rez7tvg8I"><img src="icon/button.png" height=22.5></a>| | |0.5| | |
+|C17|[**Structure From Motion**](lecture/clss16_SfM)|<a href="https://youtu.be/DFuQd2xw0ek"><img src="icon/button.png" height=22.5></a>| | |0.5| | |
+|C18|[**Intro. of Machine Learning**](lecture/clss17_ml_intro)|<a href="https://youtu.be/PdZ0cbddxfI"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/FHZIJgLVXBw"><img src="icon/button.png" height=22.5></a> | | |0.5| | |
+|C19|[**Gradient Descent**](lecture/clss18_ml_gd)|<a href="https://youtu.be/mZVHNXxdAys"><img src="icon/button.png" height=22.5></a>| | |0.5| | |
+|C20|[**Training Linear Model**](lecture/clss19_ml_lg)|<a href="https://youtu.be/31CSIqymnWY"><img src="icon/button.png" height=22.5></a>| | |0.5| | |
+|C21|[**Neural Network**](lecture/clss20_ml_nn)|<a href="https://youtu.be/pZLQywcd2Lw"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/lIjEW38i75g"><img src="icon/button.png" height=22.5></a>| | |1.5| | |
 |C22|[**Convolutional Neural Network**]()| | | |1.5| | |
 |C23|[**Neural Radian Field (NeRF)**]()| | | |1.5| | |
 
