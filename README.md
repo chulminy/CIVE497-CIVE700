@@ -69,7 +69,7 @@ The study load for each class is marked as the number of regular offline classes
 |Class|Topics (lecture slide)|Lecture|Notebook|Colab|Load|ETF|Homework|
 |:----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |C01|[**Introduction**](lecture/clss01_introduction)| | | |0.5| | |
-|C02|[**Data Acquisition**](lecture/clss03_data_aquisition)|<a href="https://youtu.be/PAnChNF7JqU"><img src="icon/button.png" height=22.5></a>| | |0.5| | |
+|C02|[**Data Acquisition**](lecture/clss03_data_aquisition)|<a href="https://youtu.be/PAnChNF7JqU"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/data_aquisition/data_aquisition_W22_v2.ipynb)|<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>|0.5| | |
 |C03|[**Signal Processing I**](lecture/clss04_06_signal_processing)|<a href="https://youtu.be/52p-7BWwQ1Y"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/-ypxsaf21ak"><img src="icon/button.png" height=22.5></a>| | |0.5| | |
 |C04|[**Signal Processing II**](lecture/clss04_06_signal_processing)|<a href="https://youtu.be/m2x6Wzc8Cf4"><img src="icon/button.png" height=22.5></a>| | |0.5| | |
 |C05|[**Signal Processing III**](lecture/clss04_06_signal_processing)|<a href="https://youtu.be/moytbQU0Gt8"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/pBpAV5kH8nI"><img src="icon/button.png" height=22.5></a>| | |0.5| | |
