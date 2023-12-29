@@ -1,6 +1,6 @@
 # CIVE497/700: Smart Structure Technology (Winter, 2024)
 
-<span style="background-color: #FFFF00"> The instructor is currently updating this website in preparation for the upcoming course. To view the full syllabus, please refer to the course website from the previous year: [**LINK**](https://github.com/chulminy/CIVE497-CIVE700/tree/master/previous/w2022) </span>
+The instructor is currently updating this website in preparation for the upcoming course. To view the full syllabus, please refer to the course website from the previous year: [**LINK**](https://github.com/chulminy/CIVE497-CIVE700/tree/master/previous/w2022)
 
 ![](intro_img.png)
 
@@ -20,6 +20,13 @@ Last updated: 2024-01-01
 ## Announcement
 * **Jan 01, 2024:** Welcome to a Smart Structure System Course
    
+## Key Dates
+* Family Day, Monday, February 19, 2024
+* Winter Reading Week, Saturday, February 17 – Sunday, February 25, 2024.
+* Good Friday, Friday, March 29, 2024.
+* Pre-examination Study Days: Tuesday, April 9 and Wednesday, April 10, 2024.
+* Final Exam Period: Thursday, April 11 to Thursday, April 25, 2024.
+
 ## Table of Contents
 - [**Course Description**](#course-description)
 - [**Intended Learning Outcomes**](#intended-learning-outcomes)
@@ -72,11 +79,11 @@ https://openincolab.com/
 |C03|[**Signal Processing I**](lecture/clss04_06_signal_processing)|<a href="https://youtu.be/52p-7BWwQ1Y"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/-ypxsaf21ak"><img src="icon/button.png" height=22.5></a>| | |0.5| | |
 |C04|[**Signal Processing II**](lecture/clss04_06_signal_processing)|<a href="https://youtu.be/m2x6Wzc8Cf4"><img src="icon/button.png" height=22.5></a>| | |0.5| | |
 |C05|[**Signal Processing III**](lecture/clss04_06_signal_processing)|<a href="https://youtu.be/moytbQU0Gt8"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/pBpAV5kH8nI"><img src="icon/button.png" height=22.5></a>| | |0.5| | |
-|C06|[**Modal Analysis**]()| | | |0.5| | |
+|C06|Modal Analysis| | | |0.5| | |
 |C07|[**Digital Image**](lecture/clss07_digital_image)|<a href="https://youtu.be/QuwI0HjQUoI"><img src="icon/button.png" height=22.5></a>| | |0.5| | |
 |C08|[**Projective Geometry**](lecture/clss08_project_geometry)|<a href="https://youtu.be/yXSRfpaXDYc"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/_LOnmx1PqmY"><img src="icon/button.png" height=22.5></a>| | |0.5| | |
 |C09|[**Linear Filtering**](lecture/clss09_linear_filter)|<a href="https://youtu.be/l2893AKrTAM"><img src="icon/button.png" height=22.5></a>| | |0.5| | |
-|C10|[**Image Morphology**]()| | | |0.5| | |
+|C10|Image Morphology| | | |0.5| | |
 |C11|[**Edge Detection I**](lecture/clss10_11_edge_detection)|<a href="https://youtu.be/IHwgR196PzM"><img src="icon/button.png" height=22.5></a>| | |0.5| | |
 |C12|[**Edge Detection II**](lecture/clss10_11_edge_detection)|<a href="https://youtu.be/ZjlNvLv-jj0"><img src="icon/button.png" height=22.5></a>| | |0.5| | |
 |C13|[**Feature**](lecture/clss12_feature)|<a href="https://youtu.be/kLmCt43qafU"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/BZsU2BvS8_M"><img src="icon/button.png" height=22.5></a>| | |0.5| | |
@@ -88,8 +95,8 @@ https://openincolab.com/
 |C19|[**Gradient Descent**](lecture/clss18_ml_gd)|<a href="https://youtu.be/mZVHNXxdAys"><img src="icon/button.png" height=22.5></a>| | |0.5| | |
 |C20|[**Training Linear Model**](lecture/clss19_ml_lg)|<a href="https://youtu.be/31CSIqymnWY"><img src="icon/button.png" height=22.5></a>| | |0.5| | |
 |C21|[**Neural Network**](lecture/clss20_ml_nn)|<a href="https://youtu.be/pZLQywcd2Lw"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/lIjEW38i75g"><img src="icon/button.png" height=22.5></a>| | |1.5| | |
-|C22|[**Convolutional Neural Network**]()| | | |1.5| | |
-|C23|[**Neural Radian Field (NeRF)**]()| | | |1.5| | |
+|C22|Convolutional Neural Network| | | |1.5| | |
+|C23|Neural Radian Field (NeRF)()| | | |1.5| | |
 
 ## Tasks
 There will be **9 tasks** and **1 Quiz** and they will be posted on this course website weekly or bi-weekly. **The instructor encourage students to work in groups through collaborative learning, but to submit their assignments individually.** The task will have programming components or photography components, where students will use their own camera to capture and process their own images and discuss the results. Students are supposed to complete all tasks and turn their works in by the due date. You can access the best reports for the assignments in previous years from [**w2022**](previous/w2022#tasks), [**w2021**](previous/w2021#tasks), [**w2020**](previous/w2020#tasks), and [**w2019**](previous/w2019#tasks). The problems will be similar to the ones in the previous assignments. However, **the students must not copy and paste the codes or texts in those reports.** Also, some answers in the model report are not correct.     
@@ -102,16 +109,16 @@ Please carefully review the submission instruction: [**Submission instruction of
 
 |Task|Topics|Mark|Announcement|1st Due|2nd Due|
 |:----|:-----|:----|:----|:-----|:-----|
-|Task01|[**Basic Image Professing**]()|5||||
-|Task02|[**Signal Processing I**]()|5||||
-|Task03|[**Signal Processing II**]()|10||||
+|Task01|**Basic Image Professing**|5||||
+|Task02|**Signal Processing I**|5||||
+|Task03|**Signal Processing II**|10||||
 |Quiz01|**Quiz**|5||||
-|Task04|[**Homography**]()|15||||
-|Task05|[**Image Processing**]()|10||||
-|Task06|[**Feature Matching & RANSAC**]()|15||||
-|Task07|[**Multiview Geometry**]()|15||||
-|Task08|[**Neural Network**]()|15||||
-|Task09|[**Neural Radiance Field**]()|10||||
+|Task04|**Homography**|15||||
+|Task05|**Image Processing**|10||||
+|Task06|**Feature Matching & RANSAC**|15||||
+|Task07|**Multiview Geometry**|15||||
+|Task08|**Neural Network**|15||||
+|Task09|**Neural Radiance Field**|10||||
 
 
 ## Communication  
