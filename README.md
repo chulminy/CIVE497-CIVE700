@@ -108,7 +108,7 @@ Your final grade in this course depends significantly on your assignment scores.
 
 |Task|Topics|Mark|Announcement|1st Deadline|2nd Deadline|
 |:----|:-----|:----|:----|:-----|:-----|
-|Task01|[**Basic Image Processing**](task\task01)|5|Jan 08, 2023|Jan 18, 2023|Jan 25, 2023|
+|Task01|[**Basic Image Processing**](task/task01)|5|Jan 08, 2023|Jan 18, 2023|Jan 25, 2023|
 |Task02|**Signal Processing I**|5||||
 |Task03|**Signal Processing II**|8||||
 |Quiz01|**Quiz**|7||||
