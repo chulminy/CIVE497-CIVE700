@@ -1,7 +1,5 @@
 # CIVE497/700: Smart Structure Technology (Winter, 2024)
 
-The instructor is currently updating this website in preparation for the upcoming course. To view the full syllabus, please refer to the course website from the previous year: [**LINK**](https://github.com/chulminy/CIVE497-CIVE700/tree/master/previous/w2022)
-
 ![](intro_img.png)
 
 **Instructor:** Chul Min Yeum (E2-2313)   
@@ -20,13 +18,6 @@ Last updated: 2024-01-01
 ## Announcement
 * **Jan 01, 2024:** Welcome to a Smart Structure System Course
    
-## Key Dates
-* Family Day, Monday, February 19, 2024
-* Winter Reading Week, Saturday, February 17 – Sunday, February 25, 2024.
-* Good Friday, Friday, March 29, 2024.
-* Pre-examination Study Days: Tuesday, April 9 and Wednesday, April 10, 2024.
-* Final Exam Period: Thursday, April 11 to Thursday, April 25, 2024.
-
 ## Table of Contents
 - [**Course Description**](#course-description)
 - [**Intended Learning Outcomes**](#intended-learning-outcomes)
@@ -56,6 +47,12 @@ By the end of this course, students should be able to
 * Explain the working principle of neural network and neural radiance fiel algorithms
 * Devise innovative smart structure technology for civil engineering applications and research
 
+## Key Dates
+* Family Day, Monday, February 19, 2024
+* Winter Reading Week, Saturday, February 17 – Sunday, February 25, 2024.
+* Good Friday, Friday, March 29, 2024.
+* Pre-examination Study Days: Tuesday, April 9 and Wednesday, April 10, 2024.
+* Final Exam Period: Thursday, April 11 to Thursday, April 25, 2024.
 
 ## Prerequisite
 For this course, students should have a foundational understanding of **linear algebra** and **probability**. Additionally, proficiency in **python programming** is essential. Students are also expected to be familiar with **Markdown** script and **Jupyter Notebook** for submitting homework assignments.
@@ -101,18 +98,20 @@ https://openincolab.com/
 ## Tasks
 There will be **9 tasks** and **1 Quiz** and they will be posted on this course website weekly or bi-weekly. **The instructor encourage students to work in groups through collaborative learning, but to submit their assignments individually.** The task will have programming components or photography components, where students will use their own camera to capture and process their own images and discuss the results. Students are supposed to complete all tasks and turn their works in by the due date. You can access the best reports for the assignments in previous years from [**w2022**](previous/w2022#tasks), [**w2021**](previous/w2021#tasks), [**w2020**](previous/w2020#tasks), and [**w2019**](previous/w2019#tasks). The problems will be similar to the ones in the previous assignments. However, **the students must not copy and paste the codes or texts in those reports.** Also, some answers in the model report are not correct.     
 
-The late submission policy allows students to have a **maximum one-week** delay for **three among the first eight assignments** (You must submit the last assignment on time). **If the number of delays is more than three, the fourth delayed homework will be zero.** Students must pay close attention to deadlines. No further late submission will not be accepted unless accompanied by a valid excuse and some marks might be deducted depending upon the circumstances.  
+Students are required to use **Python** for all assignments. Your source code should be well-organized and thoroughly commented. Submission must include both the source code (along with any data used) and a report. The report should be initially written in **Jupyter notebook** and then converted to PDF format. Each assignment will come with its specific submission guidelines. Please note that your grade will be based on the PDF report. Ensure that it includes all necessary figures and texts before submission.
 
-Your final grade for this course is determined by the scores you achieve on these assignments. Please check the mark in the table below. Therefore, **failing to submit homework can greatly impact your overall grade. If you encounter challenges with the assignments, please reach out to the instructor or TA for assistance.**
+Regarding late submissions, you are allowed a **maximum one-week** extension for up to **three of the first eight assignments**. However, the final assignment must be submitted on time. **Exceeding three late submissions will result in a score of zero for the fourth late assignment.** Be mindful of deadlines; extensions beyond this policy will only be considered under exceptional circumstances and may incur a penalty.
 
-Please carefully review the submission instruction: [**Submission instruction of your work**](#submission-instruction-of-your-work)
+Graded reports will be sent via email. Additionally, sample solutions will be discussed in class, and with their permission, outstanding student reports may be shared on the class webpage.
 
-|Task|Topics|Mark|Announcement|1st Due|2nd Due|
+Your final grade in this course depends significantly on your assignment scores. Therefore, not submitting homework could adversely affect your overall grade. **If you're facing difficulties with the assignments, don't hesitate to contact the instructor or TA for help.**
+
+|Task|Topics|Mark|Announcement|1st Deadline|2nd Deadline|
 |:----|:-----|:----|:----|:-----|:-----|
-|Task01|**Basic Image Professing**|5||||
+|Task01|[**Basic Image Processing**](task\task01)|5|Jan 08, 2023|Jan 18, 2023|Jan 25, 2023|
 |Task02|**Signal Processing I**|5||||
-|Task03|**Signal Processing II**|10||||
-|Quiz01|**Quiz**|5||||
+|Task03|**Signal Processing II**|8||||
+|Quiz01|**Quiz**|7||||
 |Task04|**Homography**|15||||
 |Task05|**Image Processing**|10||||
 |Task06|**Feature Matching & RANSAC**|15||||
@@ -120,20 +119,23 @@ Please carefully review the submission instruction: [**Submission instruction of
 |Task08|**Neural Network**|15||||
 |Task09|**Neural Radiance Field**|10||||
 
+## Grading  
+The final grade will be determined by the cumulative marks obtained throughout the semester. Individual grades for each task can be found in the table under [**Tasks**](#tasks). The final grade is the sum of the grades awarded to students for each task.
 
 ## Communication  
 **All communication will be made through [this course website](https://github.com/chulminy/CIVE497-CIVE700)**, especially for this web page. The instructor will make a note in the ["Announcement"](#announcement) section if there is an update on the web page. Students can configure email notification for by ["watching"](https://help.github.com/articles/watching-and-unwatching-repositories/) this course website or use a version control system for tracking its changes. Thus, **students are responsible for checking the website regularly** for any relevant course information or announcements. 
 
 In this course, both the instructor and the students are encouraged to engage in online discussions to create and facilitate a collaborative learning experience. Students are invited to ask questions and answer them, and share their knowledge and resources. **Please direct your communication to a** [***Discussion***](https://github.com/chulminy/CIVE497-CIVE700/discussions) **board (tab) on this website.** However, if there is a good reason not to use the discussion forum (e.g. personal matters, a question that might reveal your solution of your report, etc.), please directly contact the instructor via email (cmyeum@uwaterloo.ca). Or, you can feel free to send messages the instructor or TA through Microsoft TEAM. You can check out this [website](https://uwaterloo.ca/office-365/about/apps-you-have-access/teams). If possible, the instructor and TA prefer to use the discussion forum because questions and responses can be shared to the other students.    
 
-[**Discussion forum instruction**](#discussion-forum-instruction)
+**Discussion forum instruction**
 
-## Grading  
-The final grade will be determined by the cumulative marks obtained throughout the semester. Individual grades for each task can be found in the table under [**Tasks**](#tasks). The final grade is the sum of the grades awarded to students for each task.
+- Students are allowed to use either their own GitHub account or new account for this class if you want anonymity. They do not have to make a new account using their university email accounts. 
+- Please be respectful of your peers, instructor, and others in your posts and comments.
+- Asking good questions is another way of learning by summarizing and explaining what you know and do not know. Thoughtful questions and answers will help all students in this class. Before posting a question, please ask yourself whether you are truly stuck (meaning that the answers can be readily found on the web) and your question are complete and legible. 
+- In addition, please check if the same question was asked before.   
+- Inappropriate posts and comments are immediately deleted and closed without a notice. 
 
-
-## Note
-
+## Notes
 ### Generative Artificial Intelligence
 Generative artificial intelligence (GenAI) trained using large language models (LLM) or other methods to produce text, images, music, or code, like Chat GPT, DALL-E, or GitHub CoPilot, may be used for assignments in this class with proper documentation, citation, and acknowledgement. Recommendations for how to cite GenAI in student work at the University of Waterloo may be found through the Library: https://subjectguides.uwaterloo.ca/chatgpt_generative_ai. **Please be aware that generative AI is known to falsify references to other work and may fabricate facts and inaccurately express ideas.** GenAI generates content based on the input of other human authors and may therefore contain inaccuracies or reflect biases.
 
@@ -163,21 +165,3 @@ A decision made or penalty imposed under <a href="/secretariat-general-counsel/n
 Text matching software (Turnitin®) may be used to screen assignments in this course. Turnitin® is used to verify that all materials and sources in assignments are documented. Students' submissions are stored on a U.S. server, therefore students must be given an alternative (e.g., scaffolded assignment or annotated bibliography), if they are concerned about their privacy and/or security. Students will be given due notice, in the first week of the term and/or at the time assignment details are provided, about arrangements and alternatives for the use of Turnitin in this course.</p>
 
 <p>It is the responsibility of the student to notify the instructor if they, in the first week of term or at the time assignment details are provided, wish to submit alternate assignment.</p>
-
-## Supplement
-
-### Discussion forum instruction
-- Students are allowed to use either their own GitHub account or new account for this class if you want anonymity. They do not have to make a new account using their university email accounts. 
-- Please be respectful of your peers, instructor, and others in your posts and comments.
-- Asking good questions is another way of learning by summarizing and explaining what you know and do not know. Thoughtful questions and answers will help all students in this class. Before posting a question, please ask yourself whether you are truly stuck (meaning that the answers can be readily found on the web) and your question are complete and legible. 
-- In addition, please check if the same question was asked before.   
-- Inappropriate posts and comments are immediately deleted and closed without a notice. 
-
-### Submission instruction of your work
-Students must **electronically** turn in both their source code (with data) and report. The report must be written with **Markdown script (GFM)** first and is converted to a PDF format. All other formats like docx, or pptx, or in hardcopy **are not permitted**.  However, if you are a Python user, you can use a Jupyter notebook instead of a Markdown. When you submit your homework, you should submit both .IPyhone and .pdf. A submission guideline will be varied depending on the tasks and provided with each task. Remember that the instructor will grade your pdf report, not markdown file or files attached so please carefully review your pdf report to see if all figures are texts are included.  
-
-Students choose either a **MATLAB** or **Python** to complete the tasks. The source code needs to be neatly organized and include detailed comments. The instructor and TA may run your codes in the instructor's Window computer where MATLAB 2020a and Python above 3.4 are installed. All sample codes for tutorials or assignments will be delivered in MATLAB. Thus, working with MATLAB is easier to complete the assignments. 
-
-However, the instructor and TA will also encourage to use Python as well. If the students complete the assignments using Python, extra points might be given depending on the task assignments (up to 5 points). Pillow and OpenCV for computer vision programming and some basic python packages (e.g. Pandas, NumPy, matplotlib, sklearn, etc) will be installed on the TA's computer. It is recommended that any external code library should not be used unless explicitly mentioned in tasks. **The instructor is not able to install every different libraries on the computer.** Note that OS (platform)-dependent functions, scripts or libraries are not permitted. The students must check their report in a Windows computer before its submission.   
-
-Marked reports will be distributed via email, and sample solutions for the tasks may be reviewed in class with the instructor. A couple of the best reports in each task will be posted on the class web page with the consent of the corresponding students. 
