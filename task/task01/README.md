@@ -8,6 +8,9 @@
 
 The primary objective of this assignment is to introduce students to the fundamental concepts of digital image processing, as well as to provide hands-on experience with Python's image processing libraries. Students are expected to thoroughly examine and understand the example codes provided in the `Task01_image_processing.ipynb` file.  Along with the code, there are eight questions to be addressed, each linked to the concepts demonstrated in the examples. It's mandatory for students to submit solutions for all 8 questions, demonstrating their grasp of the material.
 
+Jupyter notebook: [Task01_image_processing_ChulminYeum.ipynb](Task01_image_processing_ChulminYeum.ipynb)
+
+
 ## Submission Guidelines
 * Students must submit both a Jupyter notebook file and its PDF conversion.
 * The primary grading will be based on the PDF file, but the notebook file may be executed if necessary.
