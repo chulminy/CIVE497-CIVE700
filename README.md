@@ -44,7 +44,7 @@ By the end of this course, students should be able to
 * Interpret the concept of image processing techniques through signal processing theory 
 * Develop Python programs to process and analyze 2D and 3D optical data for structural assessment
 * Demonstrate how to implement machine learning algorithms in solving real-world problems 
-* Explain the working principle of neural network and neural radiance fiel algorithms
+* Explain the working principle of neural network and neural radiance field algorithms
 * Devise innovative smart structure technology for civil engineering applications and research
 
 ## Key Dates
@@ -71,27 +71,27 @@ https://openincolab.com/
 
 |Class|Topics (lecture slide)|Lecture|Notebook|Colab|Load|ETF |Task|
 |:----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|C01|[**Introduction**](lecture/clss01_introduction)| | | |1|Jan 08|Task01|
-|C02|[**Data Acquisition**](lecture/clss03_data_aquisition)|<a href="https://youtu.be/PAnChNF7JqU"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/data_aquisition/data_aquisition_W22_v2.ipynb)|<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/data_aquisition/data_aquisition_W22_v2.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|1|Jan 10| |
-|C03|[**Signal Processing I**](lecture/clss04_06_signal_processing)|<a href="https://youtu.be/52p-7BWwQ1Y"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/-ypxsaf21ak"><img src="icon/button.png" height=22.5></a>| | |1|Jan 15 |Task02|
-|C04|[**Signal Processing II**](lecture/clss04_06_signal_processing)|<a href="https://youtu.be/m2x6Wzc8Cf4"><img src="icon/button.png" height=22.5></a>| | |1|Jan 17| |
-|C05|[**Signal Processing III**](lecture/clss04_06_signal_processing)|<a href="https://youtu.be/moytbQU0Gt8"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/pBpAV5kH8nI"><img src="icon/button.png" height=22.5></a>| | |1|Jan 22 | |
+|C01|[**Introduction**](lecture/C01_Introduction)| | | |1|Jan 08|Task01|
+|C02|**Data Acquisition**|<a href="https://youtu.be/PAnChNF7JqU"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/data_aquisition/data_aquisition_W22_v2.ipynb)|<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/data_aquisition/data_aquisition_W22_v2.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|1|Jan 10| |
+|C03|**Signal Processing I**|<a href="https://youtu.be/52p-7BWwQ1Y"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/-ypxsaf21ak"><img src="icon/button.png" height=22.5></a>| | |1|Jan 15 |Task02|
+|C04|**Signal Processing II**|<a href="https://youtu.be/m2x6Wzc8Cf4"><img src="icon/button.png" height=22.5></a>| | |1|Jan 17| |
+|C05|**Signal Processing III**|<a href="https://youtu.be/moytbQU0Gt8"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/pBpAV5kH8nI"><img src="icon/button.png" height=22.5></a>| | |1|Jan 22 | |
 |C06|Modal Analysis| | | |1|Jan 24 |Task03|
-|C07|[**Digital Image**](lecture/clss07_digital_image)|<a href="https://youtu.be/QuwI0HjQUoI"><img src="icon/button.png" height=22.5></a>| | |0.5|Jan 29| |
-|C08|[**Projective Geometry**](lecture/clss08_project_geometry)|<a href="https://youtu.be/yXSRfpaXDYc"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/_LOnmx1PqmY"><img src="icon/button.png" height=22.5></a>| | |2|Feb 05| |
-|C09|[**Linear Filtering**](lecture/clss09_linear_filter)|<a href="https://youtu.be/l2893AKrTAM"><img src="icon/button.png" height=22.5></a>| | |1|Feb 07 |Task04|
+|C07|**Digital Image**|<a href="https://youtu.be/QuwI0HjQUoI"><img src="icon/button.png" height=22.5></a>| | |0.5|Jan 29| |
+|C08|**Projective Geometry**|<a href="https://youtu.be/yXSRfpaXDYc"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/_LOnmx1PqmY"><img src="icon/button.png" height=22.5></a>| | |2|Feb 05| |
+|C09|**Linear Filtering**|<a href="https://youtu.be/l2893AKrTAM"><img src="icon/button.png" height=22.5></a>| | |1|Feb 07 |Task04|
 |C10|Image Morphology| | | |1|Feb 12 | |
-|C11|[**Edge Detection I**](lecture/clss10_11_edge_detection)|<a href="https://youtu.be/IHwgR196PzM"><img src="icon/button.png" height=22.5></a>| | |1|Feb 14| |
-|C12|[**Edge Detection II**](lecture/clss10_11_edge_detection)|<a href="https://youtu.be/ZjlNvLv-jj0"><img src="icon/button.png" height=22.5></a>| | |1|Feb 21|Task05 |
-|C13|[**Feature**](lecture/clss12_feature)|<a href="https://youtu.be/kLmCt43qafU"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/BZsU2BvS8_M"><img src="icon/button.png" height=22.5></a>| | |2|Feb 28| |
-|C14|[**RANSAC**](lecture/clss13_ransac)|<a href="https://youtu.be/afZg68R4b9M"><img src="icon/button.png" height=22.5></a>| | |1|Mar 04|Task06 |
-|C15|[**Camera Model**](lecture/clss14_camera_model)|<a href="https://youtu.be/6_PJj7GrkL8"><img src="icon/button.png" height=22.5></a>| | |0.5|Mar 04| |
-|C16|[**Two-view Geometry**](lecture/clss15_two_view_geometry)|<a href="https://youtu.be/5_rez7tvg8I"><img src="icon/button.png" height=22.5></a>| | |1|Mar 06| |
-|C17|[**Structure From Motion**](lecture/clss16_SfM)|<a href="https://youtu.be/DFuQd2xw0ek"><img src="icon/button.png" height=22.5></a>| | |0.5|Mar 11|Task07|
-|C18|[**Intro. of Machine Learning**](lecture/clss17_ml_intro)|<a href="https://youtu.be/PdZ0cbddxfI"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/FHZIJgLVXBw"><img src="icon/button.png" height=22.5></a> | | |0.5|Mar 11 | |
-|C19|[**Gradient Descent**](lecture/clss18_ml_gd)|<a href="https://youtu.be/mZVHNXxdAys"><img src="icon/button.png" height=22.5></a>| | |0.5|Mar 13 | |
-|C20|[**Training Linear Model**](lecture/clss19_ml_lg)|<a href="https://youtu.be/31CSIqymnWY"><img src="icon/button.png" height=22.5></a>| | |0.5|Mar 13| |
-|C21|[**Neural Network**](lecture/clss20_ml_nn)|<a href="https://youtu.be/pZLQywcd2Lw"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/lIjEW38i75g"><img src="icon/button.png" height=22.5></a>| | |1.5|Mar 20|Task08|
+|C11|**Edge Detection I**|<a href="https://youtu.be/IHwgR196PzM"><img src="icon/button.png" height=22.5></a>| | |1|Feb 14| |
+|C12|**Edge Detection II**|<a href="https://youtu.be/ZjlNvLv-jj0"><img src="icon/button.png" height=22.5></a>| | |1|Feb 21|Task05 |
+|C13|**Feature**|<a href="https://youtu.be/kLmCt43qafU"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/BZsU2BvS8_M"><img src="icon/button.png" height=22.5></a>| | |2|Feb 28| |
+|C14|**RANSAC**|<a href="https://youtu.be/afZg68R4b9M"><img src="icon/button.png" height=22.5></a>| | |1|Mar 04|Task06 |
+|C15|**Camera Model**|<a href="https://youtu.be/6_PJj7GrkL8"><img src="icon/button.png" height=22.5></a>| | |0.5|Mar 04| |
+|C16|**Two-view Geometry**|<a href="https://youtu.be/5_rez7tvg8I"><img src="icon/button.png" height=22.5></a>| | |1|Mar 06| |
+|C17|**Structure From Motion**|<a href="https://youtu.be/DFuQd2xw0ek"><img src="icon/button.png" height=22.5></a>| | |0.5|Mar 11|Task07|
+|C18|**Intro. of Machine Learning**|<a href="https://youtu.be/PdZ0cbddxfI"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/FHZIJgLVXBw"><img src="icon/button.png" height=22.5></a> | | |0.5|Mar 11 | |
+|C19|**Gradient Descent**|<a href="https://youtu.be/mZVHNXxdAys"><img src="icon/button.png" height=22.5></a>| | |0.5|Mar 13 | |
+|C20|**Training Linear Model**|<a href="https://youtu.be/31CSIqymnWY"><img src="icon/button.png" height=22.5></a>| | |0.5|Mar 13| |
+|C21|**Neural Network**|<a href="https://youtu.be/pZLQywcd2Lw"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/lIjEW38i75g"><img src="icon/button.png" height=22.5></a>| | |1.5|Mar 20|Task08|
 |C22|Convolutional Neural Network| | | |1.5|Mar 25| |
 |C23|Neural Radian Field (NeRF)| | | |2|Apr 02|Task09 |
 
