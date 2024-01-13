@@ -1,13 +1,13 @@
 # CIVE497/700: Smart Structure Technology (Winter, 2024)
 
-![](intro_img.png)
+![](icon/intro_img.png)
 
 **Instructor:** Chul Min Yeum (E2-2313)   
 **Class:** Mon and Wed, 08:30AM to 9:50AM at E2-2350  
 **Email:** cmyeum@uwaterloo.ca    
 **Office Hours:** Mon and Wed 10 to 11AM at E2-2313 (or after each class)  
 
-Last updated: 2024-01-01  
+Last updated: 2024-01-08  
 
 **Previous offerings of this course**
 - [**Smart Structure Technology (Winter, 2022)**](previous/w2022)  
@@ -70,7 +70,7 @@ The study load for each class is marked as the number of regular offline classes
 https://openincolab.com/
 -->
 
-|Class|Topics (lecture slide)|Lecture|Notebook|Colab|Load|ETF |Task|
+|Class|Topics (lecture slide)|Lecture|Notebook|Colab|Load|ETF|Task|
 |:----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |C01|[**Introduction**](lecture/C01_Introduction)| | | |1|Jan 08|Task01|
 |C02|[**Data Acquisition**](lecture/C02_data_aquisition/)|<a href="https://youtu.be/PAnChNF7JqU"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/data_aquisition/data_aquisition_W22_v2.ipynb)|<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/data_aquisition/data_aquisition_W22_v2.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|1|Jan 10| |
