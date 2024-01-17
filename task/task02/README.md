@@ -1,8 +1,8 @@
 # Task02: Signal Processing I
 
 **Announcement**: January 17, 2023        
-**First Submission Deadline**: January 27, 2023 before 11:59pm  
-**Second Submission Deadline**: February 03, 2023 before 11:59pm       
+**First Submission Deadline**: January 29, 2023 before 11:59pm  
+**Second Submission Deadline**: February 05, 2023 before 11:59pm       
 
 ## Objective
 The primary objective of this assignment is to grasp the essentials of data acquisition systems and signal processing techniques. It's crucial to thoroughly review all the provided tutorials to effectively tackle the associated challenges. Make sure to address each sub-question within every problem, and importantly, elaborate on your reasoning. You may also find it necessary to develop your own code in order to resolve these queries.
