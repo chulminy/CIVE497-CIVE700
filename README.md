@@ -18,6 +18,7 @@ Last updated: 2024-01-08
 ## Announcement
 * **Jan 01, 2024:** Welcome to a Smart Structure System Course
 * **Jan 08, 2024:** [**Task 01**](task/task01) has been posted. 
+* **Jan 17, 2024:** [**Task 02**](task/task02) has been posted. 
    
 ## Table of Contents
 - [**Course Description**](#course-description)
