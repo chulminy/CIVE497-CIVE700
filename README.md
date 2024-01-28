@@ -16,11 +16,11 @@ Last updated: 2024-01-08
 - [**Smart Structure Technology (Winter, 2019)**](previous/w2019)  
 
 ## Announcement
-* **Jan 01, 2024:** Welcome to a Smart Structure System Course
-* **Jan 08, 2024:** [**Task 01**](task/task01) has been posted. 
 * **Jan 17, 2024:** [**Task 02**](task/task02) has been posted.
 * **Jan 23, 2024:** I have updated the "Signal Processing III" lecture note after fixing some errors. Please check out the note.     
-   
+* **Jan 26, 2024:** [**Task 03**](task/task03) has been posted.
+
+
 ## Table of Contents
 - [**Course Description**](#course-description)
 - [**Intended Learning Outcomes**](#intended-learning-outcomes)
@@ -79,8 +79,8 @@ https://openincolab.com/
 |C03|[**Signal Processing I**](lecture/C03_05_signal_processing)|<a href="https://youtu.be/52p-7BWwQ1Y"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/-ypxsaf21ak"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/signal_processing1/signal_processing_1.ipynb) |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/signal_processing1/signal_processing_1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |1|Jan 15 |Task02|
 |C04|[**Signal Processing II**](lecture/C03_05_signal_processing)|<a href="https://youtu.be/m2x6Wzc8Cf4"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/signal_processing2/signal_processing_2.ipynb) |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/signal_processing2/signal_processing_2.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |1|Jan 17| |
 |C05|[**Signal Processing III**](lecture/C03_05_signal_processing)|<a href="https://youtu.be/moytbQU0Gt8"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/pBpAV5kH8nI"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/signal_processing3/signal_processing_3.ipynb) |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/signal_processing3/signal_processing_3.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |1|Jan 22 | |
-|C06|Modal Analysis| | | |1|Jan 24 |Task03|
-|C07|**Digital Image**|<a href="https://youtu.be/QuwI0HjQUoI"><img src="icon/button.png" height=22.5></a>| | |0.5|Jan 29| |
+|C06|[**Modal Analysis**](lecture/C06_modal_analysis)| | | |1|Jan 24 |Task03|
+|C07|[**Digital Image**](lecture/C07_digital_image)|<a href="https://youtu.be/QuwI0HjQUoI"><img src="icon/button.png" height=22.5></a>| | |0.5|Jan 29| |
 |C08|**Projective Geometry**|<a href="https://youtu.be/yXSRfpaXDYc"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/_LOnmx1PqmY"><img src="icon/button.png" height=22.5></a>| | |2|Feb 05| |
 |C09|**Linear Filtering**|<a href="https://youtu.be/l2893AKrTAM"><img src="icon/button.png" height=22.5></a>| | |1|Feb 07 |Task04|
 |C10|Image Morphology| | | |1|Feb 12 | |
@@ -113,8 +113,8 @@ Your final grade in this course depends significantly on your assignment scores.
 |:----|:-----|:----|:----|:-----|:-----|
 |Task01|[**Basic Image Processing**](task/task01)|5|Jan 08, 2024|Jan 18, 2024|Jan 25, 2024|
 |Task02|[**Signal Processing I**](task/task02)|5|Jan 17, 2024|Jan 29, 2024|Feb 05, 2024|
-|Task03|**Signal Processing II**|8|Jan 24, 2024|Feb 05, 2024|Feb 12, 2024|
-|Quiz01|**Quiz**|7|Feb 05, 2024|Feb 05, 2024|Feb 05, 2024|
+|Task03|[**Signal Processing II**](task/task03)|8|Jan 26, 2024|Feb 07, 2024|Feb 14, 2024|
+|Quiz01|**Quiz**|7|Feb 12, 2024|Feb 12, 2024|Feb 012, 2024|
 |Task04|**Homography**|15||||
 |Task05|**Image Processing**|10||||
 |Task06|**Feature Matching & RANSAC**|15||||

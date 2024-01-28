@@ -1,8 +1,8 @@
 # Task02: Signal Processing II
 
-**Announcement**: January 20, 2023        
-**First Submission Deadline**: January 30, 2023 before 11:59pm  
-**Second Submission Deadline**: February 06, 2023 before 11:59pm       
+**Announcement**: January 26, 2023        
+**First Submission Deadline**: February 07, 2023 before 11:59pm  
+**Second Submission Deadline**: February 14, 2023 before 11:59pm       
 
 ## Objective
 
