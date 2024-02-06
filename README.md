@@ -19,6 +19,7 @@ Last updated: 2024-01-08
 * **Jan 17, 2024:** [**Task 02**](task/task02) has been posted.
 * **Jan 23, 2024:** I have updated the "Signal Processing III" lecture note after fixing some errors. Please check out the note.     
 * **Jan 26, 2024:** [**Task 03**](task/task03) has been posted.
+* **Feb 6, 2024:** The scope of Quiz 1 includes C02-C05.  
 
 
 ## Table of Contents
@@ -81,8 +82,8 @@ https://openincolab.com/
 |C05|[**Signal Processing III**](lecture/C03_05_signal_processing)|<a href="https://youtu.be/moytbQU0Gt8"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/pBpAV5kH8nI"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/signal_processing3/signal_processing_3.ipynb) |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/signal_processing3/signal_processing_3.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |1|Jan 22 | |
 |C06|[**Modal Analysis**](lecture/C06_Modal_Analysis)| | | |1|Jan 24 |Task03|
 |C07|[**Digital Image**](lecture/C07_digital_image)|<a href="https://youtu.be/QuwI0HjQUoI"><img src="icon/button.png" height=22.5></a>| | |0.5|Jan 29| |
-|C08|[**Projective Geometry**](lecture/C08_project_geometry)|<a href="https://youtu.be/yXSRfpaXDYc"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/_LOnmx1PqmY"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/projective_geometry/projective_geometry_v1.ipynb)  |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/projective_geometry/projective_geometry_v1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |2|Feb 05| |
-|C09|**Linear Filtering**|<a href="https://youtu.be/l2893AKrTAM"><img src="icon/button.png" height=22.5></a>| | |1|Feb 07 |Task04|
+|C08|[**Projective Geometry**](lecture/C08_project_geometry)|<a href="https://youtu.be/yXSRfpaXDYc"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/_LOnmx1PqmY"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/projective_geometry/projective_geometry_v1.ipynb) |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/projective_geometry/projective_geometry_v1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |2|Feb 05| |
+|C09|[**Linear Filtering**](lecutre/C09_linear_filter)|<a href="https://youtu.be/l2893AKrTAM"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/linear_filter/linear_filter_v1.ipynb) |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/linear_filter/linear_filter_v1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |1|Feb 07 |Task04|
 |C10|Image Morphology| | | |1|Feb 12 | |
 |C11|**Edge Detection I**|<a href="https://youtu.be/IHwgR196PzM"><img src="icon/button.png" height=22.5></a>| | |1|Feb 14| |
 |C12|**Edge Detection II**|<a href="https://youtu.be/ZjlNvLv-jj0"><img src="icon/button.png" height=22.5></a>| | |1|Feb 21|Task05 |
