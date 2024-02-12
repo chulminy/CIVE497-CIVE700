@@ -7,7 +7,7 @@
 **Email:** cmyeum@uwaterloo.ca    
 **Office Hours:** Mon and Wed 10 to 11AM at E2-2313 (or after each class)  
 
-Last updated: 2024-01-08  
+Last updated: 2024-02-08  
 
 **Previous offerings of this course**
 - [**Smart Structure Technology (Winter, 2022)**](previous/w2022)  
@@ -84,21 +84,21 @@ https://openincolab.com/
 |C06|[**Modal Analysis**](lecture/C06_Modal_Analysis)| | | |1|Jan 24 |Task03|
 |C07|[**Digital Image**](lecture/C07_digital_image)|<a href="https://youtu.be/QuwI0HjQUoI"><img src="icon/button.png" height=22.5></a>| | |0.5|Jan 29| |
 |C08|[**Projective Geometry**](lecture/C08_project_geometry)|<a href="https://youtu.be/yXSRfpaXDYc"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/_LOnmx1PqmY"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/projective_geometry/projective_geometry_v1.ipynb) |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/projective_geometry/projective_geometry_v1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |2|Feb 05| |
-|C09|[**Linear Filtering**](lecture/C09_linear_filter)|<a href="https://youtu.be/l2893AKrTAM"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/linear_filter/linear_filter_v1.ipynb) |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/linear_filter/linear_filter_v1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |1|Feb 07 |Task04|
-|C10|Image Morphology| | | |1|Feb 12 | |
-|C11|**Edge Detection I**|<a href="https://youtu.be/IHwgR196PzM"><img src="icon/button.png" height=22.5></a>| | |1|Feb 14| |
-|C12|**Edge Detection II**|<a href="https://youtu.be/ZjlNvLv-jj0"><img src="icon/button.png" height=22.5></a>| | |1|Feb 21|Task05 |
-|C13|**Feature**|<a href="https://youtu.be/kLmCt43qafU"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/BZsU2BvS8_M"><img src="icon/button.png" height=22.5></a>| | |2|Feb 28| |
-|C14|**RANSAC**|<a href="https://youtu.be/afZg68R4b9M"><img src="icon/button.png" height=22.5></a>| | |1|Mar 04|Task06 |
-|C15|**Camera Model**|<a href="https://youtu.be/6_PJj7GrkL8"><img src="icon/button.png" height=22.5></a>| | |0.5|Mar 04| |
-|C16|**Two-view Geometry**|<a href="https://youtu.be/5_rez7tvg8I"><img src="icon/button.png" height=22.5></a>| | |1|Mar 06| |
-|C17|**Structure From Motion**|<a href="https://youtu.be/DFuQd2xw0ek"><img src="icon/button.png" height=22.5></a>| | |0.5|Mar 11|Task07|
-|C18|**Intro. of Machine Learning**|<a href="https://youtu.be/PdZ0cbddxfI"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/FHZIJgLVXBw"><img src="icon/button.png" height=22.5></a> | | |0.5|Mar 11 | |
-|C19|**Gradient Descent**|<a href="https://youtu.be/mZVHNXxdAys"><img src="icon/button.png" height=22.5></a>| | |0.5|Mar 13 | |
-|C20|**Training Linear Model**|<a href="https://youtu.be/31CSIqymnWY"><img src="icon/button.png" height=22.5></a>| | |0.5|Mar 13| |
-|C21|**Neural Network**|<a href="https://youtu.be/pZLQywcd2Lw"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/lIjEW38i75g"><img src="icon/button.png" height=22.5></a>| | |1.5|Mar 20|Task08|
-|C22|Convolutional Neural Network| | | |1.5|Mar 25| |
-|C23|Neural Radian Field (NeRF)| | | |2|Apr 02|Task09 |
+|C09|[**Linear Filtering**](lecture/C09_linear_filter)|<a href="https://youtu.be/l2893AKrTAM"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/linear_filter/linear_filter_v1.ipynb) |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/linear_filter/linear_filter_v1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |1|Feb 12 |Task04|
+|C10|**Edge Detection I**|<a href="https://youtu.be/IHwgR196PzM"><img src="icon/button.png" height=22.5></a>| | |1|Feb 14| |
+|C11|**Edge Detection II**|<a href="https://youtu.be/ZjlNvLv-jj0"><img src="icon/button.png" height=22.5></a>| | |1|Feb 26|Task05 |
+|C12|Image Morphology| | | |0.5|Feb 26| |
+|C13|**Feature**|<a href="https://youtu.be/kLmCt43qafU"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/BZsU2BvS8_M"><img src="icon/button.png" height=22.5></a>| | |2|Mar 04| |
+|C14|**RANSAC**|<a href="https://youtu.be/afZg68R4b9M"><img src="icon/button.png" height=22.5></a>| | |1|Mar 06|Task06 |
+|C15|**Camera Model**|<a href="https://youtu.be/6_PJj7GrkL8"><img src="icon/button.png" height=22.5></a>| | |0.5|Mar 11| |
+|C16|**Two-view Geometry**|<a href="https://youtu.be/5_rez7tvg8I"><img src="icon/button.png" height=22.5></a>| | |1|Mar 13| |
+|C17|**Structure From Motion**|<a href="https://youtu.be/DFuQd2xw0ek"><img src="icon/button.png" height=22.5></a>| | |0.5|Mar 13|Task07|
+|C18|**Intro. of Machine Learning**|<a href="https://youtu.be/PdZ0cbddxfI"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/FHZIJgLVXBw"><img src="icon/button.png" height=22.5></a> | | |0.5|Mar 18 | |
+|C19|**Gradient Descent**|<a href="https://youtu.be/mZVHNXxdAys"><img src="icon/button.png" height=22.5></a>| | |0.5|Mar 18 | |
+|C20|**Training Linear Model**|<a href="https://youtu.be/31CSIqymnWY"><img src="icon/button.png" height=22.5></a>| | |0.5|Mar 20| |
+|C21|**Neural Network**|<a href="https://youtu.be/pZLQywcd2Lw"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/lIjEW38i75g"><img src="icon/button.png" height=22.5></a>| | |1.5|Mar 25|Task08|
+|C22|Convolutional Neural Network| | | |1.5|Mar 27| |
+|C23|Neural Radian Field (NeRF)| | | |2|Apr 03|Task09 |
 
 ## Tasks
 There will be **9 tasks** and **1 Quiz** and they will be posted on this course website weekly or bi-weekly. **The instructor encourage students to work in groups through collaborative learning, but to submit their assignments individually.** The task will have programming components or photography components, where students will use their own camera to capture and process their own images and discuss the results. Students are supposed to complete all tasks and turn their works in by the due date. You can access the best reports for the assignments in previous years from [**w2022**](previous/w2022#tasks), [**w2021**](previous/w2021#tasks), [**w2020**](previous/w2020#tasks), and [**w2019**](previous/w2019#tasks). The problems will be similar to the ones in the previous assignments. However, **the students must not copy and paste the codes or texts in those reports.** Also, some answers in the model report are not correct.     
@@ -118,7 +118,7 @@ Your final grade in this course depends significantly on your assignment scores.
 |Task03|[**Signal Processing II**](task/task03)|8|Jan 26, 2024|Feb 07, 2024|Feb 14, 2024|
 |Quiz01|**Quiz**|7|Feb 12, 2024|Feb 12, 2024|Feb 012, 2024|
 |Task04|[**Homography**](task/task04)|15|Feb 08, 2024|Feb 20, 2024|Feb 27, 2024|
-|Task05|**Image Processing**|10||||
+|Task05|**Image Processing**|10|Feb 26, 2024|Mar 06, 2024|Mar 13, 2024|
 |Task06|**Feature Matching & RANSAC**|15||||
 |Task07|**Multiview Geometry**|15||||
 |Task08|**Neural Network**|15||||
