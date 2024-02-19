@@ -16,11 +16,10 @@ Last updated: 2024-02-08
 - [**Smart Structure Technology (Winter, 2019)**](previous/w2019)  
 
 ## Announcement
-* **Jan 17, 2024:** [**Task 02**](task/task02) has been posted.
-* **Jan 23, 2024:** I have updated the "Signal Processing III" lecture note after fixing some errors. Please check out the note.     
 * **Jan 26, 2024:** [**Task 03**](task/task03) has been posted.
 * **Feb 6, 2024:** The scope of Quiz 1 includes C02-C05.  
 * **Feb 8, 2024:** [**Task 04**](task/task04) has been posted.
+* **Feb 19, 2024:** The deadline for Task 04 has been extened to Feb 26 but, there is no 2nd deadline. 
 
 
 ## Table of Contents
@@ -117,7 +116,7 @@ Your final grade in this course depends significantly on your assignment scores.
 |Task02|[**Signal Processing I**](task/task02)|5|Jan 17, 2024|Jan 29, 2024|Feb 05, 2024|
 |Task03|[**Signal Processing II**](task/task03)|8|Jan 26, 2024|Feb 07, 2024|Feb 14, 2024|
 |Quiz01|**Quiz**|7|Feb 12, 2024|Feb 12, 2024|Feb 012, 2024|
-|Task04|[**Homography**](task/task04)|15|Feb 08, 2024|Feb 20, 2024|Feb 27, 2024|
+|Task04|[**Homography**](task/task04)|15|Feb 08, 2024|Feb 26, 2024|Feb 26, 2024|
 |Task05|**Image Processing**|10|Feb 26, 2024|Mar 06, 2024|Mar 13, 2024|
 |Task06|**Feature Matching & RANSAC**|15||||
 |Task07|**Multiview Geometry**|15||||
