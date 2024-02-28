@@ -16,10 +16,6 @@ Last updated: 2024-02-08
 - [**Smart Structure Technology (Winter, 2019)**](previous/w2019)  
 
 ## Announcement
-* **Jan 26, 2024:** [**Task 03**](task/task03) has been posted.
-* **Feb 6, 2024:** The scope of Quiz 1 includes C02-C05.  
-* **Feb 8, 2024:** [**Task 04**](task/task04) has been posted.
-* **Feb 19, 2024:** The deadline for Task 04 has been extened to Feb 26 but, there is no 2nd deadline. 
 
 
 ## Table of Contents
@@ -84,8 +80,8 @@ https://openincolab.com/
 |C07|[**Digital Image**](lecture/C07_digital_image)|<a href="https://youtu.be/QuwI0HjQUoI"><img src="icon/button.png" height=22.5></a>| | |0.5|Jan 29| |
 |C08|[**Projective Geometry**](lecture/C08_project_geometry)|<a href="https://youtu.be/yXSRfpaXDYc"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/_LOnmx1PqmY"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/projective_geometry/projective_geometry_v1.ipynb) |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/projective_geometry/projective_geometry_v1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |2|Feb 05| |
 |C09|[**Linear Filtering**](lecture/C09_linear_filter)|<a href="https://youtu.be/l2893AKrTAM"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/linear_filter/linear_filter_v1.ipynb) |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/linear_filter/linear_filter_v1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |1|Feb 12 |Task04|
-|C10|**Edge Detection I**|<a href="https://youtu.be/IHwgR196PzM"><img src="icon/button.png" height=22.5></a>| | |1|Feb 14| |
-|C11|**Edge Detection II**|<a href="https://youtu.be/ZjlNvLv-jj0"><img src="icon/button.png" height=22.5></a>| | |1|Feb 26|Task05 |
+|C10|[**Edge Detection I**](lecture/C10_edge_detection)|<a href="https://youtu.be/IHwgR196PzM"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/edge_detection2/edge_detection1.ipynb)  |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/edge_detection1/edge_detection1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  |1|Feb 14| |
+|C11|[**Edge Detection II**](lecture/C10_edge_detection)|<a href="https://youtu.be/ZjlNvLv-jj0"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/edge_detection2/edge_detection2.ipynb)  |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/edge_detection2/edge_detection2.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  |1|Feb 26|Task05 |
 |C12|Image Morphology| | | |0.5|Feb 26| |
 |C13|**Feature**|<a href="https://youtu.be/kLmCt43qafU"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/BZsU2BvS8_M"><img src="icon/button.png" height=22.5></a>| | |2|Mar 04| |
 |C14|**RANSAC**|<a href="https://youtu.be/afZg68R4b9M"><img src="icon/button.png" height=22.5></a>| | |1|Mar 06|Task06 |
