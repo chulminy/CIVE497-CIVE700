@@ -87,12 +87,12 @@ https://openincolab.com/
 |C14|**Camera Model**|<a href="https://youtu.be/6_PJj7GrkL8"><img src="icon/button.png" height=22.5></a>| | |0.5|Mar 11| |
 |C15|**Two-view Geometry**|<a href="https://youtu.be/5_rez7tvg8I"><img src="icon/button.png" height=22.5></a>| | |1|Mar 13| |
 |C16|**Structure From Motion**|<a href="https://youtu.be/DFuQd2xw0ek"><img src="icon/button.png" height=22.5></a>| | |0.5|Mar 13|Task07|
-|C17|**Intro. of Machine Learning**|<a href="https://youtu.be/PdZ0cbddxfI"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/FHZIJgLVXBw"><img src="icon/button.png" height=22.5></a> | | |0.5|Mar 18 | |
+|C17|**Intro. of Mach. Learning**|<a href="https://youtu.be/PdZ0cbddxfI"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/FHZIJgLVXBw"><img src="icon/button.png" height=22.5></a> | | |0.5|Mar 18 | |
 |C18|**Gradient Descent**|<a href="https://youtu.be/mZVHNXxdAys"><img src="icon/button.png" height=22.5></a>| | |0.5|Mar 18 | |
 |C19|**Training Linear Model**|<a href="https://youtu.be/31CSIqymnWY"><img src="icon/button.png" height=22.5></a>| | |0.5|Mar 20| |
 |C20|**Neural Network**|<a href="https://youtu.be/pZLQywcd2Lw"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/lIjEW38i75g"><img src="icon/button.png" height=22.5></a>| | |1.5|Mar 25|Task08|
 |C21|Convolutional Neural Network| | | |1.5|Mar 27| |
-|C22|Neural Radian Field (NeRF)| | | |2|Apr 03|Task09 |
+|C22|Neural Radian Field| | | |2|Apr 03|Task09 |
 
 ## Tasks
 There will be **9 tasks** and **1 Quiz** and they will be posted on this course website weekly or bi-weekly. **The instructor encourage students to work in groups through collaborative learning, but to submit their assignments individually.** The task will have programming components or photography components, where students will use their own camera to capture and process their own images and discuss the results. Students are supposed to complete all tasks and turn their works in by the due date. You can access the best reports for the assignments in previous years from [**w2022**](previous/w2022#tasks), [**w2021**](previous/w2021#tasks), [**w2020**](previous/w2020#tasks), and [**w2019**](previous/w2019#tasks). The problems will be similar to the ones in the previous assignments. However, **the students must not copy and paste the codes or texts in those reports.** Also, some answers in the model report are not correct.     
