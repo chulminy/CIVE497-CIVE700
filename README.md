@@ -16,7 +16,8 @@ Last updated: 2024-03-02
 - [**Smart Structure Technology (Winter, 2019)**](previous/w2019)  
 
 ## Announcement
-Mar 02, 2024: [**Task 05: Image Processing**](task/task05) has been posted.  
+Mar 10, 2024: [**Task 06: Feature Matching & RANSAC**](task/task06) has been posted.  
+Mar 02, 2024: [**Task 05: Image Processing**](task/task05) has been posted.   
 
 ## Table of Contents
 - [**Course Description**](#course-description)
@@ -83,15 +84,15 @@ https://openincolab.com/
 |C10|[**Edge Detection I**](lecture/C10_edge_detection)|<a href="https://youtu.be/IHwgR196PzM"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/edge_detection2/edge_detection1.ipynb)  |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/edge_detection1/edge_detection1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  |1|Feb 14| |
 |C11|[**Edge Detection II**](lecture/C10_edge_detection)|<a href="https://youtu.be/ZjlNvLv-jj0"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/edge_detection2/edge_detection2.ipynb)  |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/edge_detection2/edge_detection2.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  |1|Feb 26|Task05 |
 |C12|[**Feature**](lecture/C12_feature)|<a href="https://youtu.be/kLmCt43qafU"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/BZsU2BvS8_M"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/feature/feature_v1.ipynb)  |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/feature/feature_v1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|2|Mar04| |
-|C13|[**RANSAC**](lecture/C13_ransac)|<a href="https://youtu.be/afZg68R4b9M"><img src="icon/button.png" height=22.5></a>| | |1|Mar 06|Task06 |
+|C13|[**RANSAC**](lecture/C13_ransac)|<a href="https://youtu.be/afZg68R4b9M"><img src="icon/button.png" height=22.5></a>| | |1|Mar06|Task06 |
 |C14|**Camera Model**|<a href="https://youtu.be/6_PJj7GrkL8"><img src="icon/button.png" height=22.5></a>| | |0.5|Mar11| |
 |C15|**Two-view Geometry**|<a href="https://youtu.be/5_rez7tvg8I"><img src="icon/button.png" height=22.5></a>| | |1|Mar13| |
-|C16|**Structure From Motion**|<a href="https://youtu.be/DFuQd2xw0ek"><img src="icon/button.png" height=22.5></a>| | |0.5|Mar 13|Task07|
-|C17|**Intro. of Mach. Learning**|<a href="https://youtu.be/PdZ0cbddxfI"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/FHZIJgLVXBw"><img src="icon/button.png" height=22.5></a> | | |0.5|Mar 18 | |
+|C16|**Structure From Motion**|<a href="https://youtu.be/DFuQd2xw0ek"><img src="icon/button.png" height=22.5></a>| | |0.5|Mar13|Task07|
+|C17|**Intro. of Mach. Learning**|<a href="https://youtu.be/PdZ0cbddxfI"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/FHZIJgLVXBw"><img src="icon/button.png" height=22.5></a> | | |0.5|Mar18 | |
 |C18|**Gradient Descent**|<a href="https://youtu.be/mZVHNXxdAys"><img src="icon/button.png" height=22.5></a>| | |0.5|Mar18 | |
 |C19|**Training Linear Model**|<a href="https://youtu.be/31CSIqymnWY"><img src="icon/button.png" height=22.5></a>| | |0.5|Mar20| |
 |C20|**Neural Network**|<a href="https://youtu.be/pZLQywcd2Lw"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/lIjEW38i75g"><img src="icon/button.png" height=22.5></a>| | |1.5|Mar25|Task08|
-|C21|Convolutional Neural Network| | | |1.5|Mar 27| |
+|C21|Convolutional Neural Network| | | |1.5|Mar27| |
 |C22|Neural Radian Field| | | |2|Apr 03|Task09 |
 
 ## Tasks
@@ -113,7 +114,7 @@ Your final grade in this course depends significantly on your assignment scores.
 |Quiz01|**Quiz**|7|Feb 12, 2024|Feb 12, 2024|Feb 012, 2024|
 |Task04|[**Homography**](task/task04)|15|Feb 08, 2024|Feb 26, 2024|Feb 26, 2024|
 |Task05|[**Image Processing**](task/task05)|10|Mar 01, 2024|Mar 10, 2024|Mar 17, 2024| 
-|Task06|**Feature Matching & RANSAC**|15||||
+|Task06|[**Feature Matching & RANSAC**](task/task06/)|15|Mar 11, 2024|Mar 21, 2024|Mar 28, 2024|
 |Task07|**Multiview Geometry**|15||||
 |Task08|**Neural Network**|15||||
 |Task09|**Neural Radiance Field**|10||||
