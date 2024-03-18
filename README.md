@@ -16,6 +16,7 @@ Last updated: 2024-03-02
 - [**Smart Structure Technology (Winter, 2019)**](previous/w2019)  
 
 ## Announcement
+Mar 17, 2024: [**Task 07: Multiview Geometry**](task/task07) has been posted.   
 Mar 10, 2024: [**Task 06: Feature Matching & RANSAC**](task/task06) has been posted.  
 Mar 02, 2024: [**Task 05: Image Processing**](task/task05) has been posted.   
 
@@ -115,7 +116,7 @@ Your final grade in this course depends significantly on your assignment scores.
 |Task04|[**Homography**](task/task04)|15|Feb 08, 2024|Feb 26, 2024|Feb 26, 2024|
 |Task05|[**Image Processing**](task/task05)|10|Mar 01, 2024|Mar 10, 2024|Mar 17, 2024| 
 |Task06|[**Feature Matching & RANSAC**](task/task06/)|15|Mar 11, 2024|Mar 21, 2024|Mar 28, 2024|
-|Task07|**Multiview Geometry**|15||||
+|Task07|[**Multiview Geometry**](task/task07/)|15|Mar 17, 2024|Apr 04, 2024|Apr 11, 2024|
 |Task08|**Neural Network**|15||||
 |Task09|**Neural Radiance Field**|10||||
 
