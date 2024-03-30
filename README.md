@@ -16,6 +16,7 @@ Last updated: 2024-03-02
 - [**Smart Structure Technology (Winter, 2019)**](previous/w2019)  
 
 ## Announcement
+Mar 21, 2024: The deadline for Task 06 has been extended to Mar 24. 
 Mar 17, 2024: [**Task 07: Multiview Geometry**](task/task07) has been posted.   
 Mar 10, 2024: [**Task 06: Feature Matching & RANSAC**](task/task06) has been posted.  
 Mar 02, 2024: [**Task 05: Image Processing**](task/task05) has been posted.   
@@ -86,9 +87,9 @@ https://openincolab.com/
 |C11|[**Edge Detection II**](lecture/C10_edge_detection)|<a href="https://youtu.be/ZjlNvLv-jj0"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/edge_detection2/edge_detection2.ipynb)  |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/edge_detection2/edge_detection2.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  |1|Feb 26|Task05 |
 |C12|[**Feature**](lecture/C12_feature)|<a href="https://youtu.be/kLmCt43qafU"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/BZsU2BvS8_M"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/feature/feature_v1.ipynb)  |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/feature/feature_v1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|2|Mar04| |
 |C13|[**RANSAC**](lecture/C13_ransac)|<a href="https://youtu.be/afZg68R4b9M"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/ransac/ransac_v1.ipynb)|<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/ransac/ransac_v1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |1|Mar06|Task06 |
-|C14|**Camera Model**|<a href="https://youtu.be/6_PJj7GrkL8"><img src="icon/button.png" height=22.5></a>| | |0.5|Mar11| |
-|C15|**Two-view Geometry**|<a href="https://youtu.be/5_rez7tvg8I"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/two_view_geometry/two_view_geometry_v1.ipynb) |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/two_view_geometry/two_view_geometry_v1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  |1|Mar13| |
-|C16|**Structure From Motion**|<a href="https://youtu.be/DFuQd2xw0ek"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/sfm/sfm_v1.ipynb)  |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/sfm/sfm_v1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|0.5|Mar13|Task07|
+|C14|[**Camera Model**](lecture/C14_camera_model/)|<a href="https://youtu.be/6_PJj7GrkL8"><img src="icon/button.png" height=22.5></a>| | |0.5|Mar11| |
+|C15|[**Two-view Geometry**](lecture/C15_two_view_geometry/)|<a href="https://youtu.be/5_rez7tvg8I"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/two_view_geometry/two_view_geometry_v1.ipynb) |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/two_view_geometry/two_view_geometry_v1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  |1|Mar13| |
+|C16|[**Structure From Motion**](lecture/C16_sfm/)|<a href="https://youtu.be/DFuQd2xw0ek"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/sfm/sfm_v1.ipynb)  |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/sfm/sfm_v1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|0.5|Mar13|Task07|
 |C17|**Intro. of Mach. Learning**|<a href="https://youtu.be/PdZ0cbddxfI"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/FHZIJgLVXBw"><img src="icon/button.png" height=22.5></a> | | |0.5|Mar18 | |
 |C18|**Gradient Descent**|<a href="https://youtu.be/mZVHNXxdAys"><img src="icon/button.png" height=22.5></a>| | |0.5|Mar18 | |
 |C19|**Training Linear Model**|<a href="https://youtu.be/31CSIqymnWY"><img src="icon/button.png" height=22.5></a>| | |0.5|Mar20| |
@@ -115,9 +116,9 @@ Your final grade in this course depends significantly on your assignment scores.
 |Quiz01|**Quiz**|7|Feb 12, 2024|Feb 12, 2024|Feb 012, 2024|
 |Task04|[**Homography**](task/task04)|15|Feb 08, 2024|Feb 26, 2024|Feb 26, 2024|
 |Task05|[**Image Processing**](task/task05)|10|Mar 01, 2024|Mar 10, 2024|Mar 17, 2024| 
-|Task06|[**Feature Matching & RANSAC**](task/task06/)|15|Mar 11, 2024|Mar 21, 2024|Mar 28, 2024|
+|Task06|[**Feature Matching & RANSAC**](task/task06/)|15|Mar 11, 2024|Mar 24, 2024|Mar 28, 2024|
 |Task07|[**Multiview Geometry**](task/task07/)|15|Mar 17, 2024|Apr 04, 2024|Apr 11, 2024|
-|Task08|**Neural Network**|15||||
+|Task08|[**Neural Network**](task/task08)|15|Apr 01, 2024|Apr 18, 2024|Apr 21, 2024|
 |Task09|**Neural Radiance Field**|10||||
 
 ## Grading  
