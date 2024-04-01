@@ -20,7 +20,7 @@ Jupyter notebook: [Task08_neural_network_ChulminYeum.ipynb](Task08_neural_networ
 * Include your full name (first and last) at the end of the file names. For example, `Task08_neural_network_ChulminYeum.ipynb` and `Task08_neural_network_ChulminYeum.pdf`.
 * Your submission should include a report in both .pdf and .ipynb formats, contained within a folder. 
 * Ensure to include all necessary files within the folder that are required for the successful execution of the Jupyter notebook file.
-* The folder, named `Task08_YourName_YourID`, should be zipped before emailing. For example, if your name and ID are Chulmin Yeum and 214102, the folder name becomes `Task07_ChulminYeum_214102`
+* The folder, named `Task08_YourName_YourID`, should be zipped before emailing. For example, if your name and ID are Chulmin Yeum and 214102, the folder name becomes `Task08_ChulminYeum_214102`
 * Email your work to `uw.task@gmail.com` and cc yourself. Use the subject format `Task08_YourName_YourID`.
 * Review the general submission instructions in the course syllabus for further details.
 * When you violate these submission guidelines, your report may be returned. 

@@ -7,7 +7,7 @@
 **Email:** cmyeum@uwaterloo.ca    
 **Office Hours:** Mon and Wed 10 to 11AM at E2-2313 (or after each class)  
 
-Last updated: 2024-03-02   
+Last updated: 2024-03-30   
 
 **Previous offerings of this course**
 - [**Smart Structure Technology (Winter, 2022)**](previous/w2022)  
@@ -16,7 +16,8 @@ Last updated: 2024-03-02
 - [**Smart Structure Technology (Winter, 2019)**](previous/w2019)  
 
 ## Announcement
-Mar 21, 2024: The deadline for Task 06 has been extended to Mar 24. 
+Mar 30, 2024: [**Task 08: Neural Network**](task/task08) has been posted.    
+Mar 21, 2024: The deadline for Task 06 has been extended to Mar 24.  
 Mar 17, 2024: [**Task 07: Multiview Geometry**](task/task07) has been posted.   
 Mar 10, 2024: [**Task 06: Feature Matching & RANSAC**](task/task06) has been posted.  
 Mar 02, 2024: [**Task 05: Image Processing**](task/task05) has been posted.   
@@ -90,12 +91,11 @@ https://openincolab.com/
 |C14|[**Camera Model**](lecture/C14_camera_model/)|<a href="https://youtu.be/6_PJj7GrkL8"><img src="icon/button.png" height=22.5></a>| | |0.5|Mar11| |
 |C15|[**Two-view Geometry**](lecture/C15_two_view_geometry/)|<a href="https://youtu.be/5_rez7tvg8I"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/two_view_geometry/two_view_geometry_v1.ipynb) |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/two_view_geometry/two_view_geometry_v1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  |1|Mar13| |
 |C16|[**Structure From Motion**](lecture/C16_sfm/)|<a href="https://youtu.be/DFuQd2xw0ek"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/sfm/sfm_v1.ipynb)  |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/sfm/sfm_v1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|0.5|Mar13|Task07|
-|C17|**Intro. of Mach. Learning**|<a href="https://youtu.be/PdZ0cbddxfI"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/FHZIJgLVXBw"><img src="icon/button.png" height=22.5></a> | | |0.5|Mar18 | |
-|C18|**Gradient Descent**|<a href="https://youtu.be/mZVHNXxdAys"><img src="icon/button.png" height=22.5></a>| | |0.5|Mar18 | |
-|C19|**Training Linear Model**|<a href="https://youtu.be/31CSIqymnWY"><img src="icon/button.png" height=22.5></a>| | |0.5|Mar20| |
-|C20|**Neural Network**|<a href="https://youtu.be/pZLQywcd2Lw"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/lIjEW38i75g"><img src="icon/button.png" height=22.5></a>| | |1.5|Mar25|Task08|
-|C21|Convolutional Neural Network| | | |1.5|Mar27| |
-|C22|Neural Radian Field| | | |2|Apr 03|Task09 |
+|C17|[**Intro. of Mach. Learning**](lecture/C17_ml_intro/)|<a href="https://youtu.be/PdZ0cbddxfI"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/FHZIJgLVXBw"><img src="icon/button.png" height=22.5></a> | | |0.5|Mar18 | |
+|C18|[**Gradient Descent**](lecture/C18_ml_gd/)|<a href="https://youtu.be/mZVHNXxdAys"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/ml_gd/ml_gradient_descent.ipynb)|<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/ml_gd/ml_gradient_descent.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|0.5|Mar18 | |
+|C19|[**Training Linear Model**](lecture/C19_ml_lg/)|<a href="https://youtu.be/31CSIqymnWY"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/ml_linear_model/ml_linear_model_v1.ipynb)|<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/ml_linear_model/ml_linear_model_v1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|0.5|Mar20| |
+|C20|[**Neural Network**](lecture/C20_ml_nn/)|<a href="https://youtu.be/pZLQywcd2Lw"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/lIjEW38i75g"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/ml_nn/tutorial_neural_network_from_scratch.ipynb) |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/ml_nn/tutorial_neural_network_from_scratch.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |1.5|Mar25|Task08|
+|C21|Neural Radian Field| | | |2|Apr 03|Task09 |
 
 ## Tasks
 There will be **9 tasks** and **1 Quiz** and they will be posted on this course website weekly or bi-weekly. **The instructor encourage students to work in groups through collaborative learning, but to submit their assignments individually.** The task will have programming components or photography components, where students will use their own camera to capture and process their own images and discuss the results. Students are supposed to complete all tasks and turn their works in by the due date. You can access the best reports for the assignments in previous years from [**w2022**](previous/w2022#tasks), [**w2021**](previous/w2021#tasks), [**w2020**](previous/w2020#tasks), and [**w2019**](previous/w2019#tasks). The problems will be similar to the ones in the previous assignments. However, **the students must not copy and paste the codes or texts in those reports.** Also, some answers in the model report are not correct.     
