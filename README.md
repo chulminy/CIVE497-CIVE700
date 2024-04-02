@@ -117,8 +117,8 @@ Your final grade in this course depends significantly on your assignment scores.
 |Task04|[**Homography**](task/task04)|15|Feb 08, 2024|Feb 26, 2024|Feb 26, 2024|
 |Task05|[**Image Processing**](task/task05)|10|Mar 01, 2024|Mar 10, 2024|Mar 17, 2024| 
 |Task06|[**Feature Matching & RANSAC**](task/task06/)|15|Mar 11, 2024|Mar 24, 2024|Mar 28, 2024|
-|Task07|[**Multiview Geometry**](task/task07/)|15|Mar 17, 2024|Apr 04, 2024|Apr 11, 2024|
-|Task08|[**Neural Network**](task/task08)|15|Apr 01, 2024|Apr 18, 2024|Apr 21, 2024|
+|Task07|[**Multiview Geometry**](task/task07/)|15|Mar 17, 2024|Apr 13, 2024|Apr 15, 2024|
+|Task08|[**Neural Network**](task/task08)|15|Apr 01, 2024|Apr 20, 2024|Apr 22, 2024|
 |Task09|**Neural Radiance Field**|10||||
 
 ## Grading  
