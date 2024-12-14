@@ -1,23 +1,20 @@
-# CIVE497/700: Smart Structure Technology (Winter, 2024)
+# CIVE497/700: Smart Structure Technology (Winter, 2025)
 
 ![](icon/intro_img.png)
 
 **Instructor:** Chul Min Yeum (E2-2313)   
-**Class:** Mon and Wed, 08:30AM to 9:50AM at E2-2350  
+**Class:** Mon and Wed, 11:30AM to 12:45PM at E2-3356  
 **Email:** cmyeum@uwaterloo.ca    
-**Office Hours:** Mon and Wed 10 to 11AM at E2-2313 (or after each class)  
+**Office Hours:** By appointment  
 
-Last updated: 2024-04-12   
+Last updated: 2024-12-14   
 
 **Previous offerings of this course**
+- [**Smart Structure Technology (Winter, 2024)**](previous/w2024)
 - [**Smart Structure Technology (Winter, 2022)**](previous/w2022)  
 - [**Smart Structure Technology (Winter, 2021)**](previous/w2021)  
 - [**Smart Structure Technology (Winter, 2020)**](previous/w2020)  
 - [**Smart Structure Technology (Winter, 2019)**](previous/w2019)  
-
-## Announcement
-Apr 12, 2024: Remeber that you must submit the last task assignement before Apr 22.   
-Mar 30, 2024: [**Task 08: Neural Network**](task/task08) has been posted.      
 
 ## Table of Contents
 - [**Course Description**](#course-description)
@@ -33,7 +30,7 @@ Mar 30, 2024: [**Task 08: Neural Network**](task/task08) has been posted.
 ## Course Description
 This course offers an introduction to the emerging **smart structure technologies** in civil engineering. Smart structures integrate sensing, actuation, data processing, analysis, and visualization, and control capabilities so that a structure can sense and respond to its changing external conditions in a rapid and automated manner. Among several topics in smart structure, this course focuses on [**structural assessment**](https://en.wikipedia.org/wiki/Structural_health_monitoring) using optical sensor data by implementing state-of-art image processing and computer vision techniques. As a special topic, basic concepts in **structure from motion**, **machine learning**, **neural networks**, and **neural radiance fields (NeRF)** are covered and relevant applications in civil engineering are introduced. An application-based learning approach is emphasized and tasks are designed in such a way that students can implement smart structure technology to address contemporary problems in civil engineering. 
 
-This course is specially designed to suit the interest of **graduate students** and **senior undergraduate students who may pursue graduate studies**. You can see the course outline and task assignments in the previous year from [**w2021**](previous/w2021), [**w2020**](previous/w2020), [**w2019**](previous/w2019).  Note that all lectures were already delivered through [**pre-recorded videos**](#lecture-video) in 2021. When you are absent from a class, you can watch the corresponding lecture video. However, students are highly encouraged to attend the classes. 
+This course is specially designed to suit the interest of **graduate students** and **senior undergraduate students who may pursue graduate studies**. You can see the course outline and task assignments in the previous year from [**w2024**](previous/w2024), [**w2022**](previous/w2022), [**w2021**](previous/w2021), [**w2020**](previous/w2020), [**w2019**](previous/w2019).  Note that all lectures were already delivered through [**pre-recorded videos**](#lecture-video) in 2021. When you are absent from a class, you can watch the corresponding lecture video. However, students are highly encouraged to attend the classes. 
 
 Based on past course surveys, students should anticipate dedicating **at least 20 hours per week** to study class materials, work on assignments, and undertake research projects. Additionally, a strong background in computer programming is expected of students. **If you are unsure about allocating this much time, please carefully reconsider enrolling.** For undergraduates, be aware that the instructor will not accommodate personal situations, like capstone projects, quizzes, midterms, or finals, that do not adhere to institutional policies and guidelines. 
 
@@ -49,11 +46,11 @@ By the end of this course, students should be able to
 * Devise innovative smart structure technology for civil engineering applications and research
 
 ## Key Dates
-* Family Day, Monday, February 19, 2024
-* Winter Reading Week, Saturday, February 17 – Sunday, February 25, 2024.
+* Family Day, Monday, February 17, 2024
+* Winter Reading Week, Monday, February 17 – Sunday, February 23, 2024.
 * Good Friday, Friday, March 29, 2024.
-* Pre-examination Study Days: Tuesday, April 9 and Wednesday, April 10, 2024.
-* Final Exam Period: Thursday, April 11 to Thursday, April 25, 2024.
+* Pre-examination Study Days: Monday, April 7 and Tuesday, April 8, 2024.
+* Final Exam Period: Wednesday, April 9 to Friday, April 25, 2024.
 
 ## Prerequisite
 For this course, students should have a foundational understanding of **linear algebra** and **probability**. Additionally, proficiency in **python programming** is essential. Students are also expected to be familiar with **Markdown** script and **Jupyter Notebook** for submitting homework assignments.
@@ -72,30 +69,30 @@ https://openincolab.com/
 
 |Class|Topics (lecture slide)|Lecture|Notebook|Colab|Load|ETF &nbsp;&nbsp;|Task|
 |:----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|C01|[**Introduction**](lecture/C01_Introduction)| | | |1|Jan 08|Task01|
-|C02|[**Data Acquisition**](lecture/C02_data_aquisition/)|<a href="https://youtu.be/PAnChNF7JqU"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/data_aquisition/data_aquisition_W22_v2.ipynb)|<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/data_aquisition/data_aquisition_W22_v2.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|1|Jan 10| |
-|C03|[**Signal Processing I**](lecture/C03_05_signal_processing)|<a href="https://youtu.be/52p-7BWwQ1Y"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/-ypxsaf21ak"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/signal_processing1/signal_processing_1.ipynb) |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/signal_processing1/signal_processing_1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |1|Jan 15 |Task02|
-|C04|[**Signal Processing II**](lecture/C03_05_signal_processing)|<a href="https://youtu.be/m2x6Wzc8Cf4"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/signal_processing2/signal_processing_2.ipynb) |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/signal_processing2/signal_processing_2.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |1|Jan 17| |
-|C05|[**Signal Processing III**](lecture/C03_05_signal_processing)|<a href="https://youtu.be/moytbQU0Gt8"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/pBpAV5kH8nI"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/signal_processing3/signal_processing_3.ipynb) |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/signal_processing3/signal_processing_3.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |1|Jan 22 | |
-|C06|[**Modal Analysis**](lecture/C06_Modal_Analysis)| | | |1|Jan 24 |Task03|
+|C01|[**Introduction**](lecture/C01_Introduction)| | | |1|Jan 06|Task01|
+|C02|[**Data Acquisition**](lecture/C02_data_aquisition/)|<a href="https://youtu.be/PAnChNF7JqU"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/data_aquisition/data_aquisition_W22_v2.ipynb)|<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/data_aquisition/data_aquisition_W22_v2.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|1|Jan 08| |
+|C03|[**Signal Processing I**](lecture/C03_05_signal_processing)|<a href="https://youtu.be/52p-7BWwQ1Y"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/-ypxsaf21ak"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/signal_processing1/signal_processing_1.ipynb) |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/signal_processing1/signal_processing_1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |1|Jan 13 |Task02|
+|C04|[**Signal Processing II**](lecture/C03_05_signal_processing)|<a href="https://youtu.be/m2x6Wzc8Cf4"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/signal_processing2/signal_processing_2.ipynb) |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/signal_processing2/signal_processing_2.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |1|Jan 15| |
+|C05|[**Signal Processing III**](lecture/C03_05_signal_processing)|<a href="https://youtu.be/moytbQU0Gt8"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/pBpAV5kH8nI"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/signal_processing3/signal_processing_3.ipynb) |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/signal_processing3/signal_processing_3.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |2|Jan 22| |
+|C06|[**Modal Analysis**](lecture/C06_Modal_Analysis)| | | |1|Jan 27 |Task03|
 |C07|[**Digital Image**](lecture/C07_digital_image)|<a href="https://youtu.be/QuwI0HjQUoI"><img src="icon/button.png" height=22.5></a>| | |0.5|Jan 29| |
 |C08|[**Projective Geometry**](lecture/C08_project_geometry)|<a href="https://youtu.be/yXSRfpaXDYc"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/_LOnmx1PqmY"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/projective_geometry/projective_geometry_v1.ipynb) |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/projective_geometry/projective_geometry_v1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |2|Feb 05| |
-|C09|[**Linear Filtering**](lecture/C09_linear_filter)|<a href="https://youtu.be/l2893AKrTAM"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/linear_filter/linear_filter_v1.ipynb) |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/linear_filter/linear_filter_v1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |1|Feb 12 |Task04|
-|C10|[**Edge Detection I**](lecture/C10_edge_detection)|<a href="https://youtu.be/IHwgR196PzM"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/edge_detection2/edge_detection1.ipynb)  |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/edge_detection1/edge_detection1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  |1|Feb 14| |
-|C11|[**Edge Detection II**](lecture/C10_edge_detection)|<a href="https://youtu.be/ZjlNvLv-jj0"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/edge_detection2/edge_detection2.ipynb)  |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/edge_detection2/edge_detection2.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  |1|Feb 26|Task05 |
-|C12|[**Feature**](lecture/C12_feature)|<a href="https://youtu.be/kLmCt43qafU"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/BZsU2BvS8_M"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/feature/feature_v1.ipynb)  |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/feature/feature_v1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|2|Mar04| |
-|C13|[**RANSAC**](lecture/C13_ransac)|<a href="https://youtu.be/afZg68R4b9M"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/ransac/ransac_v1.ipynb)|<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/ransac/ransac_v1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |1|Mar06|Task06 |
-|C14|[**Camera Model**](lecture/C14_camera_model/)|<a href="https://youtu.be/6_PJj7GrkL8"><img src="icon/button.png" height=22.5></a>| | |0.5|Mar11| |
-|C15|[**Two-view Geometry**](lecture/C15_two_view_geometry/)|<a href="https://youtu.be/5_rez7tvg8I"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/two_view_geometry/two_view_geometry_v1.ipynb) |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/two_view_geometry/two_view_geometry_v1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  |1|Mar13| |
-|C16|[**Structure From Motion**](lecture/C16_sfm/)|<a href="https://youtu.be/DFuQd2xw0ek"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/sfm/sfm_v1.ipynb)  |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/sfm/sfm_v1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|0.5|Mar13|Task07|
-|C17|[**Intro. of Mach. Learning**](lecture/C17_ml_intro/)|<a href="https://youtu.be/PdZ0cbddxfI"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/FHZIJgLVXBw"><img src="icon/button.png" height=22.5></a> | | |0.5|Mar18 | |
-|C18|[**Gradient Descent**](lecture/C18_ml_gd/)|<a href="https://youtu.be/mZVHNXxdAys"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/ml_gd/ml_gradient_descent.ipynb)|<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/ml_gd/ml_gradient_descent.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|0.5|Mar18 | |
-|C19|[**Training Linear Model**](lecture/C19_ml_lg/)|<a href="https://youtu.be/31CSIqymnWY"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/ml_linear_model/ml_linear_model_v1.ipynb)|<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/ml_linear_model/ml_linear_model_v1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|0.5|Mar20| |
-|C20|[**Neural Network**](lecture/C20_ml_nn/)|<a href="https://youtu.be/pZLQywcd2Lw"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/lIjEW38i75g"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/ml_nn/tutorial_neural_network_from_scratch.ipynb) |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/ml_nn/tutorial_neural_network_from_scratch.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |1.5|Mar25|Task08|
-|C21|[**Neural Radian Field**](lecture/C21_nerf)|| | |2|Apr 03|Task09 |
+|C09|[**Linear Filtering**](lecture/C09_linear_filter)|<a href="https://youtu.be/l2893AKrTAM"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/linear_filter/linear_filter_v1.ipynb) |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/linear_filter/linear_filter_v1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |1|Feb 10 |Task04|
+|C10|[**Edge Detection I**](lecture/C10_edge_detection)|<a href="https://youtu.be/IHwgR196PzM"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/edge_detection2/edge_detection1.ipynb)  |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/edge_detection1/edge_detection1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  |1|Feb 12| |
+|C11|[**Edge Detection II**](lecture/C10_edge_detection)|<a href="https://youtu.be/ZjlNvLv-jj0"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/edge_detection2/edge_detection2.ipynb)  |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/edge_detection2/edge_detection2.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  |1|Feb 24|Task05 |
+|C12|[**Feature**](lecture/C12_feature)|<a href="https://youtu.be/kLmCt43qafU"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/BZsU2BvS8_M"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/feature/feature_v1.ipynb)  |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/feature/feature_v1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|2|Mar03| |
+|C13|[**RANSAC**](lecture/C13_ransac)|<a href="https://youtu.be/afZg68R4b9M"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/ransac/ransac_v1.ipynb)|<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/ransac/ransac_v1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |1|Mar05|Task06 |
+|C14|[**Camera Model**](lecture/C14_camera_model/)|<a href="https://youtu.be/6_PJj7GrkL8"><img src="icon/button.png" height=22.5></a>| | |0.5|Mar10| |
+|C15|[**Two-view Geometry**](lecture/C15_two_view_geometry/)|<a href="https://youtu.be/5_rez7tvg8I"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/two_view_geometry/two_view_geometry_v1.ipynb) |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/two_view_geometry/two_view_geometry_v1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  |1|Mar12| |
+|C16|[**Structure From Motion**](lecture/C16_sfm/)|<a href="https://youtu.be/DFuQd2xw0ek"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/sfm/sfm_v1.ipynb)  |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/sfm/sfm_v1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|0.5|Mar17|Task07|
+|C17|[**Intro. of Mach. Learning**](lecture/C17_ml_intro/)|<a href="https://youtu.be/PdZ0cbddxfI"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/FHZIJgLVXBw"><img src="icon/button.png" height=22.5></a> | | |0.5|Mar19 | |
+|C18|[**Gradient Descent**](lecture/C18_ml_gd/)|<a href="https://youtu.be/mZVHNXxdAys"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/ml_gd/ml_gradient_descent.ipynb)|<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/ml_gd/ml_gradient_descent.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|0.5|Mar19| |
+|C19|[**Training Linear Model**](lecture/C19_ml_lg/)|<a href="https://youtu.be/31CSIqymnWY"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/ml_linear_model/ml_linear_model_v1.ipynb)|<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/ml_linear_model/ml_linear_model_v1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|0.5|Mar24| |
+|C20|[**Neural Network**](lecture/C20_ml_nn/)|<a href="https://youtu.be/pZLQywcd2Lw"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/lIjEW38i75g"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/ml_nn/tutorial_neural_network_from_scratch.ipynb) |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/ml_nn/tutorial_neural_network_from_scratch.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |1.5|Mar26|Task08|
+|C21|[**Neural Radian Field**](lecture/C21_nerf)|| | |2|Mar 31|Task09 |
 
 ## Tasks
-There will be **8 tasks** and **1 Quiz** and they will be posted on this course website weekly or bi-weekly. **The instructor encourage students to work in groups through collaborative learning, but to submit their assignments individually.** The task will have programming components or photography components, where students will use their own camera to capture and process their own images and discuss the results. Students are supposed to complete all tasks and turn their works in by the due date. You can access the best reports for the assignments in previous years from [**w2022**](previous/w2022#tasks), [**w2021**](previous/w2021#tasks), [**w2020**](previous/w2020#tasks), and [**w2019**](previous/w2019#tasks). The problems will be similar to the ones in the previous assignments. However, **the students must not copy and paste the codes or texts in those reports.** Also, some answers in the model report are not correct.     
+There will be **8 tasks** and **1 Quiz** and they will be posted on this course website weekly or bi-weekly. **The instructor encourage students to work in groups through collaborative learning, but to submit their assignments individually.** The task will have programming components or photography components, where students will use their own camera to capture and process their own images and discuss the results. Students are supposed to complete all tasks and turn their works in by the due date. You can access the best reports for the assignments in previous years from [**w2024**](previous/w2024#tasks), [**w2022**](previous/w2022#tasks), [**w2021**](previous/w2021#tasks), [**w2020**](previous/w2020#tasks), and [**w2019**](previous/w2019#tasks). The problems will be similar to the ones in the previous assignments. However, **the students must not copy and paste the codes or texts in those reports.** Also, some answers in the model report are not correct.     
 
 Students are required to use **Python** for all assignments. Your source code should be well-organized and thoroughly commented. Submission must include both the source code (along with any data used) and a report. The report should be initially written in **Jupyter notebook** and then converted to PDF format. Each assignment will come with its specific submission guidelines. Please note that your grade will be based on the PDF report. Ensure that it includes all necessary figures and texts before submission.
 
@@ -107,15 +104,15 @@ Your final grade in this course depends significantly on your assignment scores.
 
 |Task|Topics|Mark|Announcement|1st Deadline|2nd Deadline|
 |:----|:-----|:----|:----|:-----|:-----|
-|Task01|[**Basic Image Processing**](task/task01)|5|Jan 08, 2024|Jan 18, 2024|Jan 25, 2024|
-|Task02|[**Signal Processing I**](task/task02)|5|Jan 17, 2024|Jan 29, 2024|Feb 05, 2024|
-|Task03|[**Signal Processing II**](task/task03)|8|Jan 26, 2024|Feb 07, 2024|Feb 14, 2024|
-|Quiz01|**Quiz**|7|Feb 12, 2024|Feb 12, 2024|Feb 012, 2024|
-|Task04|[**Homography**](task/task04)|15|Feb 08, 2024|Feb 26, 2024|Feb 26, 2024|
-|Task05|[**Image Processing**](task/task05)|10|Mar 01, 2024|Mar 10, 2024|Mar 17, 2024| 
-|Task06|[**Feature Matching & RANSAC**](task/task06/)|15|Mar 11, 2024|Mar 24, 2024|Mar 28, 2024|
-|Task07|[**Multiview Geometry**](task/task07/)|15|Mar 17, 2024|Apr 13, 2024|Apr 15, 2024|
-|Task08|[**Neural Network**](task/task08)|15|Apr 01, 2024|Apr 20, 2024|Apr 22, 2024|
+|Task01|[**Basic Image Processing**](task\task01)|7|Jan 06, 2024|Jan 16, 2024|Jan 23, 2024|
+|Task02|Signal Processing I|8|Jan 15, 2024|Jan 25, 2024|Feb 01, 2024|
+|Task03|Signal Processing II|8|Jan 22, 2024|Feb 01, 2024|Feb 08, 2024|
+|Quiz01|Quiz|7|TBD|TBD|TBD|
+|Task04|Homography|15|TBD|TBD|TBD|
+|Task05|Image Processing|10|TBD|TBD|TBD|
+|Task06|Feature Matching & RANSAC|15|TBD|TBD|TBD|
+|Task07|Multiview Geometry|15|TBD|TBD|TBD|
+|Task08|Neural Network|15|TBD|TBD|TBD|
 
 
 ## Grading  
