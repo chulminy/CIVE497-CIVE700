@@ -32,7 +32,7 @@ This course offers an introduction to the emerging **smart structure technologie
 
 This course is specially designed to suit the interest of **graduate students** and **senior undergraduate students who may pursue graduate studies**. You can see the course outline and task assignments in the previous year from [**w2024**](previous/w2024), [**w2022**](previous/w2022), [**w2021**](previous/w2021), [**w2020**](previous/w2020), [**w2019**](previous/w2019).  Note that all lectures were already delivered through [**pre-recorded videos**](#lecture-video) in 2021. When you are absent from a class, you can watch the corresponding lecture video. However, students are highly encouraged to attend the classes. 
 
-Based on past course surveys, students should anticipate dedicating **at least 20 hours per week** to study class materials, work on assignments, and undertake research projects. Additionally, a strong background in computer programming is expected of students. **If you are unsure about allocating this much time, please carefully reconsider enrolling.** For undergraduates, be aware that the instructor will not accommodate personal situations, like capstone projects, quizzes, midterms, or finals, that do not adhere to institutional policies and guidelines. 
+Based on past course surveys, students should anticipate dedicating **at least 10 hours per week** to study class materials, work on assignments, and undertake research projects. Additionally, a strong background in computer programming is expected of students. **If you are unsure about allocating this much time, please carefully reconsider enrollment.** For undergraduates, be aware that the instructor will not accommodate personal situations, like capstone projects, quizzes, midterms, or finals, that do not adhere to institutional policies and guidelines. 
 
 
 ## Intended Learning Outcomes
@@ -53,7 +53,7 @@ By the end of this course, students should be able to
 * Final Exam Period: Wednesday, April 9 to Friday, April 25, 2024.
 
 ## Prerequisite
-For this course, students should have a foundational understanding of **linear algebra** and **probability**. Additionally, proficiency in **python programming** is essential. Students are also expected to be familiar with **Markdown** script and **Jupyter Notebook** for submitting homework assignments.
+For this course, students should have a foundational understanding of **linear algebra** and **probability**. Additionally, proficiency in **Python programming** is essential. Students are also expected to be familiar with **Markdown** script and **Jupyter Notebook** for submitting homework assignments.
 
 ## Course Textbook 
 This course is not based on any particular textbook. The instructor will provide relevant keywords (search by yourself), reading materials, and website links in each class.  
@@ -88,7 +88,7 @@ https://openincolab.com/
 |C17|[**Intro. of Mach. Learning**](lecture/C17_ml_intro/)|<a href="https://youtu.be/PdZ0cbddxfI"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/FHZIJgLVXBw"><img src="icon/button.png" height=22.5></a> | | |0.5|Mar19 | |
 |C18|[**Gradient Descent**](lecture/C18_ml_gd/)|<a href="https://youtu.be/mZVHNXxdAys"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/ml_gd/ml_gradient_descent.ipynb)|<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/ml_gd/ml_gradient_descent.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|0.5|Mar19| |
 |C19|[**Training Linear Model**](lecture/C19_ml_lg/)|<a href="https://youtu.be/31CSIqymnWY"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/ml_linear_model/ml_linear_model_v1.ipynb)|<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/ml_linear_model/ml_linear_model_v1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|0.5|Mar24| |
-|C20|[**Neural Network**](lecture/C20_ml_nn/)|<a href="https://youtu.be/pZLQywcd2Lw"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/lIjEW38i75g"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/ml_nn/tutorial_neural_network_from_scratch.ipynb) |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/ml_nn/tutorial_neural_network_from_scratch.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |1.5|Mar26|Task08|
+|C20|[**Neural Network**](lecture/C20_ml_nn/)|<a href="https://youtu.be/pZLQywcd2Lw"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/lIjEW38i75g"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/ml_nn/tutorial_neural_network_from_scratch.ipynb) |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/ml_nn/tutorial_neural_network_from_scratch.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |2|Mar26|Task08|
 |C21|[**Neural Radian Field**](lecture/C21_nerf)|| | |2|Mar 31|Task09 |
 
 ## Tasks
