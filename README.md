@@ -135,7 +135,9 @@ In this course, both the instructor and the students are encouraged to engage in
 
 ## Notes
 ### Generative Artificial Intelligence
-Generative artificial intelligence (GenAI) trained using large language models (LLM) or other methods to produce text, images, music, or code, like Chat GPT, DALL-E, or GitHub CoPilot, may be used for assignments in this class with proper documentation, citation, and acknowledgement. Recommendations for how to cite GenAI in student work at the University of Waterloo may be found through the Library: https://subjectguides.uwaterloo.ca/chatgpt_generative_ai. **Please be aware that generative AI is known to falsify references to other work and may fabricate facts and inaccurately express ideas.** GenAI generates content based on the input of other human authors and may therefore contain inaccuracies or reflect biases.
+Generative artificial intelligence (GenAI) trained using large language models (LLM) or other methods to produce text, images, music, or code, like Chat GPT, DALL-E, or GitHub CoPilot, may be used for assignments in this class with proper documentation, citation, and acknowledgement. Recommendations for how to cite GenAI in student work at the University of Waterloo may be found through the Library: 
+
+https://subjectguides.uwaterloo.ca/chatgpt_generative_ai. **Please be aware that generative AI is known to falsify references to other work and may fabricate facts and inaccurately express ideas.** GenAI generates content based on the input of other human authors and may therefore contain inaccuracies or reflect biases.
 
 In addition, you should be aware that the legal/copyright status of generative AI inputs and outputs is unclear. Exercise caution when using large portions of content from AI sources, especially images. More information is available from the Copyright Advisory Committee: https://uwaterloo.ca/copyright-at-waterloo/teaching/generative-artificial-intelligence
 
