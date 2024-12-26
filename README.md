@@ -7,7 +7,9 @@
 **Email:** cmyeum@uwaterloo.ca    
 **Office Hours:** By appointment  
 
-Last updated: 2024-12-14   
+Last updated: 2024-12-28   
+
+**Calendar:** [**Link**](tutorial/calendar.md)
 
 **Previous offerings of this course**
 - [**Smart Structure Technology (Winter, 2024)**](previous/w2024)
@@ -59,7 +61,7 @@ For this course, students should have a foundational understanding of **linear a
 This course is not based on any particular textbook. The instructor will provide relevant keywords (search by yourself), reading materials, and website links in each class.  
 
 ## Course Outline
-The study load for each class is marked as the number of regular offline classes, which becomes a total of **24 classes**. The expected time to finish (ETF) in each module is also provided to help students manage their time and keep up with lectures and assignments. The course material will be posted as a PDF.   
+The study load for each class is marked as the number of regular offline classes, which becomes a total of **23 classes**. The expected time to finish (ETF) in each module is also provided to help students manage their time and keep up with lectures and assignments. The course material will be posted as a PDF.   
 
 <!--
 [Notebook]()
@@ -69,7 +71,7 @@ https://openincolab.com/
 
 |Class|Topics (lecture slide)|Lecture|Notebook|Colab|Load|ETF &nbsp;&nbsp;|Task|
 |:----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|C01|[**Introduction**](lecture/C01_Introduction)| | | |1|Jan 06|Task01|
+|C01|[**Introduction**](lecture/C01_introduction)| | | |1|Jan 06|Task01|
 |C02|[**Data Acquisition**](lecture/C02_data_aquisition/)|<a href="https://youtu.be/PAnChNF7JqU"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/data_aquisition/data_aquisition_W22_v2.ipynb)|<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/data_aquisition/data_aquisition_W22_v2.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|1|Jan 08| |
 |C03|[**Signal Processing I**](lecture/C03_05_signal_processing)|<a href="https://youtu.be/52p-7BWwQ1Y"><img src="icon/button.png" height=22.5></a> <a href="https://youtu.be/-ypxsaf21ak"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/signal_processing1/signal_processing_1.ipynb) |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/signal_processing1/signal_processing_1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |1|Jan 13 |Task02|
 |C04|[**Signal Processing II**](lecture/C03_05_signal_processing)|<a href="https://youtu.be/m2x6Wzc8Cf4"><img src="icon/button.png" height=22.5></a>|[Notebook](notebook/signal_processing2/signal_processing_2.ipynb) |<a target="_blank" href="https://colab.research.google.com/github/chulminy/CIVE497-CIVE700/blob/master/notebook/signal_processing2/signal_processing_2.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |1|Jan 15| |
@@ -104,7 +106,7 @@ Your final grade in this course depends significantly on your assignment scores.
 
 |Task|Topics|Mark|Announcement|1st Deadline|2nd Deadline|
 |:----|:-----|:----|:----|:-----|:-----|
-|Task01|[**Basic Image Processing**](task\task01)|7|Jan 06, 2024|Jan 16, 2024|Jan 23, 2024|
+|Task01|[**Basic Image Processing**](task/task01)|7|Jan 06, 2024|Jan 16, 2024|Jan 23, 2024|
 |Task02|Signal Processing I|8|Jan 15, 2024|Jan 25, 2024|Feb 01, 2024|
 |Task03|Signal Processing II|8|Jan 22, 2024|Feb 01, 2024|Feb 08, 2024|
 |Quiz01|Quiz|7|TBD|TBD|TBD|
@@ -138,9 +140,6 @@ Generative artificial intelligence (GenAI) trained using large language models (
 In addition, you should be aware that the legal/copyright status of generative AI inputs and outputs is unclear. Exercise caution when using large portions of content from AI sources, especially images. More information is available from the Copyright Advisory Committee: https://uwaterloo.ca/copyright-at-waterloo/teaching/generative-artificial-intelligence
 
 You are accountable for the content and accuracy of all work you submit in this class, including any supported by generative AI.
-
-### Fair Contingencies for Emergency Remote Teaching
-We are facing unusual and challenging times. The course outline presents the instructor’s intentions for course assessments, their weights, and due dates in Winter 2022. As best as possible, we will keep to the specified assessments, weights, and dates. To provide contingency for unforeseen circumstances, **the instructor reserves the right to modify course topics and/or assessments and/or weight and/or deadlines with due and fair notice to students.** In the event of such challenges, the instructor will work with the Department/Faculty to find reasonable and fair solutions that respect rights and workloads of students, staff, and faculty. 
 
 ### Academic integrity
 In order to maintain a culture of academic integrity, members of the University of Waterloo community are expected to promote honesty, trust, fairness, respect and responsibility. [Check <a href="https://uwaterloo.ca/academic-integrity/">the Office of Academic Integrity</a> for more information.]</p>
