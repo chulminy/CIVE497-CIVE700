@@ -1,8 +1,8 @@
 # Introduction of Digital Image Processing
 
-**Announcement**: January 08, 2023        
-**First Submission Deadline**: January 18, 2023 before 11:59pm  
-**Second Submission Deadline**: January 25, 2023 before 11:59pm       
+**Announcement**: January 06, 2025        
+**First Submission Deadline**: January 16, 2025 before 11:59pm  
+**Second Submission Deadline**: January 23, 2025 before 11:59pm       
 
 ## Objective
 
