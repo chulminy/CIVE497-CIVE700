@@ -110,7 +110,7 @@ Your final grade in this course depends significantly on your assignment scores.
 |Task02|[**Signal Processing I**](task/task02/)|8|Jan 15, 2025|Jan 27, 2025|Feb 03, 2025|
 |Task03|[**Signal Processing II**](task/task03/)|8|Jan 26, 2025|Feb 07, 2025|Feb 14, 2025|
 |Quiz01|Quiz|7|Feb 10, 2025|Feb 10, 2025|Feb 10, 2025|
-|Task04|Homography|15|TBD|TBD|TBD|
+|Task04|[**Homography**](task/task04)|15|Feb 07, 2025|Feb 21, 2025|Feb 28, 2025|
 |Task05|Image Processing|10|TBD|TBD|TBD|
 |Task06|Feature Matching & RANSAC|15|TBD|TBD|TBD|
 |Task07|Multiview Geometry|15|TBD|TBD|TBD|
