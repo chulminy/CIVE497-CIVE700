@@ -108,7 +108,7 @@ Your final grade in this course depends significantly on your assignment scores.
 |:----|:-----|:----|:----|:-----|:-----|
 |Task01|[**Basic Image Processing**](task/task01)|7|Jan 06, 2025|Jan 16, 2025|Jan 23, 2025|
 |Task02|[**Signal Processing I**](task/task02/)|8|Jan 15, 2025|Jan 27, 2025|Feb 03, 2025|
-|Task03|[**Signal Processing II**](task/task02/)|8|Jan 26, 2025|Feb 07, 2025|Feb 14, 2025|
+|Task03|[**Signal Processing II**](task/task03/)|8|Jan 26, 2025|Feb 07, 2025|Feb 14, 2025|
 |Quiz01|Quiz|7|Feb 10, 2025|Feb 10, 2025|Feb 10, 2025|
 |Task04|Homography|15|TBD|TBD|TBD|
 |Task05|Image Processing|10|TBD|TBD|TBD|
