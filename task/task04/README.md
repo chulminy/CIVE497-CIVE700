@@ -1,8 +1,8 @@
 # Task04: Homography
 
-**Announcement**: February 7, 2021        
-**First Submission Deadline**: February 21, 2021 before 11:59pm
-**Second Submission Deadline**: February 28, 2021 before 11:59pm        
+**Announcement**: February 7, 2021          
+**First Submission Deadline**: February 28, 2021 before 11:59pm  
+**Second Submission Deadline**: March 07, 2021 before 11:59pm          
 
 ## Objective
 The main goal of this task is to understand the fundamental of the homogeneous coordinate and the homography relationship between points on two images of the same planar surface in space. Please answer all sub-questions in each problem. You should write your own code to solve these questions. 
