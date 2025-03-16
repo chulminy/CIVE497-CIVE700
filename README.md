@@ -7,7 +7,7 @@
 **Email:** cmyeum@uwaterloo.ca    
 **Office Hours:** By appointment  
 
-Last updated: 2025-02-22   
+Last updated: 2025-03-10   
 
 **Calendar:** [**Link**](tutorial/calendar.md)
 
@@ -112,7 +112,7 @@ Your final grade in this course depends significantly on your assignment scores.
 |Quiz01|Quiz|7|Feb 10, 2025|Feb 10, 2025|Feb 10, 2025|
 |Task04|[**Homography**](task/task04)|15|Feb 07, 2025|Feb 28, 2025|Mar 07, 2025|
 |Task05|[**Image Processing**](task/task05)|10|Feb 24, 2025|Mar 5, 2025|Mar 12, 2025|
-|Task06|Feature Matching & RANSAC|15|TBD|TBD|TBD|
+|Task06|[**Feature Matching & RANSAC**](task/task06/)|15|Mar 10, 2025|Mar 20, 2025|Mar 28, 2025|
 |Task07|Multiview Geometry|15|TBD|TBD|TBD|
 |Task08|Neural Network|15|TBD|TBD|TBD|
 

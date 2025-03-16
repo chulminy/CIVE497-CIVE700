@@ -1,8 +1,8 @@
 # Task05: Image Processing
 
-**Announcement**: Feb 24, 2025        
-**First Submission Deadline**: March 5, 2025 before 11:59pm  
-**Second Submission Deadline**: March 12, 2025 before 11:59pm          
+**Announcement**: Feb 26, 2025        
+**First Submission Deadline**: March 9, 2025 before 11:59pm  
+**Second Submission Deadline**: March 16, 2025 before 11:59pm          
 
 ## Objective
 The main goal of this task is to understand the fundamental of the linear filter, edge detection, and Hough transform. You must study the tutorials at edge detection, linear filter, and image morphology before solving these problems. Please answer all sub-questions in each problem. You should write your own code to solve these questions. 
