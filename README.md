@@ -113,7 +113,7 @@ Your final grade in this course depends significantly on your assignment scores.
 |Task04|[**Homography**](task/task04)|15|Feb 07, 2025|Feb 28, 2025|Mar 07, 2025|
 |Task05|[**Image Processing**](task/task05)|10|Feb 24, 2025|Mar 5, 2025|Mar 12, 2025|
 |Task06|[**Feature Matching & RANSAC**](task/task06/)|15|Mar 16, 2025|Mar 26, 2025|Apr 02, 2025|
-|Task07|Multiview Geometry|15|TBD|TBD|TBD|
+|Task07|[**Multiview Geometry**](task/task07)|15|Mar 24, 2025|Apr 04, 2025|Apr 11, 2025|
 |Task08|Neural Network|15|TBD|TBD|TBD|
 
 
